@@ -1,4 +1,4 @@
-# 🏛️ sd legislation file tree
+# 🏛️ South Dakota legislation file tree
 
 Download a copy of your states legislation.
 
