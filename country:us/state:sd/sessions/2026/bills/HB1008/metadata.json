@@ -14,8 +14,93 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
-  "actions": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sd-2026-hb1008"
+    }
+  ],
+  "actions": [
+    {
+      "description": "First read in House and referred to House Education H.J. 12",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:01Z"
+      }
+    },
+    {
+      "description": "Scheduled for hearing",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:01Z"
+      }
+    },
+    {
+      "description": "Education Motion to amend , Passed, H.J. 1 Amendment 1008A",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:01Z"
+      }
+    },
+    {
+      "description": "Education Motion to amend , Passed, H.J. 1 Amendment 1008B",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:01Z"
+      }
+    },
+    {
+      "description": "Education Do Pass Amended , Passed, YEAS 8, NAYS 7 H.J. 1",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:01Z"
+      }
+    },
+    {
+      "description": "House of Representatives Deferred to another day , Passed, H.J. 128",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:01Z"
+      }
+    },
+    {
+      "description": "House of Representatives Do Pass Amended , Passed, YEAS 31, NAYS 36 H.J. 139",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:01Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Nelson",
@@ -34,11 +119,27 @@
       "organization_id": null
     },
     {
+      "name": "Andera",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Andera\"}",
+      "organization_id": null
+    },
+    {
       "name": "Baxter",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Baxter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carley",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Carley\"}",
       "organization_id": null
     },
     {
@@ -50,11 +151,35 @@
       "organization_id": null
     },
     {
-      "name": "Shubeck",
+      "name": "Jordan",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Shubeck\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jordan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jorgenson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jorgenson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Manhart",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Manhart\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Schwans",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Schwans\"}",
       "organization_id": null
     },
     {
@@ -63,14 +188,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Shubeck\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Uhre-Balk",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Uhre-Balk\"}",
       "organization_id": null
     }
   ],
@@ -89,6 +206,43 @@
         }
       ],
       "date": "2025-12-26",
+      "classification": ""
+    },
+    {
+      "note": "House Education Engrossed",
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Session/Bill/26399/295882",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/295882.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-21",
+      "classification": ""
+    },
+    {
+      "note": "1008A",
+      "links": [
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/294261.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "1008B",
+      "links": [
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/295826.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
       "classification": ""
     }
   ],
@@ -112,6 +266,6 @@
     "division_id": "ocd-division/country:us/state:sd"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-30T12:56:58Z"
+    "logs_latest_update": "2026-07-02T14:17:01Z"
   }
 }

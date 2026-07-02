@@ -15,8 +15,166 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
-  "actions": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sd-2026-sb11"
+    }
+  ],
+  "actions": [
+    {
+      "description": "First read in Senate and referred to Senate Transportation S.J. 17",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:03Z"
+      }
+    },
+    {
+      "description": "Scheduled for hearing S.J. 1",
+      "date": "2026-01-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:03Z"
+      }
+    },
+    {
+      "description": "Transportation Do Pass , Passed, YEAS 5, NAYS 0 S.J. 1",
+      "date": "2026-01-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:03Z"
+      }
+    },
+    {
+      "description": "Senate Do Pass , Passed, YEAS 24, NAYS 8 S.J. 68",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:03Z"
+      }
+    },
+    {
+      "description": "First Reading House H.J. 105",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:03Z"
+      }
+    },
+    {
+      "description": "Referred to House Transportation H.J. 114",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:03Z"
+      }
+    },
+    {
+      "description": "Scheduled for hearing",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:03Z"
+      }
+    },
+    {
+      "description": "Transportation Do Pass , Passed, YEAS 11, NAYS 1 H.J. 11",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:03Z"
+      }
+    },
+    {
+      "description": "House of Representatives Do Pass , Passed, YEAS 46, NAYS 21 H.J. 228",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:03Z"
+      }
+    },
+    {
+      "description": "Signed by the President S.J. 203",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:03Z"
+      }
+    },
+    {
+      "description": "Signed by the Speaker H.J. 251",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:03Z"
+      }
+    },
+    {
+      "description": "Delivered to the Governor on 2026-02-09 S.J. 219",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:03Z"
+      }
+    },
+    {
+      "description": "Signed by the Governor on 2026-02-17 S.J. 266",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature",
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:03Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Transportation",
@@ -43,6 +201,21 @@
       ],
       "date": "2025-12-19",
       "classification": ""
+    },
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Session/Bill/26702/301468",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/301468.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-05",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -65,6 +238,6 @@
     "division_id": "ocd-division/country:us/state:sd"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-30T12:56:58Z"
+    "logs_latest_update": "2026-07-02T14:17:03Z"
   }
 }

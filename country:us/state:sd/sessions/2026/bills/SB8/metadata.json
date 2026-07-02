@@ -16,8 +16,206 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
-  "actions": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sd-2026-sb8"
+    }
+  ],
+  "actions": [
+    {
+      "description": "First read in Senate and referred to Senate Education S.J. 12",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:01Z"
+      }
+    },
+    {
+      "description": "Scheduled for hearing",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:01Z"
+      }
+    },
+    {
+      "description": "Education Do Pass , Passed, YEAS 7, NAYS 0 S.J. 1",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:01Z"
+      }
+    },
+    {
+      "description": "Placed on consent , Passed, S.J. 1",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:01Z"
+      }
+    },
+    {
+      "description": "Remove from Consent Calendar S.J. 60",
+      "date": "2026-01-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:01Z"
+      }
+    },
+    {
+      "description": "Senate Do Pass , Passed, YEAS 31, NAYS 1 S.J. 68",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:01Z"
+      }
+    },
+    {
+      "description": "First Reading House H.J. 105",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:01Z"
+      }
+    },
+    {
+      "description": "Referred to House Education H.J. 114",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:01Z"
+      }
+    },
+    {
+      "description": "Scheduled for hearing",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:01Z"
+      }
+    },
+    {
+      "description": "Education Do Pass , Passed, YEAS 13, NAYS 0",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:01Z"
+      }
+    },
+    {
+      "description": "Certified uncontested, placed on consent , Passed,",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:01Z"
+      }
+    },
+    {
+      "description": "Remove from Consent Calendar H.J. 182",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:01Z"
+      }
+    },
+    {
+      "description": "House of Representatives Do Pass , Passed, YEAS 61, NAYS 4 H.J. 198",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:01Z"
+      }
+    },
+    {
+      "description": "Signed by the President S.J. 171",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:01Z"
+      }
+    },
+    {
+      "description": "Signed by the Speaker H.J. 229",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:01Z"
+      }
+    },
+    {
+      "description": "Delivered to the Governor on 2026-02-05 S.J. 197",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:01Z"
+      }
+    },
+    {
+      "description": "Signed by the Governor on 2026-02-12 S.J. 256",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature",
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:01Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Education",
@@ -44,6 +242,21 @@
       ],
       "date": "2025-12-19",
       "classification": ""
+    },
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Session/Bill/26666/300247",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/300247.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-03",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -66,6 +279,6 @@
     "division_id": "ocd-division/country:us/state:sd"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-30T12:56:58Z"
+    "logs_latest_update": "2026-07-02T14:17:01Z"
   }
 }

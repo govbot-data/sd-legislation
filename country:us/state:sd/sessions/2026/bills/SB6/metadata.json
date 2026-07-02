@@ -11,8 +11,90 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
-  "actions": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sd-2026-sb6"
+    }
+  ],
+  "actions": [
+    {
+      "description": "First read in Senate and referred to Senate Commerce and Energy S.J. 10",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:02Z"
+      }
+    },
+    {
+      "description": "Scheduled for hearing S.J. 1",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:02Z"
+      }
+    },
+    {
+      "description": "Commerce and Energy Motion to amend , Passed, Amendment 6A",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:02Z"
+      }
+    },
+    {
+      "description": "Commerce and Energy Deferred to the 41st legislative day , Passed, YEAS 8, NAYS 1",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:02Z"
+      }
+    },
+    {
+      "description": "Commerce and Energy Recalled , Passed, YEAS 6, NAYS 1",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:02Z"
+      }
+    },
+    {
+      "description": "Scheduled for hearing",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:02Z"
+      }
+    },
+    {
+      "description": "Commerce and Energy Tabled , Passed, YEAS 6, NAYS 0",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T14:17:02Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Rohl",
@@ -20,6 +102,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Rohl\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bahmuller",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Bahmuller\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Baxter",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Baxter\"}",
       "organization_id": null
     },
     {
@@ -39,11 +137,35 @@
       "organization_id": null
     },
     {
+      "name": "Manhart",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Manhart\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Moore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Moore\"}",
+      "organization_id": null
+    },
+    {
       "name": "Vilhauer",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Vilhauer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Zikmund",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Zikmund\"}",
       "organization_id": null
     }
   ],
@@ -62,6 +184,17 @@
         }
       ],
       "date": "2025-12-19",
+      "classification": ""
+    },
+    {
+      "note": "6A",
+      "links": [
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/294794.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
       "classification": ""
     }
   ],
@@ -85,6 +218,6 @@
     "division_id": "ocd-division/country:us/state:sd"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-30T12:56:58Z"
+    "logs_latest_update": "2026-07-02T14:17:02Z"
   }
 }
