@@ -1,0 +1,37 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.80.12 101st Legislative Session 1074
+2026 South Dakota Legislature
+House Bill 1074
+Introduced by: Representative Novstrup
+1 An Act to provide for compensation to counties for administering tax increment
+2 financing districts created by a municipality.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 11-9-25 be AMENDED:
+5 11-9-25. Positive Except as provided in this section, positive tax increments of a
+6 district shall must be allocated to the municipality political subdivision that created the
+7 district for each year from the date when the district is created until the municipality
+8 political subdivision has been reimbursed for expenditures previously made, has paid all
+9 monetary obligations, and has retired all outstanding tax increment bonds. However, in
+10 no event may the The positive tax increments may not be allocated longer than twenty
+11 years after the calendar year of the district's creation.
+12 A county may withhold, from positive tax increments of a district created by a
+13 municipality, an amount no greater than the cost incurred by the county in administering
+14 the district.
+15 Section 2. That § 11-9-31 be AMENDED:
+16 11-9-31. The county treasurer or municipal finance officer, as applicable, shall
+17 deposit all remaining tax increments received in a district into a special fund for the
+18 district, after deducting an amount equal to the cost incurred by the county in
+19 administering the district.
+20 The county treasurer or municipal finance officer, as applicable, may deposit
+21 additional moneys into the fund pursuant to an appropriation by the governing body.
+22 Subject to any agreement with bondholders, moneys in the fund may be temporarily
+23 invested in the same manner as other funds of the political subdivision.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

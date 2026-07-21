@@ -1,0 +1,34 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.863.15 101st Legislative Session 1198
+2026 South Dakota Legislature
+House Bill 1198
+Introduced by: Representative Sjaarda
+1 An Act to require that certain facilities obtain conditional use permits from adjacent
+2 political subdivisions.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 11-2:
+5 The operator of a proposed high energy use facility must apply for a conditional
+6 use permit from a county adjacent to the political subdivision in which the facility is located
+7 if:
+8 (1) The facility is located within one mile of the boundary of the adjacent county; and
+9 (2) The adjacent county has adopted zoning ordinances or a special zoning area.
+10 For purposes of this section, "high energy use facility" means one or more buildings
+11 located on a single parcel, or multiple contiguous parcels, with an anticipated combined
+12 utility demand plus facility generated power of twenty megawatts or more of average
+13 electrical power.
+14 Section 2. That a NEW SECTION be added to chapter 11-4:
+15 The operator of a proposed high energy use facility, as defined in section 1 of this
+16 Act, must apply for a conditional use permit from a municipality adjacent to the political
+17 subdivision in which the facility is located if:
+18 (1) The facility is located within one mile of the boundary of the adjacent municipality;
+19 and
+20 (2) The adjacent municipality has adopted zoning ordinances.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

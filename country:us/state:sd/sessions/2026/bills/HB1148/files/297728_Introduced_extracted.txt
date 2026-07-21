@@ -1,0 +1,921 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.101.9 101st Legislative Session 1148
+2026 South Dakota Legislature
+House Bill 1148
+Introduced by: Representative Rehfeldt
+1 An Act to adopt the respiratory care interstate compact.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to chapter 36-4C:
+4 In addition to the requirements referenced in § 36-4C-9, an applicant for licensure
+5 as a respiratory care practitioner shall submit to a state and federal criminal background
+6 check. The applicant shall provide a full set of fingerprints to the board in the form and
+7 manner prescribed by the board. The board shall submit the fingerprints to the Division
+8 of Criminal Investigation for a criminal background check by the division and the Federal
+9 Bureau of Investigation. The applicant shall sign a release of information to the board,
+10 and pay any fee charged for the fingerprinting or the background check.
+11 Upon completion of the background check, the division must deliver the applicant's
+12 criminal history information to the board. The board shall consider this information, in
+13 accordance with §§ 36-1C-17 to 36-1C-21, inclusive, when determining whether to issue
+14 a license to the applicant. The board may not issue a license to an applicant before
+15 receiving this information. The board may not disseminate any information obtained under
+16 this section to a person not employed by the board.
+17 Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 36:
+18 RESPIRATORY CARE INTERSTATE COMPACT
+19 SECTION 1. TITLE AND PURPOSE
+20 A. The purpose of this Compact is to facilitate the interstate Practice of Respiratory
+21 Therapy with the goal of improving public access to Respiratory Therapy services
+22 by providing Respiratory Therapists licensed in a Member State the ability to
+23 practice in other Member States. The Compact preserves the regulatory authority
+24 of States to protect public health and safety through the current system of State
+25 licensure.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.101.9 2 1148
+1 B. This Compact is designed to achieve the following objectives:
+2 1. Increase public access to Respiratory Therapy services by creating a
+3 responsible, streamlined pathway for Licensees to practice in Member
+4 States with the goal of improving outcomes for patients;
+5 2. Enhance States’ ability to protect the public’s health and safety;
+6 3. Promote the cooperation of Member States in regulating the Practice of
+7 Respiratory Therapy within those Member States;
+8 4. Ease administrative burdens on States by encouraging the cooperation of
+9 Member States in regulating multi-state Respiratory Therapy practice;
+10 5. Support relocating Active Military Members and their spouses; and
+11 6. Promote mobility and address workforce shortages.
+12 SECTION 2. DEFINITIONS
+13 As used in this Compact, unless the context requires otherwise, the following
+14 definitions shall apply:
+15 A. "Active Military Member" means any person with a full-time duty status in the
+16 armed forces of the United States, including members of the National Guard and
+17 Reserve.
+18 B. "Adverse Action" means any administrative, civil, equitable, or criminal action
+19 permitted by a State’s laws, which is imposed by any State authority with
+20 regulatory authority over Respiratory Therapists, such as license denial, censure,
+21 revocation, suspension, probation, monitoring of the Licensee, or restriction on the
+22 Licensee’s practice, not including participation in an Alternative Program.
+23 C. "Alternative Program" means a non-disciplinary monitoring or practice remediation
+24 process applicable to a Respiratory Therapist approved by any State authority with
+25 regulatory authority over Respiratory Therapists. This includes, but is not limited
+26 to, programs to which Licensees with substance abuse or addiction issues are
+27 referred in lieu of Adverse Action.
+28 D. "Charter Member States" means those Member States who were the first seven
+29 states to enact the Compact into the laws of their State.
+30 E. "Commission" or "Respiratory Care Interstate Compact Commission" means the
+31 government instrumentality and body politic whose membership consists of all
+32 Member States that have enacted the Compact.
+33 F. "Commissioner" means the individual appointed by a Member State to serve as the
+34 member of the Commission for that Member State.
+35 G. "Compact" means the Respiratory Care Interstate Compact.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.101.9 3 1148
+1 H. "Compact Privilege" means the authorization granted by a Remote State to allow
+2 a Licensee from another Member State to practice as a RespiratoryTherapist in the
+3 Remote State under the Remote State’s laws and Rules. ThePractice of Respiratory
+4 Therapy occurs in the Member State where the patient is located at the time of the
+5 patient encounter.
+6 I. "Criminal Background Check" means the submission by the Member State of
+7 fingerprints or other biometric-based information on license applicants at the time
+8 of initial licensing for the purpose of obtaining that applicant’s criminal history
+9 record information, as defined in 28 C.F.R. § 20.3(d) or successor provision, from
+10 the Federal Bureau of Investigation and the State’s criminal history record
+11 repository, as defined in 28 C.F.R. § 20.3(f) or successor provision.
+12 J. "Data System" means the Commission’s repository of information about Licensees
+13 as further set forth in Section 8.
+14 K. "Domicile" means the jurisdiction which is the Licensee’s principal home for legal
+15 purposes.
+16 L. "Encumbered License" means a license that a State’s Respiratory Therapy
+17 Licensing Authority has limited in any way.
+18 M. "Executive Committee" means a group of directors elected or appointed to act on
+19 behalf of, and within the powers granted to them by the Commission.
+20 N. "Home State" except as set forth in Section 5, means the Member State that is the
+21 Licensee’s primary Domicile.
+22 O. "Home State License" means an active license to practice Respiratory Therapy in a
+23 Home State that is not an Encumbered License.
+24 P. "Jurisprudence Requirement" means an assessment of an individual’s knowledge
+25 of the State laws and regulations governing the Practice of Respiratory Therapy in
+26 such State.
+27 Q. "Licensee" means an individual who currently holds an authorization from the State
+28 to practice as a Respiratory Therapist.
+29 R. "Member State" means a State that has enacted the Compact and been admitted
+30 to the Commission in accordance with the provisions herein and Commission Rules.
+31 S. "Model Compact" means the model for the Respiratory Care Interstate Compact on
+32 file with The Council of State Governments or other entity as designated by the
+33 Commission.
+34 T. "Remote State" means a Member State where a Licensee is exercising or seeking
+35 to exercise the Compact Privilege.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.101.9 4 1148
+1 U. "Respiratory Therapist" or "Respiratory Care Practitioner" means an individual who
+2 holds a credential issued by the National Board for Respiratory Care, or its
+3 successor, and holds a license in a State to practice Respiratory Therapy. For
+4 purposes of this Compact, any other title or status adopted by a State to replace
+5 the term "Respiratory Therapist" or "Respiratory Care Practitioner" shall be deemed
+6 synonymous with "Respiratory Therapist" and shall confer the same rights and
+7 responsibilities to the Licensee under the provisions of this Compact at the time of
+8 its enactment.
+9 V. "Respiratory Therapy," "Respiratory Therapy Practice," "Respiratory Care," "the
+10 Practice of Respiratory Care," and "the Practice of Respiratory Therapy" means the
+11 care and services provided by or under the direction and supervision of a
+12 Respiratory Therapist or Respiratory Care Practitioner.
+13 W. "Respiratory Therapy Licensing Authority" means the agency, board, or other body
+14 of a State that is responsible for the licensing and regulation of Respiratory
+15 Therapists.
+16 X. "Rule" means a regulation promulgated by an entity that has the force and effect
+17 of law.
+18 Y. "Scope of Practice" means the procedures, actions, and processes a Respiratory
+19 Therapist licensed in a State or practicing under a Compact Privilege in a State is
+20 permitted to undertake in that State and the circumstances under which the
+21 Respiratory Therapist is permitted to undertake those procedures, actions, and
+22 processes. Such procedures, actions, and processes, and the circumstances under
+23 which they may be undertaken, may be established through means including, but
+24 not limited to, statute, regulations, case law, and other processes available to the
+25 State Respiratory Therapy Licensing Authority or other government agency.
+26 Z. "Significant Investigative Information" means information, records, and documents
+27 received or generated by a State Respiratory Therapy Licensing Authority pursuant
+28 to an investigation for which a determination has been made that there is probable
+29 cause to believe that the Licensee has violated a statute or regulation that is
+30 considered more than a minor infraction for which the State Respiratory Therapy
+31 Licensing Authority could pursue Adverse Action against the Licensee.
+32 AA. "State" means any state, commonwealth, district, or territory of the United States.
+33 SECTION 3. STATE PARTICIPATION IN THIS COMPACT
+34 A. In order to participate in this Compact and thereafter continue as a Member State,
+35 a Member State shall:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.101.9 5 1148
+1 1. Enact a Compact that is not materially different from the Model Compact;
+2 2. License Respiratory Therapists;
+3 3. Participate in the Commission’s Data System;
+4 4. Have a mechanism in place for receiving and investigating complaints
+5 against Licensees and Compact Privilege holders;
+6 5. Notify the Commission, in compliance with the terms of this Compact and
+7 Commission Rules, of any Adverse Action against a Licensee, a Compact
+8 Privilege holder, or a license applicant;
+9 6. Notify the Commission, in compliance with the terms of this Compact and
+10 Commission Rules, of the existence of Significant Investigative Information;
+11 7. Comply with the Rules of the Commission;
+12 8. Grant the Compact Privilege to a holder of an active Home State License
+13 and otherwise meet the applicable requirements of Section 4 in a Member
+14 State; and
+15 9. Complete a Criminal Background Check for each new Licensee at the time
+16 of initial licensure.
+17 a. Where expressly authorized or permitted by federal law, whether
+18 such federal law is in effect prior to, at, or after the time of a Member
+19 State’s enactment of this Compact, a Member State’s enactment of
+20 this Compact shall hereby authorize the Member State’s Respiratory
+21 Therapy Licensing Authority to perform Criminal Background Checks
+22 as defined herein. The absence of such a federal law as described in
+23 this subsection shall not prevent or preclude such authorization
+24 where it may be derived or granted through means other than the
+25 enactment of this Compact.
+26 B. Nothing in this Compact prohibits a Member State from charging a fee for granting
+27 and renewing the Compact Privilege.
+28 SECTION 4. COMPACT PRIVILEGE
+29 A. To exercise the Compact Privilege under the terms and provisions of the Compact,
+30 the Licensee shall:
+31 1. Hold and maintain an active Home State License as a Respiratory Therapist;
+32 2. Hold and maintain an active credential from the National Board for
+33 Respiratory Care, or its successor, that would qualify the Licensee for
+34 licensure in the Remote State in which the Licensee is seeking the privilege;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.101.9 6 1148
+1 3. Have not had any Adverse Action against a license within the previous two
+2 years;
+3 4. Notify the Commission that the Licensee is seeking the Compact Privilege
+4 within a Remote State(s);
+5 5. Pay any applicable fees, including any State and Commission fees and
+6 renewal fees, for the Compact Privilege;
+7 6. Meet any Jurisprudence Requirements established by the Remote State in
+8 which the Licensee is seeking a Compact Privilege;
+9 7. Report to the Commission Adverse Action taken by any non-Member State
+10 within thirty days from the date the Adverse Action is taken;
+11 8. Report to the Commission, when applying for a Compact Privilege, the
+12 address of the Licensee’s Domicile and thereafter promptly report to the
+13 Commission any change in the address of the Licensee’s Domicile within
+14 thirty days of the effective date of the change in address; and
+15 9. Consent to accept service of process by mail at the Licensee’s Domicile on
+16 record with the Commission with respect to any action brought against the
+17 Licensee by the Commission or a Member State, and consent to accept
+18 service of a subpoena by mail at the Licensee’s Domicile on record with the
+19 Commission with respect to any action brought or investigation conducted
+20 by the Commission or a Member State.
+21 B. The Compact Privilege is valid until the expiration date or revocation of the Home
+22 State License unless terminated pursuant to Adverse Action. The Licensee must
+23 comply with all of the requirements of Subsection A, above, to maintain the
+24 Compact Privilege in a Remote State. If those requirements are met, no Adverse
+25 Actions are taken, and the Licensee has paid any applicable Compact Privilege
+26 renewal fees, then the Licensee will maintain the Licensee’s Compact Privilege.
+27 C. A Licensee providing Respiratory Therapy in a Remote State under the Compact
+28 Privilege shall function within the Scope of Practice authorized by the Remote State
+29 for the type of Respiratory Therapist license the Licensee holds. Such procedures,
+30 actions, processes, and the circumstances under which they may be undertaken
+31 may be established through means, including, but not limited to, statute,
+32 regulations, case law, and other processes available to the State Respiratory
+33 Therapy Licensing Authority or other government agency.
+34 D. If a Licensee’s Compact Privilege in a Remote State is removed by the Remote
+35 State, the individual shall lose or be ineligible for the Compact privilege in that
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.101.9 7 1148
+1 Remote State until the Compact Privilege is no longer limited or restricted by that
+2 State.
+3 E. If a Home State License is encumbered, the Licensee shall lose the Compact
+4 Privilege in all Remote States until the following occur:
+5 1. The Home State License is no longer encumbered; and
+6 2. Two years have elapsed from the date on which the license is no longer
+7 encumbered due to the Adverse Action.
+8 F. Once a Licensee with a restricted or limited license meets the requirements of
+9 Subsection E.1 and 2, the Licensee must also meet the requirements of Subsection
+10 A to obtain a Compact Privilege in a Remote State.
+11 SECTION 5. ACTIVE MILITARY MEMBERS OR THEIR SPOUSES
+12 A. An Active Military Member, or the member's spouse, shall designate a Home State
+13 where the individual has a current license in good standing. The individual may
+14 retain the Home State designation during the period the service member is on
+15 active duty.
+16 B. An Active Military Member and the member's spouse shall not be required to pay
+17 to the Commission for a Compact Privilege any fee that may otherwise be charged
+18 by the Commission. If a Remote State chooses to charge a fee for a Compact
+19 Privilege, it may choose to charge a reduced fee or no fee to an Active Military
+20 Member and the member's spouse for a Compact Privilege.
+21 SECTION 6. ADVERSE ACTIONS
+22 A. A Member State in which a Licensee is licensed shall have authority to impose
+23 Adverse Action against the license issued by that Member State.
+24 B. A Member State may take Adverse Action based on Significant Investigative
+25 Information of a Remote State or the Home State, so long as the Member State
+26 follows its own procedures for imposing Adverse Action.
+27 C. Nothing in this Compact shall override a Member State’s decision that participation
+28 in an Alternative Program may be used in lieu of Adverse Action and that such
+29 participation shall remain non-public if required by the Member State’s laws.
+30 D. A Remote State shall have the authority to:
+31 1. Take Adverse Actions as set forth herein against a Licensee’s Compact
+32 Privilege in that State;
+33 2. Issue subpoenas for both hearings and investigations that require the
+34 attendance and testimony of witnesses, and the production of evidence.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.101.9 8 1148
+1 a. Subpoenas may be issued by a Respiratory Therapy Licensing
+2 Authority in a Member State for the attendance and testimony of
+3 witnesses and the production of evidence.
+4 b. Subpoenas issued by a Respiratory Therapy Licensing Authority in a
+5 Member State for the attendance and testimony of witnesses shall
+6 be enforced in the latter State by any court of competent jurisdiction
+7 in the latter State, according to the practice and procedure of that
+8 court applicable to subpoenas issued in proceedings pending before
+9 it.
+10 c. Subpoenas issued by a Respiratory Therapy Licensing Authority in a
+11 Member State for production of evidence from another Member State
+12 shall be enforced in the latter State, according to the practice and
+13 procedure of that court applicable to subpoenas issued in the
+14 proceedings pending before it.
+15 d. The issuing authority shall pay any witness fees, travel expenses,
+16 mileage, and other fees required by the service statutes of the State
+17 where the witnesses or evidence are located;
+18 3. Unless otherwise prohibited by State law, recover from the Licensee the
+19 costs of investigations and disposition of cases resulting from any Adverse
+20 Action taken against that Licensee;
+21 E. Notwithstanding subsection D.2., a Member State may not issue a subpoena to
+22 gather evidence of conduct in another Member State that is lawful in such other
+23 Member State for the purpose of taking Adverse Action against a Licensee’s
+24 Compact Privilege or application for a Compact Privilege in that Member State; and
+25 F. Nothing in this Compact authorizes a Member State to impose discipline against a
+26 Respiratory Therapist’s Compact Privilege in that Member State for the individual’s
+27 otherwise lawful practice in another State.
+28 G. Joint Investigations
+29 1. In addition to the authority granted to a Member State by its respective
+30 Respiratory Therapy Practice act or other applicable state law, a Member
+31 State may participate with other Member States in joint investigations of
+32 Licensees, provided, however, that a Member State receiving such a request
+33 has no obligation to respond to any subpoena issued regarding an
+34 investigation of conduct or practice that was lawful in a Member State at
+35 the time it was undertaken.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.101.9 9 1148
+1 2. Member States shall share any Significant Investigative Information,
+2 litigation, or compliance materials in furtherance of any joint or individual
+3 investigation initiated under the Compact. In sharing such information
+4 between Member State Respiratory Therapy Licensing Authorities, all
+5 information obtained shall be kept confidential, except as otherwise
+6 mutually agreed upon by the sharing and receiving Member State(s).
+7 H. Nothing in this Compact may permit a Member State to take any Adverse Action
+8 against a Licensee or holder of a Compact Privilege for conduct or practice that was
+9 legal in the Member State at the time it was undertaken.
+10 I. Nothing in this Compact may permit a Member State to take disciplinary action
+11 against a Licensee or holder of a Compact Privilege for conduct or practice that was
+12 legal in the Member State at the time it was undertaken.
+13 SECTION 7. ESTABLISHMENT OF THE RESPIRATORY CARE INTERSTATE COMPACT
+14 COMMISSION
+15 A. The Compact Member States hereby create and establish a joint government
+16 agency whose membership consists of all Member States that have enacted the
+17 Compact known as the Respiratory Care Interstate Compact Commission. The
+18 Commission is an instrumentality of the Compact Member States acting jointly and
+19 not an instrumentality of any one State. The Commission shall come into existence
+20 on or after the effective date of the Compact, as set forth in Section 11.
+21 B. Membership, Voting, and Meetings
+22 1. Each Member State shall have and be limited to one Commissioner selected
+23 by that Member State’s Respiratory Therapy Licensing Authority.
+24 2. The Commissioner shall be an administrator or the administrator's
+25 designated staff member of the Member State’s Respiratory Therapy
+26 Licensing Authority.
+27 3. The Commission shall by Rule or bylaw establish a term of office for
+28 Commissioners and may by Rule or bylaw establish term limits.
+29 4. The Commission may recommend to a Member State the removal or
+30 suspension of any Commissioner from office.
+31 5. A Member State’s Respiratory Therapy Licensing Authority shall fill any
+32 vacancy of its Commissioner occurring on the Commission within sixty days
+33 of the vacancy.
+34 6. Each Commissioner shall be entitled to one vote on all matters before the
+35 Commission requiring a vote by Commissioners.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.101.9 10 1148
+1 7. A Commissioner shall vote in person or by such other means as provided in
+2 the bylaws. The bylaws may provide for Commissioners to meet by
+3 telecommunication, videoconference, or other means of communication.
+4 8. The Commission shall meet at least once during each calendar year.
+5 Additional meetings may be held as set forth in the bylaws.
+6 C. The Commission shall have the following powers:
+7 1. Establish and amend the fiscal year of the Commission;
+8 2. Establish and amend bylaws and policies, including but not limited to, a
+9 code of conduct and conflicts of interest;
+10 3. Establish and amend Rules, which shall be binding in all Member States;
+11 4. Maintain its financial records in accordance with the bylaws;
+12 5. Meet and take such actions as are consistent with the provisions of this
+13 Compact, the Commission’s Rules, and the bylaws;
+14 6. Initiate and conduct legal proceedings or actions in the name of the
+15 Commission, provided that the standing of any Respiratory Therapy
+16 Licensing Authority to sue or be sued under applicable law shall not be
+17 affected;
+18 7. Maintain and certify records and information provided to a Member State as
+19 the authenticated business records of the Commission, and designate an
+20 agent to do so on the Commission’s behalf;
+21 8. Purchase and maintain insurance and bonds;
+22 9. Accept or contract for services of personnel, including, but not limited to,
+23 employees of a Member State;
+24 10. Conduct an annual financial review;
+25 11. Hire employees, elect or appoint officers, fix compensation, define duties,
+26 grant such individuals appropriate authority to carry out the purposes of the
+27 Compact, and establish the Commission’s personnel policies and programs
+28 relating to conflicts of interest, qualifications of personnel, and other related
+29 personnel matters;
+30 12. Assess and collect fees;
+31 13. Accept any and all appropriate gifts, donations, grants of money, other
+32 sources of revenue, equipment, supplies, materials, and services, and
+33 receive, utilize, and dispose of the same, provided that at all times:
+34 a. The Commission shall avoid any appearance of impropriety; and
+35 b. The Commission shall avoid any appearance of conflict of interest;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.101.9 11 1148
+1 14. Lease, purchase, retain, own, hold, improve, or use any property, real,
+2 personal, or mixed, or any undivided interest therein;
+3 15. Sell, convey, mortgage, pledge, lease, exchange, abandon, or otherwise
+4 dispose of any property real, personal, or mixed;
+5 16. Establish a budget and make expenditures;
+6 17. Borrow money in a fiscally responsible manner;
+7 18. Appoint committees, including standing committees, composed of
+8 Commissioners, State regulators, State legislators or their representatives,
+9 consumer representatives, and such other interested persons as may be
+10 designated in this Compact and the bylaws;
+11 19. Provide and receive information from, and cooperate with, law enforcement
+12 agencies;
+13 20. Establish and elect an Executive Committee, including a chair, vice-chair,
+14 secretary, treasurer, and such other offices as the Commission shall
+15 establish by Rule or bylaw;
+16 21. Enter into contracts or arrangements for the management of the affairs of
+17 the Commission;
+18 22. Determine whether a State’s adopted language is materially different from
+19 the Model Compact language such that the State would not qualify for
+20 participation in the Compact; and
+21 23. Perform such other functions as may be necessary or appropriate to achieve
+22 the purposes of this Compact.
+23 D. The Executive Committee
+24 1. The Executive Committee shall have the power to act on behalf of the
+25 Commission according to the terms of this Compact. The powers, duties,
+26 and responsibilities of the Executive Committee shall include:
+27 a. Overseeing the day-to-day activities of the administration of the
+28 Compact, including enforcement and compliance with the provisions
+29 of the Compact, its Rules and bylaws, and other such duties as
+30 deemed necessary;
+31 b. Recommending to the Commission changes to the Rules or bylaws,
+32 changes to this Compact legislation, fees charged to Compact
+33 Member States, fees charged to Licensees, and other fees;
+34 c. Ensuring Compact administration services are appropriately
+35 provided, including by contract;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.101.9 12 1148
+1 d. Preparing and recommending the budget;
+2 e. Maintaining financial records on behalf of the Commission;
+3 f. Monitoring Compact compliance of Member States and providing
+4 compliance reports to the Commission;
+5 g. Establishing additional committees as necessary;
+6 h. Exercising the powers and duties of the Commission during the
+7 interim between Commission meetings, except for adopting or
+8 amending Rules, adopting or amending bylaws, and exercising any
+9 other powers and duties expressly reserved to the Commission by
+10 Rule or bylaw; and
+11 i. Performing other duties as provided in the Rules or bylaws of the
+12 Commission.
+13 2. The Executive Committee shall be composed of up to nine members, as
+14 further set forth in the bylaws of the Commission:
+15 a. Seven voting members who are elected by the Commission from the
+16 current membership of the Commission; and
+17 b. Two ex-officio, non-voting members.
+18 3. The Commission may remove any member of the Executive Committee as
+19 provided in the Commission’s bylaws.
+20 4. The Executive Committee shall meet at least annually.
+21 a. Executive Committee meetings shall be open to the public, except
+22 that the Executive Committee may meet in a closed, non-public
+23 meeting as provided in subsection F.4 below;
+24 b. The Executive Committee shall give advance notice of its meetings,
+25 posted on its website and as determined to provide notice to persons
+26 with an interest in the business of the Commission; and
+27 c. The Executive Committee may hold a special meeting in accordance
+28 with subsection F.2 below.
+29 E. The Commission shall adopt and provide to the Member States an annual report.
+30 F. Meetings of the Commission
+31 1. All meetings of the Commission that are not closed pursuant to subsection
+32 7.F.4 shall be open to the public. Notice of public meetings shall be posted
+33 on the Commission’s website at least thirty days prior to the public meeting.
+34 2. Notwithstanding subsection 7.F.1, the Commission may convene an
+35 emergency public meeting by providing at least twenty-four hours prior
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.101.9 13 1148
+1 notice on the Commission’s website, and any other means as provided in
+2 the Commission’s Rules, for any of the reasons it may dispense with notice
+3 of proposed rulemaking under subsection 9.G. The Commission’s legal
+4 counsel shall certify that one of the reasons justifying an emergency public
+5 meeting has been met.
+6 3. Notice of all Commission meetings shall provide the time, date, and location
+7 of the meeting, and if the meeting is to be held or accessible via
+8 telecommunication, video conference, or other electronic means, the notice
+9 shall include the mechanism for access to the meeting.
+10 4. The Commission or the Executive Committee may convene in a closed,
+11 nonpublic meeting for the Commission or Executive Committee to receive
+12 or solicit legal advice or to discuss:
+13 a. Non-compliance of a Member State with its obligations under the
+14 Compact;
+15 b. The employment, compensation, discipline or other matters,
+16 practices or procedures related to specific employees;
+17 c. Current or threatened discipline of a Licensee or Compact Privilege
+18 holder by the Commission or by a Member State’s Respiratory
+19 Therapy Licensing Authority;
+20 d. Current, threatened, or reasonably anticipated litigation;
+21 e. Negotiation of contracts for the purchase, lease, or sale of goods,
+22 services, or real estate;
+23 f. Accusing any person of a crime or formally censuring any person;
+24 g. Trade secrets or commercial or financial information that is
+25 privileged or confidential;
+26 h. Information of a personal nature where disclosure would constitute
+27 a clearly unwarranted invasion of personal privacy;
+28 i. Investigative records compiled for law enforcement purposes;
+29 j. Information related to any investigative reports prepared by or on
+30 behalf of or for use of the Commission or other committee charged
+31 with responsibility of investigation or determination of compliance
+32 issues pursuant to the Compact;
+33 k. Legal advice;
+34 l. Matters specifically exempted from disclosure by federal or Member
+35 State law; or
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.101.9 14 1148
+1 m. Other matters as promulgated by the Commission by Rule.
+2 5. If a meeting, or portion of a meeting, is closed, the presiding officer shall
+3 state that the meeting will be closed and reference each relevant exempting
+4 provision, and such reference shall be recorded in the minutes.
+5 6. The Commission shall keep minutes in accordance with Commission Rules
+6 and bylaws. All documents considered in connection with an action shall be
+7 identified in such minutes. All minutes and documents of a closed meeting
+8 shall remain under seal, subject to release only by a majority vote of the
+9 Commission or order of a court of competent jurisdiction.
+10 G. Financing of the Commission
+11 1. The Commission shall pay, or provide for the payment of, the reasonable
+12 expenses of its establishment, organization, and ongoing activities.
+13 2. The Commission may accept any and all appropriate revenue sources as
+14 provided herein.
+15 3. The Commission may levy on and collect an annual assessment from each
+16 Member State and impose fees on Licensees of Member States to whom it
+17 grants a Compact Privilege to cover the cost of the operations and activities
+18 of the Commission and its staff. The aggregate annual assessment amount
+19 for Member States, if any, shall be allocated based upon a formula that the
+20 Commission shall promulgate by Rule.
+21 4. The Commission shall not incur obligations of any kind prior to securing the
+22 funds or a loan adequate to meet the same; nor shall the Commission
+23 pledge the credit of any of the Member States, except by and with the
+24 authority of the Member State.
+25 5. The Commission shall keep accurate accounts of all receipts and
+26 disbursements. The receipts and disbursements of the Commission shall be
+27 subject to the financial review and accounting procedures established under
+28 its bylaws. However, all receipts and disbursements of funds handled by the
+29 Commission shall be subject to an annual financial review by a certified or
+30 licensed public accountant, and the report of the financial review shall be
+31 included in and become part of the annual report of the Commission.
+32 H. Qualified Immunity, Defense, and Indemnification
+33 1. Nothing herein shall be construed as a limitation on the liability of any
+34 Licensee for professional malpractice or misconduct, which shall be
+35 governed solely by any other applicable state laws.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.101.9 15 1148
+1 2. The Member States, Commissioners, officers, executive directors,
+2 employees, and agents of the Commission shall be immune from suit and
+3 liability, both personally and in their official capacity, for any claim for
+4 damage to or loss of property or personal injury or other civil liability caused
+5 by or arising out of any actual or alleged act, error, or omission that
+6 occurred, or that the person against whom the claim is made had a
+7 reasonable basis for believing occurred within the scope of Commission
+8 employment, duties or responsibilities; provided that nothing in this
+9 subsection shall be construed to protect any such person from suit or
+10 liability for any damage, loss, injury, or liability caused by the intentional or
+11 willful or wanton misconduct of that person. The procurement of insurance
+12 of any type by the Commission shall not in any way compromise or limit the
+13 immunity granted hereunder.
+14 3. The Commission shall defend any Commissioner, officer, executive director,
+15 employee, and agent of the Commission in any civil action seeking to
+16 impose liability arising out of any actual or alleged act, error, or omission
+17 that occurred within the scope of Commission employment, duties, or
+18 responsibilities, or as determined by the Commission that the person
+19 against whom the claim is made had a reasonable basis for believing
+20 occurred within the scope of Commission employment, duties, or
+21 responsibilities; provided that nothing herein shall be construed to prohibit
+22 that person from retaining their own counsel at their own expense; and
+23 provided further, that the actual or alleged act, error, or omission did not
+24 result from that person’s intentional or willful or wanton misconduct.
+25 4. The Commission shall indemnify and hold harmless any Commissioner,
+26 member, officer, executive director, employee, and agent of the
+27 Commission for the amount of any settlement or judgment obtained against
+28 that person arising out of any actual or alleged act, error, or omission that
+29 occurred within the scope of Commission employment, duties, or
+30 responsibilities, or that such person had a reasonable basis for believing
+31 occurred within the scope of Commission employment, duties, or
+32 responsibilities, provided that the actual or alleged act, error, or omission
+33 did not result from the intentional or willful or wanton misconduct of that
+34 person.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.101.9 16 1148
+1 5. Nothing in this Compact shall be interpreted to waive or otherwise abrogate
+2 a Member State’s state action immunity or state action affirmative defense
+3 with respect to antitrust claims under the Sherman Act, Clayton Act, or any
+4 other State or federal antitrust or anticompetitive law or regulation.
+5 6. Nothing in this Compact shall be construed to be a waiver of sovereign
+6 immunity by the Member States or by the Commission.
+7 SECTION 8. DATA SYSTEM
+8 A. The Commission shall provide for the development, maintenance, operation, and
+9 utilization of a coordinated database and reporting system containing licensure,
+10 Adverse Action, and the presence of Significant Investigative Information.
+11 B. Notwithstanding any other provision of State law to the contrary, a Member State
+12 shall submit a uniform data set to the Data System as required by the Rules of the
+13 Commission, including but not limited to:
+14 1. Identifying information;
+15 2. Licensure data;
+16 3. Adverse Actions against a Licensee, license applicant, or Compact Privilege
+17 holder and information related thereto;
+18 4. Non-confidential information related to Alternative Program participation,
+19 the beginning and ending dates of such participation, and other information
+20 related to such participation not made confidential under Member State law;
+21 5. Any denial of application for licensure, and the reason(s) for such denial;
+22 6. The presence of current Significant Investigative Information; and
+23 7. Other information that may facilitate the administration of this Compact or
+24 the protection of the public, as determined by the Rules of the Commission.
+25 C. No Member State shall submit any information which constitutes criminal history
+26 record information, as defined by applicable federal law, to the Data System
+27 established hereunder.
+28 D. The records and information provided to a Member State pursuant to this Compact
+29 or through the Data System, when certified by the Commission or an agent thereof,
+30 shall constitute the authenticated business records of the Commission, and shall
+31 be entitled to any associated hearsay exception in any relevant judicial, quasi-
+32 judicial, or administrative proceedings in a Member State.
+33 E. Significant Investigative Information pertaining to a Licensee in any Member State
+34 will only be available to other Member States.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.101.9 17 1148
+1 F. It is the responsibility of the Member States to report any Adverse Action against
+2 a Licensee and to monitor the database to determine whether Adverse Action has
+3 been taken against a Licensee. Adverse Action information pertaining to a Licensee
+4 in any Member State will be available to any other Member State.
+5 G. Member States contributing information to the Data System may designate
+6 information that may not be shared with the public without the express permission
+7 of the contributing State.
+8 H. Any information submitted to the Data System that is subsequently expunged
+9 pursuant to federal law or the laws of the Member State contributing the
+10 information shall be removed from the Data System.
+11 SECTION 9. RULEMAKING
+12 A. The Commission shall promulgate reasonable Rules in order to effectively and
+13 efficiently implement and administer the purposes and provisions of the Compact.
+14 A Rule shall be invalid and have no force or effect only if a court of competent
+15 jurisdiction holds that the Rule is invalid because the Commission exercised its
+16 rulemaking authority in a manner that is beyond the scope and purposes of the
+17 Compact, or the powers granted hereunder, or based upon another applicable
+18 standard of review.
+19 B. For purposes of the Compact, the Rules of the Commission shall have the force of
+20 law in each Member State.
+21 C. The Commission shall exercise its rulemaking powers pursuant to the criteria set
+22 forth in this section and the Rules adopted thereunder. Rules shall become binding
+23 as of the date specified in each Rule.
+24 D. If a majority of the legislatures of the Member States rejects a Rule or portion of a
+25 Rule, by enactment of a statute or resolution in the same manner used to adopt
+26 the Compact within four years of the date of adoption of the Rule, then such Rule
+27 shall have no further force and effect in any Member State.
+28 E. Rules shall be adopted at a regular or special meeting of the Commission.
+29 F. Prior to adoption of a proposed Rule, the Commission shall hold a public hearing
+30 and allow persons to provide oral and written comments, data, facts, opinions, and
+31 arguments.
+32 G. Prior to adoption of a proposed Rule by the Commission, and at least thirty days in
+33 advance of the meeting at which the Commission will hold a public hearing on the
+34 proposed Rule, the Commission shall provide a notice of proposed rulemaking:
+35 1. On the website of the Commission or other publicly accessible platform;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.101.9 18 1148
+1 2. To persons who have requested notice of the Commission’s notices of
+2 proposed rulemaking, and
+3 3. In such other way(s) as the Commission may by Rule specify.
+4 H. The notice of proposed rulemaking shall include:
+5 1. The time, date, and location of the public hearing at which the Commission
+6 will hear public comments on the proposed Rule and, if different, the time,
+7 date, and location of the meeting where the Commission will consider and
+8 vote on the proposed Rule;
+9 2. If the hearing is held via telecommunication, video conference, or other
+10 electronic means, the mechanism for access to the hearing;
+11 3. The text of the proposed Rule and the reason therefor;
+12 4. A request for comments on the proposed Rule from any interested person;
+13 and
+14 5. The manner in which interested persons may submit written comments.
+15 I. All hearings will be recorded. A copy of the recording and all written comments and
+16 documents received by the Commission in response to the proposed Rule shall be
+17 available to the public.
+18 J. Nothing in this section shall be construed as requiring a separate hearing on each
+19 Rule. Rules may be grouped for the convenience of the Commission at hearings
+20 required by this section.
+21 K. The Commission shall, by majority vote of all Commissioners, take final action on
+22 the proposed Rule based on the rulemaking record and the full text of the Rule.
+23 1. The Commission may adopt changes to the proposed Rule provided the
+24 changes are consistent with the original purpose of the proposed Rule.
+25 2. The Commission shall provide an explanation of the reasons for substantive
+26 changes made to the proposed Rule as well as reasons for substantive
+27 changes not made that were recommended by commenters.
+28 3. The Commission shall determine a reasonable effective date for the Rule.
+29 Except for an emergency as provided in Section 9.L, the effective date of
+30 the Rule shall be no sooner than thirty days after issuing the notice that it
+31 adopted or amended the Rule.
+32 L. Upon determination that an emergency exists, the Commission may consider and
+33 adopt an emergency Rule with twenty-four hours’ notice, and with opportunity to
+34 comment, provided that the usual rulemaking procedures provided in the Compact
+35 and in this section shall be retroactively applied to the Rule as soon as reasonably
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.101.9 19 1148
+1 possible, in no event later than ninety days after the effective date of the Rule. For
+2 the purposes of this provision, an emergency Rule is one that must be adopted
+3 immediately in order to:
+4 1. Meet an imminent threat to public health, safety, or welfare;
+5 2. Prevent a loss of Commission or Member State funds;
+6 3. Meet a deadline for the promulgation of a Rule that is established by federal
+7 law or Rule; or
+8 4. Protect public health and safety.
+9 M. The Commission or an authorized committee of the Commission may direct
+10 revisions to a previously adopted Rule for purposes of correcting typographical
+11 errors, errors in format, errors in consistency, or grammatical errors. Public notice
+12 of any revisions shall be posted on the website of the Commission. The revision
+13 shall be subject to challenge by any person for a period of thirty days after posting.
+14 The revision may be challenged only on grounds that the revision results in a
+15 material change to a Rule. A challenge shall be made in writing and delivered to
+16 the Commission prior to the end of the notice period. If no challenge is made, the
+17 revision will take effect without further action. If the revision is challenged, the
+18 revision may not take effect without the approval of the Commission.
+19 N. No Member State’s rulemaking process or procedural requirements shall apply to
+20 the Commission.
+21 1. The Commission shall have no authority over any Member State’s
+22 rulemaking process or procedural requirements that do not pertain to the
+23 Compact.
+24 O. Nothing in this Compact, nor any Rule or regulation of the Commission, shall be
+25 construed to limit, restrict, or in any way reduce the ability of a Member State to
+26 enact and enforce laws, regulations, or other Rules related to the Practice of
+27 Respiratory Therapy in that State, where those laws, regulations, or other Rules
+28 are not inconsistent with the provisions of this Compact.
+29 SECTION 10. OVERSIGHT, DISPUTE RESOLUTION, AND ENFORCEMENT
+30 A. Oversight
+31 1. The executive and judicial branches of State government in each Member
+32 State shall enforce this Compact and take all actions necessary and
+33 appropriate to implement the Compact.
+34 2. Venue is proper and judicial proceedings by or against the Commission shall
+35 be brought solely and exclusively in a court of competent jurisdiction where
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.101.9 20 1148
+1 the principal office of the Commission is located. The Commission may
+2 waive venue and jurisdictional defenses to the extent it adopts or consents
+3 to participate in alternative dispute resolution proceedings. Nothing herein
+4 shall affect or limit the selection or propriety of venue in any action against
+5 a Licensee for professional malpractice, misconduct, or any such similar
+6 matter.
+7 3. The Commission shall be entitled to receive service of process in any
+8 proceeding regarding the enforcement or interpretation of the Compact and
+9 shall have standing to intervene in such a proceeding for all purposes.
+10 Failure to provide the Commission service of process shall render a
+11 judgment or order void as to the Commission, this Compact, or promulgated
+12 Rules.
+13 B. Default, Technical Assistance, and Termination
+14 1. If the Commission determines that a Member State has defaulted in the
+15 performance of its obligations or responsibilities under this Compact or the
+16 promulgated Rules, the Commission shall provide written notice to the
+17 defaulting State. The notice of default shall describe the default, the
+18 proposed means of curing the default, and any other action that the
+19 Commission may take, and shall offer training and specific technical
+20 assistance regarding the default.
+21 2. The Commission shall provide a copy of the notice of default to the other
+22 Member States.
+23 C. If a State in default fails to cure the default, the defaulting State may be terminated
+24 from the Compact upon an affirmative vote of a majority of the Commissioners of
+25 the Member States, and all rights, privileges, and benefits conferred on that State
+26 by this Compact may be terminated on the effective date of termination. A cure of
+27 the default does not relieve the offending State of obligations or liabilities incurred
+28 during the period of default.
+29 D. Termination of membership in the Compact shall be imposed only after all other
+30 means of securing compliance have been exhausted. Notice of intent to suspend
+31 or terminate shall be given by the Commission to the governor, the majority and
+32 minority leaders of the defaulting State’s legislature, the defaulting State’s
+33 Respiratory Therapy Licensing Authority, and each of the Member States’
+34 Respiratory Therapy Licensing Authorities.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.101.9 21 1148
+1 E. A State that has been terminated is responsible for all assessments, obligations,
+2 and liabilities incurred through the effective date of termination, including
+3 obligations that extend beyond the effective date of termination, if necessary.
+4 F. Upon the termination of a State’s membership from this Compact, that State shall
+5 immediately provide notice to all Licensees and Compact Privilege holders, of which
+6 the Commission has a record, within that State of such termination. The terminated
+7 State shall continue to recognize all licenses granted pursuant to this Compact for
+8 a minimum of one hundred eighty days after the date of said notice of termination.
+9 G. The Commission shall not bear any costs related to a State that is found to be in
+10 default or that has been terminated from the Compact, unless agreed upon in
+11 writing between the Commission and the defaulting State.
+12 H. The defaulting State may appeal the action of the Commission by petitioning the
+13 United States District Court for the District of Columbia or the federal district where
+14 the Commission has its principal offices. The prevailing party shall be awarded all
+15 costs of such litigation, including reasonable attorney’s fees.
+16 I. Dispute Resolution
+17 1. Upon request by a Member State, the Commission shall attempt to resolve
+18 disputes related to the Compact that arise among Member States and
+19 between Member and non-Member States.
+20 2. The Commission shall promulgate a Rule providing for both mediation and
+21 binding dispute resolution for disputes, as appropriate.
+22 J. Enforcement
+23 1. By majority vote, as may be further provided by Rule, the Commission may
+24 initiate legal action against a Member State in default in the United States
+25 District Court for the District of Columbia or the federal district where the
+26 Commission has its principal offices to enforce compliance with the
+27 provisions of the Compact and its promulgated Rules. A Member State by
+28 enactment of this Compact consents to venue and jurisdiction in such court
+29 for the purposes set forth herein. The relief sought may include both
+30 injunctive relief and damages. In the event judicial enforcement is
+31 necessary, the prevailing party shall be awarded all costs of such litigation,
+32 including reasonable attorney’s fees. The remedies herein shall not be the
+33 exclusive remedies of the Commission. The Commission may pursue any
+34 other remedies available under federal or the defaulting Member State’s
+35 law.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.101.9 22 1148
+1 2. A Member State may initiate legal action against the Commission in the
+2 United States District Court for the District of Columbia or the federal district
+3 where the Commission has its principal offices to enforce compliance with
+4 the provisions of the Compact and its promulgated Rules. The relief sought
+5 may include both injunctive relief and damages. In the event judicial
+6 enforcement is necessary, the prevailing party shall be awarded all costs of
+7 such litigation, including reasonable attorney’s fees.
+8 3. No person other than a Member State shall enforce this Compact against
+9 the Commission.
+10 SECTION 11. EFFECTIVE DATE, WITHDRAWAL, AND AMENDMENT
+11 A. The Compact shall come into effect on the date on which the Compact statute is
+12 enacted into law in the seventh Member State ("Effective Date").
+13 1. On or after the Effective Date of the Compact, the Commission shall
+14 convene and review the enactment of each of the first seven Member States
+15 ("Charter Member States") to determine if the statute enacted by each such
+16 Charter Member State is materially different than the Model Compact.
+17 a. A Charter Member State whose enactment is found to be materially
+18 different from the Model Compact shall be entitled to the default
+19 process set forth in Section 10.
+20 b. If any Member State is later found to be in default, or is terminated
+21 or withdraws from the Compact, the Commission shall remain in
+22 existence and the Compact shall remain in effect even if the number
+23 of Member States should be less than seven.
+24 2. Member States enacting the Compact subsequent to the seven initial
+25 Charter Member States shall be subject to the process set forth herein and
+26 Commission Rule to determine if their enactments are materially different
+27 from the Model Compact and whether they qualify for participation in the
+28 Compact.
+29 3. All actions taken for the benefit of the Commission or in furtherance of the
+30 purposes of the administration of the Compact prior to the effective date of
+31 the Compact or the Commission coming into existence shall be considered
+32 to be actions of the Commission unless specifically repudiated by the
+33 Commission. The Commission shall own and have all rights to any
+34 intellectual property developed on behalf or in furtherance of the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.101.9 23 1148
+1 Commission by individuals or entities involved in organizing or establishing
+2 the Commission, as may be further set forth in Rules of the Commission.
+3 4. Any State that joins the Compact subsequent to the Commission’s initial
+4 adoption of the Rules and bylaws shall be subject to the Rules and bylaws
+5 as they exist on the date on which the Compact becomes law in that State.
+6 Any Rule that has been previously adopted by the Commission shall have
+7 the full force and effect of law on the date the Compact becomes law in that
+8 State.
+9 B. Any Member State may withdraw from this Compact by enacting a statute
+10 repealing the same.
+11 1. A Member State’s withdrawal shall not take effect until one hundred eighty
+12 days after enactment of the repealing statute.
+13 2. Withdrawal shall not affect the continuing requirement of the withdrawing
+14 State’s Respiratory Therapy Licensing Authority to comply with the
+15 investigative and Adverse Action reporting requirements of this Compact
+16 prior to the effective date of withdrawal.
+17 3. Upon the enactment of a statute withdrawing from this Compact, a State
+18 shall immediately provide notice of such withdrawal to all Licensees and
+19 Compact Privilege holders, of which the Commission has a record, within
+20 that State. Notwithstanding any subsequent statutory enactment to the
+21 contrary, such withdrawing State shall continue to recognize all licenses
+22 granted pursuant to this Compact for a minimum of one hundred eighty
+23 days after the date of such notice of withdrawal.
+24 C. Nothing contained in this Compact shall be construed to invalidate or prevent any
+25 licensure agreement or other cooperative arrangement between a Member State
+26 and a non-Member State that does not conflict with the provisions of this Compact.
+27 D. This Compact may be amended by the Member States. No amendment to this
+28 Compact shall become effective and binding upon any Member State until it is
+29 enacted into the laws of all Member States.
+30 SECTION 12. CONSTRUCTION AND SEVERABILITY
+31 A. This Compact and the Commission’s rulemaking authority shall be liberally
+32 construed so as to effectuate the purposes and the implementation and
+33 administration of the Compact. Provisions of the Compact expressly authorizing or
+34 requiring the promulgation of Rules shall not be construed to limit the
+35 Commission’s rulemaking authority solely for those purposes.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.101.9 24 1148
+1 B. The provisions of this Compact shall be severable, and if any phrase, clause,
+2 sentence, or provision of this Compact is held by a court of competent jurisdiction
+3 to be contrary to the constitution of any Member State, a State seeking
+4 participation in the Compact, or of the United States, or the applicability thereof to
+5 any government, agency, person, or circumstance is held to be unconstitutional by
+6 a court of competent jurisdiction, the validity of the remainder of this Compact and
+7 the applicability thereof to any other government, agency, person, or circumstance
+8 shall not be affected thereby.
+9 C. Notwithstanding subsection B of this section, the Commission may deny a State’s
+10 participation in the Compact or, in accordance with the requirements of Section 10,
+11 terminate a Member State’s participation in the Compact, if it determines that a
+12 constitutional requirement of a Member State is a material departure from the
+13 Compact. Otherwise, if this Compact shall be held to be contrary to the constitution
+14 of any Member State, the Compact shall remain in full force and effect as to the
+15 remaining Member States and in full force and effect as to the Member State
+16 affected as to all severable matters.
+17 SECTION 13. CONSISTENT EFFECT AND CONFLICT WITH OTHER STATE LAWS
+18 A. Nothing herein shall prevent or inhibit the enforcement of any other law of a
+19 Member State that is not inconsistent with the Compact.
+20 B. Any laws, statutes, regulations, or other legal requirements in a Member State in
+21 conflict with the Compact are superseded to the extent of the conflict, including
+22 any subsequently enacted State laws.
+23 C. All permissible agreements between the Commission and the Member States are
+24 binding in accordance with their terms.
+25 D. Other than as expressly set forth herein, nothing in this Compact will impact initial
+26 licensure.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

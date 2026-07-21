@@ -1,0 +1,194 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.879.9 101st Legislative Session 158
+2026 South Dakota Legislature
+Senate Bill 158
+Introduced by: Senator Duhamel
+1 An Act to amend the manner in which a school district determines the district's
+2 enrollment for the purpose of calculating state aid to general education.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 13-13-1.2 be AMENDED:
+5 13-13-1.2. Any records related to the reporting of fall enrollment or spring
+6 enrollment of a public school district shall must be subject to examination by the
+7 Department of Education at all times.
+8 Section 2. That § 13-13-10.1 be AMENDED:
+9 13-13-10.1. The education funding terms and procedures referenced in this
+10 chapter are defined as follows:
+11 (1) Nonresident students who are in the care and custody of the Department of Social
+12 Services, the Unified Judicial System, the Department of Corrections, or other state
+13 agencies and are attending a public school may be included in the fall annual
+14 enrollment of the receiving district when enrolled in the receiving district;
+15 (2) "Fall enrollment," is calculated as follows:
+16 (a) Determine the number of kindergarten through twelfth grade students
+17 enrolled in all schools operated by the school district on the last Friday of
+18 September of the current school year;
+19 (b) Subtract the number of students for whom the district receives tuition
+20 except for:
+21 (i) Nonresident students who are in the care and custody of a state
+22 agency and are attending a public school district; and
+23 (ii) Students who are being provided an education pursuant to § 13-28-
+24 11; and
+25 (c) Add the number of students for whom the district pays tuition.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.879.9 2 158
+1 When computing state aid to education for a school district pursuant to § 13-13-73, the
+2 secretary of the Department of Education shall use the school district's fall
+3 enrollment;
+4 (2) "Fall enrollment," the number of students enrolled in a school district on the last
+5 Friday of September, as determined by:
+6 (a) Adding the number of students in all grades from kindergarten through
+7 twelve, enrolled in all schools operated by a school district on the last Friday
+8 of September, to the number of students for whom the district pays tuition;
+9 and
+10 (b) Subtracting from the sum of subsection (a), the number of students for
+11 whom the district receives tuition, provided that the number does not
+12 include any nonresident student or student who is receiving education
+13 pursuant to § 13-28-11;
+14 (3) "Spring enrollment," the number of students enrolled in a school district on the
+15 second Friday of January, as determined by:
+16 (a) Adding the number of students in all grades from kindergarten through
+17 twelve, enrolled in all schools operated by a school district on the second
+18 Friday of January, to the number of students for whom the district pays
+19 tuition; and
+20 (b) Subtracting from the sum of subsection (a), the number of students for
+21 whom the district receives tuition, provided that the number does not
+22 include any nonresident student or student who is receiving education
+23 pursuant to § 13-28-11;
+24 (4) "Annual enrollment," the greater of the fall and spring enrollments;
+25 (5) "Target teacher ratio factor," is:
+26 (a) For school districts with a fall an annual enrollment of two hundred or less
+27 students or fewer, the target teacher ratio factor is 12;
+28 (b) For districts with a fall an annual enrollment of greater more than two
+29 hundred students, but less fewer than six hundred students, the target
+30 teacher ratio factor is calculated as follows:
+31 (i) Multiplying the fall annual enrollment by .00750; and
+32 (ii) Adding 10.50 to the resulting product; and
+33 (c) For districts with a fall an annual enrollment of at least six hundred or
+34 greater students, the target teacher ratio factor is 15.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.879.9 3 158
+1 The fall annual enrollment used for the determination of the target teacher ratio for a
+2 school district may not include any students residing in a residential treatment
+3 facility when the education program is operated by the school district;
+4 (4)(6) "English learner (EL) adjustment," is calculated by multiplying 0.25 times the
+5 number of kindergarten-through-twelfth-grade students who, in the prior school
+6 year, scored below level four on the state-administered language proficiency
+7 assessment as required in the state's consolidated state application pursuant to
+8 § 1111(b)(2)(G) of the Every Student Succeeds Act of 2015;
+9 (5)(7) "Index factor," is the annual percentage change in the consumer price index for
+10 urban wage earners and clerical workers as computed by the Bureau of Labor
+11 Statistics of the United States Department of Labor for the year before the year
+12 immediately preceding the year of adjustment or three percent, whichever is less;
+13 (6)(8) "Target teacher salary," for the school fiscal year beginning July 1, 2025, is
+14 $62,821.19. Each school fiscal year thereafter, the target teacher salary is the
+15 previous fiscal year's target teacher salary increased by the index factor;
+16 (7)(9) "Target teacher benefits," is the target teacher salary multiplied by twenty-nine
+17 percent;
+18 (8)(10) "Target teacher compensation," is the sum of the target teacher salary and the
+19 target teacher benefits;
+20 (9)(11) "Overhead rate," is thirty-eight and seventy-eight-hundredths percent.
+21 Beginning in school fiscal year 2018, the overhead rate must be adjusted to take
+22 into account the sum of the amounts that districts exceed the other revenue base
+23 amount;
+24 (10)(12) "Local need," is calculated as follows:
+25 (a) Divide the fall enrollment annual enrollment by the target teacher ratio
+26 factor;
+27 (b) If applicable, divide the English Learner adjustment pursuant to subdivision
+28 (4) by the target teacher ratio factor;
+29 (c) Add the results of subsections (a) and (b);
+30 (d) Multiply the result of subsection (c) by the target teacher compensation;
+31 (e) Multiply the product of subsection (d) by the overhead rate;
+32 (f) Add the products of subsections (d) and (e) and subdivision (20);
+33 (g) When calculating local need at the statewide level, include the amounts set
+34 aside for costs related to technology in schools and statewide student
+35 assessments;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.879.9 4 158
+1 (h) When calculating local need at the statewide level, include the amounts set
+2 aside for sparse school district benefits, calculated pursuant to §§ 13-13-
+3 78 and 13-13-79; and
+4 (i) When calculating local need at the statewide level, include the amounts set
+5 aside for career and technical education calculated pursuant to §§ 13-13-
+6 81 and 13-13-82;
+7 (11)(13) "Alternative per student need," is calculated as follows:
+8 (a) Add the total need for each school district for school fiscal year 2016,
+9 including the small school adjustment and the English learner adjustment,
+10 to the lesser of the amount of funds apportioned to each school district in
+11 the year preceding the most recently completed school fiscal year or school
+12 fiscal year 2015 pursuant to §§ 10-33-24, 10-35-21, 10-36-10, 10-43-77,
+13 11-7-73, 13-13-4, and 23A-27-25; and
+14 (b) Divide the result of (a) by the September 2015 fall enrollment, excluding
+15 any adjustments based on prior year student counts;
+16 (12)(14) "Alternative local need," may only be used by a school district created or
+17 reorganized before July 1, 2016, and is the alternative per student need multiplied
+18 by the fall annual enrollment, excluding any adjustments based on prior year
+19 student counts;
+20 (13)(15) "Local effort," the amount of ad valorem taxes generated in a school fiscal year
+21 by applying the levies established pursuant to § 10-12-42. Beginning on July 1,
+22 2017, local effort includes the amount of funds apportioned to each school district
+23 in the year preceding the most recently completed school fiscal year pursuant to
+24 §§ 10-33-24, 10-35-21 as provided by subdivision (15), 10-36-10, 10-43-77, 11-
+25 7-73, 13-13-4, and 23A-27-25 and that exceeds the other revenue base amount;
+26 (14)(16) "Other revenue base amount," is zero;
+27 (15)(17) "Wind energy tax revenue," any wind energy tax revenue apportioned to school
+28 districts pursuant to § 10-35-21 from a wind farm producing power for the first
+29 time before July 1, 2016, is considered local effort pursuant to subdivision (13) and
+30 other revenue base amount pursuant to subdivision (14). However, for wind energy
+31 tax revenue apportioned to a school district from a wind farm producing power for
+32 the first time after June 30, 2016, one hundred percent must be retained by the
+33 school district to which the tax revenue is apportioned for the first five years of
+34 producing power, eighty percent for the sixth year, sixty percent for the seventh
+35 year, forty percent for the eighth year, twenty percent for the ninth year, and zero
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.879.9 5 158
+1 percent thereafter. If a wind farm begins producing power for the first time
+2 between October first and December thirty-first in a calendar year, any revenues
+3 generated for that time period must be retained by the school district and that time
+4 period may not be counted against the first five-year period;
+5 (16)(18) "Per student equivalent," for funding calculations that are determined on a per
+6 student basis, the per student equivalent is calculated as follows:
+7 (a) Multiply the target teacher compensation times the sum of one plus the
+8 overhead rate; and
+9 (b) Divide subsection (a) by 15;
+10 (17)(19) "Monthly cash balance," the total amount of money for each month in the
+11 school district's general fund, calculated by adding all deposits made during the
+12 month to the beginning cash balance and deducting all disbursements or payments
+13 made during the month;
+14 (18)(20) "General fund base percentage," is determined as follows:
+15 (a) Forty percent for a school district with a fall enrollment as defined in
+16 subdivision (2) an annual enrollment of two hundred students or less fewer;
+17 (b) Thirty percent for a school district with fall enrollment as defined in
+18 subdivision (2) of more an annual enrollment that is greater than two
+19 hundred students, but less fewer than six hundred students; and
+20 (c) Twenty-five percent for a school district with fall enrollment as defined in
+21 subdivision (2) greater than or equal to an annual enrollment of at least six
+22 hundred students.
+23 When determining the general fund base percentage, the secretary of the
+24 Department of Education shall use the lesser of the school district's fall enrollment
+25 as defined in subdivision (2) for the current school year or the school district's fall
+26 annual enrollment from the previous two years;
+27 (19)(21) "Allowable general fund cash balance," the general fund base percentage
+28 multiplied by the district's general fund expenditures in the previous school year;
+29 and
+30 (20)(22) "Alternative instruction participation adjustment," is calculated by multiplying
+31 0.10 times the number of children who participated in the prior school year in high
+32 school interscholastic activities sanctioned or sponsored by the South Dakota High
+33 School Activities Association, as permitted by § 13-36-7, while receiving
+34 alternative instruction pursuant to § 13-27-3, multiplied by the per student
+35 equivalent defined in this section.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

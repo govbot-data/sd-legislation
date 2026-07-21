@@ -1,0 +1,134 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.763.14 101st Legislative Session 155
+2026 South Dakota Legislature
+Senate Bill 155
+Introduced by: Senator Carley
+1 An Act to increase legislative oversight procedures and protections against conflicts
+2 of interest, and to provide a penalty therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 2-6-4 be AMENDED:
+5 2-6-4. The Government Operations and Audit Committee may examine all records
+6 and vouchers, summon witnesses by request or by issuing a subpoena, and thoroughly
+7 examine all expenditures and the general management of each department of state
+8 government.
+9 The committee may issue a subpoena for an individual, a document, or both. The
+10 committee may take the deposition of any witness and issue written interrogatories and
+11 requests for production of documents or things to any person in the same manner as
+12 discovery is conducted in a civil action.
+13 A subpoena, written interrogatory, request for production of documents or things,
+14 or any other discovery procedure conducted pursuant to this section must specify a return
+15 date. The chair of the committee may extend the return date by written notice.
+16 Upon service of a subpoena or other discovery procedure conducted pursuant to
+17 this section, the subject of the subpoena or discovery procedure shall preserve all
+18 responsive or potentially responsive materials in the subject's control, custody, or
+19 possession.
+20 The committee may use the procedure provided in chapter 21-34 to enforce its the
+21 subpoena or discovery procedure when the subject of the subpoena or discovery
+22 procedure refuses or fails to comply with the command to appear and testify before the
+23 committee or comply with the discovery procedure.
+24 If the subject of a subpoena or discovery procedure knowingly or intentionally
+25 refuses or fails to comply by the return date, the refusal or failure creates a rebuttable
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.763.14 2 155
+1 presumption that any withheld information would have been adverse to the interests of
+2 the subject.
+3 The committee may authorize one or more members of the committee, or any
+4 other individual, to:
+5 (1) Conduct an investigation on behalf of the committee;
+6 (2) Use the discovery procedures the committee is authorized to use; and
+7 (3) Use the procedure provided in chapter 21-34 to enforce the discovery procedures
+8 of the committee.
+9 Any individual authorized by the committee to conduct an investigation must shall
+10 comply with all applicable state and federal laws regarding confidentiality and any
+11 additional restrictions imposed by the committee.
+12 The committee may authorize the director of the Legislative Research Council to
+13 expend moneys from the legislative priority fund for the purpose of carrying out the duties
+14 of this section.
+15 Section 2. That a NEW SECTION be added to chapter 2-6:
+16 For the purposes of legislative oversight and investigation, the House Judiciary
+17 Committee and the Senate Judiciary Committee may, by majority vote of members-elect,
+18 exercise the same subpoena authority, discovery authority, record-preservation
+19 requirements, and enforcement mechanisms provided to the Government Operations and
+20 Audit Committee pursuant to § 2-6-4.
+21 Section 3. That a NEW SECTION be added to chapter 2-6:
+22 A board, bureau, commission, department, or other agency of the state, or any of
+23 its political subdivisions, may not dismiss, suspend from employment, demote, decrease
+24 the compensation of, or take any other retaliatory action against an employee, or retaliate
+25 against a consultant or contractor, who, in good faith, provides testimony, produces
+26 records, or otherwise cooperates with an audit, investigation, subpoena, or discovery
+27 procedure conducted pursuant to § 2‑6‑4, 2-6-4.1, or 4‑11‑4.
+28 In addition to any available administrative remedy, an individual who is aggrieved
+29 by a violation of this section may bring a civil action in circuit court. Upon finding that a
+30 violation of this section occurred, the court may award or grant any of the following:
+31 (1) Actual damages;
+32 (2) Back pay;
+33 (3) Contract damages;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.763.14 3 155
+1 (4) Injunctive relief;
+2 (5) Reasonable attorney fees and costs;
+3 (6) Reinstatement or restoration of contract status, if feasible;
+4 (7) Upon finding that the retaliation was knowing and intentional, treble damages; and
+5 (8) If the protected activity results in recovery of state moneys, imposition of civil
+6 penalties, or an order of criminal restitution, a whistleblower reward, not exceeding
+7 the lesser of ten percent of the amount recovered or fifty thousand dollars.
+8 Section 4. That § 2-12-8.2 be AMENDED:
+9 2-12-8.2. No An elected officer, department or agency head, or division director,
+10 or the highest paid employee reporting to such person any elected officer, department or
+11 agency head, or division director may be not:
+12 (1) Be compensated, act, or register as a lobbyist, other than a public employee
+13 lobbyist, during a period of two years after that person's officer or employee's
+14 termination of service in the state government; or
+15 (2) Accept employment, compensation, or services from, or enter into a contract with,
+16 a person if the officer or employee is in a position to participate, or if the officer or
+17 employee participated within the twenty-four months immediately preceding
+18 termination of service in the state government, substantially in the approval,
+19 award, or recommendation of, or deliberation or negotiation regarding, a specific
+20 discretionary state contract, grant, loan, tax incentive, or any other state financial
+21 assistance exceeding one hundred thousand dollars, which benefited the person,
+22 provided that this subdivision does not apply to any benefit pursuant to a
+23 standardized, non‑discretionary formula generally available to similarly situated
+24 applicants.
+25 An officer or employee who intentionally and knowingly violates subdivision (2) is
+26 guilty of theft pursuant to § 22-30A-46.
+27 A violation of this section is a Class 1 misdemeanor 6 felony.
+28 Section 5. That § 22-30A-46 be AMENDED:
+29 22-30A-46. Any public official who knowingly uses funds moneys or property that
+30 has been entrusted to the public official in violation of, the use of which violates the public
+31 trust and that results in a direct financial benefit to the public official, commits a direct
+32 criminal conflict of interest.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.763.14 4 155
+1 A public official who acts for the purpose of securing, and as a result obtains, a
+2 promise, agreement, understanding, or expectation of future employment, compensation,
+3 or other thing of value commits an indirect criminal conflict of interest.
+4 Any public official who commits a direct or indirect criminal conflict of interest is
+5 guilty of theft.
+6 Upon finding by clear and convincing evidence that a public official violated this
+7 section, a circuit court having jurisdiction over the matter shall order:
+8 (1) Disgorgement of all benefits, compensation, or anything else of value obtained as
+9 a result of the public official's violation; and
+10 (2) Restitution to the state or affected governmental entity.
+11 A public official whose violation of this section involves a value of one hundred
+12 thousand dollars or more, repeated misconduct, or a clear abuse of a position of public
+13 trust, is guilty of a Class 5 felony.
+14 For purposes of this section, "a clear abuse of a position of public trust" means a
+15 deliberate or reckless misuse of authority or resources entrusted to a public official, which
+16 is detrimental to the public interest.
+17 For purposes of this section, "direct financial benefit" means a personal monetary
+18 gain received from the use of public moneys or property.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

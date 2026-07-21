@@ -1,0 +1,45 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.615.18 101st Legislative Session 138
+2026 South Dakota Legislature
+Senate Bill 138
+Introduced by: Senator Hulse
+1 An Act to revise the time within which a recount for a school board election must be
+2 completed.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 13-7-19.2 be AMENDED:
+5 13-7-19.2. If any candidate for the school board is defeated by a margin not
+6 exceeding two percent of the total votes cast for all candidates for the office, the candidate
+7 may, within five days after completion of the official canvass, file with the business
+8 manager of the school district a written request for a recount. Upon receipt of a recount
+9 request, the business manager shall set:
+10 (1) Set the time and place for a recount. A recount board shall be established
+11 consisting of one person chosen by each candidate declared elected and; and
+12 (2) Appoint a recount board.
+13 The business manager shall appoint to the recount board one individual chosen by
+14 each candidate who is eligible to request a recount. If this participate in the recount.
+15 If the recount board consists of an even number of persons, the business manager
+16 must appoint one additional recount board member shall be appointed by the business
+17 manager who shall be mutually. The additional board member appointed by the business
+18 manager must be agreeable to each candidate involved in the recount. If the additional
+19 board member appointed by the business manager is not agreeable to each candidate
+20 involved in the recount, the secretary of state shall appoint the additional member.
+21 The person individual having custody of the ballot boxes containing the ballots to
+22 be recounted shall produce the ballot boxes before when the recount board. All convenes.
+23 The recount board shall resolve all questions arising on the recount shall be determined
+24 by majority vote of the recount board. The recount shall must proceed as expeditiously as
+25 reasonably possible until completed.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.615.18 2 138
+1 Any recount conducted under this section must be completed before the annual
+2 meeting of the board held pursuant to § 13-8-10.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,116 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.510.23 101st Legislative Session 1249
+2026 South Dakota Legislature
+House Bill 1249
+ENROLLED
+AN ACT
+ENTITLED An Act to amend provisions pertaining to the School Finance
+Accountability Board, and the process by which a recommendation of the
+board is approved.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+Section 1. That § 1-45-38 be AMENDED:
+1-45-38. There is created the School Finance Accountability Board within the
+Department of Education. The board consists of five members appointed by the Governor.
+The members shall serve a term of four years.
+A school district may request that the School Finance Accountability Board waive
+any reduction to the district's state aid for general education, imposed under § 13-13-
+73.5, or the penalty imposed upon a school district, pursuant to § 13-13-73.9.
+The board may:
+(1) Reduce a school district's state aid for general education, as provided in § 13-13-
+73.5;
+(2) Impose the penalty, as provided in § 13-13-73.9, upon a school district for failing
+to comply with § 13-13-73.6 or 13-13-73.8;
+(3) Require a review of the school district's accreditation if:
+(a) The district's lowest general fund monthly cash balance exceeds the
+district's allowable general fund cash balance; or
+(b) The district has failed to comply with § 13-13-73.6 or 13-13-73.8; or
+(4) Waive, in whole or in part:
+(a) The reduction to a school district's state aid for general education required
+under § 13-13-73.5, if the district demonstrates that the lowest monthly
+general cash fund balance exceeded the allowable general fund cash
+balance as the result of special circumstances; or
+
+26.510.23 2 1249
+(b) A penalty imposed upon a school district by § 13-13-73.9, if the district
+demonstrates that the district's failure to comply with § 13-13-73.6 or 13-
+13-73.8 was the result of special circumstances.
+The board may condition any waiver granted to a school district pursuant to
+subsection (4)(a) upon the school district's annual lowest general fund monthly cash
+balance equaling an amount less than the district's allowable general fund cash balance,
+for at least three years. If the school district's lowest general fund monthly cash balance
+exceeds the district's allowable general fund cash balance at any point during the three
+years, the board may rescind the waiver and impose the penalty required under § 13-13-
+73.5.
+The board may condition any waiver granted to a school district pursuant to
+subsection (4)(b) upon the school district increasing the district's average teacher
+compensation in accordance with § 13-13-73.6 and paying each full-time equivalent
+teacher a salary equal to the state minimum salary, as defined in § 13-13-73.8, for at
+least three years. If a school district fails to increase the district's average teacher
+compensation or fails to pay each full-time equivalent teacher a salary equal to the state
+minimum salary at any point during the three years, the board may rescind the waiver
+and impose the penalty required under § 13-13-73.9.
+The School Finance Accountability Board shall promulgate rules, pursuant to
+chapter 1-26, to establish the process by which a school district may request a waiver,
+pursuant to this section, and the factors that the board may consider in granting a waiver
+request from a school district. The factors must address the impact of employee
+retirements on the district.
+The Department of Education shall annually report to the Governor and the
+Legislature the information collected pursuant to §§ 13-8-47 and 13-13-73.6.
+Section 2. That § 13-13-73.5 be AMENDED:
+13-13-73.5. If a school district's lowest general fund monthly cash balance
+exceeds the district's allowable general fund cash balance, the Department of Education
+shall reduce a school district's state aid for general education, as calculated pursuant to
+§ 13-13-73, by an amount equal to the difference of the district's allowable general fund
+cash balance subtracted from the district's lowest general fund monthly cash balance. If
+the difference is less than zero, the reduction to the district's state aid for general
+education is zero.
+HB1249 ENROLLED
+
+26.510.23 3 1249
+A school district created or reorganized after July 1, 2016, is exempt from the
+reduction provided by this section for a period of three years immediately following its
+creation.
+Section 3. That § 13-13-73.9 be AMENDED:
+13-13-73.9. The Department of Education must decrease state aid to general
+education funding to the school district in the following fiscal year by five hundred dollars
+for each full-time equivalent teacher employed in the school district if:
+(1) The school district does not increase the school district's average teacher
+compensation in accordance with § 13-13-73.6; or
+(2) The school district does not pay each full-time equivalent teacher a salary at least
+equal to the state minimum salary as defined in § 13-13-73.8.
+HB1249 ENROLLED
+
+26.510.23 4 1249
+An Act to amend provisions pertaining to the School Finance Accountability Board, and the
+process by which a recommendation of the board is approved.
+Received at this Executive Office
+I certify that the attached Act originated in this _____ day of _____________,
+the:
+2026 at ____________M.
+House as Bill No. 1249
+By
+Chief Clerk of the House for the Governor
+The attached Act is hereby
+approved this ________ day of
+Speaker of the House ______________, A.D., 2026
+Attest:
+Governor
+Chief Clerk of the House
+STATE OF SOUTH DAKOTA,
+ss.
+Office of the Secretary of State
+President of the Senate
+Filed ____________, 2026
+Attest: at _________ o'clock __M.
+Secretary of the Senate Secretary of State
+House Bill No. 1249 By
+File No. ____ Asst. Secretary of State
+Chapter No. ______
+HB1249 ENROLLED

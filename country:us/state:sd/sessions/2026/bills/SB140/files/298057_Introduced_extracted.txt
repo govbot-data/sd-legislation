@@ -1,0 +1,56 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.153.9 101st Legislative Session 140
+2026 South Dakota Legislature
+Senate Bill 140
+Introduced by: Senator Smith
+1 An Act to revise provisions related to inmate compensation.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 23A-28B-40 be AMENDED:
+4 23A-28B-40. There is established within the state treasury the crime victims'
+5 compensation fund, into which shall be is deposited surcharges collected pursuant to
+6 § 23A-28B-42, interest earned pursuant to section 4 of this Act, deductions from prison
+7 industries revenues or inmate wages pursuant to subdivision 24-7-3(1), contributions,
+8 grants, payments ordered by the court, interest received on moneys in the fund, and all
+9 other fees and moneys collected for the purposes of this chapter. This fund shall may be
+10 used only for the purposes of paying compensation awards and, administering the crime
+11 victims' compensation program, as provided for in this chapter. The fund may also be
+12 used, and reimbursing a law enforcement agency or law enforcement officer, as provided
+13 in § 23A-28B-40.1.
+14 Section 2. That § 24-2-29 be AMENDED:
+15 24-2-29. Each An inmate is liable for court-ordered fines, costs, fees, sanctions,
+16 and restitution and; any obligation incurred while under the jurisdiction of the Department
+17 of Corrections, including those provided for in §§ 24-2-28, 24-7-3, 24-8-9, 24-15-11, 24-
+18 15A-24, and 23A-35B-4; and any other charge owed to the state. Disbursement shall
+19 Except as provided in section 4 of this Act, disbursement must be made from an inmate's
+20 institutional account to defray the inmate's obligation, regardless of the source of the
+21 inmate's funds moneys, including moneys in the inmate's institutional account pursuant
+22 to § 24-2-5 and wages earned by the inmate pursuant to §§ 24-4-9, 24-7-3(3), 24-7-6,
+23 and 24-8-8.
+24 Section 3. That § 24-4-9 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.153.9 2 140
+1 24-4-9. The warden may authorize monetary compensation to inmates for work
+2 performed under the provisions of § 24-4-7. The amount authorized may not be less than
+3 one dollar and twenty-five cents per hour.
+4 Section 4. That a NEW SECTION be added to chapter 24-4:
+5 A correctional facility official shall deposit twenty-five percent of all compensation
+6 earned by an inmate under the official's custody, pursuant to this chapter, in a personal
+7 savings account for the inmate. Moneys deposited in the inmate's personal savings
+8 account may not be disbursed to defray any obligation pursuant to § 24-2-29.
+9 Upon discharge of an inmate from a correctional facility, whether by parole,
+10 suspended sentence, or final discharge, a correctional facility official shall disburse the
+11 balance of the personal savings account to the inmate.
+12 On a quarterly basis, a correctional facility official shall deposit into the crime
+13 victims' compensation fund any interest accrued from funds deposited in the inmate's
+14 personal savings account.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

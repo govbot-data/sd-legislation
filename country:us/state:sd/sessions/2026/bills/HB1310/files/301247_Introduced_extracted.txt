@@ -1,0 +1,31 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.934.11 101st Legislative Session 1310
+2026 South Dakota Legislature
+House Bill 1310
+Introduced by: Representative Shubeck
+1 An Act to make an appropriation for providing loans to custom exempt plants and
+2 slaughtering establishments.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. There is appropriated $10,000,000 from the revolving economic development and
+5 initiative fund, to the Governor's Office of Economic Development, for providing loans to assist
+6 with the startup or expansion of custom exempt plants or slaughtering establishments in this
+7 state, as defined in § 39-5-6, according to terms and conditions established by the office.
+8 Section 2. The Governor's Office of Economic Development may not provide a loan pursuant
+9 to this Act exceeding $1,000,000 to any one custom exempt plant or slaughtering
+10 establishment. The loan provided by the office is subordinate to other loans received by the
+11 custom exempt plant or slaughtering establishment for the same purpose.
+12 Section 3. The commissioner of the Governor's Office of Economic Development shall
+13 approve vouchers and the state auditor shall draw warrants to pay expenditures authorized
+14 in this Act.
+15 Section 4. Any amounts appropriated in this Act not lawfully expended or obligated shall
+16 revert in accordance with the procedures prescribed in chapter 4-8.
+17 Section 5. This Act is effective beginning June 30, 2026.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

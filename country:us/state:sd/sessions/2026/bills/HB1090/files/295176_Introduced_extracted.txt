@@ -1,0 +1,22 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.336.14 101st Legislative Session 1090
+2026 South Dakota Legislature
+House Bill 1090
+Introduced by: Representative Fitzgerald
+1 An Act to require publication of notices of gubernatorial appointments and
+2 reappointments.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 3-4:
+5 The governor's office shall publish, in the next regularly scheduled issue of the
+6 South Dakota Register, notice of any appointment or reappointment of a nominee to, or
+7 the filling of any vacancy of, a board, commission, council, or any other state entity over
+8 which the Governor has a constitutional or statutory power of appointment.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

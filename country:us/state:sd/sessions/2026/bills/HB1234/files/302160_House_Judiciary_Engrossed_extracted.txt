@@ -1,0 +1,61 @@
+Title: 
+Official Title: 
+Source: versions - House Judiciary Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.822.13 101st Legislative Session 1234
+2026 South Dakota Legislature
+House Bill 1234
+HOUSE JUDICIARY ENGROSSED
+Introduced by: Representative Roby
+1 An Act to revise provisions related to serving a subpoena in a contested case.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 1-26-18 be AMENDED:
+4 1-26-18. Opportunity shall be afforded to all parties to respond and present
+5 evidence on issues of fact and argument on issues of law or policy. However, each Each
+6 agency, upon the motion of any party, may dispose of any defense or claim:
+7 (1) If the pleadings, depositions, answers to interrogatories, and admissions on file,
+8 together with the affidavits, if any, show that there is no genuine issue as to any
+9 material fact and a party is entitled to a judgment as a matter of law; or
+10 (2) At the close of the evidence offered by the proponent of the defense or claim, if it
+11 the agency determines that the evidence offered by the proponent of the defense
+12 or claim is legally insufficient to sustain the defense or claim.
+13 A party to a contested case proceeding may appear in person or by counsel, or
+14 both, and may be present during the giving of all evidence,. The party or the party's
+15 attorney of record may have reasonable opportunity to inspect all documentary evidence,
+16 may examine and cross-examine witnesses, may present evidence in support of the
+17 party's interest, and may have subpoenas issued issue subpoenas to compel attendance
+18 of witnesses and production of evidence in on the party's behalf.
+19 Section 2. That § 1-26-19.1 be AMENDED:
+20 1-26-19.1. Each agency and the officers thereof any attorney of record or officer
+21 of the agency charged with the duty to administer the laws of this the state and the rules
+22 of the agency shall have power to administer may:
+23 (1) Administer oaths as provided by chapter 18-3 and to subpoena; and
+24 (2) Subpoena witnesses or interested parties to appear and give testimony and to
+25 produce records, books, papers, and documents relating to any matters in
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.822.13 2 1234
+1 contested cases and likewise issue subpoenas for such purposes for persons
+2 interested therein matter in a contested case, as provided by in § 15-6-45.
+3 Unless otherwise provided by law, fees for witnesses shall be are as set forth in
+4 chapter 19-5 and must be paid by the agency or party for whom the witness is
+5 subpoenaed.
+6 Failure of a person to obey the a subpoena issued pursuant to this chapter may be
+7 punished as a contempt of court in the manner provided by chapter 21-34.
+8 Section 3. That a NEW SECTION be added to chapter 1-26:
+9 Before a subpoena commanding the production of documentary evidence pursuant
+10 to § 1-26-19.1 is served on the person to whom it is directed, a notice and copy of the
+11 subpoena must be served on each party to the matter pending. The hearing examiner or
+12 administrative law judge, upon motion made promptly and at or before the time specified
+13 in the subpoena for compliance with the subpoena, may:
+14 (1) Quash or modify the subpoena if it is unreasonable and oppressive; or
+15 (2) Condition denial of the motion upon the advancement, by the person on whose
+16 behalf the subpoena is issued, of the reasonable cost of producing the records,
+17 books, papers, or documents.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

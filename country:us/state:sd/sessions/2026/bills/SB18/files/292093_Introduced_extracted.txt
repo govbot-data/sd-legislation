@@ -1,0 +1,91 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.372.15 101st Legislative Session 18
+2026 South Dakota Legislature
+Senate Bill 18
+Introduced by: The Chair of the Committee on Taxation at the request of the Department of Revenue
+1 An Act to repeal income modifications for the bank franchise tax pertaining to bad
+2 debts.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 10-1-47 be AMENDED:
+5 10-1-47. The terms "United States Internal Revenue Code" and "Internal Revenue
+6 Code" mean the United States Internal Revenue Code as amended and in effect on January
+7 1, 2025. This section applies to §§ 10-4-9.1, 10-4-9.2, 10-4-9.3, 10-4-9.4, 10-4-39, 10-
+8 6-157, and 10-43-10.1, and subdivisions 10-6A-1(7), 10-6B-1(5), 10-18A-1(6), 10-43-
+9 10.3(6) 10-43-10.3(5), and 10-45A-1(5).
+10 Section 2. That § 10-43-10.2 be AMENDED:
+11 10-43-10.2. Added to taxable income are:
+12 (1) Interest or dividend income derived from obligations or securities of states or
+13 political subdivisions, or authorities thereof, not included in taxable income as
+14 determined under the Internal Revenue Code;
+15 (2) All income taxes paid or accrued, as the case may be applicable, during the tax
+16 year under the provisions of chapter 10-43 this chapter or under the provisions of
+17 any income tax, or franchise or privilege taxes measured by income levied by any
+18 other state or political subdivision to the extent that such the taxes were deducted
+19 to determine federal taxable income;
+20 (3) Bad debt deductions in excess of credits actually ascertained to be worthless and
+21 charged off within the tax year;
+22 (4) Any amount subsequently received on account of a bad debt previously charged
+23 off as a deduction for tax purposes;
+24 (5) Any amount received as a refund of federal income taxes during the tax year if
+25 that amount was previously deducted in determining net income;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.372.15 2 18
+1 (6)(4) Dividends received from other corporations to the extent that such the dividends
+2 have been deducted from net income as determined under the Internal Revenue
+3 Code; and
+4 (7)(5) Any capital loss from liquidating :
+5 (a) Liquidating sales within the twelve-month period beginning on the date on
+6 which a financial institution adopts a plan of complete liquidation, if all of
+7 the assets of the financial institution are distributed in complete liquidation,
+8 less assets retained to meet claims within the twelve-month period, or from
+9 the ; or
+10 (b) The distribution of property in complete liquidation of the financial
+11 institution which that is subject to federal corporate income taxes pursuant
+12 to § 336 of the Internal Revenue Code.
+13 Section 3. That § 10-43-10.3 be AMENDED:
+14 10-43-10.3. Subtracted from taxable income are:
+15 (1) Dividends received from financial institutions subject to taxation under this
+16 chapter, to the extent such the dividends were included in taxable income as
+17 determined under the Internal Revenue Code;
+18 (2) Taxes imposed upon the financial institution within the tax year, under the Internal
+19 Revenue Code, excluding any taxes imposed under 26 USC § 1374 and 26 USC
+20 § 1375;
+21 (3) Any interest expense described in §§ 291(e)(1)(B) and 265(b) of the Internal
+22 Revenue Code, which interest expense shall be is deductible;
+23 (4) Any capital gain from liquidating :
+24 (a) Liquidating sales within the twelve-month period beginning on the date on
+25 which a financial institution adopts a plan of complete liquidation, if all of
+26 the assets of the financial institution are distributed in complete liquidation,
+27 less assets retained to meet claims within the twelve-month period, or from
+28 the ; or
+29 (b) The distribution of property in complete liquidation of the financial
+30 institution which that is subject to federal corporate income taxes pursuant
+31 to § 336 of the Internal Revenue Code;
+32 (5) Any adjustment to taxable income due to a change in the method used to compute
+33 the federal bad debt deduction where the adjustment has already been included in
+34 taxable income for purposes of the tax imposed by this chapter;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.372.15 3 18
+1 (6) For those financial institutions making an election pursuant to 26 USC § 1362(a)
+2 of the United States Internal Revenue Code, as defined by § 10-1-47, imputed
+3 federal income taxes in an amount equal to the taxes that would have been paid
+4 on net income as defined in § 10-43-10.1 had the financial institution continued to
+5 file its federal tax return without making an election to file pursuant to 26 USC
+6 § 1362(a); and
+7 (7)(6) For those financial institutions organized as limited liability companies, imputed
+8 federal income taxes in an amount equal to the taxes that would have been paid
+9 on net income as defined in § 10-43-10.1 had the financial institution elected to
+10 file as a subchapter C corporation under the Internal Revenue Code.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,31 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.152.9 101st Legislative Session 139
+2026 South Dakota Legislature
+Senate Bill 139
+Introduced by: Senator Smith
+1 An Act to revise a provision related to the transportation of an inmate upon
+2 discharge from a correctional facility.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 24-5-3 be AMENDED:
+5 24-5-3. If not already provided, Upon discharge of an inmate from a correctional
+6 facility, whether by parole, suspended sentence, or final discharge, a correctional facility
+7 official shall must provide every the inmate with suitable:
+8 (1) Suitable clothing, a;
+9 (2) A sum of money to be determined by the secretary of corrections, and
+10 transportation; and
+11 (3) Transportation to the place one of the following locations, as chosen by the inmate:
+12 (a) The county where the inmate resided at the time of the offense that resulted
+13 in imprisonment;
+14 (b) The county where the inmate received sentence; or an
+15 (c) A location equivalent in distance upon discharge from a correctional facility,
+16 whether by parole, suspended sentence, or final discharge to either
+17 subsection (a) or (b), whichever is lesser in mileage.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

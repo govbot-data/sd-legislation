@@ -1,0 +1,91 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.508.14 101st Legislative Session 1230
+2026 South Dakota Legislature
+House Bill 1230
+Introduced by: Representative Lems
+1 An Act to modify requirements for payment of the employer's investment in South
+2 Dakota's future fee.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 61-5-29 be AMENDED:
+5 61-5-29. Employers required by this title to pay contributions, except employers
+6 pursuant to chapter 61-5A, that reimburse the unemployment compensation trust fund
+7 for benefits paid in lieu of contributions, shall, unless opting out pursuant to section 2 of
+8 this Act, also pay an employer's investment in South Dakota's future fee, hereinafter
+9 referred to as the investment fee, on wages as defined by this title. The investment fee
+10 rate for employers subject to this section, not eligible for experience rating, as provided
+11 for in § 61-5-24, must be is seventy-hundredths percent through calendar year 2006 and
+12 fifty-five hundredths percent on and after January 1, 2007. If an employer subject to this
+13 section is eligible for experience rating, the employer's reserve ratio must be determined
+14 pursuant to § 61-5-25.3 through calendar year 2017, pursuant to § 61-5-25.4 for calendar
+15 years 2018 and 2019, pursuant to § 61-5-25.5 for calendar year 2020 through calendar
+16 year 2023, pursuant to § 61-5-25.6 for calendar year 2024 through calendar year 2025,
+17 and pursuant to § 61-5-25.7 for calendar year 2026 and each year thereafter, and the
+18 employer's investment fee rate must be the rate appearing in column "A" on the same
+19 line the employer's reserve ratio appears in column "B" of the following rate schedule:
+20 Column "A" Column "B"
+21 Investment Fee Rate Reserve Ratio
+22 0.53% Less than 1.00%
+23 0.50% 1.00% and Less than 1.20%
+24 0.40% 1.20% and Less than 1.30%
+25 0.30% 1.30% and Less than 1.40%
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.508.14 2 1230
+1 0.20% 1.40% and Less than 1.50%
+2 0.10% 1.50% and Less than 1.60%
+3 0.00% 1.60% and Over
+4 The Notwithstanding section 2 of this Act, the terms and conditions of this title that
+5 apply to the payment and collection of contributions also apply to the payment and
+6 collection of the investment fee. The department shall deposit the proceeds from the
+7 investment fee in the clearing account of the unemployment compensation fund for
+8 clearance only. The proceeds may not become part of the fund. After clearance, the
+9 department must shall deposit the money derived from the investment fee payments, less
+10 refunds made pursuant to the provisions of this title, in the employer's investment in
+11 South Dakota's future fund, as provided for in § 61-5-29.1. No investment fee payment
+12 may be credited to the employer's experience-rating account, nor may the payment be
+13 deducted in whole or in part by any employer from the wages of individuals in its employ.
+14 The investment fee rate may not be increased over the applicable 1987 investment
+15 fee rate for any employer with a positive balance in the employer's experience-rating
+16 account on the computation date, as established in rules promulgated by the secretary of
+17 labor and regulation, in accordance with chapter 1-26, for the current year and the year
+18 preceding the current year.
+19 The investment rates provided in this section apply to and are retroactive to taxable
+20 wages paid on and after January 1, 1993.
+21 Section 2. That a NEW SECTION be added to chapter 61-5:
+22 The department shall develop a form for opting in to or out of paying the employer's
+23 investment in South Dakota's future fee created by § 61-5-29. The form must fit on one
+24 sheet of paper no bigger than 8.5 inches by eleven inches.
+25 The department shall publish the form on its website and distribute at the beginning
+26 of each calendar quarter a physical copy of the form to each employer subject to § 61-5-
+27 29, until the employer submits a completed form to the department. The department shall
+28 provide methods for submitting the form either physically or electronically.
+29 The department shall deem all employers that have not opted in to paying the fee
+30 as having opted out, regardless of whether they have submitted a completed form. An
+31 employer that has opted out of paying the fee is not required to pay the fee and is not
+32 subject to the terms and conditions of this title that apply to the payment and collection
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.508.14 3 1230
+1 of the fee. If an employer opts out of paying the fee, the department may not impose any
+2 penalty or other consequence on the employer for nonpayment of the fee.
+3 If any employer opts in to paying the fee, the employer is then subject to the terms
+4 and conditions of this title that apply to the payment and collection of the fee at the
+5 beginning of the following calendar quarter after the department receives the form
+6 indicating the employer has opted in.
+7 If an employer that has opted in wants to subsequently opt out, the employer must
+8 submit a new form to the department. An employer that previously opted in is no longer
+9 required to pay the fee, and is no longer subject to the terms and conditions of this title
+10 that apply to the payment and collection of the fee, at the beginning of the following
+11 calendar quarter after the department receives the form indicating the employer has opted
+12 out.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

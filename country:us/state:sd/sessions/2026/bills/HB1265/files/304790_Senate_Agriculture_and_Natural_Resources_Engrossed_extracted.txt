@@ -1,0 +1,30 @@
+Title: 
+Official Title: 
+Source: versions - Senate Agriculture and Natural Resources Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.741.29 101st Legislative Session 1265
+2026 South Dakota Legislature
+House Bill 1265
+SENATE AGRICULTURE AND NATURAL RESOURCES ENGROSSED
+This bill has been extensively amended (hoghoused) and may no longer be
+consistent with the original intention of the sponsor.
+Introduced by: Representative Jordan
+1 An Act to authorize the salvage of certain bird eggs.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 41-11-7 be AMENDED:
+4 41-11-7. Except as permitted by statute, no person otherwise provided in this
+5 section, an individual may not take or, have in possession, or intentionally break or destroy
+6 any nest or the eggs of the kinds of birds, the taking or killing of which is at any time or
+7 at all times prohibited. A violation of this section is a Class 2 misdemeanor.
+8 Nothing in this section prohibits any egg salvage activity if:
+9 (1) The individual holds a migratory bird special purpose salvage permit, issued by the
+10 United States Fish and Wildlife Service, in accordance with 50 C.F.R § 21.95
+11 (January 1, 2026); and
+12 (2) The salvage activity does not involve the eggs of birds, the taking or killing of which
+13 is at all times prohibited.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

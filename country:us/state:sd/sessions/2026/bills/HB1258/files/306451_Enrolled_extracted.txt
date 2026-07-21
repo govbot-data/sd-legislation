@@ -1,0 +1,60 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.146.31 101st Legislative Session 1258
+2026 South Dakota Legislature
+House Bill 1258
+ENROLLED
+AN ACT
+ENTITLED An Act to require that a property tax bill provide access to a state website
+providing property tax information.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+Section 1. That § 10-21-1.2 be AMENDED:
+10-21-1.2. For purposes of chapters 10-21 to 10-26, inclusive, the following terms
+mean:
+(1) "Courthouse," the county courthouse, the administrative building where the county
+office of treasurer is located, or a building where the board of county
+commissioners meet;
+(2) "QR code", a quick response code taking the form of a two-dimensional matrix
+barcode intended to be digitally scanned; and
+(3) "Treasurer," the county treasurer.
+Section 2. That a NEW SECTION be added to chapter 10-21:
+The property tax bill sent to each taxpayer pursuant to § 10-21-1.1 must include
+a QR code and an internet address, connecting the taxpayer to a website maintained by
+the Department of Revenue which provides supplementary information on property
+taxation, and on property tax relief programs, in this state.
+The tax bill must provide notice to the taxpayer that further tax information may
+be found by using the QR code and the internet address.
+
+26.146.31 2 1258
+An Act to require that a property tax bill provide access to a state website providing property
+tax information.
+Received at this Executive Office
+I certify that the attached Act originated in this _____ day of _____________,
+the:
+2026 at ____________M.
+House as Bill No. 1258
+By
+Chief Clerk of the House for the Governor
+The attached Act is hereby
+approved this ________ day of
+Speaker of the House ______________, A.D., 2026
+Attest:
+Governor
+Chief Clerk of the House
+STATE OF SOUTH DAKOTA,
+ss.
+Office of the Secretary of State
+President of the Senate
+Filed ____________, 2026
+Attest: at _________ o'clock __M.
+Secretary of the Senate Secretary of State
+House Bill No. 1258 By
+File No. ____ Asst. Secretary of State
+Chapter No. ______
+HB1258 ENROLLED

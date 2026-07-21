@@ -1,0 +1,92 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.990.21 101st Legislative Session 234
+2026 South Dakota Legislature
+Senate Bill 234
+Introduced by: Senator Crabtree
+1 An Act to modify provisions pertaining to the purchasing of goods and services
+2 related to data center operations.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 10-45:
+5 The terms used in this Act mean:
+6 (1) "Computer software," programs and other operating information used solely for
+7 the maintenance and operation of a qualified data center;
+8 (2) "Data center," a centralized repository for the storage, management,
+9 dissemination, and processing of electronic data and information, except for that
+10 which relates to the mining of digital currency;
+11 (3) "Enterprise information technology equipment," the following products used solely
+12 for the maintenance and operation of a qualified data center:
+13 (a) Computer hardware, servers, storage arrays, backup systems, disaster
+14 recovery equipment, routers, cooling systems, temperature control
+15 infrastructure, network equipment, switches, load balancers, firewalls,
+16 network cabling, edge devices, network monitoring equipment, water
+17 treatment systems, chilled water equipment, economizers, cooling towers,
+18 and piping and pump equipment for cooling towers;
+19 (b) Power infrastructure for the management of electricity, dedicated
+20 distribution equipment, backup power generation systems, battery
+21 systems, and construction materials for structures unique to data centers
+22 or other related infrastructure excluding primary electric generation service,
+23 transmission, or utility distribution infrastructure;
+24 (c) Racking systems, raised flooring, cabling, or trays necessary for the
+25 maintenance and operation of a qualified data center;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.990.21 2 234
+1 (d) Security systems, physical access control systems, surveillance systems,
+2 biometric scanners, security monitoring equipment, and monitoring
+3 systems, environmental monitoring systems, infrastructure management
+4 tools, and building management systems;
+5 (e) Testing and diagnostic equipment used for maintenance, commissioning, or
+6 troubleshooting;
+7 (f) Telecommunications and fiber infrastructure, fiber optic cabling, satellite
+8 equipment, and internet exchange components; and
+9 (g) Air quality systems, and specialized HVAC, filtration, and humidity control
+10 equipment;
+11 (4) "Qualified business," the owner, operator, or tenant of a qualified data center or a
+12 proposed data center; and
+13 (5) "Qualified data center," a facility located in this state:
+14 (a) Comprised of one or more buildings containing a data center;
+15 (b) Where all buildings that contain a data center qualify as real property
+16 subject to taxation pursuant to §§ 10-4-1 and 10-4-2; and
+17 (c) Equipped with fire suppression and prevention systems.
+18 Section 2. That a NEW SECTION be added to chapter 10-45:
+19 There are specifically exempted from the provisions of this chapter and from the
+20 computation of tax imposed by it, gross receipts from the sale of enterprise information
+21 technology equipment or computer software to be used in a qualified data center.
+22 Section 3. That a NEW SECTION be added to chapter 10-45:
+23 To be eligible for the exemption provided in section 2 of this Act, a qualified
+24 business in a qualified data center, or a qualified business in a proposed qualified data
+25 center, shall submit any documentary evidence required by the Department of Revenue
+26 to verify the eligibility of the qualified data center or proposed data center. The
+27 documentary evidence required by this section is confidential. The secretary of the
+28 Department of Revenue shall determine if the qualified business is eligible.
+29 To be eligible for the exemption provided by section 2 of this Act, a qualified
+30 business shall:
+31 (1) Ensure electric service provided to the qualified business by an electric utility is
+32 under a written agreement or rate schedule that avoids the shifting of costs to
+33 other customers of the electric utility; and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.990.21 3 234
+1 (2) Provide notice to local water providers to ensure that water consumption is
+2 compatible for the location in which the qualified data center is situated.
+3 Upon determining the eligibility of a future qualified business in a proposed
+4 qualified data center, the secretary shall provide the business with an exemption
+5 certificate for taxes imposed pursuant to this chapter and chapter 10-46.
+6 To retain eligibility for the exemption provided in section 2 of this Act, a qualified
+7 business must file an affidavit with the secretary attesting that the data center or the
+8 future data center qualifies for the exemption, prior to June first of each year.
+9 Section 4. That a NEW SECTION be added to chapter 10-46:
+10 There are specifically exempted from the provisions of this chapter, gross receipts
+11 from the sale of enterprise information technology equipment or computer software to be
+12 used in a qualified data center.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

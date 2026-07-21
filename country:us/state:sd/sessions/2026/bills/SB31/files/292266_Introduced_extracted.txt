@@ -1,0 +1,77 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.309.28 101st Legislative Session 31
+2026 South Dakota Legislature
+Senate Bill 31
+Introduced by: The Chair of the Committee on State Affairs at the request of the Secretary of State
+1 An Act to permit the use of a confirmation letter to verify a voter's registration.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 12-4-19.1 be AMENDED:
+4 12-4-19.1. The confirmation mailing notice shall be a double postcard stating that
+5 the voter's registration may be canceled if the card is not returned. In addition, the card
+6 shall state that if If the acknowledgement notice sent pursuant to § 12-4-5.3 is returned
+7 to the county auditor as undeliverable, the auditor must send a confirmation mailing letter
+8 or postcard that:
+9 (1) States the voter's registration may be canceled if the letter or postcard is not
+10 returned;
+11 (2) Lists the voter's information, as it appears in the master registration file; and
+12 (3) Provides the following instructions:
+13 (a) If the information on the return letter or card is correct, the voter must sign
+14 and return the letter or card within thirty days of the date of the postmark
+15 on the letter or card, or the voter's registration will become inactive. The
+16 card shall also state that if;
+17 (b) If the information on the return letter or card is not correct, the voter shall
+18 must send the correct information to update the voter's registration, within
+19 thirty days of the date of the postmark on the letter or card, or the voter's
+20 registration will become inactive.; and
+21 (c) If the letter or card is returned indicating a new address in another county
+22 in South Dakota or another state, the card shall serve serves as a
+23 cancellation authorization.
+24 The card shall also give information on reregistering if the voter has moved to
+25 another county or state. The card shall give the information about the voter as it appears
+26 in the registration records.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.309.28 2 31
+1 Section 2. That § 12-4-19.2 be AMENDED:
+2 12-4-19.2. If the card is not returned to the county auditor within the stated time
+3 limit or is undeliverable, the The county auditor shall must move the voter to an inactive
+4 registration file if:
+5 (1) The voter does not return the confirmation mailing by the deadline stated on the
+6 mailing; or
+7 (2) The confirmation mailing is returned to the auditor as undeliverable.
+8 Section 3. That § 12-4-19.7 be AMENDED:
+9 12-4-19.7. The voter registration list maintenance confirmation mailing notice
+10 shall be a double postcard stating that the voter's registration may be canceled if the card
+11 is not returned. In addition, the card shall state that if If the address verification request
+12 sent pursuant to § 12-4-19 is returned to the county auditor as undeliverable, the auditor
+13 must send a voter registration list maintenance confirmation mailing letter or postcard
+14 that:
+15 (1) States the voter's registration may be canceled if the letter or postcard is not
+16 returned;
+17 (2) Lists the voter's information, as it appears in the master registration file; and
+18 (3) Provides the following instructions:
+19 (a) If the information on the return letter or card is correct, the voter shall must
+20 sign and return the letter or card by the voter registration deadline of the
+21 primary election or the voter's registration becomes will become inactive.
+22 The card shall also state that if;
+23 (b) If the information on the return letter or card is not correct, the voter shall
+24 must send the correct information to update the voter's registration by the
+25 voter registration deadline of the primary election or the voter's registration
+26 becomes will become inactive.; and
+27 (c) If the card is returned indicating a new address in another county in South
+28 Dakota or another state, the card shall serve serves as a cancellation
+29 authorization.
+30 The card shall also give information on reregistering if the voter has moved to
+31 another county or state. The card shall give the information about the voter as the
+32 information appears in the registration records.
+33 Section 4. This Act is effective beginning December 1, 2026.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

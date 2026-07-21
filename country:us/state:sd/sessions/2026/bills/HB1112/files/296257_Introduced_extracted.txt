@@ -1,0 +1,49 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.62.10 101st Legislative Session 1112
+2026 South Dakota Legislature
+House Bill 1112
+Introduced by: Representative Mulally
+1 An Act to modify the definition of an electronic smoking device.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 34-46-1 be AMENDED:
+4 34-46-1. Terms used in this chapter mean:
+5 (1) "Electronic smoking device," any e-cigarette, e-cigar, e-pipe, e-hookah, or vape
+6 pen, containing or delivering nicotine or any other substance with nicotine intended
+7 for human consumption that, which may be used by a person in any manner for
+8 the purpose of inhaling vapor or aerosol from the product;
+9 (2) "Proof of age," a driver's license, nondriver identification card, tribal identification
+10 card, or other generally accepted means of identification that contains a picture of
+11 the individual and appears on its face to be valid;
+12 (3) "Sample," tobacco products distributed to members of the general public at no cost
+13 for purposes of promoting the product;
+14 (4) "Sampling," the distribution of samples to members of the general public in a public
+15 place;
+16 (5) "Self-service display," a display that contains cigarettes or smokeless tobacco, or
+17 both, and is located in an area openly accessible to the merchant's consumers, and
+18 from which such consumers can readily access cigarettes or smokeless tobacco, or
+19 both, without the assistance of the merchant or an employee or agent of the
+20 merchant. A display case that holds tobacco products behind locked doors does not
+21 constitute a self-service display;
+22 (6) "Smoke" or "Smoking," the act of inhaling, exhaling, burning, or carrying any
+23 lighted or heated cigar, cigarette, pipe, hookah, or any other lighted or heated
+24 tobacco or plant product intended for inhalation, whether natural or synthetic, in
+25 any manner or in any form, including the use of an electronic smoking device which
+26 creates an aerosol or vapor, in any manner or in any form;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.62.10 2 1112
+1 (7) "Tobacco product," any item made of tobacco intended for human consumption,
+2 including cigarettes, cigars, pipe tobacco, and smokeless tobacco, and vapor
+3 products as defined in § 34-46-20;
+4 (8) "Tobacco speciality store," a business that derives at least seventy-five percent of
+5 its revenue from the sale of tobacco products.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

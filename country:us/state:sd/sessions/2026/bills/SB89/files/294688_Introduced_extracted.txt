@@ -1,0 +1,64 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.404.12 101st Legislative Session 89
+2026 South Dakota Legislature
+Senate Bill 89
+Introduced by: Senator Reed
+1 An Act to require that counties and municipalities provide emergency medical
+2 services within their jurisdictions and create a task force to study the funding
+3 thereof.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That § 34-11-1 be AMENDED:
+6 34-11-1. A county or municipality may:
+7 (1) Provide or contract for the provision of ambulance services; and
+8 (2) Contract contract with another political subdivision or other person for the
+9 provision of moneys to support ambulance services.
+10 Section 2. That a NEW SECTION be added to chapter 34-11:
+11 Each county and municipality shall ensure that a minimum level of emergency
+12 medical service is available within its jurisdiction for prehospital emergency medical
+13 treatment and transport.
+14 The department shall promulgate rules, in accordance with chapter 1-26, to
+15 establish the minimum levels of emergency medical service that must be available within
+16 a county and municipality. The rules must address:
+17 (1) Contracts for services;
+18 (2) Response times;
+19 (3) Required staff and licensed personnel;
+20 (4) Treatment and transport protocols; and
+21 (5) Quality assurance standards.
+22 Section 3. The Executive Board of the Legislative Research Council shall establish the
+23 Emergency Medical Services Funding Task Force. The task force shall:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.404.12 2 89
+1 (1) Examine funding mechanisms to support counties and municipalities in the
+2 provision of emergency medical services;
+3 (2) Seek input from relevant stakeholders on the provision of emergency medical
+4 services; and
+5 (3) Provide to the executive board, no later than November 1, 2026, a report
+6 containing findings and recommendations for legislative proposals related to the
+7 funding of emergency medical services in this state.
+8 The task force shall meet no more than five times during the 2026 interim. The
+9 task force is dissolved upon the delivery of the task force's report to the executive board.
+10 Section 4. The Emergency Medical Services Funding Task Force consists of:
+11 (1) The chairs of the health and human services committees of the House of
+12 Representatives and the Senate;
+13 (2) The chairs of the taxation committees of the House of Representatives and the
+14 Senate;
+15 (3) Four members of the House of Representatives, one of whom must be a member
+16 of the minority party, appointed by the Executive Board of the Legislative Research
+17 Council; and
+18 (4) Three members of the Senate, one of whom must be a member of the minority
+19 party, appointed by the executive board.
+20 If the chair of a committee is unable to serve on the task force, the Executive Board
+21 of the Legislative Research Council may appoint another member of the committee to
+22 serve in the chair's place.
+23 Section 5. Sections 1 and 2 of this Act are effective beginning July 1, 2028.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

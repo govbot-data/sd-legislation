@@ -1,0 +1,30 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.640.9 101st Legislative Session 1085
+2026 South Dakota Legislature
+House Bill 1085
+Introduced by: Representative Mulder
+1 An Act to establish provisions for the coverage of nonopioid prescription drugs.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to chapter 58-17:
+4 A policy of health insurance subject to this chapter and delivered, issued for
+5 delivery, or renewed in this state, may not deny coverage of a nonopioid prescription drug
+6 in favor of an opioid prescription drug if a licensed physician or other authorized health
+7 care practitioner has prescribed a nonopioid drug for the treatment of pain.
+8 A health insurer may not, for a clinically appropriate nonopioid drug, establish prior
+9 authorization requirements, step therapy requirements, or other utilization controls, that
+10 are more restrictive or extensive than the least restrictive or extensive requirements or
+11 controls applicable to any clinically appropriate opioid or narcotic drug or other controlled
+12 substance.
+13 If a health insurer maintains a formulary that groups prescription drugs into tiers
+14 for the purpose of cost sharing, the insurer may not place any nonopioid drugs on a tier
+15 with a cost sharing responsibility that exceeds the lowest cost sharing responsibility
+16 required for any opioid or narcotic drug.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

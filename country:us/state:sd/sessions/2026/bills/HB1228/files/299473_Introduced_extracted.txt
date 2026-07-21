@@ -1,0 +1,35 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.679.29 101st Legislative Session 1228
+2026 South Dakota Legislature
+House Bill 1228
+Introduced by: Representative Weems
+1 An Act to provide a stipend to certain members of the National Guard who donate
+2 an organ for the purpose of transplantation to another individual.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 33-7:
+5 If a member of the National Guard donates the member's organ for the purpose of
+6 transplantation to another individual, the Department of the Military must pay a stipend
+7 to the member.
+8 If the member has an operation recovery time of two weeks or less, as certified by
+9 a licensed medical practitioner, the stipend must equal fifty percent of the member's
+10 active-duty basic monthly pay. If the member has a recovery time of more than two
+11 weeks, as certified by a licensed medical practitioner, the stipend must equal one hundred
+12 fifty percent of the member's active-duty basic monthly pay.
+13 To be eligible for the stipend, the member shall:
+14 (1) Follow all procedures and protocols established by the National Guard regarding
+15 the donation of an organ by a member;
+16 (2) At least one month prior to the organ procurement operation, provide the
+17 Department of the Military notice of the member's intent to donate the organ; and
+18 (3) Undergo the organ procurement operation at a transplant hospital, as defined in
+19 § 34-26-49.
+20 A member qualifies for a stipend only if the member does not receive living donor
+21 paid leave from the member's employer.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,88 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.309.29 101st Legislative Session 31
+2026 South Dakota Legislature
+Senate Bill 31
+ENROLLED
+AN ACT
+ENTITLED An Act to permit the use of a confirmation letter to verify a voter's
+registration.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+Section 1. That § 12-4-19.1 be AMENDED:
+12-4-19.1. If the acknowledgement notice sent pursuant to § 12-4-5.3 is returned
+to the county auditor as undeliverable, the auditor must send a confirmation mailing letter
+or postcard that:
+(1) States the voter's registration may be canceled if the letter or postcard is not
+returned;
+(2) Lists the voter's information, as it appears in the master registration file; and
+(3) Provides the following instructions:
+(a) If the information on the letter or card is correct, the voter must sign and
+return the letter or card within thirty days of the date of the postmark on
+the letter or card, or the voter's registration will become inactive;
+(b) If the information on the letter or card is not correct, the voter must send
+the correct information to update the voter's registration, within thirty days
+of the date of the postmark on the letter or card, or the voter's registration
+will become inactive; and
+(c) If the letter or card is returned indicating a new address in another county
+in South Dakota or another state, the card serves as a cancellation
+authorization.
+Section 2. That § 12-4-19.2 be AMENDED:
+12-4-19.2. The county auditor must move the voter to an inactive registration file
+if:
+
+26.309.29 2 31
+(1) The voter does not return the confirmation mailing by the deadline stated on the
+mailing; or
+(2) The confirmation mailing is returned to the auditor as undeliverable.
+Section 3. That § 12-4-19.7 be AMENDED:
+12-4-19.7. If the address verification request sent pursuant to § 12-4-19 is
+returned to the county auditor as undeliverable, the auditor must send a voter registration
+list maintenance confirmation mailing letter or postcard that:
+(1) States the voter's registration may be canceled if the letter or postcard is not
+returned;
+(2) Lists the voter's information, as it appears in the master registration file; and
+(3) Provides the following instructions:
+(a) If the information on the letter or card is correct, the voter must sign and
+return the letter or card by the voter registration deadline of the primary
+election or the voter's registration will become inactive;
+(b) If the information on the letter or card is not correct, the voter must send
+the correct information to update the voter's registration by the voter
+registration deadline of the primary election or the voter's registration will
+become inactive; and
+(c) If the card is returned indicating a new address in another county in South
+Dakota or another state, the card serves as a cancellation authorization.
+Section 4. This Act is effective beginning December 1, 2026.
+SB31 ENROLLED
+
+26.309.29 3 31
+An Act to permit the use of a confirmation letter to verify a voter's registration.
+Received at this Executive Office
+I certify that the attached Act originated in this _____ day of _____________,
+the:
+2026 at ____________M.
+Senate as Bill No. 31
+By
+Secretary of the Senate for the Governor
+The attached Act is hereby
+approved this ________ day of
+President of the Senate ______________, A.D., 2026
+Attest:
+Governor
+Secretary of the Senate
+STATE OF SOUTH DAKOTA,
+ss.
+Office of the Secretary of State
+Speaker of the House
+Filed ____________, 2026
+Attest: at _________ o'clock __M.
+Chief Clerk of the House Secretary of State
+Senate Bill No. 31 By
+File No. ____ Asst. Secretary of State
+Chapter No. ______
+SB31 ENROLLED

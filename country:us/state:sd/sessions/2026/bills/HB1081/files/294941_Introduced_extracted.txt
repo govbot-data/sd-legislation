@@ -1,0 +1,61 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.689.12 101st Legislative Session 1081
+2026 South Dakota Legislature
+House Bill 1081
+Introduced by: Representative Sjaarda
+1 An Act to exempt certain individuals from, and require specific notice for, jury duty.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to chapter 16-13:
+4 A licensed health care provider who is providing medical care to a pregnant woman
+5 or an individual with a serious medical condition is exempt from jury duty if, within ten
+6 days of receiving a summons for jury duty, the provider submits to the clerk of court a
+7 written request for exemption and written documentation stating:
+8 (1) No equally qualified individual is available to fulfill the provider's job duties; and
+9 (2) The provider's absence from medical practice may, with regard to the provider's
+10 patient:
+11 (a) Result in hardship to the patient;
+12 (b) Complicate or inhibit the patient's access to required medical care;
+13 (c) Result in the patient experiencing uncontrolled pain;
+14 (d) Result in the worsening of the patient's disease processes; or
+15 (e) Potentially result in the death of the patient.
+16 For the purposes of this section, "licensed health care provider" means a licensed
+17 physician, physician assistant, nurse practitioner, nurse anesthetist, or nurse midwife.
+18 Section 2. That a NEW SECTION be added to chapter 16-13:
+19 A public safety worker is exempt from jury duty if, within ten days of receiving a
+20 summons for jury duty, the worker submits to the clerk of court a written request for
+21 exemption and written documentation stating:
+22 (1) No equally qualified individual is available to fulfill the worker's job duties; and
+23 (2) The worker's absence from regular job duties may pose a risk to the health and
+24 safety of the public.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.689.12 2 1081
+1 For the purposes of this section, "public safety worker" means a law enforcement
+2 officer as defined by § 23-3-27, firefighter, hazardous and disaster response team
+3 member, or emergency medical service personnel.
+4 Section 3. That a NEW SECTION be added to chapter 16-13:
+5 An individual is exempt from jury duty if, within ten days of receiving a summons
+6 for jury duty, the individual submits to the clerk of court a written request for exemption
+7 and written documentation stating:
+8 (1) The requesting individual is solely responsible for the daily care of another
+9 individual with a permanent disability;
+10 (2) The individual with a permanent disability lives in the requesting individual's
+11 household; and
+12 (3) The performance of jury service by the requesting individual would result in
+13 substantial risk of injury to the health of the individual with a permanent disability.
+14 This section does not apply to an individual who is regularly employed at a location
+15 other than the person's household.
+16 Section 4. That a NEW SECTION be added to chapter 16-13:
+17 In addition to the notice required by § 16-13-34, the clerk of courts shall notify a
+18 juror of the specific date on which the juror is required to physically appear before the
+19 court for jury service on a grand or petit jury, at least fourteen days prior to that date.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

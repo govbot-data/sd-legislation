@@ -1,0 +1,69 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.883.10 101st Legislative Session 1160
+2026 South Dakota Legislature
+House Bill 1160
+Introduced by: Representative Goodwin
+1 An Act to repeal the medical marijuana oversight committee.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 34-20G-92 be REPEALED.
+4 The Executive Board of the Legislative Research Council shall appoint an oversight
+5 committee consisting of:
+6 (1) Two members of the Senate;
+7 (2) Two members of the House of Representatives;
+8 (3) One physician licensed in accordance with chapter 36-4;
+9 (4) One physician assistant licensed in accordance with chapter 36-4A;
+10 (5) One certified nurse practitioner licensed in accordance with chapter 36-9A;
+11 (6) One chief of police for a municipality having a population in excess of fifty-
+12 thousand, or a representative of the police department designated by the chief;
+13 (7) One sheriff of a county or a representative of the sheriff's office designated by the
+14 sheriff;
+15 (8) One professional counselor licensed in accordance with chapter 36-32 or one
+16 addiction counselor licensed in accordance with chapter 36-34; and
+17 (9) One qualifying patient.
+18 Each appointee shall serve for a term of two years and may be reappointed.
+19 Section 2. That § 34-20G-92.1 be REPEALED.
+20 Beginning in 2023, and every two years thereafter, the oversight committee shall
+21 select from among itself one legislator to serve as the chair and one legislator, from the
+22 opposite chamber, to serve as the vice chair.
+23 Beginning in 2025, the legislators selected to serve as the chair and vice chair may
+24 not be from the same chamber as their immediate predecessors.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.883.10 2 1160
+1 Section 3. That § 34-20G-93 be REPEALED.
+2 The oversight committee shall meet at least two times per year for the purpose of
+3 evaluating and making recommendations to the Legislature and the department
+4 regarding:
+5 (1) The ability of qualifying patients in all areas of the state to obtain timely access to
+6 high-quality medical cannabis;
+7 (2) The effectiveness of the dispensaries and cultivation facilities, individually and
+8 together, in serving the needs of qualifying patients, including the provision of
+9 educational and support services by dispensaries, the reasonableness of their
+10 prices, whether they are generating any complaints or security problems, and the
+11 sufficiency of the number operating to serve the state's registered qualifying
+12 patients;
+13 (3) The effectiveness of the cannabis testing facilities, including whether a sufficient
+14 number are operating;
+15 (4) The sufficiency of the regulatory and security safeguards contained in this chapter
+16 and adopted by the department to ensure that access to and use of cannabis
+17 cultivated is provided only to cardholders;
+18 (5) Any recommended additions or revisions to the department regulations or this
+19 chapter, including recommendations relating to security, safe handling, labeling,
+20 and nomenclature;
+21 (6) Any research studies regarding health effects of medical cannabis for patients; and
+22 (7) Any medical and clinical aspects of the medical cannabis program.
+23 The oversight committee shall ensure that it seeks relevant input from qualifying
+24 patients; designated caregivers; pharmacists; school boards and administrators; parents;
+25 municipal representatives; state agencies, including the Department of Health, the South
+26 Dakota Division of Criminal Investigation, and the Department of Public Safety; and
+27 medical cannabis establishments.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

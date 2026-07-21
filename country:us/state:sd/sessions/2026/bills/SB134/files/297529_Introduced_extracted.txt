@@ -1,0 +1,33 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.817.15 101st Legislative Session 134
+2026 South Dakota Legislature
+Senate Bill 134
+Introduced by: Senator Peterson (Sue)
+1 An Act to restrict deference to a state agency's interpretation of a state statute,
+2 administrative rule, or policy.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 1-26-37 be AMENDED:
+5 1-26-37. An aggrieved party or the agency may obtain a review of any final
+6 judgment of the circuit court under this chapter by appeal to the Supreme Court. The
+7 appeal shall must be taken as in other civil cases. The Supreme Court shall give the same
+8 deference to the findings of fact, conclusions of law, and final judgment of the circuit court
+9 as it does to other appeals from the circuit court. Such The appeal may not be considered
+10 de novo, except as required in section 2 of this Act.
+11 Section 2. That a NEW SECTION be added to chapter 15-1:
+12 In interpreting a state statute, administrative rule, or policy, a state court or an
+13 officer hearing an administrative action may consider, but may not defer to, a state
+14 agency's interpretation of the statute, rule, or policy, and must instead interpret its
+15 meaning and effect de novo.
+16 In actions brought by or against state agencies, after applying all customary tools
+17 of interpretation, the court or hearing officer must exercise any remaining doubt in favor
+18 of a reasonable interpretation that is consistent with an individual's fundamental
+19 constitutional rights.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,29 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.443.9 101st Legislative Session 91
+2026 South Dakota Legislature
+Senate Bill 91
+Introduced by: Senator Nelson
+1 An Act to clarify the procedure for petitioning a board of county commissioners for
+2 a change to the comprehensive plan or zoning ordinances.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 11-2-28.2 be AMENDED:
+5 11-2-28.2. Following receipt of any A petition as provided in pursuant to § 11-2-
+6 28 or 11-2-28.1, the board must be filed with the county auditor, who shall present the
+7 petition to the board at its next regular or special meeting. Within forty-five days of the
+8 presentation, the commission shall hold a public hearing on the petition, subject to the
+9 requirements of § 11-2-19, and take action upon the petitioned request. Within forty-five
+10 days of receipt by the board of any such petition, the county planning commission shall
+11 consider the requested action and § 11-2-29, and make a recommendation thereon on
+12 the petitioned request to the board.
+13 Upon receipt of the commission's recommendation, the board must hold a public
+14 hearing, subject to the requirements of § 11-2-19, and take action upon the petitioned
+15 request, pursuant to § 11-2-30.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

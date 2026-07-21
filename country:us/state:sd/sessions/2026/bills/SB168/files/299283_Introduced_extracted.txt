@@ -1,0 +1,121 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.252.10 101st Legislative Session 168
+2026 South Dakota Legislature
+Senate Bill 168
+Introduced by: Senator Larson
+1 An Act to regulate the use of chatbots by minors.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to a NEW CHAPTER in title 26:
+4 Terms used in this chapter mean:
+5 (1) "Age verification," any method by which a deployer confirms that an individual
+6 attempting to engage with an AI-companion, therapy chatbot, or other generative
+7 artificial intelligence possessing human-like features is at least eighteen years of
+8 age, by authenticating a driver license, passport, or other identification card issued
+9 by a state or the federal government, which includes a photograph of the individual
+10 and the individual's date of birth;
+11 (2) "Artificial intelligence," any machine-based system that, for any explicit or implicit
+12 objective, infers from the inputs received by the system how to generate content,
+13 decisions, predictions, recommendations, or other outputs, which can influence
+14 physical or virtual environments;
+15 (3) "AI-generated content," any image, video, audio, multimedia, or text content that
+16 is substantially created or modified by generative artificial intelligence, so that the
+17 use of generative artificial intelligence alters the meaning or significance a
+18 reasonable person would take away from the content;
+19 (4) "AI-companion," a generative artificial intelligence that is designed, optimized, and
+20 marketed to form ongoing social or emotional bonds with a user, regardless of
+21 whether the system also has the ability to provide information, complete tasks, or
+22 assist the user with specific functions;
+23 (5) "Chatbot," a generative artificial intelligence with which a user is able to interact
+24 by approximating or simulating conversation through text, audio, or other
+25 communicative medium;
+26 (6) "Deployer," an individual or entity that operates or distributes a chatbot;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.252.10 2 168
+1 (7) "Emergency situation," a circumstance in which a user indicates to a therapy
+2 chatbot or other artificial intelligence that the user is a danger to self or others;
+3 (8) "Generative artificial intelligence," an artificial intelligence capable of generating
+4 novel image, video, audio, multimedia, or text content based on prompts or other
+5 forms of data provided by a user;
+6 (9) "Human-like feature," a feature of a generative artificial intelligence capable of:
+7 (a) Behaving in a way that would cause a reasonable individual to believe the
+8 intelligence that created the image, video, audio, multimedia, or text
+9 content is human or possesses sentience, emotions, or desires;
+10 (b) Responding to the prompts or data provided by the user in a way that
+11 simulates the development of an emotional relationship with the user; or
+12 (c) Impersonating any individual, living or dead;
+13 (10) "Therapy chatbot," a chatbot that has been designed or modified in a way that
+14 purports to provide mental health support, counseling, or therapeutic intervention
+15 through the diagnosis, treatment, mitigation, or prevention of a mental health
+16 condition; and
+17 (11) "User," an individual who interacts with an artificial intelligence;
+18 Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 26:
+19 A deployer may not make any chatbot operated or distributed by the deployer
+20 available to be purchased, used, or otherwise engaged by a minor, if the chatbot is
+21 designed, optimized, or marketed as an AI-companion or has been designed or optimized
+22 to include any human-like features. The deployer shall implement an age verification
+23 system on any chatbot marketed as an AI-companion or designed or optimized to include
+24 any human-like features. The deployer may make a version of the chatbot available to a
+25 minor, if the deployer has removed all human-like features from the chatbot.
+26 Section 3. That a NEW SECTION be added to a NEW CHAPTER in title 26:
+27 A deployer shall implement and maintain a system that detects, responds to,
+28 reports, and mitigates an emergency situation, in a manner that prioritizes the safety and
+29 well-being of the user.
+30 Section 4. That a NEW SECTION be added to a NEW CHAPTER in title 26:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.252.10 3 168
+1 A deployer may collect and store information from a user only if the information is
+2 necessary for the deployer to fulfill a legitimate purpose.
+3 Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 26:
+4 A deployer may make any chatbot operated or distributed by the deployer available
+5 to be purchased, used, or otherwise engaged by a minor, if the chatbot is designed or
+6 optimized to be a therapy chatbot. Before a therapy chatbot may be made available to a
+7 minor, the deployer must ensure that:
+8 (1) The chatbot provides, at the beginning and end of each interaction with the
+9 chatbot, a clear and conspicuous disclaimer that the responses are the product of
+10 a generative artificial-intelligence and not a licensed professional;
+11 (2) The chatbot is not designed or marketed to be a substitute for a licensed
+12 professional;
+13 (3) A licensed mental health professional:
+14 (a) Assesses a user's suitability;
+15 (b) Prescribes the chatbot to the user as part of a comprehensive treatment
+16 plan; and
+17 (c) Monitors the impact of the chatbot on the user;
+18 (4) The developer of the chatbot provides robust, independent, and peer-reviewed
+19 clinical trial data demonstrating the safety and efficacy of the chatbot, when used
+20 under specific conditions; and
+21 (5) The system's functions, limitations, and data privacy policies are transparent to
+22 both the licensed health professional and the user.
+23 Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 26:
+24 Any deployer found in violation of sections 2, 3, 4, or 5 of this Act is subject to an
+25 injunction and liable for a civil penalty in an amount not exceeding five thousand dollars
+26 per incident, per affected minor. The civil penalty may be assessed and recovered only in
+27 a civil action by the attorney general. The attorney general shall forward any civil penalty
+28 collected under this section to the state treasurer for deposit in the general fund.
+29 Before the attorney general may initiate an action pursuant to this section, the
+30 attorney general must provide written notice to the deployer. The attorney general shall
+31 identify, in the notice, the provision that is alleged to have been violated, and the
+32 measures that must be implemented by the deployer to prevent future violations.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.252.10 4 168
+1 If the deployer cures any noticed violation to the satisfaction of the attorney
+2 general, and, within ninety days of the notice, provides the attorney general with a written
+3 statement, signed under oath, indicating that the alleged violation has been cured, the
+4 deployer is not liable for a civil penalty for any cured violation of section 2, 3, 4, or 5 of
+5 this Act.
+6 Nothing in this section may be construed to serve as the basis for a new private
+7 right of action for any violation of section 2, 3, 4, or 5 of this Act.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

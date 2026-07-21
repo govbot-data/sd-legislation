@@ -1,0 +1,173 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.669.10 101st Legislative Session 94
+2026 South Dakota Legislature
+Senate Bill 94
+Introduced by: Senator Carley
+1 An Act to revise provisions pertaining to open records.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 1-27-1.5 be AMENDED:
+4 1-27-1.5. The following records are not subject to §§ 1-27-1, 1-27-1.1, 1-27-1.3,
+5 and § 1-27-1.23:
+6 (1) Personal information in records regarding any student, prospective student, or
+7 former student of any educational institution, if such the records are maintained
+8 by and in the possession of a public entity, other than routine directory information
+9 specified and made public in accordance with 20 U.S.C. § 1232g as the law existed
+10 on (January 1, 2009);
+11 (2) Medical records, including all records of drug or alcohol testing, treatment, or
+12 counseling, other than records of births and deaths. This, provided this subdivision
+13 in no way abrogates or changes existing state and federal law pertaining to birth
+14 and death records;
+15 (3) Trade secrets, the specific details of bona fide research, applied research, or
+16 scholarly or creative artistic projects being conducted at a school, postsecondary
+17 institution, or laboratory funded in whole or in part by the state, and other
+18 proprietary or commercial information which that if released would infringe
+19 intellectual property rights, give advantage to business competitors, or serve no
+20 material public purpose;
+21 (4) Records which that consist of attorney work product or which are subject to any
+22 privilege recognized in article V of chapter 19-19;
+23 (5) Records developed or received by law enforcement agencies and other public bodies
+24 charged with duties of investigation or examination of persons, institutions, or
+25 businesses, if the records constitute a part of the examination, investigation,
+26 intelligence information, citizen complaint or inquiry, informant identification, or
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.669.10 2 94
+1 strategic or tactical information used in law enforcement training. This, provided
+2 this subdivision does:
+3 (a) Does not apply to records so developed or received relating to the presence
+4 of and amount or concentration of alcohol or drugs in any body fluid of any
+5 person, and this subdivision does;
+6 (b) Does not apply to a 911 recording or a transcript of a 911 recording if the
+7 agency or a court determines that the public interest in disclosure outweighs
+8 the interest in nondisclosure. This law in; and
+9 (c) In no way abrogates or changes §§ 23-5-7 and 23-5-11 or testimonial
+10 privileges applying to the use of information from confidential informants;
+11 (6) Appraisals or appraisal information and negotiation records concerning the purchase
+12 or sale, by a public body, of any interest in real or personal property;
+13 (7) Personnel information other than salaries and routine directory information. This,
+14 provided this subdivision does not apply to the public inspection or copying of any
+15 current or prior contract with any public employee and any related document that
+16 specifies the consideration to be paid to the employee;
+17 (8) Information pertaining to The following information regarding the protection of
+18 public or private property and any person on or within public or private property
+19 including persons or property:
+20 (a) Any vulnerability assessment or response plan intended to prevent or
+21 mitigate criminal acts;
+22 (b) Emergency management or response;
+23 (c) Public safety information that would create a substantial likelihood of
+24 endangering public safety or property, if disclosed;
+25 (d) Cyber security plans, computer or communications network schema,
+26 passwords, or user identification names;
+27 (e) Guard schedules;
+28 (f) Lock combinations; and
+29 (g) Any blueprint, building plan, or infrastructure record regarding any building
+30 or facility that would expose or create vulnerability through disclosure of
+31 the location, configuration, or security of critical systems of the building or
+32 facility;
+33 (9) The security standards, procedures, policies, plans, specifications, diagrams, access
+34 lists, and other security-related records of the Gaming South Dakota Commission
+35 on Gaming and those persons or entities with which the commission has entered
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.669.10 3 94
+1 into contractual relationships. Nothing, provided that nothing in this subdivision
+2 allows the commission to withhold from the public any information relating to
+3 amounts paid to persons or entities with which the commission has entered into
+4 contractual relationships, amounts of prizes paid, the name of the prize winner,
+5 and the municipality, or county where the prize winner resides;
+6 (10) Personally identified private citizen account payment information, credit information
+7 on others supplied in confidence, and customer lists;
+8 (11) Records or portions of records kept by a publicly funded library which, when
+9 examined with or without other records, reveal the identity of any library patron
+10 using the library's materials or services;
+11 (12) Correspondence, memoranda, calendars or logs of appointments, working papers,
+12 and records of telephone calls of public officials or employees, which are not
+13 maintained, stored, or retained by a public body on a publicly owned, operated, or
+14 controlled system;
+15 (13) Records or portions of records kept by public bodies, which would reveal the
+16 location, character, or ownership of any known archaeological, historical, or
+17 paleontological site in South Dakota, if necessary to protect the site from a
+18 reasonably held fear of theft, vandalism, or trespass. This, provided this subdivision
+19 does not apply to the release of information for the purpose of scholarly research,
+20 examination by other public bodies for the protection of the resource or by
+21 recognized tribes, or the federal Native American Graves Protection and
+22 Repatriation Act, 25 U.S.C. §§ 3001 to 3013, inclusive (January 1, 2026);
+23 (14) Records or portions of records kept by public bodies which that maintain collections
+24 of archeological, historical, or paleontological significance, which nongovernmental
+25 donors have requested to remain closed or which reveal the names and addresses
+26 of donors of such the articles of archaeological, historical, or paleontological
+27 significance, unless the donor approves disclosure, except as the, provided this
+28 subdivision does not apply to records or portions thereof that may be needed to
+29 carry out the purposes of the federal:
+30 (a) The Native American Graves Protection and Repatriation Act, 25 U.S.C.
+31 §§ 3001 to 3013, inclusive (January 1, 2026); and the
+32 (b) The Archeological Resources Protection Act of 1979, 16 U.S.C. §§ 470aa to
+33 470mm, inclusive (January 1, 2026);
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.669.10 4 94
+1 (15) Employment applications and related materials, except for applications and related
+2 materials submitted by individuals hired into executive or policymaking positions
+3 of any public body;
+4 (16) Social security numbers; credit card, charge card, or debit card numbers and
+5 expiration dates; passport numbers; driver license numbers; or other personally
+6 identifying numbers or codes; and financial account numbers supplied to state and
+7 local governments by citizens or held by state and local governments regarding
+8 employees or contractors;
+9 (17) Any emergency or disaster response plans or protocols, safety or security audits or
+10 reviews, or lists of emergency or disaster response personnel or material; and any
+11 location or listing of weapons or ammunition; nuclear, chemical, or biological
+12 agents; or other military or law enforcement equipment or personnel;
+13 (18) Any test questions, scoring keys, results, or other examination data for any
+14 examination to obtain licensure, employment, promotion or reclassification, or
+15 academic credit;
+16 (19) Personal correspondence, memoranda, notes, calendars or appointment logs, or
+17 other personal records or documents of any public official or employee;
+18 (20) Any document declared closed or confidential by court order, contract, or stipulation
+19 of the parties to any civil or criminal action or proceeding, except as provided under
+20 § 1-27-1.23;
+21 (21) Any list of names or other personally identifying data of occupants of camping or
+22 lodging facilities from the Department of Game, Fish and Parks;
+23 (22) Records which that, if disclosed, would constitute an unreasonable release of
+24 personal information;
+25 (23) Records which that, if released, could endanger the life or safety of any person;
+26 (24) Internal agency record records or information received by agencies that are, which
+27 are not required to be filed with such the agencies, if the records do not constitute
+28 final statistical or factual tabulations, final instructions to staff that affect the public,
+29 or final agency policy or determinations, or any completed state or federal audit
+30 and if the information is not otherwise public under other state law, including
+31 chapter 15-15A and § 1-26-21 information is not otherwise public under state law,
+32 including chapter 15-15A and § 1-26-21, and if the records do not constitute:
+33 (a) Final statistical or factual tabulations;
+34 (b) Final instructions to staff, which affect the public;
+35 (c) Final agency policy or determinations; or
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.669.10 5 94
+1 (d) Any completed state or federal audit;
+2 (25) Records of individual children regarding commitment to the Department of
+3 Corrections pursuant to chapters 26-8B and 26-8C;
+4 (26) Records regarding inmate disciplinary matters pursuant to § 1-15-20, and records
+5 regarding jail inmate disciplinary matters pursuant to § 24-11-23;
+6 (27) Any other record made closed or confidential by state or federal statute or rule or
+7 as necessary to participate in federal programs and benefits;
+8 (28) A record of a settlement agreement or litigation regarding investment or bankruptcy
+9 and involving the South Dakota Investment Council or the South Dakota
+10 Retirement System, or both, unless the settlement or litigation results in a finding
+11 of liability against the council or system, or both; and
+12 (29) A record of a settlement agreement or litigation regarding medical services
+13 involving any county hospital established under chapter 34-8 or any municipal
+14 hospital established under chapter 34-9.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

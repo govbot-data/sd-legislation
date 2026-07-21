@@ -1,0 +1,48 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.354.31 101st Legislative Session 1182
+2026 South Dakota Legislature
+House Bill 1182
+Introduced by: Representative Jorgenson
+1 An Act to establish a data collection system pertaining to assisted reproductive
+2 technology.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 1-43:
+5 The Department of Health shall establish and maintain a data collection system for
+6 the purpose of determining, on an annual basis:
+7 (1) The number of embryos created through assisted reproductive technology;
+8 (2) The number of embryos that are implanted through assisted reproductive
+9 technology;
+10 (3) The method of disposition used for embryos that are not implanted during assisted
+11 reproduction, including:
+12 (a) Cryopreservation at a facility in this state;
+13 (b) Donation to another;
+14 (c) Compassionate implantation into the uterus of the female for purpose of
+15 natural disposition; or
+16 (d) Other means;
+17 (4) The number of embryos transferred out of this state for the purposes of:
+18 (a) Cryopreservation;
+19 (b) Donation to another; or
+20 (c) Medical research;
+21 (5) The number of disposed embryos that were:
+22 (a) Accidentally destroyed; or
+23 (b) Deliberately destroyed;
+24 (6) The number of pregnancies resulting from assisted reproduction; and
+25 (7) The number of live births resulting from assisted reproduction.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.354.31 2 1182
+1 Each entity that participates in assisted reproductive technology in this state shall
+2 provide the data required by this section to the Department of Health at the time and in
+3 the manner requested by the department.
+4 The department shall compile the information and make the information publicly
+5 available on its website on or before July first of each year.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

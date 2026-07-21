@@ -1,0 +1,26 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.645.25 101st Legislative Session 181
+2026 South Dakota Legislature
+Senate Bill 181
+Introduced by: Senator Carley
+1 An Act to cause the repeal of the medical cannabis chapter upon the federal re-
+2 scheduling of cannabis.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That chapter 34-20G be REPEALED.
+5 Section 2. Section 1 of this Act is effective ninety days after the attorney general notifies the
+6 code counsel and the Department of Health that cannabis has been reclassified as a schedule
+7 III drug by the United States Food and Drug Administration, pursuant to 21 U.S.C. § 812 (July
+8 16, 2025).
+9 Section 3. After receiving notification by the attorney general, as provided for in section 2 of
+10 this Act, the Department of Health shall notify all cardholders and medical cannabis
+11 establishments of the re-scheduling and of the date on which the repeal of the medical
+12 cannabis chapter is effective.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

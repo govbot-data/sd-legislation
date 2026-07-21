@@ -1,0 +1,37 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.481.16 101st Legislative Session 71
+2026 South Dakota Legislature
+Senate Bill 71
+Introduced by: The Chair of the Committee on Transportation at the request of the Department of Transportation
+1 An Act to authorize the assumption of certain responsibilities and the waiver of
+2 sovereign immunity in connection with certain actions under federal
+3 environmental law.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That a NEW SECTION be added to chapter 1-44:
+6 The Department of Transportation may, by agreement with the federal government
+7 pursuant to 23 U.S.C. §§ 326 and 327, assume all or part of the responsibilities of the
+8 federal government under the National Environmental Policy Act, as set forth under 42
+9 U.S.C. §§ 4321 to 4370, inclusive, for environmental review, consultation, or other actions
+10 required with respect to highway projects within this state.
+11 Section 2. That a NEW SECTION be added to chapter 1-44:
+12 In cases that involve compliance, discharge, or enforcement of responsibilities
+13 assumed by the Department of Transportation under section 1 of this Act, this state waives
+14 sovereign immunity from suit in federal court provided under the Eleventh Amendment to
+15 the Constitution of the United States.
+16 Section 3. That § 31-2-38 be AMENDED:
+17 31-2-38. The Notwithstanding any limitation in § 31-2-13.2 or 31-2-14.2, the
+18 State of South Dakota shall pay to any successful litigant in an action brought pursuant
+19 to this chapter or with respect to any highway or public transportation project pursuant to
+20 section 1 of this Act, the amount of damages awarded and the amount of attorney fees
+21 and costs assessed against the State of South Dakota this state, out of the state highway
+22 fund from all the moneys levied and collected by the state by general state taxation for
+23 state highway purposes, or appropriated for state highway purposes.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,26 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.347.15 101st Legislative Session 108
+2026 South Dakota Legislature
+Senate Bill 108
+Introduced by: Senator Blanc
+1 An Act to require that all recorded votes of a legislator be displayed on the
+2 Legislative Research Council website.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 2-7:
+5 The Legislative Research Council shall establish and maintain on a webpage for
+6 each legislator a record of each vote made by the legislator on each bill and resolution
+7 voted on in that legislator's chamber and in each committee to which the legislator is
+8 appointed during each session and special session of the Legislature convened after July
+9 1, 2026. If the legislator is absent or excused from a vote, the legislator's absence or
+10 excusal must be recorded on the webpage. The voting record for each legislator must be
+11 prominently displayed and easily accessible to the public as a tab on the legislator's profile
+12 page.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

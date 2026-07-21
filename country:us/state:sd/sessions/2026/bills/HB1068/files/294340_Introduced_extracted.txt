@@ -1,0 +1,38 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.122.9 101st Legislative Session 1068
+2026 South Dakota Legislature
+House Bill 1068
+Introduced by: Representative Andera
+1 An Act to authorize the dispensing of ivermectin and hydroxychloroquine under a
+2 written protocol developed by a physician.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 36-4:
+5 A physician, acting in good faith in accordance with section 2 of this Act, is not
+6 criminally or civilly liable, or subject to disciplinary or adverse action from the State Board
+7 of Medical and Osteopathic Examiners, except if the physician's actions constitute gross
+8 negligence or willful misconduct.
+9 Section 2. That a NEW SECTION be added to chapter 36-11:
+10 A pharmacist may dispense ivermectin or hydroxychloroquine to an individual who
+11 is eighteen years or older in accordance with a written protocol, developed by a physician
+12 licensed in accordance with chapter 36-4, containing a non-patient-specific prescriptive
+13 order. The written protocol must address providing the individual with:
+14 (1) A screening risk assessment tool for each drug; and
+15 (2) Information on:
+16 (a) Indications and contraindications for the use of the drug;
+17 (b) The appropriate method for using the drug; and
+18 (c) Evaluating and treating adverse events.
+19 The pharmacist shall retain a copy of the written protocol at the pharmacist's place
+20 of practice.
+21 Section 3. That a NEW SECTION be added to chapter 36-11:
+22 A pharmacist, acting in good faith in accordance with section 2 of this Act, is not
+23 criminally or civilly liable, or subject to disciplinary or adverse action from the board,
+24 except if the pharmacist's actions constitute gross negligence or willful misconduct.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

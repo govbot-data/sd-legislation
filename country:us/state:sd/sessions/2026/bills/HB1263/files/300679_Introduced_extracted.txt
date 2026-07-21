@@ -1,0 +1,23 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.980.10 101st Legislative Session 1263
+2026 South Dakota Legislature
+House Bill 1263
+Introduced by: Representative Jamison
+1 An Act to eliminate an exclusion from the definition of an agricultural equipment
+2 dealer.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 32-39-3 be AMENDED:
+5 32-39-3. For the purposes of this chapter, a dealer is any person whose sales of
+6 the manufacturer's equipment is equal to or exceeds thirty percent of the dealer's gross
+7 agricultural equipment sales during the preceding calendar year. The term, dealer, does
+8 not include a dealer whose principal business is the sale of off-road construction
+9 equipment.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

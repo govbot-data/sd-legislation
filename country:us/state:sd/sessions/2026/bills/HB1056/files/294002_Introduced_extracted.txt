@@ -1,0 +1,33 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.255.9 101st Legislative Session 1056
+2026 South Dakota Legislature
+House Bill 1056
+Introduced by: Representative Rehfeldt
+1 An Act to require that the Department of Social Services submit a federal waiver
+2 request to exclude soft drinks from the supplemental nutrition assistance
+3 program.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. On or before September 1, 2026, the secretary of the Department of
+6 Social Services shall submit a waiver request, as authorized by 7 U.S.C. § 2026 (January
+7 1, 2026), to the United States Department of Agriculture, to exclude soft drinks from the
+8 definition of eligible foods under 7 C.F.R. § 271.2 (January 1, 2026), for the supplemental
+9 nutrition assistance program.
+10 If the waiver is approved, the department shall implement the restriction within six
+11 months of the date of approval.
+12 If the waiver requested under this section is not approved, the secretary must
+13 annually submit a waiver request until it is approved.
+14 For the purposes of this section, "soft drink" means a nonalcoholic beverage that
+15 contains natural or artificial sweeteners. The term does not include:
+16 (1) Milk or milk products;
+17 (2) Rice, soy, or similar milk substitutes; or
+18 (3) Juices that have been approved by the Department of Health for eligibility in the
+19 supplemental nutrition program for women, infants, and children.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

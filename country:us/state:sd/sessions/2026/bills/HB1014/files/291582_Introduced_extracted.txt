@@ -1,0 +1,30 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.290.9 101st Legislative Session 1014
+2026 South Dakota Legislature
+House Bill 1014
+Introduced by: The Chair of the Committee on Judiciary at the request of the Chief Justice
+1 An Act to modify the surcharge for a responding party in a forcible entry and
+2 detainer action.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 16-2-58.2 be AMENDED:
+5 16-2-58.2. For the answer or initial responsive pleading in a circuit court
+6 proceedings proceeding not subject to § 16-2-58.1, the clerk of courts shall collect the
+7 sum of twenty-five dollars as a commission on equal access to our courts surcharge. The
+8 clerk shall collect the surcharge shall be collected by the clerk in the manner in which
+9 other fees are collected. No responsive The surcharge may not be collected in any civil
+10 action or proceeding wherein:
+11 (1) For forcible entry and detainer;
+12 (2) Wherein the responding party is the state, county, a municipality, or a school
+13 district,; or if
+14 (3) If the responding party is receiving assistance benefits under title 28.
+15 The responsive surcharge may be waived pursuant to the provisions of §§ 16-2-
+16 29.2 and 16-2-29.3.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

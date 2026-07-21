@@ -1,0 +1,26 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.822.12 101st Legislative Session 1234
+2026 South Dakota Legislature
+House Bill 1234
+Introduced by: Representative Roby
+1 An Act to revise procedural requirements for serving a subpoena in a contested case.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to chapter 1-26:
+4 Before a subpoena commanding the production of documentary evidence pursuant
+5 to § 1-26-19.1 is served on the person to whom it is directed, a notice and copy of the
+6 subpoena must be served on each party to the matter pending. The hearing examiner or
+7 administrative law judge, upon motion made promptly and at or before the time specified
+8 in the subpoena for compliance with the subpoena, may:
+9 (1) Quash or modify the subpoena if it is unreasonable and oppressive; or
+10 (2) Condition denial of the motion upon the advancement, by the person on whose
+11 behalf the subpoena is issued, of the reasonable cost of producing the records,
+12 books, papers, or documents.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

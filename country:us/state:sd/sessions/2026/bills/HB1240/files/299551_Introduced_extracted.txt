@@ -1,0 +1,308 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.260.24 101st Legislative Session 1240
+2026 South Dakota Legislature
+House Bill 1240
+Introduced by: Representative Goodwin
+1 An Act to establish requirements for the distribution and sale of vapor products, and
+2 to provide a penalty therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+5 Terms used in this chapter mean:
+6 (1) "Department," the Department of Revenue;
+7 (2) "Distributor," a person who sells vapor products for resale and is licensed in
+8 accordance with this chapter as a distributor;
+9 (3) "Retailer," a person who sells vapor products at retail and is licensed in accordance
+10 with this chapter as a retailer;
+11 (4) "Secretary," the secretary of the department; and
+12 (5) "Vapor product," a noncombustible device that contains a consumable nicotine
+13 liquid and produces a vapor or aerosol for inhalation from the application of a
+14 heating element to the consumable nicotine liquid, or a consumable nicotine liquid
+15 suitable for use in the device, whether sold with the device or sold separately, but
+16 the term does not include any product that has been approved by the United States
+17 Food and Drug Administration for sale as a tobacco cessation product or for other
+18 therapeutic purposes, if the product is marketed and sold solely for the approved
+19 use.
+20 Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+21 A person shall obtain a distributor license before selling vapor products in this state
+22 for resale. To obtain or renew a distributor license, a person shall:
+23 (1) File an application with the department on a form prescribed by the secretary;
+24 (2) Pay an application fee of one hundred dollars, except as otherwise provided in this
+25 section;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.260.24 2 1240
+1 (3) Hold a South Dakota sales and use tax license issued by the department; and
+2 (4) Be current on the remittance of all applicable state and local taxes.
+3 The department shall issue a distributor license to any applicant who meets the
+4 requirements of this section. If a person owns or operates more than one place of business
+5 selling vapor products for resale, the person must secure a separate license for each place
+6 of business engaged in the resale of vapor products. The department may not charge an
+7 applicant more than two hundred fifty dollars in total distributor license application fees
+8 per calendar year.
+9 A distributor license expires one year from the date of issuance. The department
+10 may renew an expired license if an application for renewal is made within thirty days after
+11 the date of expiration, and the applicant pays a late fee of fifty dollars.
+12 Section 3. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+13 A distributor shall retain, for at least the last three years:
+14 (1) Commercial transaction and shipping documentation from the manufacturer of
+15 each vapor product that the distributor obtains for resale, demonstrating
+16 compliance with section 11 of this Act; and
+17 (2) Records documenting batch numbers, inventory logs, distribution of vapor products
+18 to other distributors and retailers, and shipping confirmations.
+19 The distributor shall make the documentation and records available to the
+20 department upon request.
+21 Section 4. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+22 A person shall obtain a retailer license before selling vapor products in this state
+23 at retail. To obtain or renew a retailer license, a person shall:
+24 (1) File an application with the department on a form prescribed by the secretary;
+25 (2) Pay a fee of two hundred fifty dollars;
+26 (3) Hold a South Dakota sales and use tax license issued by the department; and
+27 (4) Be current on the remittance of all applicable state and local taxes.
+28 The department shall issue a retailer license to any applicant who meets the
+29 requirements of this section. If a person owns or operates more than one place of business
+30 selling vapor products for retail, the person must secure a separate license for each place
+31 of business engaged in the retail sale of vapor products.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.260.24 3 1240
+1 A retailer license expires one year from the date of issuance. The department may
+2 renew an expired license if an application for renewal is made within thirty days after the
+3 date of expiration, and the applicant pays a late fee of fifty dollars.
+4 Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+5 A retailer shall retain, for at least the last three years, documentation establishing
+6 that all vapor products in the retailer's inventory were obtained from a distributor.
+7 The retailer shall make the records available to the department upon request.
+8 Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+9 A person may not:
+10 (1) Distribute or offer vapor products for resale without a distributor license;
+11 (2) Sell or offer to sell vapor products at retail without a retailer license; or
+12 (3) As a retailer, sell or offer to sell, at retail, vapor products that were not obtained
+13 from a distributor.
+14 A violation of this section is a Class 1 misdemeanor.
+15 Section 7. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+16 When selling a vapor product, a retailer shall utilize an integrated point-of-sale
+17 third-party age verification system approved by the department.
+18 A violation of this section is a Class 2 misdemeanor.
+19 Section 8. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+20 A retailer may only sell a vapor product containing any added natural or artificial
+21 food-grade flavoring, other than tobacco, mint, or menthol taste, at a retail location that:
+22 (1) Restricts access to individuals twenty-one years of age or older; and
+23 (2) Derives at least twenty-five percent of its gross revenue from vapor products, and
+24 tobacco products as defined in § 34-46-1.
+25 A violation of this section is a Class 2 misdemeanor.
+26 Section 9. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+27 Only a retailer or distributor may sell vapor products online or directly to a
+28 consumer, provided that the sale complies with 15 U.S.C. §§ 375 to 378, inclusive
+29 (January 1, 2026).
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.260.24 4 1240
+1 A violation of this section is a Class 2 misdemeanor.
+2 Section 10. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+3 A retailer may not be held criminally liable for the unlawful purchase of a vapor
+4 product by an individual under the age of twenty-one if:
+5 (1) The purchase was completed using fraudulent methods; and
+6 (2) The retailer acted in good faith to verify the age and identity of the individual.
+7 The court may consider evidence of employee training, written compliance policies,
+8 and reasonable verification procedures when determining if the retailer acted in good faith.
+9 Section 11. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+10 A vapor product sold for resale or retail in this state may not contain:
+11 (1) Any ingredients other than:
+12 (a) Vegetable glycerin;
+13 (b) Propylene glycol;
+14 (c) Natural or artificial food-grade flavoring; or
+15 (d) Nicotine; or
+16 (2) Any concentrations exceeding tolerances established under the United States
+17 Pharmacopeia National Formulary, or the Food Chemicals Codex, for:
+18 (a) Vitamin E acetate;
+19 (b) Arsenic;
+20 (c) Cyanide; or
+21 (d) Diacetyl.
+22 All ingredients in a vapor product sold for resale or retail in this state must conform
+23 to the monograph specifications published by the United States Pharmacopeia National
+24 Formulary and the Food Chemicals Codex.
+25 A vapor product may contain trace contaminants if they are within the standard
+26 deviation tolerances set forth in the United States Pharmacopeia National Formulary or
+27 the Food Chemicals Codex.
+28 The Department of Health shall promulgate rules, in accordance with chapter 1-
+29 26, to establish requirements for persons engaged in the manufacturing of vapor products
+30 in this state. The rules must address sanitation, pest control, ventilation, and testing
+31 requirements to ensure compliance with this section and the health and safety of the
+32 public.
+33 A violation of this section is a Class 2 misdemeanor.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.260.24 5 1240
+1 Section 12. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+2 A vapor product sold for resale or retail in this state must:
+3 (1) Be packaged in tamper-evident or child-resistant packaging, as set forth in 15
+4 U.S.C. § 1472a (January 1, 2026) and 16 C.F.R. § 1700.15(b)(1) (January 1,
+5 2026); and
+6 (2) Have a label that contains:
+7 (a) A list of ingredients; and
+8 (b) The nicotine addiction warning, as provided in 21 C.F.R. § 1143 (January 1,
+9 2026).
+10 Neither the packaging nor labeling of a vapor product may contain any branding,
+11 imagery, or promotional content, which uses cartoons, celebrities, gaming references, or
+12 similar themes, to target persons under twenty-one years of age.
+13 Section 13. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+14 A distributor or retailer may not advertise or promote vapor products, brands, or
+15 flavors on the exterior of a licensed location, using billboards, window wraps, exterior-
+16 facing signage, broadcast advertisements, digital media, or any other methods visible to
+17 the public.
+18 A retailer or distributor may advertise its business, provided that the advertising is
+19 limited to the business name, location, operating hours, and a statement that vapor
+20 products may only be sold to individuals twenty-one years of age or older.
+21 Section 14. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+22 A vapor product may not be marketed or advertised on any medium that:
+23 (1) Lacks age-restriction access controls; or
+24 (2) Contains content primarily directed at or recognized as appealing almost
+25 exclusively to persons under the age of twenty-one.
+26 Section 15. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+27 A person may not distribute or provide any vapor product as a free sample or
+28 otherwise without monetary consideration.
+29 Section 16. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.260.24 6 1240
+1 A vapor product that does not meet the requirements of this chapter may be
+2 designated as contraband only upon a final determination by the department of
+3 noncompliance, following notice and a reasonable opportunity to cure. Any person in
+4 possession of a contraband vapor product shall ensure it is disposed of in accordance with
+5 chapter 34A-11.
+6 The person shall provide proof of proper disposal, on a form prescribed by the
+7 secretary, to the department, within sixty days of receiving notice from the department
+8 or from any law enforcement officer of this state that the person is in possession of a
+9 contraband vapor product.
+10 Section 17. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+11 The secretary may, in accordance with chapter 1-26, deny the issuance or renewal
+12 of, or suspend or revoke, a distributor or retailer license for:
+13 (1) A material failure to comply with any provision of this chapter, following notice and
+14 a reasonable opportunity to cure; or
+15 (2) Obtaining a license or renewal by false or fraudulent representation.
+16 A person aggrieved by an adverse action of the secretary may appeal the decision
+17 in accordance with chapter 1-26.
+18 Section 18. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+19 The secretary may impose a civil penalty in the amount of five thousand dollars for
+20 any violation of this chapter. The secretary shall deposit any civil penalty collected under
+21 this section in the vapor product regulatory fund created in section 21 of this Act.
+22 Section 19. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+23 The department shall promulgate rules, in accordance with chapter 1-26, to
+24 establish:
+25 (1) Criteria governing the initial licensure and renewal application process for retailers
+26 and distributors; and
+27 (2) Requirements for the inspection of distributors and retailers to ensure compliance
+28 with this chapter.
+29 Inspections by the department must be conducted based on reasonable cause,
+30 complaint, or routine regulatory audit, and may not be random, arbitrary, or capricious.
+31 Section 20. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.260.24 7 1240
+1 At the conclusion of each month, the department shall forward twenty percent of
+2 the fees received from distributor and retailer licenses established in this chapter to the
+3 state treasurer for deposit in the tobacco prevention and reduction trust fund, created in
+4 § 34-46-12, for the support of the tobacco prevention and reduction program. The
+5 remaining eighty percent of the fees received from distributor and retailer licenses
+6 established in this chapter must be forwarded to the state treasurer for deposit in the fund
+7 created in section 21 of this Act.
+8 Section 21. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+9 There is created in the state treasury the vapor product regulatory fund. The fund
+10 consists of all moneys designated for deposit in the fund.
+11 The department shall administer the fund. The purpose of the fund is to defray
+12 expenses associated with the administration of this chapter by the department and any
+13 other purpose authorized by law. Interest on moneys credited to the fund must remain in
+14 the fund. The fund must be budgeted through the general appropriation bill.
+15 Section 22. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+16 On or before each July first, the department and the Department of Health shall
+17 submit a report to the Legislature regarding:
+18 (1) The number of retailer and distributor licenses issued by the department;
+19 (2) Enforcement and regulatory challenges;
+20 (3) Public health outcomes related to vapor products; and
+21 (4) The economic impact of vapor products.
+22 Section 23. That § 34-46-1 be AMENDED:
+23 34-46-1. Terms used in this chapter mean:
+24 (1) "Electronic smoking device," any e-cigarette, e-cigar, e-pipe, e-hookah, or vape
+25 pen containing or delivering nicotine or any other substance intended for human
+26 consumption that may be used by a person in any manner for the purpose of
+27 inhaling vapor or aerosol from the product;
+28 (2) "Proof of age," a driver's license, nondriver identification card, tribal identification
+29 card, or other generally accepted means of identification that contains a picture of
+30 the individual and appears on its face to be valid;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.260.24 8 1240
+1 (3)(2) "Sample," tobacco products distributed to members of the general public at no cost
+2 for purposes of promoting the product;
+3 (4) "Sampling," the distribution of samples to members of the general public in a public
+4 place;
+5 (5)(3) "Self-service display," a display that contains cigarettes or smokeless tobacco, or
+6 both, and is located in an area openly accessible to the merchant's consumers, and
+7 from which such consumers can readily access cigarettes or smokeless tobacco, or
+8 both, without the assistance of the merchant or an employee or agent of the
+9 merchant. A display case that holds tobacco products behind locked doors does not
+10 constitute a self-service display;
+11 (6)(4) "Smoke" or "Smoking," the act of inhaling, exhaling, burning, or carrying any
+12 lighted or heated cigar, cigarette, pipe, hookah, or any other lighted or heated
+13 tobacco or plant product intended for inhalation, whether natural or synthetic, in
+14 any manner or in any form, including the use of an electronic smoking device which
+15 creates an aerosol or vapor, in any manner or in any form;
+16 (7)(5) "Tobacco product," any item made of tobacco intended for human consumption,
+17 including cigarettes, cigars, pipe tobacco, and smokeless tobacco, and vapor
+18 products as defined in § 34-46-20, or any other item made of tobacco and intended
+19 for human consumption;
+20 (8)(6) "Tobacco speciality store," a business that derives at least seventy-five percent of
+21 its revenue from the sale of tobacco products; and
+22 (7) "Vapor product," a noncombustible device that contains a consumable nicotine
+23 liquid and produces a vapor or aerosol for inhalation from the application of a
+24 heating element to the consumable nicotine liquid, or a consumable nicotine liquid
+25 suitable for use in the device, whether sold with the device or sold separately, but
+26 the term does not include any product that has been approved by the United States
+27 Food and Drug Administration for sale as a tobacco cessation product or for other
+28 therapeutic purposes, if the product is marketed and sold solely for the approved
+29 use.
+30 Section 24. That § 34-46-21 be AMENDED:
+31 34-46-21. No person A person may not sell a vapor product other than in:
+32 (1) In an unopened opened package originating with the manufacturer and depicting
+33 the warning labels required by federal law, or sell a vapor product through; or
+34 (2) Through a self-service display other than, except a display that is:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.260.24 9 1240
+1 (1)(a) A In a vending machine permitted under subdivision 34-46-2(5) and located
+2 in a retail establishment licensed in accordance with sections 1 to 22,
+3 inclusive, of this Act; or
+4 (2)(b) Located in a tobacco specialty store that is licensed as a retail establishment
+5 in accordance with sections 1 to 22, inclusive, of this Act.
+6 A violation of this section is a Class 2 misdemeanor. A person is not liable for more
+7 than one violation of this section on a single day.
+8 Section 25. That § 34-46-20 be REPEALED.
+9 For the purposes of this chapter, the term, tobacco product, includes vapor
+10 product. The term, vapor product, means any noncombustible product containing nicotine
+11 that employs a heating element, power source, electronic circuit, or other electronic,
+12 chemical, or mechanical means, regardless of shape or size, that can be used to produce
+13 vapor from nicotine in a solution or other form. The term, vapor product, includes any
+14 electronic cigarette, electronic cigar, electronic cigarillo, electronic pipe, or similar product
+15 or device and any vapor cartridge or other container of nicotine in a solution or other form
+16 that is intended to be used with or in an electronic cigarette, electronic cigar, electronic
+17 cigarillo, electronic pipe, electronic smoking device, or similar product or device. The term,
+18 vapor product, does not include any product approved by the United States Food and Drug
+19 Administration for sale as tobacco cessation products and marketed and sold solely for
+20 that purpose.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

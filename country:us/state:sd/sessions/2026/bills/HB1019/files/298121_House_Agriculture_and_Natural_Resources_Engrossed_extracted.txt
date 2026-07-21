@@ -1,0 +1,27 @@
+Title: 
+Official Title: 
+Source: versions - House Agriculture and Natural Resources Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.383.10 101st Legislative Session 1019
+2026 South Dakota Legislature
+House Bill 1019
+HOUSE AGRICULTURE AND NATURAL RESOURCES ENGROSSED
+Introduced by: The Chair of the Committee on Agriculture and Natural Resources at the request of the Department
+of Agriculture and Natural Resources
+1 An Act to revise provisions regarding pesticide laws.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 38-20A-13 be AMENDED:
+4 38-20A-13. If The secretary may cancel the registration of a pesticide, subject to
+5 a hearing under the provisions of chapter 1-26, if the secretary determines that a that the
+6 registered pesticide or its labeling does:
+7 (1) Does not comply with the provisions of this chapter or rules promulgated under
+8 this chapter,
+9 the secretary may cancel the registration of that pesticide, subject to a hearing
+10 under the provisions of chapter 1-26; or
+11 (2) Is adulterated or misbranded.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

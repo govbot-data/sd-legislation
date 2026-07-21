@@ -1,0 +1,57 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.358.20 101st Legislative Session 1073
+2026 South Dakota Legislature
+House Bill 1073
+Introduced by: Representative Heermann
+1 An Act to provide for the creation of a cardiac emergency plan in every school.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to chapter 13-33A:
+4 Each board of a school district and governing board of an accredited nonpublic
+5 school shall provide for the implementation of a cardiac emergency response plan in every
+6 school under its control.
+7 Each plan must be developed in collaboration with local emergency service
+8 providers, using nationally recognized core elements related to cardiac emergency
+9 response. The plan must provide for:
+10 (1) The creation of a cardiac emergency response team able to respond to incidents of
+11 sudden cardiac arrest or similar life-threatening emergencies on school grounds;
+12 (2) The placement of automated external defibrillators in clearly marked, unlocked,
+13 accessible locations on school grounds and at each athletic venue where practices
+14 or competitions are held;
+15 (3) The provision of staff training in cardiopulmonary resuscitation and the use of an
+16 automated external defibrillator; and
+17 (4) The procedures for responding to incidents of sudden cardiac arrest or similar life-
+18 threatening emergencies at all school-sanctioned or school-sponsored activities.
+19 The board of each school district and the governing board of each accredited
+20 nonpublic school shall review the cardiac emergency response plan for every school under
+21 its control and shall provide for the annual testing and any required maintenance of each
+22 automated external defibrillator.
+23 The board of each school district and the governing board of each accredited
+24 nonpublic school shall conduct, at each school under its control, an annual drill responding
+25 to incidents of sudden cardiac arrest or similar life-threatening emergencies, as provided
+26 in the school's cardiac emergency response plan.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.358.20 2 1073
+1 Section 2. That a NEW SECTION be added to chapter 13-33A:
+2 Every public and accredited nonpublic school shall arrange for annual training in
+3 cardiopulmonary resuscitation, first-aid, and the use of an automated external defibrillator
+4 for each employee serving as:
+5 (1) An athletic trainer, licensed pursuant to chapter 36-29;
+6 (2) A coach participating in a school-sanctioned or school-sponsored athletic activity;
+7 (3) A school nurse; and
+8 (4) A member of the school's cardiac emergency response team, pursuant to section
+9 1 of this Act.
+10 Training must consist of at least three hours of instruction, be provided by an
+11 emergency medical services provider, or an organization approved by the Department of
+12 Health, and follow evidence-based guidelines on emergency cardiovascular care set forth
+13 by a nationally recognized organization.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,368 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.479.19 101st Legislative Session 70
+2026 South Dakota Legislature
+Senate Bill 70
+Introduced by: The Chair of the Committee on Transportation at the request of the Department of Transportation
+1 An Act to revise the duties of the Transportation Commission to include
+2 responsibilities of the South Dakota Railroad Board and the South Dakota
+3 Aeronautics Commission.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That § 1-44-4 be AMENDED:
+6 1-44-4. There is created the Transportation Commission within the Department
+7 of Transportation. The Transportation Commission consists of nine members. The
+8 Governor shall appoint the members. All members are full voting members of the
+9 commission. Not all members of the commission may be from the same political party. No
+10 two members may, at the same time, be a resident residents of the same county. At least
+11 two members shall have experience in the use or operation of rail service. At least two
+12 members shall have experience in aeronautics.
+13 Section 2. That § 1-44-11 be AMENDED:
+14 1-44-11. The Department of Transportation shall, under the direction and control
+15 of the secretary of transportation, perform all the functions of the Aeronautics
+16 Transportation Commission relating to aeronautics, aircraft, and aviation, except:
+17 (1) Advisory functions, as defined in § 1-32-1, with respect to programs associated
+18 with the commission;
+19 (2) Special budgetary functions, as defined in § 1-32-1, provided for by §§ 50-2-12,
+20 50-7-10, and 50-7-15 to 50-7-19, inclusive, section 6 of this Act and chapter
+21 chapters 50-4 and 50-7; and
+22 (3) Quasi-legislative and quasi-judicial functions, as defined in § 1-32-1, provided for
+23 by chapters 50-2 1-44, 50-5, 50-9, 50-10, 50-11, and 50-12.
+24 Section 3. That § 1-44-20 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.479.19 2 70
+1 1-44-20. The Department of Transportation, with the approval of the South
+2 Dakota State Railroad Board Transportation Commission and the written consent of the
+3 Governor, may enter into agreements, contracts, leases (as lessor or lessee), or other
+4 arrangements with any corporation, partnership, individual, agency, or authority, on such
+5 terms and conditions as the department shall determine, including providing for the
+6 acquisition, operation, maintenance, and improvement of public rail lines, and the
+7 acquisition and disposition of any and all rights-of-way, land, facilities, fixtures and
+8 appurtenant structures, services and equipment, determined by the department to be
+9 necessary or appropriate.
+10 Section 4. That § 1-44-27 be AMENDED:
+11 1-44-27. The Department of Transportation shall obtain the approval of the
+12 Railroad Board Transportation Commission in the matters of operation, management,
+13 finance, marketing, and development of rail service over all properties and facilities
+14 acquired, leased, or controlled by the state.
+15 Section 5. That § 1-44-30 be AMENDED:
+16 1-44-30. Pursuant to chapter 1-26, the railroad board Transportation Commission
+17 shall adopt and publish rules to implement § 1-44-29. The railroad board Transportation
+18 Commission may, by board resolution, implement the provisions of § 1-44-28 and need
+19 not implement such provisions pursuant to §§ 1-26-4 to 1-26-14, inclusive.
+20 Section 6. That a NEW SECTION be added to chapter 1-44:
+21 The Transportation Commission shall approve the expenditure and disbursement
+22 of grants or moneys appropriated and available for matching purposes, and for the
+23 planning, construction, development, operation, and maintenance of airport facilities. The
+24 Transportation Commission may approve expenditures from the state aeronautics fund to
+25 support the advancement of aviation and aviation commerce within the state.
+26 Section 7. That a NEW SECTION be added to chapter 1-44:
+27 The Transportation Commission shall promulgate rules in accordance with chapter
+28 1-26 that are consistent with federal law and regulations governing aeronautics.
+29 Section 8. That a NEW SECTION be added to chapter 1-44:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.479.19 3 70
+1 Any person adversely affected by an act, ruling, or decision of the Transportation
+2 Commission regarding operating licenses for airports may appeal the act, ruling, or
+3 decision, in accordance with chapter 1-26.
+4 Section 9. That a NEW SECTION be added to chapter 1-44:
+5 Moneys received from other state agencies by the Department of Transportation
+6 for the use of its state aircraft, when the aircraft are not being used in the conduct of the
+7 necessary activities of the department, must be forwarded by the department to the state
+8 treasurer for deposit in an internal service fund to be designated as the special aviation
+9 internal service fund. The department may use the fund for maintenance, operating costs,
+10 repair, and other expenses associated with the operation of state aircraft.
+11 Section 10. That a NEW SECTION be added to chapter 1-44:
+12 The Department of Transportation shall maintain separate accounting for the
+13 special aviation internal service fund.
+14 Section 11. That § 3-23-10 be AMENDED:
+15 3-23-10. The following authorities, boards, or commissions are subject to this
+16 chapter:
+17 (1) South Dakota Building Authority;
+18 (2) Board of Economic Development;
+19 (3) South Dakota Housing Development Authority;
+20 (4) South Dakota Health and Education Facilities Authority;
+21 (5) South Dakota Science and Technology Authority Board of Directors;
+22 (6) South Dakota Ellsworth Development Authority;
+23 (7) South Dakota Commission on Gaming;
+24 (8) South Dakota Lottery Commission;
+25 (9) South Dakota State Brand Board;
+26 (10) Game, Fish and Parks Commission;
+27 (11) South Dakota State Banking Commission;
+28 (12) Board of Trustees of the South Dakota Retirement System;
+29 (13) Aeronautics Commission;
+30 (14) South Dakota State Railroad Board;
+31 (15) Transportation Commission;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.479.19 4 70
+1 (16)(14) South Dakota Board of Education Standards;
+2 (17)(15) Board of Regents;
+3 (18)(16) Board of Pardons and Paroles;
+4 (19)(17) Board of Minerals and Environment;
+5 (20)(18) Board of Water and Natural Resources;
+6 (21)(19) South Dakota Railroad Authority;
+7 (22)(20) Board of Water Management Water Management Board; and
+8 (23)(21) South Dakota Board of Technical Education.
+9 Section 12. That § 4-8-17.1 be AMENDED:
+10 4-8-17.1. Notwithstanding any other provision of law, taxes, fees, federal funds,
+11 and funds moneys from any source that, which are received by the Department of
+12 Transportation and the Aeronautics Commission shall, may be expended only when
+13 budgeted pursuant to chapter 4-7 and appropriation has been made therefor pursuant to
+14 chapter 4-8 and § 31-2-14.
+15 Section 13. That § 6-20-1 be AMENDED:
+16 6-20-1. Any municipality or county owning and operating an airport which that
+17 has been approved by the state Aeronautics Transportation Commission for public use
+18 may contract to construct, improve, and equip buildings, hangars, runways, and structures
+19 for the improvement of its municipal or county airport. In lieu of issuing general obligation
+20 bonds for the projects improvements or financing them, the municipality or county may
+21 issue revenue bonds. All revenue bonds shall must be authorized, issued, and sold as
+22 provided in chapter 6-8B, except as specifically provided otherwise in this chapter. No
+23 election is required for the issuance of revenue bonds under this chapter.
+24 Section 14. That § 10-28-21.6 be AMENDED:
+25 10-28-21.6. The State Railroad Board Transportation Commission shall, in
+26 accordance with chapter 1-26, promulgate rules establishing the form upon which a
+27 railroad shall submit verification information for capital expenses being claimed as tax
+28 credits authorized by § 10-28-21.2, when the information is to be submitted, and the
+29 manner in which the certification is submitted.
+30 Section 15. That § 38-21-20 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.479.19 5 70
+1 38-21-20. If the secretary finds the applicant qualified to apply pesticides in the
+2 classifications for which the applicant applied, after such any examinations as the
+3 secretary shall require by regulation, and if the applicant applying for a license to engage
+4 in aerial application of pesticides has met all the requirements of the Federal Aviation
+5 Agency, the Aeronautics Transportation Commission of this state, and any other applicable
+6 federal or state laws or regulations to operate the equipment described in the application,
+7 the secretary shall issue an applicator's license limited to the classifications for which the
+8 applicant is qualified. The secretary may deny any application for any applicator's license
+9 if the secretary finds that the applicant has violated any provisions of this chapter.
+10 Section 16. That § 49-16B-3 be AMENDED:
+11 49-16B-3. There is created the South Dakota Railroad Authority, a body corporate
+12 and politic. The governing board of the South Dakota Railroad Authority shall be is
+13 comprised of the members of the South Dakota State Railroad Board Transportation
+14 Commission, as provided by § 1-44-25 in § 1-44-4.
+15 Section 17. That § 49-16B-13.1 be AMENDED:
+16 49-16B-13.1. The authority shall receive approval for all proposed expenditures
+17 from the South Dakota State Railroad Board Transportation Commission and the
+18 Governor.
+19 Section 18. That § 49-16C-3 be AMENDED:
+20 49-16C-3. The South Dakota State Railroad Board Transportation Commission
+21 may, upon the written approval of the Governor, make loans from the railroad trust fund
+22 to regional railroad authorities upon such the terms and conditions as the State Railroad
+23 Board the Transportation Commission may determine. The South Dakota State Railroad
+24 Board Transportation Commission shall adopt rules, pursuant to chapter 1-26 establishing
+25 the procedures for loan application applications and approval.
+26 Section 19. That § 49-16C-4 be AMENDED:
+27 49-16C-4. The South Dakota State Railroad Board Transportation Commission
+28 may set, from time to time, the interest rates at which it shall make the loans provided
+29 for in § 49-16C-3. In addition to such interest charges, the board commission may make
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.479.19 6 70
+1 charge for and collect such costs, fees, and other charges expenses incurred in
+2 administering the loan, as the board commission may deem necessary.
+3 Section 20. That § 49-16C-5 be AMENDED:
+4 49-16C-5. The South Dakota State Railroad Board Transportation Commission
+5 may, with the approval of the Governor, expend funds moneys from the railroad trust
+6 fund to match federal railroad rehabilitation funds.
+7 Section 21. That § 49-16C-7 be AMENDED:
+8 49-16C-7. Any funds in the railroad trust fund designated for expenditure by any
+9 of the provisions of § 49-16B-13.1, 49-16C-2, 49-16C-3, or 49-16C-5, or 49-16C-6 are
+10 hereby continuously appropriated for such purposes.
+11 Section 22. That § 50-1-1 be AMENDED:
+12 50-1-1. Terms as used in this title mean:
+13 (1) "Air traffic control," a service operated by an authority under Federal Aviation
+14 Administration oversight to promote the safe, orderly, and expeditious flow of air
+15 traffic in the United States;
+16 (2) "Aircraft," a device that is used, intended to be used, or designed for flight in the
+17 air. The term includes any airplane, balloon, drone, glider, and helicopter;
+18 (3) "Aircraft dealer," any person, manufacturer, or distributor engaged in the business
+19 of buying, selling, exchanging, or acting as a broker for three or more aircraft in
+20 any twelve consecutive months, other than a business liquidation of used aircraft;
+21 (4) "Airport," any area of land or water used, or intended to be used, for landing and
+22 take-off of aircraft, and any appurtenant area, structure, facility, or right of way to
+23 facilitate that use;
+24 (5) "Airport authority," a government entity created under this chapter for the purpose
+25 of acquiring, establishing, contracting, maintaining, improving and operating
+26 airports and other navigation facilities;
+27 (6) "Airport facility," any property, structure, mechanism, machinery, light, beacon,
+28 communicating system, or other equipment or device used as an aid to the safe
+29 taking off and landing of aircraft, or the safe and efficient operation or maintenance
+30 of an airport;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.479.19 7 70
+1 (7) "Airport hazard," any existing or potential condition that can endanger any airport
+2 facility, endanger the life or property of a user of an airport, any airport facility
+3 user, or the life or property of any occupant of land in the vicinity of an airport;
+4 (8) "Airport sponsor," a public agency, private owner, state entity, or other political
+5 subdivision that is associated with a public use airport facility and is a recipient of
+6 any federal airport improvement grant;
+7 (9) "Anemometer tower," a structure, including any guy wire or accessory facility, on
+8 which an anemometer is mounted;
+9 (10) "Aviation facility," any facility that supports aviation activities, including any
+10 airport, heliport, and navigational aid;
+11 (11) "Balloon," an aircraft that is not engine-driven, is lighter than air, and sustains
+12 flight through the use of gas buoyancy or an airborne heater;
+13 (12) "Commercial purpose," an aviation activity for profit that includes flight instruction,
+14 charter, air taxi, or rental, but does not include the substitution of a commercial
+15 use stamp for regular aircraft registration for the promotion of a business or other
+16 purpose that does not involve aviation;
+17 (13) "Commission," the South Dakota Aeronautics Commission Transportation
+18 Commission;
+19 (14) "Controlled airspace," any airspace of specific and defined classifications and
+20 dimensions inside of which air traffic control services are provided;
+21 (15) "Department," the Department of Transportation;
+22 (16) "Drone," an unmanned aircraft (UA);
+23 (17) "Heliport," an area of land, water, or a structural surface, used or intended for use
+24 as a landing and take-off area for helicopters;
+25 (18) "Military airport," any military air base, air station, airfield, or other area, publicly
+26 or privately owned, that is designed, set aside, and operated by the state, a political
+27 subdivision of the state, or the United States, for civil or national defense, or for
+28 any federal program relating to flight, or for the operation of military aircraft, and
+29 used in the interest of the public for those purposes;
+30 (19) "Navigational aid," an aviation facility which that is external to an aircraft and is
+31 specifically intended to assist a pilot in determining the aircraft's position and safe
+32 course;
+33 (20) "Obstruction," any structure or obstacle, or use of land, that obstructs an aerial
+34 approach of an airport or is otherwise hazardous to the use of an airport by aircraft
+35 for landing or taking off;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.479.19 8 70
+1 (21) "Place of business," a permanent enclosed structure at which a permanent business
+2 of bartering, trading, or selling aircraft is carried out in good faith. The term does
+3 not include any residence, tent, stand, or any other temporary structure;
+4 (22) "Prescribed adjusted height," a height adjusted upward seventeen:
+5 (a) Seventeen feet for an interstate highway, fifteen;
+6 (b) Fifteen feet for any other public road, ten;
+7 (c) Ten feet or the height of the highest mobile object that would normally
+8 traverse the road, whichever is greater, for a private road, and twenty-
+9 three; and
+10 (d) Twenty-three feet for a railroad;
+11 (23) "Private airport," any privately-owned privately owned airport that is available for
+12 use only by the owner and the owner's invitees;
+13 (24) "Public airport," any airport, whether publicly or privately owned, that is available
+14 for use by the public;
+15 (25) "Small unmanned aircraft," a UA an unmanned aircraft that weighs not more than
+16 fifty-five pounds, (twenty-five kilograms) including everything that is onboard or
+17 otherwise attached to the aircraft;
+18 (26) "Small unmanned aircraft system" or "sUAS," any small unmanned aircraft and its
+19 associated elements, including communication links and the components that
+20 control the UA, that are required for the safe and efficient operation of the UA;
+21 (27) "Temporary airport," any airport established and set aside for the operation of
+22 aircraft for transitory or impermanent purposes; and
+23 (28) "Unmanned aircraft" or "UA,", an aircraft operated without the possibility of direct
+24 human intervention from within or on the aircraft.
+25 Section 23. That § 50-5-1.2 be AMENDED:
+26 50-5-1.2. The Aeronautics Commission commission shall promulgate rules, in
+27 accordance with chapter 1-26, establishing requirements for the issuance and
+28 maintenance of certificates of approval for airports, as prescribed in this chapter.
+29 Section 24. That § 1-44-25 be REPEALED.
+30 The South Dakota State Railroad Board consists of seven members to be appointed
+31 by the Governor. Members shall serve a three-year term. No more than five members
+32 may be of the same political party. No person may be appointed to the board who is an
+33 elected official of the State of South Dakota or any subdivision thereof. Any member
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.479.19 9 70
+1 appointed to fill a vacancy arising from other than the natural expiration of a term shall
+2 serve only for the unexpired term, but may be reappointed to a full term. The board shall
+3 annually choose from its membership a chair, a vice chair, and a secretary-treasurer. No
+4 member may be removed from office except for cause.
+5 The terms of members begin on October thirty-first of the calendar year. The
+6 appointee's term expires on October thirtieth in the third year of appointment.
+7 Any member's term ending June 30, 2013, or thereafter is extended to October
+8 thirtieth in the year the term is to expire.
+9 Section 25. That § 1-44-26 be REPEALED.
+10 At least one member, in the opinion of the Governor, shall be a person experienced
+11 in or having a favorable reputation for skill, knowledge, and experience in business
+12 management. At least one member, in the opinion of the Governor, shall be a person
+13 experienced in or having a favorable reputation for skill, knowledge, and experience in the
+14 operation of railroad service. At least one member, in the opinion of the Governor, shall
+15 be a person experienced in or having a favorable reputation for skill, knowledge, and
+16 experience in private or public finance. At least one member, in the opinion of the
+17 Governor, shall be a person experienced in or having a favorable reputation for skill,
+18 knowledge, and experience in marketing. At least one member of the commission shall
+19 be, in the opinion of the Governor, a person who is a user of rail service. Two members
+20 shall be from the public at large.
+21 Section 26. That § 49-16C-6 be REPEALED.
+22 The South Dakota State Railroad Board may, upon approval of the Governor,
+23 expend from the railroad trust fund an amount not to exceed one million dollars to join
+24 with other states to preserve the railroad line extending from Jonathan, Minnesota, in a
+25 westerly direction through South Dakota to Miles City, Montana.
+26 Section 27. That § 50-2-1 be REPEALED.
+27 The commission consists of seven persons appointed by the Governor who shall
+28 receive the per diem set by § 4-7-10.4 for the time actually spent in the performance of
+29 their official duties, together with traveling expenses set by rule of the Board of Finance.
+30 At least four members of the commission shall be or have been actively engaged in and
+31 have had at least one year of practical experience in civil or military aeronautics.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.479.19 10 70
+1 The term of each member begins on October thirty-first of the calendar year in
+2 which the Governor appoints the member, unless otherwise designated by the Governor.
+3 The member's term is for three years and expires on October thirtieth in the third year of
+4 the member's appointment.
+5 Section 28. That § 50-2-1.1 be REPEALED.
+6 The commission shall continue within the department, and all its functions shall be
+7 performed by the department as provided by § 1-44-11.
+8 The commission shall provide advice and expertise to state agencies regarding the
+9 purchase, transfer and disposition of state owned and operated aircraft including those
+10 owned or operated by any state institution.
+11 Section 29. That § 50-2-4 be REPEALED.
+12 On or before the thirty-first day of December, in each year, the commission shall
+13 make, to the Governor, a full report of its proceedings for the year ending the thirtieth
+14 day of June preceding and may submit with the report any recommendations pertaining
+15 to the commission's affairs as seem to the commission to be desirable.
+16 Section 30. That § 50-2-12 be REPEALED.
+17 The commission shall approve the expenditure and disbursement of grants or funds
+18 appropriated and available for matching purposes, and for the planning, construction,
+19 development, operation, and maintenance of airport facilities. The commission may also
+20 approve expenditures from the state aeronautics fund to support the advancement of
+21 aviation and aviation commerce within the state.
+22 Section 31. That § 50-2-13 be REPEALED.
+23 The commission shall promulgate rules in accordance with chapter 1-26 that are
+24 consistent with federal law and regulations governing aeronautics.
+25 Section 32. That § 50-2-15 be REPEALED.
+26 The commission, when its state aircraft are not being used in the conduct of the
+27 necessary activities of the department, may operate the aircraft for other departments of
+28 this state. The rate of reimbursement to the department shall be set by the Board of
+29 Finance, to fully defray the cost and expenses of rendering the service under this section.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.479.19 11 70
+1 Section 33. That § 50-2-16 be REPEALED.
+2 The funds received from the other departments of state government by the
+3 department shall be deposited in the state treasury in an internal service fund to be
+4 designated as the special aviation internal service fund. The department shall use the fund
+5 for the maintenance, cost of operation, repair, and other expenses in connection with the
+6 operation of its state aircraft.
+7 Section 34. That § 50-2-17 be REPEALED.
+8 The department shall maintain separate accounting and limit its expenditures from
+9 the special aviation internal service fund so as to in no instance use any sum for a purpose
+10 other than that for which it has been appropriated.
+11 Section 35. That § 50-2-32 be REPEALED.
+12 A person may appeal an action of the commission in accordance with chapter 1-
+13 26.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

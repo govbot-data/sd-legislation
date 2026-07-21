@@ -1,0 +1,59 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.178.28 101st Legislative Session 1110
+2026 South Dakota Legislature
+House Bill 1110
+Introduced by: Representative Reimer
+1 An Act to amend provisions relating to an individual's status as a voter for municipal
+2 or school district elections.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 9-13-4.1 be AMENDED:
+5 9-13-4.1. No person individual may vote at any a municipal election unless the
+6 person individual is registered to vote as a voter of the municipality, pursuant to chapter
+7 12-4 and resides in, and is a resident of the municipality at the time of the election.
+8 For the purposes of this section, a person resides in an individual is a resident of
+9 the municipality if the person actually lives individual:
+10 (1) Became a resident of the municipality, as defined in § 12-1-4, and continues to
+11 live in the municipality for at least thirty consecutive days each year, is;
+12 (2) Is a full-time postsecondary education student who resided in was a resident of the
+13 municipality, as defined in § 12-1-4, immediately prior to leaving for the
+14 postsecondary education, or is; or
+15 (3) Is on active duty as a member of the armed forces whose and the individual's home
+16 of record is within the municipality. A voter's
+17 An individual's qualification as a resident may be challenged only in the manner
+18 provided in § 12-18-10. No §§ 12-4-59 to 12-4-63, inclusive. An election may not be
+19 contested on the grounds that any nonresident an individual who is not a resident of the
+20 municipality was allowed to vote if the nonresident was individual's qualifications were not
+21 challenged in the manner provided in § 12-18-10 §§ 12-4-59 to 12-4-63, inclusive.
+22 Section 2. That § 13-7-4.2 be AMENDED:
+23 13-7-4.2. No person individual may vote at any a school district election unless
+24 the person individual is registered to vote as a voter in the school district, pursuant to
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.178.28 2 1110
+1 chapter 12-4 and resides in, and is a resident of the school district at the time of the
+2 election.
+3 For the purposes of this section, a person resides in an individual is a resident of
+4 the school district if the person actually lives individual:
+5 (1) Became a resident of the school district, as defined in § 12-1-4, and continues to
+6 live in the school district for at least thirty consecutive days each year, is;
+7 (2) Is a full-time postsecondary education student who resided in was a resident of the
+8 school district, as defined in § 12-1-4, immediately prior to leaving for the
+9 postsecondary education, or is; or
+10 (3) Is on active duty as a member of the armed forces whose and the individual's home
+11 of record is within the school district. A voter's
+12 An individual's qualification as a resident may be challenged only in the manner
+13 provided in § 12-18-10. No §§ 12-4-59 to 12-4-63, inclusive. An election may not be
+14 contested on the grounds that any nonresident an individual who is not a resident of the
+15 school district was allowed to vote if the nonresident was individual's qualifications were
+16 not challenged in the manner provided in § 12-18-10 §§ 12-4-59 to 12-4-63, inclusive.
+17 Section 3. This Act is effective beginning December 1, 2026.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

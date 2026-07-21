@@ -1,0 +1,610 @@
+Title: 
+Official Title: 
+Source: versions - Senate Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.237.22 101st Legislative Session 1323
+2026 South Dakota Legislature
+House Bill 1323
+SENATE ENGROSSED
+Introduced by: Representative Aylward
+1 An Act to modify the requirements to refer an ordinance or resolution to the voters
+2 of a political subdivision.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 7-18A-8 be AMENDED:
+5 7-18A-8. Except such resolutions or ordinances as may be necessary for the
+6 immediate preservation of the public peace, health, or safety, or support of the county
+7 government and its existing public institutions; which provide for an election or hearing
+8 on an improvement or assessment; or which call for bids which take effect upon the
+9 passage and publication thereof, every resolution or ordinance passed by a board shall
+10 take effect on the twentieth day after its completed publication unless suspended by
+11 operation of a referendum.
+12 Except as otherwise provided in this section, an ordinance or resolution passed by
+13 a board of county commissioners takes effect on the twentieth day after the final
+14 publication of the ordinance or resolution in the county's official newspapers, as designated
+15 pursuant to § 7-18-3.
+16 An ordinance or resolution takes effect upon the passage and publication of the
+17 ordinance or resolution if the ordinance or resolution:
+18 (1) May be necessary for:
+19 (a) The immediate preservation of the public peace, health, or safety; or
+20 (b) The support of the county government and its existing public institutions;
+21 (2) Provides for an election;
+22 (3) Provides for a hearing on an improvement or assessment; or
+23 (4) Calls for a bid.
+24 An ordinance or resolution that has been referred to a vote of the people does not
+25 take effect until the completion of the referendum process.
+26 Section 2. That § 7-18A-15 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.237.22 2 1323
+1 7-18A-15. Any ordinance or resolution adopted by a board of county
+2 commissioners may be referred to a vote of the qualified voters of the county by the filing
+3 of a petition signed by five percent of the registered voters in the county, based upon the
+4 total number of registered voters at the last preceding general election, except such
+5 ordinances and resolutions asThe registered voters of a county may refer an ordinance or
+6 resolution adopted by the board of county commissioners to the voters of the county by
+7 filing a petition with the county auditor, within twenty days of the publication of the
+8 decision in each of the county's official newspapers, as designated pursuant to § 7-18-3.
+9 The petition must be signed by at least five percent of the registered voters of the county,
+10 based upon the total number of registered voters in the county at the last general election,
+11 or two thousand five hundred registered voters of the county, whichever is fewer.
+12 Unless otherwise permitted by law, the registered voters of a county may not refer:
+13 (1) An ordinance or resolution that may be necessary for the immediate preservation
+14 of the public peace, health, or safety, or for the support of the county government
+15 and its existing public institutions; or
+16 (2) An ordinance, resolution, or other decision that:
+17 (a) Executes a plan already adopted by the board or by the Legislature; or
+18 (b) Provides for the supervision of county programs, employees, or officials.
+19 Section 3. That § 7-18A-29 be AMENDED:
+20 7-18A-29. Upon the adoption of an ordinance in revision by the board that revises
+21 the ordinances of the county, pursuant to § 7-18A-28, the auditor shall publish a notice,
+22 once each week for two successive weeks, in the legal newspapers designated pursuant
+23 to § 7-18-3, a notice that an ordinance in revision was adopted.Twenty days after the
+24 completed publication of the notice, unless the referendum shall have been invoked, such
+25 ordinance shall become effective without publication in a newspaper. The notice must be
+26 published once a week for two successive weeks.
+27 The ordinance is effective twenty days after the second publication of the notice.
+28 The board shall publish the revised ordinances in book form.
+29 Section 4. That § 9-4-4.5 be AMENDED:
+30 9-4-4.5. The required number of voters residing in the combined area of the
+31 municipality and special annexation precinct may file within twenty days after the
+32 publication of the annexation resolution a petition with the municipal finance officer,
+33 requiring the submission of the annexation resolution to a vote of the voters of the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.237.22 3 1323
+1 combined area of the municipality and special annexation precinct for its rejection or
+2 approval.The registered voters living in the municipality and area designated for
+3 annexation by the municipality may refer a resolution adopted by the governing body of
+4 the municipality to annex land for the purpose of expanding the municipality's boundaries
+5 by filing a petition with the municipal finance officer, within twenty days of the publication
+6 of the decision. The petition must be signed by at least five percent of the registered
+7 voters residing in the combined area of the municipality and area designated for
+8 annexation, based on the number of the registered voters of the area, as determined by
+9 the county auditor pursuant to § 9-20-8, or two thousand five hundred registered voters
+10 residing in the same area, whichever is fewer.
+11 Section 5. That § 9-19-13 be AMENDED:
+12 9-19-13. Except such resolutions or ordinances as may be necessary for the
+13 immediate preservation of the public peace, health, or safety, or support of the municipal
+14 government and its existing public institutions, or which provide for an election or for
+15 hearing on an improvement or assessment or which call for bids, which take effect upon
+16 the passage and publication thereof, every resolution or ordinance passed by the
+17 governing body shall take effect on the twentieth day after its publication unless
+18 suspended by operation of a referendum.Except as otherwise provided in this section, an
+19 ordinance or resolution passed by the governing body of a municipality takes effect on the
+20 twentieth day after the publication of the ordinance or resolution in the municipality's legal
+21 newspaper, as designated pursuant to § 9-12-6.
+22 An ordinance or resolution takes effect upon the passage and publication of the
+23 ordinance or resolution if the ordinance or resolution:
+24 (1) May be necessary for:
+25 (a) The immediate preservation of the public peace, health, or safety; or
+26 (b) The support of the municipal government and its existing public institutions;
+27 (2) Provides for an election;
+28 (3) Provides for a hearing on an improvement or assessment; or
+29 (4) Calls for a bid.
+30 An ordinance or resolution that has been referred to a vote of the people does not
+31 take effect until the completion of the referendum process.
+32 Section 6. That § 9-20-6 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.237.22 4 1323
+1 9-20-6. The required number of voters residing in any municipality may file within
+2 twenty days after the publication of any ordinance or resolution subject to referendum a
+3 petition with the auditor or clerk, requiring the submission of any such ordinance or
+4 resolution to a vote of the voters of the municipality for its rejection or approval. If filed
+5 on the twentieth day after publication, such petitions shall be filed no later than normal
+6 closing hours of the city hall or city auditor's office on said twentieth day.The registered
+7 voters of a municipality may refer an ordinance or resolution adopted by the governing
+8 body of the municipality to the voters of the municipality by filing a petition with the
+9 municipal finance officer, within twenty days of the publication of the decision. The petition
+10 must be signed by at least five percent of the registered voters of the municipality, based
+11 on the number of the registered voters of the municipality, as recorded by the county
+12 auditor pursuant to § 9-2-2, or two thousand five hundred registered voters of the
+13 municipality, whichever is fewer. The petition must be filed with the finance officer before
+14 the normal finance office closing time on the twentieth day.
+15 Unless otherwise permitted by law, the registered voters of a municipality may not
+16 refer:
+17 (1) An ordinance or resolution that may be necessary for the immediate preservation
+18 of the public peace, health, or safety, or for the support of the municipal
+19 government and its existing public institutions; or
+20 (2) An ordinance, resolution, or other decision that:
+21 (a) Executes a plan already adopted by the governing body or by the
+22 Legislature; or
+23 (b) Provides for the supervision of municipal programs, employees, or officials.
+24 Section 7. That § 9-20-8 be AMENDED:
+25 9-20-8. The referendum petition shall be signed by at least five percent of the
+26 registered voters in the municipality. The percentage shall be based on the number of
+27 registered voters of the municipality as recorded by the county auditor on the second
+28 Tuesday in January in the year the petition is filed. If the petition is filed before the second
+29 Tuesday in January, the prior year's calculation of registered voters shall be used. The
+30 signer or circulator shall add the signer's residence address, county of voter registration,
+31 and date of signing. The signer's post office box number may be given in lieu of a street
+32 address if the signer lives within a municipality of the second or third class.An individual
+33 signing the petition to refer an ordinance or resolution or the petition circulator shall add
+34 the individual's residence address, county of voter registration, and the date of signing. If
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.237.22 5 1323
+1 the individual lives within a second-class or third-class municipality, the individual may
+2 provide the individual's post office box number in lieu of a street address.
+3 Section 8. That § 10-12-43 be AMENDED:
+4 10-12-43. The governing body of the school district may raise additional revenues
+5 for general fund purposes only, from property tax through the imposition of an excess tax
+6 levy. The governing body of a school district may impose the excess tax levy with an
+7 affirmative two-thirds vote of the governing body on or before July fifteenth of the year
+8 prior to the year the taxes are payable. On any excess tax levy approved after July 1,
+9 2002, the governing body of the taxing district shall specify in the resolution the year or
+10 number of years the excess tax levy will be applied.
+11 The requirements for an announcement made pursuant to this section are as
+12 follows:
+13 (1) The decision of the governing body to originally impose or subsequently
+14 increase an excess tax levy shall be first published within ten days of the decision;
+15 (2) Publication shall be made at least twice in the legal newspaper designated pursuant
+16 to § 13-8-10, with no fewer than five days between publication dates, before the
+17 opt out takes effect;
+18 (3) The announcement shall be at least three newspaper columns in width and four
+19 inches in length or at least one-sixth of a page in size, whichever size is greater;
+20 (4) The announcement shall be headed with the following statement in a typeface no
+21 less than eighteen point type: "ATTENTION TAXPAYERS: NOTICE OF PROPERTY
+22 TAX INCREASE OF $(fill in amount)." The remainder of the announcement shall
+23 consist of a reproduction of the "Resolution for Opt Out," including the amount that
+24 property taxes will be increased annually by the proposed opt out and a statement
+25 of the right to refer the decision of the board to a vote of the people as provided
+26 in this section. The secretary of revenue, in rules promulgated pursuant to chapter
+27 1-26, shall prescribe a uniform form to be used by the school district for notification
+28 of taxpayers as required by this section. However, the requirements of subdivisions
+29 (3) and (4) shall be waived if:
+30 (A) The opt out is for less than fifteen thousand dollars; or
+31 (B) A copy of the resolution for opt out is mailed to every property taxpayer in the local
+32 governmental unit, by first class mail or bulk mail, within twenty days of the
+33 decision to opt out; and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.237.22 6 1323
+1 (C) A copy of the resolution for opt out is printed in each official newspaper in the local
+2 governmental unit's boundaries.
+3 For the purposes of subsections (A), (B), and (C), the first publication is not
+4 deemed to have occurred until three days after the mailing is sent or the resolution is
+5 delivered to the official newspaper.
+6 The opt out decision may be referred to a vote of the people upon a resolution of
+7 the governing body of the school district or by a petition signed by at least five percent of
+8 the registered voters in the school district and filed with the governing body within twenty
+9 days of the first publication of the decision. The referendum election shall be held on or
+10 before October first of the year prior to the time the taxes are payable.
+11 The board of a school district may, by resolution, impose an excess tax levy to
+12 raise additional revenues from property tax for general fund purposes only. The board
+13 may impose the excess tax levy with an affirmative vote of at least two-thirds of the
+14 members on or before July fifteenth of the year prior to the year the taxes are payable.
+15 The board shall specify in the resolution the year or number of years the excess tax is to
+16 be applied.
+17 The decision of the board to impose or increase an excess tax levy must first be
+18 published in the district's legal newspaper, as designated pursuant to § 13-8-10, within
+19 ten days of the board's decision. The board must publish at least two additional
+20 notifications in the district's legal newspaper, the last of which must be published not more
+21 than seven days before the excess levy takes effect, provided that there are at least five
+22 days between the publication of the two notices. Each notice must:
+23 (1) Contain the following headline in a typeface no less than eighteen-point type:
+24 "ATTENTION TAXPAYERS: NOTICE OF PROPERTY TAX INCREASE OF $(fill in
+25 amount)";
+26 (2) Consist of a reproduction of the "Resolution for Opt Out," including the amount by
+27 which property taxes are to be increased annually by the proposed opt out; and
+28 (3) Include a statement of the right to refer the decision of the board to a vote of the
+29 people, as provided in this section.
+30 The board is not required to meet the formatting and content requirements
+31 required by subdivisions (2) and (3) if the excess tax levy is for less than fifteen thousand
+32 dollars or if the board has, within twenty days of the decision to impose the excess tax
+33 levy, mailed to every property taxpayer in the district, by first class or bulk mail, a copy
+34 of the resolution authorizing the excess tax levy and if a copy of the resolution is published
+35 in each newspaper within the school district, as established in § 17-2-2.1. The additional
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.237.22 7 1323
+1 notices must be published at least three days after the mailing is sent or the resolution is
+2 delivered to the official newspaper, whichever is later.
+3 The secretary of the Department of Revenue shall promulgate rules, pursuant to
+4 chapter 1-26, prescribing the form to be used by the school district for notification of
+5 taxpayers, as required by this section.
+6 Section 9. That § 10-12-43.1 be AMENDED:
+7 10-12-43.1. A school district may raise additional revenues for capital outlay fund
+8 purposes through the imposition of an excess tax levy. A school district seeking to impose
+9 an excess tax levy pursuant to this section is subject to the same opt out procedures and
+10 requirements as provided in § 10-12-43. The opt out decision may be referred to a vote
+11 of the people in the same manner as provided in § 10-12-43.
+12 A school district imposing an excess tax levy pursuant to this section shall exclude
+13 any additional revenue generated by the excess tax levy from the total tax revenues
+14 deposited in the capital outlay fund when calculating the maximum allowable transfer to
+15 the school district's general fund authorized under § 13-16-6. Any additional Additional
+16 revenue generated by the excess tax levy may only be used for capital outlay fund
+17 purposes pursuant to § 13-16-6.
+18 In no year may the annual tax levy for capital outlay fund purposes exceed the
+19 levy authorized under § 13-16-7.
+20 Section 10. That a NEW SECTION be added to chapter 10-12:
+21 The registered voters of a school district may refer a resolution adopted by the
+22 board of the school district to impose an excess tax levy, pursuant to § 10-12-43 or 10-
+23 12-43.1, by filing a petition with the business manager of the school district, within twenty
+24 days of the first publication of the decision. The petition must be signed by at least five
+25 percent of the registered voters of the school district, based on the total number of
+26 registered voters of the school district, or two thousand five hundred registered voters of
+27 the school district, whichever is fewer.
+28 The election must be held on or before October first of the year prior to the time
+29 the taxes are payable. The business manager shall give notice that the question is to be
+30 on the ballot at the next scheduled election or at a special election called for that purpose
+31 and prepare official ballots according to the provisions of chapter 13-7.
+32 Section 11. That § 10-13-35.13 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.237.22 8 1323
+1 10-13-35.13. The governing body of a taxing district may, by resolution, impose
+2 the levy provided in § 10-13-35.12 with an affirmative two-thirds vote of the governing
+3 body on or before July fifteenth.
+4 The decision of the governing body to impose the levy shall be published within
+5 ten days of the decision as follows:
+6 (1) Publication shall be made at least twice in the legal newspaper designated by the
+7 governing body pursuant to law, with no fewer than five days between publication
+8 dates, before the tax imposition takes effect;
+9 (2) The announcement shall be at least three newspaper columns in width and four
+10 inches in length or at least one-sixth of a page in size, whichever size is greater;
+11 (3) The announcement shall be headed with the following statement in a typeface no
+12 less than eighteen point type: "ATTENTION TAXPAYERS: NOTICE OF PROPERTY
+13 TAX IMPOSED OF $(fill in amount)." The remainder of the announcement shall
+14 consist of a reproduction of the resolution including the amount that property taxes
+15 will be imposed and a statement of the right to refer the decision of the board to a
+16 vote of the people as provided in this section. The secretary of revenue, in rules
+17 promulgated pursuant to chapter 1-26, shall prescribe a uniform form to be used
+18 by the taxing district for notification of taxpayers as required by this section.
+19 However, the requirements of subdivisions (2) and (3) are waived if:
+20 (a) The property tax imposed is for less than fifteen thousand dollars; or
+21 (b) A copy of the resolution is mailed to every property taxpayer in the taxing
+22 district, by first class mail or bulk mail, within twenty days of the decision;
+23 and
+24 (c) A copy of the resolution is printed in each legal newspaper in the taxing
+25 district's boundaries.
+26 For the purposes of subsections (a), (b), and (c), the first publication is not deemed
+27 to have occurred until three days after the mailing is sent or the resolution is delivered to
+28 the legal newspaper.
+29 The governing body's decision may be referred to a vote of the people upon a
+30 resolution of the governing body of the taxing district or by a petition signed by at least
+31 five percent of the registered voters in the taxing district and filed with the respective
+32 governing body within twenty days of the first publication of the decision. The referendum
+33 election shall be held on or before October first preceding the year the taxes are
+34 payable.The governing body of a taxing district may, by resolution, impose the levy
+35 provided in § 10-13-35.12. The body may impose the tax levy with an affirmative vote of
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.237.22 9 1323
+1 at least two-thirds of the total membership of the body, on or before July fifteenth of the
+2 year prior to the year in which the taxes are payable.
+3 The decision of the governing body to impose the levy must be published in the
+4 legal newspaper designated by the governing body, within ten days of the body's decision.
+5 The body must publish at least two additional notifications in the district's legal newspaper,
+6 the last of which must be published not more than seven days before the tax levy takes
+7 effect, provided that there are at least five days between the publication of the two notices.
+8 Each notice must:
+9 (1) Be at least three newspaper columns in width and four inches in length or at least
+10 one-sixth of a page in size, whichever size is greater;
+11 (2) Contain the following headline in a typeface no less than eighteen-point type:
+12 "ATTENTION TAXPAYERS: NOTICE OF PROPERTY TAX IMPOSED OF $(fill in
+13 amount)";
+14 (3) Consist of a reproduction of the resolution, including the amount that property
+15 taxes are to be imposed; and
+16 (4) Include a statement of the right to refer the decision of the board to a vote of the
+17 people as provided in this section.
+18 The governing body is not required to meet the formatting and content
+19 requirements required by subdivisions (3) and (4) if the excess tax levy is for less than
+20 fifteen thousand dollars or if the body has, within twenty days of the decision to impose
+21 the excess tax levy, mailed to every property taxpayer in the municipality, by first class
+22 or bulk mail, a copy of the resolution authorizing the excess tax levy and if a copy of the
+23 resolution is published in each newspaper within the municipality, as established in § 17-
+24 2-2.1. The additional notices must be published at least three days after the mailing is
+25 sent or the resolution is delivered to the official newspaper, whichever is later.
+26 The secretary of the Department of Revenue, in rules promulgated pursuant to
+27 chapter 1-26, shall prescribe a uniform form to be used by the taxing district for the
+28 notification of taxpayers as required by this section.
+29 Section 12. That a NEW SECTION be added to chapter 10-13:
+30 The registered voters of a taxing district may refer a resolution adopted by the
+31 governing body of the taxing district to impose an excess tax levy by filing a petition with
+32 the person in charge of the taxing district's elections, within twenty days of the first
+33 publication of the decision. The petition must be signed by at least five percent of the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.237.22 10 1323
+1 registered voters of the taxing district, or two thousand five hundred registered voters of
+2 the taxing district, whichever is fewer.
+3 The referendum election must be held on or before October first of the year prior
+4 to the time the taxes are payable. The person in charge of the taxing district's elections
+5 shall give notice that the question is to be on the ballot at the next scheduled election or
+6 at a special election called for that purpose and prepare official ballots according to the
+7 provisions of chapter 9-13.
+8 Section 13. That § 10-13-36 be AMENDED:
+9 10-13-36. The governing body of a taxing district may exceed the limit pursuant
+10 to § 10-13-35 through the imposition of an excess tax levy. The governing body of a
+11 taxing district may impose an excess tax levy with an affirmative two-thirds vote of the
+12 governing body on or before July fifteenth of the year prior to the year the taxes are
+13 payable. On any excess tax levy approved after July 1, 2002, the governing body of the
+14 taxing district shall specify in the resolution the year or number of years the excess tax
+15 levy will be applied. The requirements for an announcement made pursuant to this section
+16 are as follows:
+17 (1) The decision of the governing body to originally impose or subsequently increase
+18 an excess tax levy shall be published within ten days of the decision;
+19 (2) Publication shall be made at least twice in the legal newspaper designated by the
+20 governing body pursuant to law, with no fewer than five days between publication
+21 dates, before the opt out takes effect;
+22 (3) The announcement shall be at least three newspaper columns in width and four
+23 inches in length or at least one-sixth of a page in size, whichever size is greater;
+24 (4) The announcement shall be headed with the following statement in a
+25 typeface no less than eighteen point type: "ATTENTION TAXPAYERS:
+26 NOTICE OF PROPERTY TAX INCREASE OF $(fill in amount)." The remainder
+27 of the announcement shall consist of a reproduction of the "Resolution for
+28 Opt Out," including the amount that property taxes will be increased
+29 annually by the proposed opt out and a statement of the right to refer the
+30 decision of the board to a vote of the people as provided in this section. The
+31 secretary of revenue, in rules promulgated pursuant to chapter 1-26, shall
+32 prescribe a uniform form to be used by the taxing district for notification of
+33 taxpayers as required by this section.
+34 However, the requirements of subdivisions (3) and (4) shall be waived if:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.237.22 11 1323
+1 (A) The opt out is for less than fifteen thousand dollars; or
+2 (B) A copy of the resolution for opt out is mailed to every property taxpayer in
+3 the local governmental unit, by first class mail or bulk mail, within twenty
+4 days of the decision to opt out; and
+5 (C) A copy of the resolution for opt out is printed in each official newspaper in
+6 the local governmental unit's boundaries.
+7 For the purposes of subsections (A), (B), and (C), the first publication is not
+8 deemed to have occurred until three days after the mailing is sent or the resolution is
+9 delivered to the official newspaper.
+10 The opt out decision may be referred to a vote of the people upon a resolution of
+11 the governing body of the taxing district or by a petition signed by at least five percent of
+12 the registered voters in the taxing district and filed with the respective governing body
+13 within twenty days of the first publication of the decision. The referendum election shall
+14 be held on or before October first preceding the year the taxes are payable. The governing
+15 body of a taxing district may impose an excess tax levy to exceed the limit pursuant to
+16 § 10-13-35. The governing body of a taxing district may impose an excess tax levy, with
+17 an affirmative vote of at least two-thirds of the total membership of the governing body,
+18 on or before July fifteenth of the year prior to the year the taxes are payable. The
+19 governing body of the taxing district shall specify in the resolution the year or number of
+20 years the excess tax levy is to be applied.
+21 The decision of the governing body to impose the excess tax levy must be published
+22 in the legal newspaper designated by the governing body, within ten days of the body's
+23 decision. The body must publish at least two additional notices in the district's legal
+24 newspaper, the last of which must be published not more than seven days before the tax
+25 levy takes effect, provided that there are at least five days between the publication of the
+26 two notices. Each notice must:
+27 (1) Be at least three newspaper columns in width and four inches in length or at least
+28 one-sixth of a page in size, whichever size is greater;
+29 (2) Contain the following headline in a typeface no less than eighteen-point type:
+30 "ATTENTION TAXPAYERS: NOTICE OF PROPERTY TAX INCREASE OF $(fill in
+31 amount)";
+32 (3) Consist of a reproduction of the "Resolution for Opt Out," including the amount that
+33 property taxes is to be increased annually by the proposed opt out; and
+34 (4) Include a statement of the right to refer the decision of the board to a vote of the
+35 people as provided in this section.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.237.22 12 1323
+1 The governing body is not required to meet the formatting and content
+2 requirements required by subdivisions (3) and (4) if the excess tax levy is for less than
+3 fifteen thousand dollars or if the body has, within twenty days of the decision to impose
+4 the excess tax levy, mailed to every property taxpayer in the taxing district, by first class
+5 or bulk mail, a copy of the resolution authorizing the excess tax levy and if a copy of the
+6 resolution is published in each newspaper within the taxing district, as established in § 17-
+7 2-2.1. The additional notices must be published at least three days after the mailing is
+8 sent or the resolution is delivered to the official newspaper, whichever is later.
+9 If the opt out is for the purpose of increasing the secondary road levy pursuant to
+10 § 31-12-27, only the registered voters within the area of the county not included in any
+11 municipality, organized civil township, improvement district organized pursuant to chapter
+12 7-25A, or county road district organized pursuant to chapter 31-12 may petition or vote
+13 on the referred decision. The taxing districts may not exceed the levy limits provided in
+14 chapter 10-12 except for the provisions in § 10-12-36.
+15 The secretary of the Department of Revenue shall promulgate rules, pursuant to
+16 chapter 1-26, prescribing the form to be used by the taxing district for notification of
+17 taxpayers as required by this section.
+18 Section 14. That a NEW SECTION be added to chapter 10-13:
+19 The registered voters of a taxing district may refer a resolution adopted by the
+20 governing body of the taxing district to impose an excess tax levy by filing a petition with
+21 the person in charge of the taxing district's elections, within twenty days of the first
+22 publication of the decision. The petition must be signed by at least five percent of the
+23 registered voters of the taxing district, or two thousand five hundred registered voters of
+24 the taxing district, whichever is fewer.
+25 The election must be held on or before October first of the year prior to the time
+26 the taxes are payable. The person in charge of the taxing district's elections shall give
+27 notice that the question is to be on the ballot at the next scheduled election or at a special
+28 election called for that purpose and prepare official ballots as provided by law.
+29 Section 15. That § 11-2-47.1 be AMENDED:
+30 11-2-47.1. The board's decision to incorporate the special zoning area may be
+31 referred to a vote of the qualified voters of the proposed special zoning area pursuant to
+32 §§ 7-18A-17 to 7-18A-24, inclusive.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.237.22 13 1323
+1 The qualified registered voters of the proposed special zoning area may refer the
+2 decision within twenty days after its publication, by filing a petition with the person in
+3 charge of the jurisdiction's elections, within twenty days of the publication of the decision.
+4 The petition must be signed by at least five percent of the registered voters in the special
+5 zoning area, based upon the total number of registered voters at the last preceding
+6 general election. The filing of a valid petition requires the submission of the decision to
+7 incorporate the special zoning area to a vote of the qualified voters of the proposed special
+8 zoning area for its rejection or approval. The, or two thousand five hundred registered
+9 voters of the special zoning area, whichever is fewer.
+10 Upon the filing of a referendum petition, the effective date of the incorporation of
+11 the special zoning area on which a referendum is to be held shall be is suspended by the
+12 filing of a referendum petition until the referendum process is completed.
+13 Section 16. That § 13-7-32 be AMENDED:
+14 13-7-32. A school board resolution to increase school board terms to four years
+15 or to decrease school board terms to two years, pursuant to § 13-8-2, is subject to a
+16 referendum if five percent of the registered voters of the school district, based upon the
+17 total number of registered voters in the school district at the last preceding general
+18 election, petition, within twenty days after the resolution is enacted, to have the question
+19 of approval or disapproval of the resolution to increase or decrease term limits placed
+20 upon the ballot at the next scheduled election or at a special election called for that
+21 purpose. The registered voters of a school district may refer a resolution adopted by the
+22 board of a school district to increase or decrease the term of the members of a school
+23 board, pursuant to § 13-8-2, by filing a petition with the business manager of the school
+24 district, within twenty days of the enactment of the resolution. The petition must be signed
+25 by at least five percent of the registered voters of the school district, based upon the total
+26 number of registered voters in the school district at the last preceding general election, or
+27 two thousand five hundred registered voters of the school district, whichever is fewer.
+28 Within ten days of the presentation of a petition, the board of the school district
+29 shall order and fix the date for holding a special election on a Tuesday between thirty and
+30 fifty days from the date of the order. If a petition is filed within the ninety days prior to a
+31 regular school district election and with sufficient time to comply with the requirements of
+32 this chapter, the question must be submitted at that election.
+33 The business manager shall give notice that the question will is to be on the ballot
+34 at the next scheduled election or at a special election called for that purpose as provided
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.237.22 14 1323
+1 by law for school elections and prepare official ballots according to the provisions of this
+2 title chapter.
+3 Section 17. That § 13-16-6.4 be AMENDED:
+4 13-16-6.4. Approval to enter into an agreement or issue capital outlay certificates
+5 pursuant to § 13-16-6.3 is subject to a referendum if five percent of the registered voters,
+6 based upon the total number of registered voters at the last preceding general election,
+7 petition, within twenty days thereafter, to have the question of approval to enter into the
+8 agreement or issue capital outlay certificates placed upon the ballot at a special election
+9 called for that purpose and The registered voters of a school district may refer a decision
+10 of the board of a school district to enter into an agreement or issue capital outlay
+11 certificates, pursuant to § 13-16-6.3, by filing a petition with the business manager of the
+12 school district, within twenty days of the decision to enter into the agreement or issue the
+13 certificates. The decision must be signed by at least five percent of the registered voters
+14 of the school district, based upon the total number of registered voters in the school
+15 district at the last preceding general election, or two thousand five hundred registered
+16 voters of the school district, whichever is fewer.
+17 The question of approval to enter into the agreement or issue capital outlay
+18 certificates must be placed on the ballot of a special election called for that purpose and
+19 held on:
+20 (1) The first Tuesday after the first Monday in March;
+21 (2) The first Tuesday after the first Monday in June; or
+22 (3) The first Tuesday after the first Monday in November.
+23 If the bond election is held on a date listed in subdivision (2) or (3) in an even-
+24 numbered year, the election must be held in conjunction with the regular primary or
+25 general election, respectively. When the election is held in conjunction with the primary
+26 or general election, the expenses and governmental responsibilities of a combined election
+27 must be shared in a manner agreed upon by the board of the school district and the boards
+28 of county commissioners involved.
+29 The business manager shall give notice that the question is to be on the ballot at
+30 the regular or special election as provided by law for school elections and prepare official
+31 ballots therefor according to the provisions of this title. Approval of the question to enter
+32 into an agreement or issue capital outlay certificates requires an affirmative vote of at
+33 least sixty percent of those voting on the question.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.237.22 15 1323
+1 If the question submitted to the voters at an election is not approved by the voters,
+2 the school board may, by resolution, place the question on the ballot at the next available
+3 election provided by this section.
+4 Section 18. That § 13-26-9 be AMENDED:
+5 13-26-9. A decision by a school board to schedule the opening day of classes
+6 before the first Tuesday following the first Monday in September may be referred to a vote
+7 of the qualified voters of the school district by the filing of a petition signed by five percent
+8 of the registered voters in the school district, based upon the total number of registered
+9 voters voting at the last preceding general election, for districts with more than five
+10 thousand registered voters. Petitions in districts with less than five thousand registered
+11 voters must be signed by five percent of the total number of registered voters at the last
+12 preceding general election. The board in scheduling the opening day of classes shall allow
+13 sufficient time for the referendum process authorized in this section.The registered voters
+14 of a school district may refer a resolution adopted by the board of a school district to
+15 schedule the first day of classes before the first Tuesday following the first Monday in
+16 September by filing a petition with the business manager of the school district, within
+17 twenty days of the adoption of the resolution. The petition must be signed by at least five
+18 percent of the registered voters of the school district, based upon the total number of
+19 registered voters in the school district at the last preceding general election, or two
+20 thousand five hundred registered voters of the school district, whichever is fewer.
+21 Section 19. That § 13-64-7 be AMENDED:
+22 13-64-7. A decision by a school board to implement a school sentinel program
+23 pursuant to § 13-64-1 may be referred to a vote of the qualified voters of the school
+24 district by the filing of a petition signed by five percent of the registered voters in the
+25 school district, based upon the total number of registered voters at the last preceding
+26 general election.The registered voters of a school district may refer a resolution adopted
+27 by the board of a school district to implement a school sentinel program, pursuant to § 13-
+28 64-1, by filing a petition with the business manager of the school district, within twenty
+29 days of the adoption of the resolution. The petition must be signed by at least five percent
+30 of the registered voters of the school district, based upon the total number of registered
+31 voters in the school district at the last preceding general election, or two thousand five
+32 hundred registered voters of the school district, whichever is fewer.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.237.22 16 1323
+1 The board shall allow sufficient time for the referendum process authorized in this
+2 section.
+3 Section 20. That § 7-18A-15.1 be REPEALED.
+4 Any legislative decision of a board of county commissioners is subject to the
+5 referendum process. A legislative decision is one that enacts a permanent law or lays
+6 down a rule of conduct or course of policy for the guidance of citizens or their officers. Any
+7 matter of a permanent or general character is a legislative decision.
+8 No administrative decision of a governing body is subject to the referendum
+9 process, unless specifically authorized by this code. An administrative decision is one that
+10 merely puts into execution a plan already adopted by the governing body itself or by the
+11 Legislature. Supervision of a program is an administrative decision. Hiring, disciplining,
+12 and setting the salaries of employees are administrative decisions.
+13 Section 21. That § 7-18A-16 be REPEALED.
+14 A petition to refer an ordinance or resolution subject to referendum may be filed
+15 with the auditor within twenty days after publication of the ordinance or resolution in the
+16 last to publish official county newspaper. The filing of the petition requires the submission
+17 of the ordinance or resolution to a vote of the qualified voters of the county for rejection
+18 or approval of the ordinance or resolution.
+19 Section 22. That § 9-20-19 be REPEALED.
+20 Any legislative decision of a governing body is subject to the referendum process.
+21 A legislative decision is one that enacts a permanent law or lays down a rule of conduct
+22 or course of policy for the guidance of citizens or their officers. Any matter of a permanent
+23 or general character is a legislative decision.
+24 No administrative decision of a governing body is subject to the referendum
+25 process, unless specifically authorized by this code. An administrative decision is one that
+26 merely puts into execution a plan already adopted by the governing body itself or by the
+27 Legislature. Supervision of a program is an administrative decision. Hiring, disciplining,
+28 and setting the salaries of employees are administrative decisions.
+29 Section 23. That § 13-26-10 be REPEALED.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.237.22 17 1323
+1 A petition to refer a school board decision may be filed with the business manager
+2 of the school district within twenty days after its publication. The filing of the petition shall
+3 require the submission of the decision to a vote of the qualified voters of the school district
+4 for its rejection or approval.
+5 Section 24. That § 13-64-8 be REPEALED.
+6 A petition to refer a school board decision pursuant to § 13-64-7 may be filed with
+7 the business manager of the school district within twenty days after its publication. The
+8 filing of the petition shall require the submission of the decision to a vote of the qualified
+9 voters of the school district for its rejection or approval.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

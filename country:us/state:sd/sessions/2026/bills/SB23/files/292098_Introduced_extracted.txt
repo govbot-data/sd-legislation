@@ -1,0 +1,65 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.377.13 101st Legislative Session 23
+2026 South Dakota Legislature
+Senate Bill 23
+Introduced by: The Chair of the Committee on Transportation at the request of the Department of Revenue
+1 An Act to include certain types of vehicles in the unpaid repair bill titling process.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 32-3-67 be AMENDED:
+4 32-3-67. For purposes of this chapter, the The department shall provide a person
+5 that has possession of a motor vehicle, boat as defined in § 32-3A-2, moped, motorcycle,
+6 off-road vehicle as defined in § 32-20-1, snowmobile as defined in § 32-20A-1, or trailer,
+7 as the result of an unpaid repair bill, with the last known name and address of the record
+8 holder of title and any readily identifiable lien holders free of charge.
+9 Section 2. That § 32-3-68 be AMENDED:
+10 32-3-68. A person with possession of a vehicle described in § 32-3-67 may apply
+11 for a title on any motor vehicle, boat as defined in § 32-3A-2, moped, motorcycle, off-
+12 road vehicle as defined in § 32-20-1, snowmobile as defined in § 32-20A-1, or trailer, that
+13 is left unclaimed, as the result of an unpaid repair bill, by its owner or person lawfully in
+14 possession of thereof, on private property for a period of thirty days after written notice
+15 of intent to apply for a title is given sent to the owner at the owner's last known address
+16 and to any readily identifiable insurer or lien holder by certified mail. The notice shall must
+17 set forth the location where the motor vehicle is being kept, the circumstances surrounding
+18 acquisition of the vehicle, and the year, make, model, and serial number or hull
+19 identification number of the motor vehicle, and shall. The notice must inform the owner,
+20 insurer, and any lien holder of the right to reclaim the vehicle as provided by § 32-3-69.
+21 The notice shall must be on a form provided by the department.
+22 If it is impossible to determine with reasonable certainty the identity and address
+23 of the registered owner, insurer, and any lien holder, a notice shall must be published
+24 once in a newspaper of general circulation in the area where the motor vehicle was left
+25 for repair. Published notices may be grouped together for convenience and economy.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.377.13 2 23
+1 Section 3. That § 32-3-69 be AMENDED:
+2 32-3-69. Title Except as provided below, title to any motor vehicle shall vest, boat
+3 as defined in § 32-3A-2, moped, motorcycle, off-road vehicle as defined in § 32-20-1,
+4 snowmobile as defined in § 32-20A-1, or trailer, vests with the person to whom the unpaid
+5 repair bill is payable and who has complied with the provisions of this chapter in notifying
+6 the owner and all insurers and lien holders of their rights to reclaim the motor vehicle
+7 after a period of thirty days from the date to on which notice was sent to the owner and
+8 all insurers and lien holders. The owner, insurer, or the lienholder may reclaim the motor
+9 vehicle by paying any reasonable cost of repair. A lienholder paying the cost of repair may
+10 add the cost of repair to the outstanding loan secured by the vehicle. The owner, insurer,
+11 or lien holder shall notify the department and the repair facility within thirty days of receipt
+12 of the notice of their intent to reclaim the motor vehicle. If the owner, insurer, or lien
+13 holder fails to claim and remove the motor vehicle within thirty days after mailing of the
+14 notice of intent to reclaim the vehicle, title to the motor vehicle is irrevocably vested in
+15 the person to whom the repair bill is payable and who has complied with the provisions of
+16 this chapter.
+17 The vehicle shall must be sold at public auction pursuant to §§ 21-54-5, 21-54-7,
+18 and 21-54-10, and any excess moneys above settlement of the debt shall must be
+19 forwarded to the prior owner, insurer, and any other party with a legal interest in such
+20 the vehicle. If the owner, insurer, and any lien holder are unidentifiable or not able to be
+21 contacted, the excess moneys shall must be sent to the state treasurer and treated as
+22 unclaimed property pursuant to chapter 43-41B.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

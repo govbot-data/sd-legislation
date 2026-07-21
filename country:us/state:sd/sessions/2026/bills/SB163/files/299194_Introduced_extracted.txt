@@ -1,0 +1,91 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.17.9 101st Legislative Session 163
+2026 South Dakota Legislature
+Senate Bill 163
+Introduced by: Senator Pischke
+1 An Act to repeal provisions related to the shared parenting child support cross
+2 credit.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 25-7-6.14 be AMENDED:
+5 25-7-6.14. If the child resides with the obligor six or more nights in a month
+6 pursuant to a custody order, the court may, if deemed appropriate under the
+7 circumstances, grant an abatement of not less than thirty-eight percent nor more than
+8 sixty-six percent of the basic child support obligation for the nights the child resides with
+9 the obligor. It shall be is presumed that the parenting time is exercised.
+10 In deciding whether an abatement is appropriate, the court or child support referee
+11 shall consider the fixed obligations of the custodial parent that are attributable to the child
+12 and to the increased non-duplicated costs of the noncustodial parent that are associated
+13 with the child’s time with the noncustodial parent. The burden is on the noncustodial
+14 parent to demonstrate the increased costs that the noncustodial parent incurs for non-
+15 duplicated fixed expenditures, including routine clothing costs, costs for extra-curricular
+16 activities, school supplies, and other similar non-duplicated fixed expenditures.
+17 The order granting the abatement must specify the number of nights that the
+18 abatement is allowed and the amount of the abatement. To calculate an abatement, the
+19 court or child support referee shall:
+20 (1) Determine the basic child support calculation, excluding additional costs including
+21 health insurance or child care, and annualize the same;
+22 (2) Divide the annual amount in subdivision (1) by three hundred sixty-five days to
+23 calculate the daily child support amount;
+24 (3) Multiply the daily child support amount in subdivision (2) by the number of
+25 overnights the child spends with the noncustodial parent on a monthly basis; and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.17.9 2 163
+1 (4) Multiply the amount in subdivision (3) by the abatement percentage utilized. The
+2 figure must be annualized and subtracted from the monthly child support
+3 obligation.
+4 No abatement may exceed the child support cross credit allowed under § 25-7-
+5 6.27.
+6 If the noncustodial parent does not exercise the extended parenting time during a
+7 particular year, the noncustodial parent is required to repay the abated amount of child
+8 support to the custodial parent.
+9 Section 2. That § 25-7-6.28 be AMENDED:
+10 25-7-6.28. For the purposes of §§ 25-7-6.14 and 25-7-6.27, a child resides with
+11 a parent for a night if the child sleeps:
+12 (1) At the residence of that parent at night, whether or not the parent is present; or
+13 (2) In the company of the parent, if the child does not sleep at a parent's residence.
+14 If, in a calendar year, due to a parent's nighttime work schedule, a child resides
+15 with a parent for days, but not nights, the court may condition the abatement on the
+16 required days rather than nights. In those instances, on a school day, the child is treated
+17 as residing at the primary residence registered with the school.
+18 Section 3. That § 25-7-6.27 be REPEALED.
+19 If a custody order by the court, contains a detailed shared parenting plan which
+20 provides that the child will reside no less than one hundred eighty nights per calendar
+21 year in each parent's home, and that the parents will share the duties and responsibilities
+22 of parenting the child and the expenses of the child in proportion to their incomes, the
+23 court may, if deemed appropriate under the circumstances, grant a cross credit on the
+24 amount of the child support obligation based on the number of nights the child resides
+25 with each parent. The shared parenting child support cross credit shall be calculated as
+26 follows:
+27 (1) Multiply the parents' combined child support obligation under the schedule by 1.5
+28 to establish the parents' combined shared parenting child support obligation;
+29 (2) Multiply the combined shared parenting child support obligation by each parent's
+30 percentage share of the parents' combined net incomes to establish each parent's
+31 shared parenting child support obligation;
+32 (3) Multiply each parent's shared parenting child support obligation by the percentage
+33 of nights the child resides with each parent based on a three hundred sixty-five
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.17.9 3 163
+1 day calendar year to establish each parent's prorated shared parenting child
+2 support obligation;
+3 (4) Offset the parents' prorated shared parenting child support obligations; and
+4 (5) The parent with the larger prorated shared parenting child support obligation shall
+5 pay the difference between these amounts.
+6 In deciding whether a shared parenting child support cross credit is appropriate,
+7 the court shall consider whether it would have a substantial negative effect on the child's
+8 standard of living.
+9 It is presumed that the parenting time is exercised. If the parenting time exercised
+10 substantially deviates from the parenting time ordered, either party may petition the court
+11 for a modification of the support order without showing any other change in circumstances.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,64 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.389.9 101st Legislative Session 62
+2026 South Dakota Legislature
+Senate Bill 62
+Introduced by: The Chair of the Committee on Commerce and Energy at the request of the State Electrical
+Commission
+1 An Act to discontinue the issuance of new Class B electrician licenses.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 36-16-2 be AMENDED:
+4 36-16-2. Terms used in this chapter mean:
+5 (1) "Apprentice electrician," a person learning the trade under the supervision and
+6 employment of an electrical contractor, journeyman electrician, or Class B
+7 electrician, or a person learning the trade under the supervision of a 501(d)
+8 electrician, or a person employed by a public entity or private corporation, firm or
+9 partnership who is learning the trade under the supervision of an electrical
+10 contractor or Class B electrician who is employed by the same public entity or
+11 private corporation, limited liability company, firm, or partnership;
+12 (2) "Class B electrician," a person licensed under this chapter before July 1, 2026,
+13 having the necessary qualifications, training, and technical knowledge, and at least
+14 thirty-six months' experience in wiring, installing, and repairing electrical
+15 apparatus and equipment in accordance with the standard rules established by the
+16 State Electrical Commission;
+17 (3) "Electrical contractor," a person having the necessary qualifications, training,
+18 experience, and technical knowledge to plan, lay out, and supervise the installation
+19 and repair of electrical wiring, apparatus, and equipment for electric light, heat,
+20 and power in accordance with the standard rules governing such the work; and
+21 who undertakes or offers to undertake with another to plan for, lay out, supervise,
+22 and install or to make additions, alterations and repairs in the installation of such
+23 the work;
+24 (4) "Electrical inspector," a person experienced in all classes of electrical work and
+25 either:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.389.9 2 62
+1 (a) Is a graduate of a recognized electrical school as approved by State
+2 Electrical Commission rules and has a total of four years of experience in
+3 electrical work, excluding school experience,; or
+4 (b) Has at least six years of practical experience in electrical wiring.
+5 A qualified inspector may be issued an electrical contractor's license if the qualified
+6 inspector pays the necessary fees as set forth in this chapter;
+7 (5) "Journeyman electrician," a person having the necessary qualifications, training,
+8 technical knowledge and at least four years of experience in wiring, installing, and
+9 repairing electrical apparatus and equipment in accordance with the standard rules
+10 established by the State Electrical Commission;
+11 (6) "Maintenance electrician," a person working under a maintenance electrician's
+12 license of a public entity, firm, partnership, limited liability company, or
+13 corporation; and
+14 (7) "501(d) electrician," a person having the necessary qualifications, training and
+15 technical knowledge in wiring, installing, and repairing electrical apparatus and
+16 equipment in accordance with the administrative rules promulgated by the State
+17 Electrical Commission, pursuant to chapter 1-26. A 501(d) licensee, who is
+18 restricted to wiring on 501(d) properties within the State of South Dakota. 501(d)
+19 is the reference to the federal internal revenue code that provides the exemption
+20 for a religious or apostolic association or corporation this state.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

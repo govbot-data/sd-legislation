@@ -1,0 +1,272 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.244.9 101st Legislative Session 1239
+2026 South Dakota Legislature
+House Bill 1239
+Introduced by: Representative Ismay
+1 An Act to require that the Department of Education provide for the compensation of
+2 a teacher employed by a school district.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 13-10-2 be AMENDED:
+5 13-10-2. The school board shall have the power to Except as otherwise provided
+6 in section 2 of this Act, the board of a school district may employ any personnel deemed
+7 necessary by the board for the functioning of the school and to may define the duties and
+8 fix the compensation of each employee.
+9 Section 2. That a NEW SECTION be added to chapter 13-10:
+10 Notwithstanding the provisions of § 13-10-2, the board of a school district may not
+11 employ a number of teachers in excess of the district's target teacher ratio factor, as
+12 established in § 13-13-10.1.
+13 The Department of Education shall, with moneys appropriated in the general
+14 appropriation bill, pay the salary and benefits of each teacher employed by a school
+15 district.
+16 The South Dakota Board of Education Standards shall promulgate rules, pursuant
+17 to chapter 1-26, establishing a salary schedule and benefits package for teachers. The
+18 salary schedule must begin with the target teacher salary, established in § 13-13-10.1,
+19 and must provide for increases to a teacher's salary that reflect:
+20 (1) The demand for the teacher's area of certification;
+21 (2) The highest degree and additional credit hours held by the teacher; and
+22 (3) The teacher's years of experience.
+23 The benefits package of each teacher employed by a school district must equal at
+24 least twenty-nine percent of the teacher's salary.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.244.9 2 1239
+1 Section 3. That § 13-13-10.1 be AMENDED:
+2 13-13-10.1. The education funding terms and procedures referenced in this
+3 chapter are defined as follows:
+4 (1) "Nonresident students student," a student who are is in the care and custody of
+5 the Department of Social Services, the Unified Judicial System, the Department of
+6 Corrections, or other state agencies and are attending a public school may be
+7 included in the fall enrollment of the receiving district when enrolled in the receiving
+8 district;
+9 (2) "Fall enrollment," is calculated as follows:
+10 (a) Determine the number of kindergarten through twelfth grade students
+11 enrolled in all schools operated by the school district on the last Friday of
+12 September of the current school year;
+13 (b) Subtract the number of students for whom the district receives tuition
+14 except for:
+15 (i) Nonresident students who are in the care and custody of a state
+16 agency and are attending a public school district; and
+17 (ii) Students who are being provided an education pursuant to § 13-28-
+18 11; and
+19 (c) Add the number of students for whom the district pays tuition.
+20 When computing state aid to education for a school district pursuant to § 13-13-73, the
+21 secretary of the Department of Education shall use the school district's fall
+22 enrollment;
+23 (3) "Target teacher ratio factor," is:
+24 (a) For school districts with a fall enrollment of two hundred or less, the target
+25 teacher ratio factor is 12;
+26 (b) For districts with a fall enrollment of greater than two hundred, but less
+27 than six hundred, the target teacher ratio factor is calculated as follows:
+28 (i) Multiplying the fall enrollment by .00750; and
+29 (ii) Adding 10.50 to the resulting product; and
+30 (c) For districts with a fall enrollment of six hundred or greater, the target
+31 teacher ratio factor is 15.
+32 The fall enrollment used for the determination of the target teacher ratio for a school
+33 district may not include any students residing in a residential treatment facility
+34 when the education program is operated by the school district;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.244.9 3 1239
+1 (4) "English learner (EL) adjustment," is calculated by multiplying 0.25 times the
+2 number of kindergarten-through-twelfth-grade students who, in the prior school
+3 year, scored below level four on the state-administered language proficiency
+4 assessment as required in the state's consolidated state application pursuant to
+5 § 1111(b)(2)(G) of the Every Student Succeeds Act of 2015;
+6 (5) "Index factor," is the annual percentage change in the consumer price index for
+7 urban wage earners and clerical workers as computed by the Bureau of Labor
+8 Statistics of the United States Department of Labor for the year before the year
+9 immediately preceding the year of adjustment or three percent, whichever is less;
+10 (6) "Target teacher salary," for the school fiscal year beginning July 1, 2025, is
+11 $62,821.19. Each school fiscal year thereafter, the target teacher salary is the
+12 previous fiscal year's target teacher salary increased by the index factor;
+13 (7) "Target teacher benefits," is the target teacher salary multiplied by twenty-nine
+14 percent;
+15 (8) "Target teacher compensation," is the sum of the target teacher salary and the
+16 target teacher benefits;
+17 (9) "Overhead rate," is thirty-eight and seventy-eight-hundredths percent. Beginning
+18 in school fiscal year 2018, the overhead rate must be adjusted to take into account
+19 the sum of the amounts that districts exceed the other revenue base amount;
+20 (10) "Local need," is calculated as follows:
+21 (a) Divide the fall enrollment by the target teacher ratio factor;
+22 (b) If applicable, divide the English Learner adjustment pursuant to subdivision
+23 (4) by the target teacher ratio factor;
+24 (c) Add the results of subsections (a) and (b);
+25 (d) Multiply the result of subsection (c) by the target teacher compensation;
+26 (e) Multiply the product of subsection (d) by the overhead rate;
+27 (f) Add the products of subsections (d) and (e) and subdivision (20);
+28 (g) When calculating local need at the statewide level, include the amounts set
+29 aside for costs related to technology in schools and statewide student
+30 assessments;
+31 (h) When calculating local need at the statewide level, include the amounts set
+32 aside for sparse school district benefits, calculated pursuant to §§ 13-13-
+33 78 and 13-13-79; and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.244.9 4 1239
+1 (i) When calculating local need at the statewide level, include the amounts set
+2 aside for career and technical education calculated pursuant to §§ 13-13-
+3 81 and 13-13-82;
+4 (11) "Alternative per student need," is calculated as follows:
+5 (a) Add the total need for each school district for school fiscal year 2016,
+6 including the small school adjustment and the English learner adjustment,
+7 to the lesser of the amount of funds apportioned to each school district in
+8 the year preceding the most recently completed school fiscal year or school
+9 fiscal year 2015 pursuant to §§ 10-33-24, 10-35-21, 10-36-10, 10-43-77,
+10 11-7-73, 13-13-4, and 23A-27-25; and
+11 (b) Divide the result of (a) by the September 2015 fall enrollment, excluding
+12 any adjustments based on prior year student counts;
+13 (12) "Alternative local need," may only be used by a school district created or
+14 reorganized before July 1, 2016, and is the alternative per student need multiplied
+15 by the fall enrollment, excluding any adjustments based on prior year student
+16 counts;
+17 (13) "Local effort," the amount of ad valorem taxes generated in a school fiscal year by
+18 applying the levies established pursuant to § 10-12-42. Beginning on July 1, 2017,
+19 local effort includes the amount of funds apportioned to each school district in the
+20 year preceding the most recently completed school fiscal year pursuant to §§ 10-
+21 33-24, 10-35-21 as provided by subdivision (15), 10-36-10, 10-43-77, 11-7-73,
+22 13-13-4, and 23A-27-25 and that exceeds the other revenue base amount;
+23 (14)(10) "Other revenue base amount," is zero;
+24 (15)(11) "Wind energy tax revenue," any wind energy tax revenue apportioned to school
+25 districts pursuant to § 10-35-21 from a wind farm producing power for the first
+26 time before July 1, 2016, is considered local effort pursuant to subdivision (13) and
+27 other revenue base amount pursuant to subdivision (14). However, for wind energy
+28 tax revenue apportioned to a school district from a wind farm producing power for
+29 the first time after June 30, 2016, one hundred percent must be retained by the
+30 school district to which the tax revenue is apportioned for the first five years of
+31 producing power, eighty percent for the sixth year, sixty percent for the seventh
+32 year, forty percent for the eighth year, twenty percent for the ninth year, and zero
+33 percent thereafter. If a wind farm begins producing power for the first time
+34 between October first and December thirty-first in a calendar year, any revenues
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.244.9 5 1239
+1 generated for that time period must be retained by the school district and that time
+2 period may not be counted against the first five-year period;
+3 (16)(12) "Per student equivalent," for funding calculations that are determined on a per
+4 student basis, the per student equivalent is calculated as follows:
+5 (a) Multiply the target teacher compensation times the sum of one plus the
+6 overhead rate; and
+7 (b) Divide subsection (a) by 15;
+8 (17)(13) "Monthly cash balance," the total amount of money for each month in the
+9 school district's general fund, calculated by adding all deposits made during the
+10 month to the beginning cash balance and deducting all disbursements or payments
+11 made during the month;
+12 (18)(14) "General fund base percentage," is determined as follows:
+13 (a) Forty percent for a school district with a fall enrollment as defined in
+14 subdivision (2) of two hundred or less;
+15 (b) Thirty percent for a school district with fall enrollment as defined in
+16 subdivision (2) of more than two hundred but less than six hundred; and
+17 (c) Twenty-five percent for a school district with fall enrollment as defined in
+18 subdivision (2) greater than or equal to six hundred.
+19 When determining the general fund base percentage, the secretary of the
+20 Department of Education shall use the lesser of the school district's fall enrollment
+21 as defined in subdivision (2) for the current school year or the school district's fall
+22 enrollment from the previous two years;
+23 (19)(15) "Allowable general fund cash balance," the general fund base percentage
+24 multiplied by the district's general fund expenditures in the previous school year;
+25 and
+26 (20)(16) "Alternative instruction participation adjustment," is calculated by multiplying
+27 0.10 times the number of children who participated in the prior school year in high
+28 school interscholastic activities sanctioned or sponsored by the South Dakota High
+29 School Activities Association, as permitted by § 13-36-7, while receiving
+30 alternative instruction pursuant to § 13-27-3, multiplied by the per student
+31 equivalent defined in this section.
+32 Section 4. That § 13-13-73 be AMENDED:
+33 13-13-73. No later than July 1, 2016, a school district shall notify the secretary
+34 of education in writing as to whether the school district's state aid is to be calculated using
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.244.9 6 1239
+1 the alternative local need calculation. If a school district chooses the alternative local
+2 need calculation, the school district shall notify the secretary in writing no later than July
+3 first of each subsequent fiscal year as to whether to continue to use the alternative local
+4 need calculation for that fiscal year. If a school district chooses not to use the alternative
+5 local need calculation, the school district may not use that calculation in any subsequent
+6 school year. The secretary of the Department of Education shall compute state aid to
+7 education for each school district according to the following calculations:
+8 (1) For school districts not utilizing the alternative local need calculation, state aid is
+9 local need as defined in § 13-13-10.1 minus local effort, or zero if the calculation
+10 is a negative number;
+11 (2) For school districts utilizing the alternative local need calculation, state aid is the
+12 alternative local need as defined in subdivision 13-13-10.1(12) minus local effort,
+13 or zero if the calculation is a negative number;
+14 (3)
+15 If the state aid appropriation for the general support of education is in excess of
+16 the entitlement provided for in this section and the entitlement provided for in § 13-13-
+17 85, the excess shall be used to fund any shortfall of the appropriation as provided for in
+18 § 13-37-36.3. The secretary shall report to the Governor by January seventh of each year,
+19 the amount of state aid necessary to fully fund the general aid formula in the current year.
+20 If a shortfall in the state aid appropriation for general education exists that cannot be
+21 covered by § 13-37-45, the Governor shall must inform the Legislature and provide a
+22 proposal to eliminate the shortfall.
+23 If the state aid appropriation for the general support of education is in excess of
+24 the entitlement provided for in this section and the entitlement provided for in § 13-13-
+25 85, the excess must be used to fund any shortfall of the appropriation as provided for in
+26 § 13-37-36.3.
+27 Section 5. That § 13-13-71 be REPEALED.
+28 If local effort increases on a statewide aggregate basis by a greater percentage
+29 than local need on a statewide aggregate basis from any one year to the next, for the
+30 following year each of the levies specified in subdivision 13-13-10.1(13) shall be reduced
+31 proportionally so that the percentage increase in local effort on a statewide aggregate
+32 basis equals the percentage increase in need on a statewide aggregate basis.
+33 Section 6. That § 13-13-72 be REPEALED.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.244.9 7 1239
+1 It is the policy of the Legislature that the appropriation for state aid to education
+2 increase on an annual basis by the percentage increase in local need on an aggregate
+3 statewide basis so that the relative proportion of local need paid by local effort and state
+4 aid shall remain constant. For school fiscal years 2017 to 2022, inclusive, the proportion
+5 of local need paid by local effort and state aid shall be adjusted annually to maintain the
+6 proportion between state aid and local property taxes and to reflect adjustments in local
+7 effort due to the implementation of the other revenue base amount as defined in § 13-
+8 13-10.1.
+9 Section 7. That § 13-13-72.1 be REPEALED.
+10 Any adjustments in the levies specified in § 10-12-42 made pursuant to §§ 13-13-
+11 71 and 13-13-72 shall be based on maintaining the relationship between statewide local
+12 effort as a percentage of statewide local need in the fiscal year succeeding the fiscal year
+13 in which the adjustment is made. For school fiscal years 2017 to 2022, inclusive, the
+14 proportion of local need paid by local effort and state aid shall be adjusted annually to
+15 reflect adjustments in local effort due to the implementation of the other revenue base
+16 amount as defined in § 13-13-10.1. However, if the levies specified in § 10-12-42 are not
+17 adjusted to maintain this relationship, the target teacher salary as defined in § 13-13-
+18 10.1 shall be reduced to maintain the relationship between statewide local effort as a
+19 percentage of statewide local need.
+20 Section 8. That § 13-13-81 be REPEALED.
+21 Terms used in this section and §§ 13-13-82 and 13-13-83 mean:
+22 (1) "Eligible school district," a school district that does not receive state aid to
+23 education distributed pursuant to chapter 13-13 and that operates a high school
+24 primarily focused on career and technical education;
+25 (2) "Eligible student," a student who currently attends a high school primarily focused
+26 on career and technical education that is operated by an eligible school district and
+27 who, immediately prior to attending the high school primarily focused on career
+28 and technical education, was enrolled in a South Dakota school district other than
+29 the eligible school district.
+30 Section 9. That § 13-13-82 be REPEALED.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.244.9 8 1239
+1 An eligible school district shall receive an amount equal to the per student
+2 equivalent as defined in § 13-13-10.1 multiplied by the number of eligible students
+3 included in its fall enrollment as defined in § 13-13-10.1.
+4 Section 10. That § 13-13-83 be REPEALED.
+5 The amount calculated in § 13-13-82 and in § 13-13-87 shall be distributed to an
+6 eligible school district in the same manner as other state aid payments are distributed
+7 pursuant to § 13-13-74 from funds appropriated in the general appropriations act for state
+8 aid to education.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,26 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.983.9 101st Legislative Session 1298
+2026 South Dakota Legislature
+House Bill 1298
+Introduced by: Representative Roby
+1 An Act to prohibit the electronic publication of certain information about a judicial
+2 officer or law enforcement officer and provide a penalty therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 22-11:
+5 No person may publish, by electronic means, the home address, date of birth, or
+6 social security number of a judicial officer or law enforcement officer:
+7 (1) Without the officer's consent; and
+8 (2) With the intent to:
+9 (a) Place the officer in reasonable fear of death or great bodily injury; or
+10 (b) Cause the officer to reasonably fear for the officer's safety or the safety of
+11 the officer's immediate family.
+12 A violation of this section is a Class 6 felony.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

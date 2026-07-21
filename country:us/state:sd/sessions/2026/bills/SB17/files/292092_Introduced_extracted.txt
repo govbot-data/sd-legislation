@@ -1,0 +1,33 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.496.13 101st Legislative Session 17
+2026 South Dakota Legislature
+Senate Bill 17
+Introduced by: The Chair of the Committee on State Affairs at the request of the Attorney General
+1 An Act to prohibit a candidate or political committee from accepting contributions
+2 or loans made by a foreign national, to provide a penalty therefor, and to
+3 declare an emergency.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That § 12-27-21 be AMENDED:
+6 12-27-21. No A candidate or political committee may not accept any contribution
+7 or loan from any:
+8 (1) A state,;
+9 (2) A state agency,;
+10 (3) A political subdivision of the a state,;
+11 (4) A foreign government,;
+12 (5) A foreign national, as defined in 52 U.S.C. § 30121(b) (January 1, 2026);
+13 (6) A federal agency, or the; or
+14 (7) The federal government.
+15 A violation of this section is a Class 2 1 misdemeanor. A subsequent offense within
+16 a calendar year is a Class 1 misdemeanor 6 felony.
+17 Section 2. Whereas, this Act is necessary for the immediate preservation of the public peace,
+18 health, or safety, an emergency is hereby declared to exist, and this Act shall be in full force
+19 and effect from and after its passage and approval.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

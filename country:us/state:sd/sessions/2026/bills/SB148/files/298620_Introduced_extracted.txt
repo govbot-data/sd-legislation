@@ -1,0 +1,34 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.688.9 101st Legislative Session 148
+2026 South Dakota Legislature
+Senate Bill 148
+Introduced by: Senator Reed
+1 An Act to terminate bounty payments for the control of nest predation.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 40-36-9 be AMENDED:
+4 40-36-9. TheExcept as otherwise provided for in this section, the Department of
+5 Game, Fish and Parks may direct or employ personnel and conduct programs, and the
+6 Game, Fish and Parks Commission may adopt, pursuant to chapter 1-26 necessary, rules
+7 to control foxes, coyotes, feral dogs, prairie dogs, and other wild animals. The expense
+8 thereof shall must be paid out of the Department of Game, Fish and Parks department of
+9 game, fish and parks fund or the state animal damage control fund.
+10 Nothing in this section authorizes the expenditure of moneys as a bounty for the
+11 taking of any badger, opossum, racoon, striped skunk, red fox, or other animal, if the
+12 purpose for the taking is the control of nest predation.
+13 Section 2. That § 41-2-35 be AMENDED:
+14 41-2-35. AllExcept as otherwise provided for in this section, all moneys in the
+15 Department of Game, Fish and Parks department of game, fish, and parks fund are hereby
+16 annually appropriated, to be used with any moneys otherwise appropriated, to pay the
+17 necessary expenses of effectuating the purposes of this title.
+18 Nothing in this section authorizes the expenditure of moneys as a bounty for the
+19 taking of any badger, opossum, racoon, striped skunk, red fox, or other animal, if the
+20 purpose for the taking is the control of nest predation.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

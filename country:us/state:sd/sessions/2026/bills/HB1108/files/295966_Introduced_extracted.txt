@@ -1,0 +1,24 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.55.11 101st Legislative Session 1108
+2026 South Dakota Legislature
+House Bill 1108
+Introduced by: Representative Stevens
+1 An Act to allow for the sealing of court files in dismissed protection order cases.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to chapter 22-19A:
+4 If the court dismisses a petition filed pursuant to § 22-19A-8, either initially or
+5 after a hearing held pursuant to § 22-19A-10, the court may then grant the immediate
+6 sealing of the court file containing the petition.
+7 Section 2. That a NEW SECTION be added to chapter 25-10:
+8 If the court dismisses a petition filed pursuant to § 25-10-3, either initially or after
+9 a hearing held pursuant to § 25-10-4, the court may then grant the immediate sealing of
+10 the court file containing the petition.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

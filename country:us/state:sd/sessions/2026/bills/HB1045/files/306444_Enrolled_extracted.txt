@@ -1,0 +1,153 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.583.12 101st Legislative Session 1045
+2026 South Dakota Legislature
+House Bill 1045
+ENROLLED
+AN ACT
+ENTITLED An Act to revise certain provisions related to child support.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+Section 1. That § 25-7-6.4 be AMENDED:
+25-7-6.4. It is presumed for the purposes of determining child support that a
+parent is capable of being employed and earning an annual gross income of not less than
+one thousand eight hundred twenty hours multiplied by the current state minimum wage.
+Section 2. That § 25-7-6.10 be AMENDED:
+25-7-6.10. Deviation from the schedule in § 25-7-6.2 must be considered if raised
+by either party and made only upon the entry of specific findings based upon any of the
+following factors:
+(1) The income of a subsequent spouse or contribution of a third party to the income
+or expenses of that parent but only if the application of the schedule works a
+financial hardship on either parent;
+(2) Any financial condition of either parent that would make application of the schedule
+inequitable. If the total amount of the child support obligation, including any
+adjustments for health insurance and child care costs, exceeds fifty percent of the
+obligor's monthly net income, it is presumed that the amount of the obligation
+imposes a financial hardship on the obligor. This presumption may be rebutted
+based upon other factors set forth in this section;
+(3) Any necessary education or health care special needs of the child;
+(4) The effect of agreements between the parents regarding extra forms of support for
+the direct benefit of the child;
+(5) The obligation of either parent to provide for subsequent natural children, adopted
+children, or stepchildren. However, an existing support order may not be modified
+solely for this reason;
+
+26.583.12 2 1045
+(6) The voluntary and unreasonable act of a parent that causes the parent to be
+unemployed or underemployed, consistent with the provisions of § 25-7-6.26; or
+(7) The federal income consequences arising from claiming the child as a dependent.
+Section 3. That § 25-7-6.13 be AMENDED:
+25-7-6.13. All orders for support entered and in effect prior to July 1, 2026, may
+be modified in accordance with this chapter, without requiring a showing of a change in
+circumstances from the entry of the order. If a parent incarcerated for more than one
+hundred eighty days is released from incarceration, the child support obligation in effect
+at the time of release must continue in effect until either parent files a petition for
+modification.
+Section 4. That § 25-7-6.19 be AMENDED:
+25-7-6.19. Notwithstanding the provisions of § 25-7A-17 or 25-7-7.3, if, by
+agreement of the parties, or by court order, the obligor had primary physical custody of
+the child for more than four consecutive months, the court may credit the obligor for child
+support arrearages that accumulated during the period the obligor had actual physical
+custody of the child.
+Section 5. That § 25-7-6.26 be AMENDED:
+25-7-6.26. A court may impute a parent's income for purposes of child support if:
+(1) The parent does not produce sufficient proof of income;
+(2) The parent's employment status is unknown;
+(3) The parent is underemployed; or
+(4) The parent is unemployed.
+The income amount imputed may not be less than the current state minimum wage
+multiplied by one thousand eight hundred twenty hours.
+To determine the amount of income to impute to the parent, the court may consider
+any factor relevant to the parent's ability to earn income, including the parent's age,
+criminal record, education, experience, health, occupational skills, the employment
+opportunities in the geographical area where the parent resides.
+The amount of income imputed may be based on the parent's past income data,
+data on wage rates for various occupations and locations published by the United States
+HB1045 ENROLLED
+
+26.583.12 3 1045
+Bureau of Labor Statistics or any other federal or state government agency, or job
+advertisements.
+No income may be imputed to a parent who has been sentenced to serve a term
+of incarceration or confinement of more than one hundred eighty days, or to a parent who
+is physically or mentally disabled to the extent that the parent cannot earn income.
+Section 6. That § 25-7A-6 be AMENDED:
+25-7A-6. If a parent served with a notice of support debt under § 25-7A-5 makes
+a timely request for a hearing, the secretary of social services must file the notice of
+support debt, proof of service thereof, and response thereto in the office of the clerk of
+the circuit court in the county of residence of that parent. The matter must be set for
+hearing before a referee who is a member in good standing of the State Bar Association
+and is appointed by the court, pursuant to statute, and after due notice to all parties by
+first class mail.
+The referee shall make a report to the court, recommending the amount of the
+debt due to the state, if any, and the monthly support obligation of the parent and the
+arrearage debt due to the obligee or another state who has applied for support
+enforcement services, the provision of medical support, or genetic testing costs. If genetic
+testing showing a ninety-nine percent or higher likelihood of paternity, or a voluntary
+acknowledgment of paternity, is presented as evidence during the hearing, the referee
+must make a finding of adjudication of paternity and include the finding in the report to
+the court.
+The referee shall file the report with the court and cause copies thereof to be served
+by mailing to the parties and the secretary. Any party shall have ten days from the date
+of service of the report in which to file objections to the report. If a party files an objection,
+the other party has an additional five days from the date of service of the objections to
+file additional objections. If no objection is filed, the circuit court may thereafter, and
+without further notice, enter its order. If any objection is filed, the circuit court must fix a
+date for hearing on the report, with the hearing to be solely on the record established
+before the referee. The circuit court may thereafter adopt the referee's report, or may
+modify it, or may reject and remand it with instructions or for further hearing. The
+secretary shall serve the parent the court's order by certified mail, return receipt
+requested, at the parent's last known address, and shall file proof of service.
+If the circuit court's order modifies the referee's report and no hearing was held
+before the court before entry of its order, any party has ten days from the date of service
+HB1045 ENROLLED
+
+26.583.12 4 1045
+of the order in which to file an objection to that modification. If an objection is filed, the
+circuit court must fix a date for hearing on the objection and after the hearing must enter
+its order. The secretary shall serve the order by certified mail, return receipt requested,
+at the parent's last known address, and shall file proof of service.
+Section 7. That a NEW SECTION be added to chapter 25-7A:
+If a party agrees, the referee may send copies of any notice or report required to
+be served on the party under § 25-7A-6 or 25-7A-22 by electronic mail, using the email
+address provided by the party.
+Section 8. That a NEW SECTION be added to chapter 25-7A:
+If a party files an objection to the referee's report pursuant to § 25-7A-6 or 25-7A-
+22, the referee must file with the court all exhibits entered into the record in the hearing
+before the referee and all financial and legal documents received by the referee. The
+referee shall file the exhibits and documents within ten days after receiving notice of the
+objection. The referee shall maintain the exhibits and documents for thirty days following
+a signed order.
+HB1045 ENROLLED
+
+26.583.12 5 1045
+An Act to revise certain provisions related to child support.
+Received at this Executive Office
+I certify that the attached Act originated in this _____ day of _____________,
+the:
+2026 at ____________M.
+House as Bill No. 1045
+By
+Chief Clerk of the House for the Governor
+The attached Act is hereby
+approved this ________ day of
+Speaker of the House ______________, A.D., 2026
+Attest:
+Governor
+Chief Clerk of the House
+STATE OF SOUTH DAKOTA,
+ss.
+Office of the Secretary of State
+President of the Senate
+Filed ____________, 2026
+Attest: at _________ o'clock __M.
+Secretary of the Senate Secretary of State
+House Bill No. 1045 By
+File No. ____ Asst. Secretary of State
+Chapter No. ______
+HB1045 ENROLLED

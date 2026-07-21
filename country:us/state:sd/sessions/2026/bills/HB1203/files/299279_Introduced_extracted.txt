@@ -1,0 +1,33 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.577.18 101st Legislative Session 1203
+2026 South Dakota Legislature
+House Bill 1203
+Introduced by: Representative Hansen
+1 An Act to exempt a volunteer firefighter from certain motor vehicle registration fees.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to chapter 32-5:
+4 A resident of this state who is an active member of a volunteer fire department
+5 may apply to the Department of Revenue for an exemption from license fees applicable
+6 to any noncommercial automobile, pickup truck, or van licensed in this state pursuant to
+7 § 32-5-6.
+8 To qualify for the exemption, the resident must submit with the application for
+9 registration a certification from the chief of the fire department to which the resident is
+10 attached, confirming that the resident is an active volunteer member of the fire
+11 department.
+12 The county treasurer shall record any exemption approved under this section and
+13 shall provide the information to the Department of Revenue.
+14 A qualifying applicant may obtain the exemption for one motor vehicle.
+15 The exemption may be renewed annually.
+16 Nothing in this section exempts a person from paying the excise tax required in
+17 § 32-5B-1 on the purchase price of any motor vehicle.
+18 The exemption provided for in this section does not include the additional cost of
+19 any specialty plate provided for in chapter 32-5.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

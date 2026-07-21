@@ -1,0 +1,254 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.341.36 101st Legislative Session 1093
+2026 South Dakota Legislature
+House Bill 1093
+Introduced by: Representative Weisgram
+1 An Act to create small-batch alcohol licenses.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 35-2-6.4 be AMENDED:
+4 35-2-6.4. No manufacturer or wholesaler licensee under this title, nor any officer,
+5 director, stockholder, agent, or employee thereof or any relative of the licensee, officer,
+6 director, stockholder, agent, or employee, may be in any way financially interested, either
+7 directly or indirectly, or participate in the operation of the business of any retailer licensee
+8 other than by reason of sales to the licensee.
+9 A retailer licensee who is a party to any action prohibited by violates this section
+10 is guilty of a Class 2 misdemeanor.
+11 This section does not apply to a person licensed as a:
+12 (1) Small-batch brewery, as defined in § 35-15-2;
+13 (2) Small-batch cidery, as defined in § 35-14-1;
+14 (3) Small-batch distillery, as defined in § 35-13-13; and
+15 (4) Small-batch winery, as defined in § 35-12-13.
+16 Section 2. That § 35-12-13 be AMENDED:
+17 35-12-13. For the purposes of this chapter, the term, farm winery, means
+18 anyTerms used in this chapter mean:
+19 (1) "Farm winery," a manufacturer that is not a small-batch winery, located in this
+20 state producing wine, as defined in § 35-1-1, in a total quantity not in excess of
+21 no greater than one hundred fifty thousand gallons within a calendar year, where
+22 at least fifty percent of the raw materials used in the finished product are grown
+23 or produced in this state, and without the use of wine imported from outside this
+24 state; and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.341.36 2 1093
+1 (2) "Small-batch winery," a manufacturer located in this state producing wine in a total
+2 quantity no greater than three thousand seven hundred fifty gallons in a year,
+3 where at least fifty percent of the raw materials used in the finished product are
+4 grown or produced in this state, and without the use of wine imported from outside
+5 this state.
+6 Section 3. That § 35-12-14 be AMENDED:
+7 35-12-14. The fee for a farm winery license is five hundred dollars.
+8 The fee for a small-batch winery license is five hundred dollars.
+9 Section 4. That § 35-12-16 be AMENDED:
+10 35-12-16. There is hereby levied on all alcoholic beverages produced by any
+11 person licensed pursuant to this chapter an excise tax at the same rates and collected and
+12 administered in the same manner as the taxes imposed on alcoholic beverages in chapter
+13 35-5. Notwithstanding any other provision of law, the taxes imposed on a farm winery
+14 shall and a small-batch winery must be deposited in the general fund.
+15 Section 5. That § 35-12-17 be AMENDED:
+16 35-12-17. Any An applicant for a license as a farm winery or small-batch winery
+17 shall verify, under oath, compliance with the requirement to use agricultural products
+18 grown or produced in this state. However, if If South Dakota agricultural products are not
+19 available in sufficient quantities, the applicant may use imported agricultural products for
+20 the period covered by the license, but may not use imported alcoholic beverages. Any
+21 person who signs a statement as provided for in this section, knowing the statement to
+22 be false or untrue, in whole or in part, is guilty of perjury.
+23 Section 6. That § 35-12-18 be AMENDED:
+24 35-12-18. A licensed farm winery or small-batch winery may sell on the licensed
+25 premises alcoholic beverages produced by the licensee for on-sale or off-sale
+26 consumption.
+27 A licensed farm winery may sell alcoholic beverages produced by the licensee to
+28 any wholesaler or retailer authorized to receive the alcoholic beverages.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.341.36 3 1093
+1 A licensed farm winery may sell alcoholic beverages to any licensed artisan distiller,
+2 farm winery, microbrewery, or microcidery, if the alcoholic beverage is used in the
+3 manufacturing process.
+4 The quantity of alcoholic beverages sold pursuant to this section may not exceed
+5 the total production limits for the license as specified in § 35-12-13.
+6 Section 7. That § 35-12-19 be AMENDED:
+7 35-12-19. A licensed farm winery or small-batch winery may hold on the licensed
+8 premises an artisan distiller license, a microbrewery license, or a microcidery license. A
+9 licensed farm winery or small-batch winery may hold on the licensed premises any license
+10 issued pursuant to subdivision 35-4-2(4), (6), (12), or (16).
+11 Section 8. That § 35-12-20 be AMENDED:
+12 35-12-20. A licensed farm winery or small-batch winery may operate additional
+13 locations in this state by obtaining additional licenses of the same class pursuant to this
+14 chapter. The quantity of alcoholic beverages produced under the original license and any
+15 additional licenses combined may not exceed the total production limits for the license as
+16 specified in § 35-12-13. Any additional license issued pursuant to this section has the
+17 privileges of the original license as specified in §§ 35-12-18 and 35-12-19.
+18 Section 9. That a NEW SECTION be added to chapter 35-12:
+19 If a person licensed as a farm winery produces wine in a quantity below the
+20 maximum limits set forth in subdivision 35-12-13(2), the person does not lose eligibility
+21 for the person's current class of license.
+22 Section 10. That § 35-13-13 be AMENDED:
+23 35-13-13. Terms used in this chapter mean:
+24 (1) "Artisan distiller," any a manufacturer located in this state producing, rectifying, or
+25 blending distilled spirits, as defined in § 35-1-1, in a total quantity not in excess of
+26 no greater than fifty thousand gallons within a calendar in a year, where at least
+27 thirty percent of the raw materials, other than water, used in the finished product
+28 are grown or distilled spirit, other than water, are produced in this state;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.341.36 4 1093
+1 (2) "Distiller," any a manufacturer located in this state producing, rectifying, or
+2 blending distilled spirits, as defined in § 35-1-1, that, which is not an artisan
+3 distiller or a small-batch distillery; and
+4 (3) "Small-batch distillery," a manufacturer located in this state producing, rectifying,
+5 or blending distilled spirits in a total quantity no greater than one thousand two
+6 hundred fifty gallons in a year, where at least thirty percent of the raw materials
+7 used in the distilled spirit, other than water, are produced in this state.
+8 Section 11. That § 35-13-14 be AMENDED:
+9 35-13-14. The classes of licenses pursuant to this chapter, with the fee of each
+10 class, are as follows:
+11 (1) Artisan distiller--, five hundred dollars; and
+12 (2) Distiller--, two thousand five hundred dollars; and
+13 (3) Small-batch distillery, five hundred dollars.
+14 Section 12. That § 35-13-18 be AMENDED:
+15 35-13-18. Any Except as otherwise provided in this section, an applicant for a
+16 license as an artisan distiller or small-batch distillery shall verify to the Department of
+17 Revenue, under oath, compliance with the requirement to use agricultural products raw
+18 materials, other than water, grown or produced in this state. However, if If South Dakota
+19 agricultural products are not available in sufficient quantities, the applicant may use
+20 imported agricultural products for the period covered by the license. Any A person who
+21 signs a statement as provided for in this section, knowing the statement to be false or
+22 untrue, in whole or in part, is guilty of perjury.
+23 Section 13. That § 35-13-19 be AMENDED:
+24 35-13-19. A licensed artisan distiller or small-batch distillery may sell on the
+25 licensed premises alcoholic beverages produced by the licensee for on-sale or off-sale
+26 consumption.
+27 A licensed artisan distiller may sell alcoholic beverages produced by the licensee to
+28 any wholesaler or retailer authorized to receive the alcoholic beverages.
+29 A licensed artisan distiller may sell alcoholic beverages to any licensed artisan
+30 distiller, farm winery, microbrewery, or microcidery, if the alcoholic beverage is used in
+31 the manufacturing process.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.341.36 5 1093
+1 The quantity of alcoholic beverages sold pursuant to this section may not exceed
+2 the total production limits for the license as specified in § 35-13-13.
+3 Section 14. That § 35-13-20 be AMENDED:
+4 35-13-20. A licensed artisan distiller or small-batch distillery may hold on the
+5 licensed premises a farm winery license, a microbrewery license, or a microcidery license.
+6 A licensed artisan distiller may hold on the licensed premises any license issued pursuant
+7 to subdivision 35-4-2(4), (6), (12), or (16).
+8 Section 15. That § 35-13-21 be AMENDED:
+9 35-13-21. A licensed artisan distiller or small-batch distillery may operate
+10 additional locations in this state by obtaining additional licenses of the same class pursuant
+11 to this chapter. The quantity of alcoholic beverages produced under the original license
+12 and any additional licenses combined may not exceed the total production limits for the
+13 license as specified in § 35-13-13. Any additional license issued pursuant to this section
+14 has the privileges of the original license as specified in §§ 35-13-19 and 35-13-20.
+15 Section 16. That a NEW SECTION be added to chapter 35-13:
+16 If a person licensed as an artisan distiller produces, rectifies, or blends distilled
+17 spirits in a quantity below the maximum limits set forth in subdivision 35-13-13(3), the
+18 person does not lose eligibility for the person's current class of license.
+19 Section 17. That § 35-14-1 be AMENDED:
+20 35-14-1. Terms used in this chapter mean:
+21 (1) "Cider manufacturer," any a manufacturer located in this state producing cider, as
+22 defined in § 35-1-1, that which is not a microcidery or a small-batch cidery;
+23 (2) "Microcidery," any a manufacturer located in this state producing cider, as defined
+24 in § 35-1-1, in a total quantity not in excess of no greater than twelve thousand
+25 barrels within a calendar in a year; and
+26 (3) "Small-batch cidery," a manufacturer located in this state producing cider in a total
+27 quantity no greater than three hundred barrels in a year.
+28 Section 18. That § 35-14-2 be AMENDED:
+29 35-14-2. The classes of licenses, with the fee of each class, are as follows:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.341.36 6 1093
+1 (1) Cider manufacturer--, two thousand five hundred dollars; and
+2 (2) Microcidery--, five hundred dollars; and
+3 (3) Small-batch cidery, five hundred dollars.
+4 Section 19. That § 35-14-5 be AMENDED:
+5 35-14-5. A licensed microcidery or small-batch cidery may sell on the licensed
+6 premises alcoholic beverages produced by the licensee for on-sale or off-sale
+7 consumption.
+8 A licensed microcidery may sell alcoholic beverages produced by the licensee to
+9 any wholesaler authorized to receive the alcoholic beverages.
+10 A licensed microcidery may sell alcoholic beverages to any licensed artisan distiller,
+11 farm winery, microbrewery, or microcidery, if the alcoholic beverage is used in the
+12 manufacturing process.
+13 A licensed microcidery may sell up to six hundred barrels of alcoholic beverages
+14 produced by the licensee within a calendar year to retailers authorized to receive the
+15 alcoholic beverages.
+16 The barrel limit in this section does not apply to any sales made to special event
+17 retailers licensed pursuant to § 35-4-124 and served by employees of the microcidery or
+18 to any transfer of alcoholic beverages between a licensed microcidery and any additional
+19 locations authorized pursuant to § 35-14-7.
+20 The quantity of alcoholic beverages sold pursuant to this section may not exceed
+21 the total production limits for the license as specified in § 35-14-1.
+22 Section 20. That § 35-14-6 be AMENDED:
+23 35-14-6. A licensed microcidery or small-batch cidery may hold on the licensed
+24 premises an artisan distiller license, a farm winery license, or a microbrewery license. A
+25 licensed microcidery may hold on the licensed premises any license issued pursuant to
+26 subdivision 35-4-2(4), (6), (12), or (16).
+27 Section 21. That a NEW SECTION be added to chapter 35-14:
+28 If a person licensed under this chapter produces cider in a quantity below the
+29 maximum limits set forth in § 35-14-1, the person does not lose eligibility for the person's
+30 current class of license.
+31 Section 22. That § 35-15-1 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.341.36 7 1093
+1 35-15-1. Terms used in this chapter mean:
+2 (1) "Malt beverage manufacturer," any manufacturer located in this state producing
+3 malt beverages, as defined in § 35-1-1, that, which is not a microbrewery or small-
+4 batch brewery;
+5 (2) "Microbrewery," any manufacturer located in this state producing malt beverages,
+6 as defined in § 35-1-1, in a total quantity not in excess of no greater than thirty
+7 thousand barrels within a calendar year in a year; and
+8 (3) "Small-batch brewery," a manufacturer located in this state producing malt
+9 beverages, in a quantity no greater than seven hundred fifty barrels in a year.
+10 Section 23. That § 35-15-2 be AMENDED:
+11 35-15-2. The classes of licenses, with the fee of each class, are as follows:
+12 (1) Malt beverage manufacturer--, two thousand five hundred dollars; and
+13 (2) Microbrewery--, five hundred dollars; and
+14 (3) Small-batch brewery, five hundred dollars.
+15 Section 24. That § 35-15-5 be AMENDED:
+16 35-15-5. A licensed microbrewery or small-batch brewery may sell on the licensed
+17 premises alcoholic beverages produced by the licensee for on-sale or off-sale
+18 consumption.
+19 A licensed microbrewery may sell alcoholic beverages produced by the licensee to
+20 any wholesaler authorized to receive the alcoholic beverages. A licensed microbrewery
+21 may sell alcoholic beverages to any licensed artisan distiller, farm winery, microbrewery,
+22 or microcidery, if the alcoholic beverage is used in the manufacturing process.
+23 A Except as otherwise provided in this section, a licensed microbrewery may sell
+24 up to one thousand five hundred barrels of alcoholic beverages produced by the licensee
+25 within a calendar year to retailers authorized to receive the alcoholic beverages.
+26 The barrel limit in limitations on sales of alcoholic beverages under this section
+27 does do not apply to any sales made to special event retailers licensed pursuant to § 35-
+28 4-124 and served by employees of the microbrewery, or to any transfer of alcoholic
+29 beverages between a licensed microbrewery and any additional locations authorized
+30 pursuant to § 35-15-7.
+31 The quantity of alcoholic beverages sold pursuant to this section may not exceed
+32 the total production limits for the license as specified in § 35-15-1.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.341.36 8 1093
+1 Section 25. That § 35-15-6 be AMENDED:
+2 35-15-6. A licensed microbrewery or small-batch brewery may hold on the
+3 licensed premises an artisan distiller license, a farm winery license, or a microcidery
+4 license. A licensed microbrewery may hold on the licensed premises any license issued
+5 pursuant to subdivision 35-4-2(4), (6), (12), or (16).
+6 Section 26. That a NEW SECTION be added to chapter 35-15:
+7 If a person licensed under this chapter produces malt beverages in a quantity below
+8 the maximum limits set forth in § 35-15-1, the person does not lose eligibility for the
+9 person's current class of license.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

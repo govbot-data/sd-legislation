@@ -1,0 +1,68 @@
+Title: 
+Official Title: 
+Source: versions - House Health and Human Services Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.135.12 101st Legislative Session 1023
+2026 South Dakota Legislature
+House Bill 1023
+HOUSE HEALTH AND HUMAN SERVICES ENGROSSED
+Introduced by: Representatives Walburg, Emery, Garcia, Hunt, and Kull and Senators Grove, Jensen (Kevin),
+Reed, and Voight at the request of the Study Committee on Emergency Medical Services
+1 An Act to establish requirements and liability protection for registered nurses and
+2 licensed practical nurses serving on ambulance crews.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 34-11-2 be AMENDED:
+5 34-11-2. Terms used in this chapter mean:
+6 (1) "Ambulance," a vehicle that has a driver compartment and a patient compartment,
+7 and carries the equipment and supplies needed for the provision of emergency
+8 care, by personnel licensed or certified in accordance with chapter 36-4B, or
+9 authorized by section 3 of this Act, at the scene of and enroute from an emergency;
+10 (2) "Ambulance service," any person or organization that is licensed by the department
+11 to provide:
+12 (a) Emergency medical services at the scene of and enroute from an
+13 emergency;
+14 (b) Transportation of a patient from a medical facility to another medical
+15 facility;
+16 (c) Transportation of a patient from a medical facility to a non-medical facility;
+17 and
+18 (d) Transportation of a patient from a non-medical facility to a medical facility;
+19 (3) "Department," the Department of Health;
+20 (4) "Medical director," a physician licensed pursuant to chapter 36-4 who is responsible
+21 for providing medical supervision and direction to an ambulance service; and
+22 (5) "Program director," a physician assistant licensed pursuant to chapter 36-4A, or a
+23 nurse practitioner licensed pursuant to chapter 36-9A, who is authorized by § 34-
+24 11-12.2 and is responsible for providing supervision and direction to an ambulance
+25 service in place of a medical director.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.135.12 2 1023
+1 Section 2. That § 34-11-12 be AMENDED:
+2 34-11-12. Each ambulance run must include:
+3 (1) One emergency:
+4 (a) Emergency medical technician or one advanced, licensed pursuant to
+5 chapter 36-4B;
+6 (b) Advanced life support personnel, licensed pursuant to chapter 36-4B; or
+7 (c) Licensed practical nurse or registered nurse, authorized by section 3 of this
+8 Act; and
+9 (2) One ambulance operator certified in accordance with chapter 36-4B.
+10 Section 3. That a NEW SECTION be added to chapter 34-11:
+11 A registered nurse or licensed practical nurse, licensed pursuant to chapter 36-9,
+12 may be employed by or serve as a volunteer for an ambulance service, provided that the
+13 nurse demonstrates competence in the skills, equipment, and medications used in the
+14 provision of emergency care, as determined and approved by the medical or program
+15 director.
+16 Care provided by a registered nurse or a licensed practical nurse, employed by or
+17 volunteering for an ambulance service, must be within the scope of the nurse's license
+18 and under the direction and supervision of the medical or program director.
+19 Section 4. That a NEW SECTION be added to chapter 34-11:
+20 A registered nurse or licensed practical nurse, authorized by section 3 of this Act,
+21 is not liable for civil damages for any act or omission in connection with care provided on
+22 an ambulance run, unless the act or omission is inconsistent with the nurse's training, or
+23 the act or omission was the result of gross negligence or willful misconduct.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

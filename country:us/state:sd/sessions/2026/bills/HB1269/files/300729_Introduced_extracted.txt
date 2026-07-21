@@ -1,0 +1,180 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.754.16 101st Legislative Session 1269
+2026 South Dakota Legislature
+House Bill 1269
+Introduced by: Representative Roe
+1 An Act to require that manufacturers of agricultural equipment allow an
+2 independent repair provider or an owner to make certain repairs to
+3 agricultural equipment.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That a NEW SECTION be added to chapter 37-5:
+6 Terms used in this Act mean:
+7 (1) "Agricultural equipment," or "equipment," any product originating from the
+8 manufacturer when sold or leased for use in farming or other forms of agriculture,
+9 that depends for its functioning, in whole or in part, on digital electronics embedded
+10 in or attached to it, including any tractor, combine, harvesting equipment, tillage,
+11 planting, irrigation, or cultivating implement, baler, or any off-road vehicle, as
+12 defined in § 32-20-1, which is designed primarily for use in an agricultural
+13 operation. The definition does not include:
+14 (a) A motor vehicle, as defined in chapter 32-5; or
+15 (b) Industrial, construction, mining, or road-building equipment;
+16 (2) "Authorized repair provider," an individual or business that has an arrangement
+17 with the original equipment manufacturer for a definite or indefinite period of time,
+18 under which the manufacturer grants the individual or business a license, or
+19 franchise, to use a trade name, service mark, or related characteristic for the
+20 purpose of offering diagnosis, maintenance, or repair of agricultural equipment,
+21 under the name of or on behalf of the original equipment manufacturer;
+22 (3) "Code," subject to the limitations of sections 5 and 6 of this Act, information that
+23 can be read by a human or machine, and which is related to a performance issue
+24 arising from the operation of an owner's agricultural equipment;
+25 (4) "Confidential information," any nonpublic information or nonpublic materials of the
+26 manufacturer, its affiliates, its licensors, or its suppliers, which are related to
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.754.16 2 1269
+1 goods, research and development information, patent rights, or intellectual
+2 property rights;
+3 (5) "Documentation," subject to the limitations of sections 5 and 6 of this Act, any
+4 manual, diagram, reporting output, service code description, schematic drawing,
+5 or other guidance or information, used in diagnosing, maintaining, repairing, or
+6 upgrading agricultural equipment;
+7 (6) "Embedded software," any programmable instructions provided on firmware
+8 delivered with or loaded onto the agricultural equipment, including assembly code,
+9 basic internal operating system, internal operating system, machine code,
+10 microcode, root code, and all relevant patches, fixes, and updates from the
+11 manufacturer;
+12 (7) "Fair and reasonable terms," at fair and commercially reasonable terms that do not
+13 impose unreasonable burdens on an independent repair provider or owner;
+14 (8) "Firmware," a software program or set of instructions programmed on agricultural
+15 equipment, or on a part of the agricultural equipment, to allow the agricultural
+16 equipment or part to communicate within itself or with other computer hardware;
+17 (9) "Goods," code, confidential information, documentation, embedded software,
+18 agricultural equipment, parts, software, specialty tools, tools, updates, and any
+19 other product or service distributed, manufactured, or made available by or
+20 through a manufacturer;
+21 (10) "Independent repair provider," an individual or business that is not affiliated with
+22 an authorized repair provider or manufacturer, with respect to agricultural
+23 equipment, but is engaged in diagnosing, maintaining, or repairing agricultural
+24 equipment generally and is willing and capable of repairing agricultural equipment;
+25 (11) "Manufacturer," any individual or business engaged in the business of making new
+26 and complete agricultural equipment;
+27 (12) "Obsolete," no longer produced, sold, exchanged, or maintained by a
+28 manufacturer;
+29 (13) "Owner," an individual or business that owns or leases agricultural equipment
+30 purchased or used in this state;
+31 (14) "Part," any replacement part made available or used by a manufacturer or its
+32 authorized repair provider for maintenance or repair of agricultural equipment
+33 manufactured by or on behalf of, sold, or otherwise supplied by the manufacturer;
+34 (15) "Safety," any goods that are intended to prevent injury, harm, danger, or loss to
+35 individuals or property;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.754.16 3 1269
+1 (16) "Software," a publicly available digital platform that provides access to technical
+2 manuals, diagnostic codes, equipment calibrations, and other publicly available
+3 resources, which are necessary for the diagnosis, maintenance, or repair of
+4 agricultural equipment;
+5 (17) "Specialty tool," a mechanical implement originating from the manufacturer, which
+6 is necessary to facilitate mechanical or electrical maintenance, repair, or upgrade
+7 of a manufacturer's agricultural equipment, and which is not generally available
+8 other than from the manufacturer's authorized repair facilities;
+9 (18) "Tool," any software, hardware implement, or other apparatus originating from the
+10 manufacturer, which is used for data readout, diagnosis, maintenance, or repair of
+11 agricultural equipment, including software or other mechanisms that calibrate
+12 functionality or perform any other function required to operate, maintain, upgrade,
+13 activate, or bring the agricultural equipment back to a fully functional condition;
+14 (19) "Trade secret," as defined in § 37-29-1; and
+15 (20) "Updates," recommended corrections or adjustments to documentation, parts,
+16 software, specialty tools, tools, or information that are created and distributed by
+17 the manufacturer and used in offering the services of diagnosis, maintenance, or
+18 repair of agricultural equipment.
+19 Section 2. That a NEW SECTION be added to chapter 37-5:
+20 For agricultural equipment and parts for agricultural equipment that are sold or
+21 used in this state, a manufacturer shall make available on fair and reasonable terms to
+22 any independent repair provider and any owner of agricultural equipment manufactured
+23 by, on behalf of, or sold by the manufacturer, any code, documentation, parts, software,
+24 specialty tools, tools, and updates, inclusive of any updates to information on embedded
+25 software, required for the diagnosis, maintenance, or repair of the agricultural equipment.
+26 The code, documentation, parts, software, specialty tools, tools, and updates, must be
+27 made available either directly by the manufacturer or through an authorized repair
+28 provider or distributor.
+29 For agricultural equipment that contains an electronic lock, immobilizer, or other
+30 security-related function, pursuant to this chapter and subject to the limitations of sections
+31 5 and 6 of this Act, the manufacturer shall make available to an independent repair
+32 provider or owner, on fair and reasonable terms, any documentation and tools needed to
+33 disable the lock, immobilizer, or function, and to reset it when disabled in the ordinary
+34 course of diagnosis, maintenance, or repair of the agricultural equipment.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.754.16 4 1269
+1 Section 3. That a NEW SECTION be added to chapter 37-5:
+2 A manufacturer's failure to provide code, documentation, parts, software, specialty
+3 tools, or tools, as described in section 2 of this Act, constitutes a deceptive act or practice
+4 pursuant to § 37-24-6.
+5 Section 4. That a NEW SECTION be added to chapter 37-5:
+6 Nothing in this Act may be construed to require a manufacturer to:
+7 (1) Divulge any trade secret or any proprietary or confidential information;
+8 (2) Alter the terms of any arrangement between an authorized repair provider and a
+9 manufacturer, including the authorized repair provider's performance or provision
+10 of warranty or recall repair work on behalf of a manufacturer and pursuant to such
+11 an arrangement, except that any provision that purports to waive, avoid, restrict,
+12 or limit the manufacturer’s obligations to comply with this Act is void and
+13 unenforceable;
+14 (3) Make available goods that would disable or override safety features or emission
+15 controls to adjust agricultural equipment power levels;
+16 (4) Develop new goods or update any obsolete goods in order to comply with this
+17 section;
+18 (5) Violate any federal, state, or local laws or regulations;
+19 (6) Provide an owner or independent repair provider access to any goods that are not
+20 required for the diagnosis, maintenance, or repair of agricultural equipment, or any
+21 goods that would enable reverse engineering of a manufacturer's goods;
+22 (7) Provide goods directly to an independent repair provider or owner provided the
+23 goods are made available through an authorized repair provider; or
+24 (8) Violate any confidentiality obligations or provide any information, mechanism,
+25 device, or other means, to allow an encrypted file to be unencrypted.
+26 Section 5. That a NEW SECTION be added to chapter 37-5:
+27 An independent repair provider or owner may not:
+28 (1) Modify agricultural equipment to deactivate an anti-theft, safety, or security
+29 notification system, except as necessary to provide diagnosis, maintenance, or
+30 repair services, and if deactivation is necessary, the independent repair provider
+31 or owner must immediately reactivate any anti-theft, safety, or security notification
+32 system upon the completion of the diagnosis, maintenance, or repair;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.754.16 5 1269
+1 (2) Override safety features, emission controls, adjust agricultural equipment power
+2 levels, or make any other modification to equipment , which brings the equipment
+3 out of compliance with any applicable federal, state, or local law or regulation;
+4 (3) Access any function of a tool that allows the settings for a piece of agricultural
+5 equipment to be changed in a manner that brings the equipment out of compliance
+6 with any applicable federal, state, or local law or regulation; or
+7 (4) Obtain or use code, documentation, parts, software, specialty tools, tools, or
+8 updates, to evade or violate emissions, copyright, trademark, safety, or patent
+9 laws, or to engage in any other illegal activity.
+10 An independent repair provider or owner who violates any provision of this section
+11 is guilty of a Class 2 misdemeanor.
+12 Section 6. That a NEW SECTION be added to chapter 37-5:
+13 Neither a manufacturer nor an authorized repair provider is liable for any violation
+14 of law, damage, or injury to any agricultural equipment, individual, or person, which
+15 occurs during the course of, or as a result of, the repair, diagnosis, or maintenance of
+16 agricultural equipment by an independent repair provider or owner, provided the violation,
+17 damage, or injury occurred as a result of a manufacturer or authorized repair provider
+18 complying with this Act. This provision is not intended to release a manufacturer from any
+19 liability attributable to design or manufacturing defects as per chapter 20-9.
+20 Section 7. That a NEW SECTION be added to chapter 37-5:
+21 This Act applies to equipment first manufactured and sold on or after January 1,
+22 2014.
+23 Section 8. This Act is effective beginning October 1, 2026.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,21 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.376.14 101st Legislative Session 22
+2026 South Dakota Legislature
+Senate Bill 22
+Introduced by: The Chair of the Committee on Local Government at the request of the Department of Revenue
+1 An Act to clarify when certification of values is transmitted to the county.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 10-11-52 be AMENDED:
+4 10-11-52. Failure on the part of the Department of Revenue to transmit the
+5 certificate required by § 10-11-51, on or before the second fourth Monday of August, does
+6 not in any way invalidate the assessment or tax levied, if it the certificate is transmitted
+7 to the county auditor within a reasonable time.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

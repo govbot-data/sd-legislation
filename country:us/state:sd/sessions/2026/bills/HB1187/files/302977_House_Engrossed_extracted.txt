@@ -1,0 +1,32 @@
+Title: 
+Official Title: 
+Source: versions - House Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.873.11 101st Legislative Session 1187
+2026 South Dakota Legislature
+House Bill 1187
+HOUSE ENGROSSED
+Introduced by: Representative Fitzgerald
+1 An Act to add coaches to the list of mandatory reporters of child abuse or neglect.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 26-8A-3 be AMENDED:
+4 26-8A-3. Any physician, dentist, doctor of osteopathy, chiropractor, optometrist,
+5 emergency medical technician, paramedic, mental health professional or counselor,
+6 podiatrist, psychologist, religious healing practitioner, social worker, hospital intern or
+7 resident, parole or court services officer, law enforcement officer, coach of a school
+8 activity, teacher, school counselor, school official, nurse, licensed or registered child
+9 welfare provider, employee or volunteer of a domestic abuse shelter, employee or
+10 volunteer of a child advocacy organization or child welfare service provider, chemical
+11 dependency counselor, coroner, dental hygienist, or any safety-sensitive position as
+12 defined in § 3-6C-1, who has reasonable cause to suspect that a child under the age of
+13 eighteen has been abused or neglected, as defined in § 26-8A-2, shall report that
+14 information in accordance with §§ 26-8A-6, 26-8A-7, and 26-8A-8. Any person who
+15 intentionally fails to make the required report is guilty of a Class 1 misdemeanor. Any
+16 person who knows or has reason to suspect that a child has been abused or neglected as
+17 defined in § 26-8A-2 may report that information as provided in § 26-8A-8.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

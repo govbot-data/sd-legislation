@@ -1,0 +1,34 @@
+Title: 
+Official Title: 
+Source: versions - House Taxation Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.146.30 101st Legislative Session 1258
+2026 South Dakota Legislature
+House Bill 1258
+HOUSE TAXATION ENGROSSED
+Introduced by: The Committee on Local Government
+1 An Act to require that a property tax bill provide access to a state website providing
+2 property tax information.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 10-21-1.2 be AMENDED:
+5 10-21-1.2. For purposes of chapters 10-21 to 10-26, inclusive, the following terms
+6 mean:
+7 (1) "Courthouse," the county courthouse, the administrative building where the county
+8 office of treasurer is located, or a building where the board of county
+9 commissioners meet;
+10 (2) "QR code", a quick response code taking the form of a two-dimensional matrix
+11 barcode intended to be digitally scanned; and
+12 (3) "Treasurer," the county treasurer.
+13 Section 2. That a NEW SECTION be added to chapter 10-21:
+14 The property tax bill sent to each taxpayer pursuant to § 10-21-1.1 must include
+15 a QR code and an internet address, connecting the taxpayer to a website maintained by
+16 the Department of Revenue which provides supplementary information on property
+17 taxation, and on property tax relief programs, in this state.
+18 The tax bill must provide notice to the taxpayer that further tax information may
+19 be found by using the QR code and the internet address.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

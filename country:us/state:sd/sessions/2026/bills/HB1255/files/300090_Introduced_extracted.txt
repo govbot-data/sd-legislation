@@ -1,0 +1,86 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.100.9 101st Legislative Session 1255
+2026 South Dakota Legislature
+House Bill 1255
+Introduced by: Representative Goodwin
+1 An Act to require that the Department of Health accept the medical records of a
+2 veteran applying for a medical cannabis registry identification card.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 34-20G-29 be AMENDED:
+5 34-20G-29. TheExcept as provided in section 2 of this Act, the department shall
+6 issue a registry identification card to a qualifying patient who submits the following, in
+7 accordance with rules promulgated by the department:
+8 (1) A written certification issued by a practitioner within ninety days immediately
+9 preceding the date of an application;
+10 (2) The application fee or renewal fee;
+11 (3) The name, address, and date of birth of the qualifying patient, except that if the
+12 applicant is homeless, no address is required;
+13 (4) The name, address, and telephone number of the qualifying patient's practitioner;
+14 (5) The name, address, and date of birth of the designated caregiver, or designated
+15 caregivers, chosen by the qualifying patient;
+16 (6) If more than one designated caregiver is designated at any given time,
+17 documentation demonstrating that a greater number of designated caregivers are
+18 more than one caregiver is needed due to the qualifying patient's age or medical
+19 condition;
+20 (7) The name of no more than two dispensaries that the qualifying patient designates,
+21 if any; and
+22 (8) If the qualifying patient designates names a designated caregiver, a designation
+23 an indication as to whether the qualifying patient or designated caregiver will be
+24 allowed under state is allowed by law to possess and cultivate cannabis plants for
+25 the qualifying patient's medical use.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.100.9 2 1255
+1 When a practitioner conducts a follow-up assessment with a patient, within sixty
+2 days of issuing the patient a written certification, and the purpose of the follow-up
+3 assessment is to assess the patient's response to the use of medical cannabis and to
+4 determine whether to issue the patient a second written certification, the fee required
+5 under subdivision (2) is waived, if the patient reapplies for the second registry
+6 identification card. A patient may only receive one fee waiver under this section per
+7 calendar year.
+8 Section 2. That a NEW SECTION be added to chapter 34-20G:
+9 Notwithstanding any other provision of law, the department shall issue a registry
+10 identification card to a qualifying patient who:
+11 (1) Is a veteran; and
+12 (2) In accordance with rules promulgated by the department, submits:
+13 (a) The portion of the qualifying patient's medical records from the United
+14 States Department of Veterans Affairs, current within three years of the
+15 date the application is submitted, which indicates that the qualifying patient
+16 is diagnosed with a debilitating medical condition;
+17 (b) Documentation certifying that the qualifying patient was discharged or
+18 released from military service under conditions other than dishonorable;
+19 (c) The application fee or renewal fee;
+20 (d) The name, address, and date of birth of the qualifying patient, except that
+21 if the applicant is homeless, no address is required;
+22 (e) The name, address, and telephone number of the qualifying patient's
+23 preferred Department of Veterans Affairs health facility;
+24 (f) If applicable, the name, address, and date of birth of the designated
+25 caregiver, or designated caregivers, chosen by the qualifying patient;
+26 (g) If more than one designated caregiver is designated at any given time,
+27 documentation demonstrating that more than one designated caregiver is
+28 needed due to the qualifying patient's age or medical condition;
+29 (h) The name of no more than two dispensaries that the qualifying patient
+30 designates, if any; and
+31 (i) If the qualifying patient names a designated caregiver, an indication as to
+32 whether the qualifying patient or designated caregiver is allowed by law to
+33 possess and cultivate cannabis plants for the qualifying patient's medical
+34 use.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.100.9 3 1255
+1 A registry identification card issued under this section expires one year after the
+2 date of issuance and may be renewed.
+3 For the purposes of this section, "veteran" means an individual who served in the
+4 active military, naval, air, or space service of the armed forces of the United States, and
+5 who was discharged or released therefrom under conditions other than dishonorable.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

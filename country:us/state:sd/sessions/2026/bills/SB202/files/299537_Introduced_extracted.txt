@@ -1,0 +1,29 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.868.9 101st Legislative Session 202
+2026 South Dakota Legislature
+Senate Bill 202
+Introduced by: Senator Mehlhaff
+1 An Act to require that the owner of a motor vehicle removed from a body of water
+2 pay the removal costs.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 32-30-18.1 be AMENDED:
+5 32-30-18.1. Any owner of a motor vehicle who intentionally abandons a motor
+6 vehicle on any public highway or right-of-way is civilly liable to the removal agency for
+7 the expense of towing the motor vehicle if:
+8 (1) The owner intentionally abandons a motor vehicle on any public highway or right
+9 of way;
+10 (2) The owner drives, or allows the motor vehicle to be driven, into any lake, stream,
+11 or body of water where the motor vehicle becomes disabled; and
+12 (3) The owner drives, or allows the motor vehicle to be driven, onto any frozen lake,
+13 stream, or body of water where the motor vehicle breaks through the ice and
+14 becomes disabled.
+15 The owner is also civilly liable for any storage expense pursuant to § 32-36-8.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

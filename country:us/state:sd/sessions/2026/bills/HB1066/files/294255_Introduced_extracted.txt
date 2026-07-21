@@ -1,0 +1,32 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.188.10 101st Legislative Session 1066
+2026 South Dakota Legislature
+House Bill 1066
+Introduced by: Representative Fitzgerald
+1 An Act to revise a provision related to theft by a contractor, subcontractor, or
+2 supplier.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 44-9-13 be AMENDED:
+5 44-9-13. Any contractor, subcontractor, or supplier on any improvement of real
+6 estate, mines, or public utilities within the purview of this chapter who knowingly uses
+7 more than five hundred dollars of the proceeds of any payment made to him on account
+8 of such improvement by the owner of such real estate or person having the improvement
+9 made, having received or been entrusted with the property of another for the purpose of
+10 improvement of real estate, and with the intent to defraud, appropriates that property for
+11 any other purpose other than the payment for labor, skill, or materials, and machinery
+12 contributed to such improvement while any account for such labor, skill, material, or
+13 machinery furnished for such improvement up to the time of such payment remains unpaid
+14 and due and owing under the credit terms arranged, for improvement of the real estate
+15 for which it was received, is guilty of theft of the proceeds of such payment. It is not a
+16 violation of this section to withhold funds from a contractor, subcontractor, or supplier
+17 pending the completion and final approval of his work or product. Any person guilty of
+18 theft pursuant to this section is subject to the penalties under § 22-30A-17.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

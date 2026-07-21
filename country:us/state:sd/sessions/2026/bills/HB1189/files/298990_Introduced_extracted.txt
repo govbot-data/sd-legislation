@@ -1,0 +1,45 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.892.9 101st Legislative Session 1189
+2026 South Dakota Legislature
+House Bill 1189
+Introduced by: Representative Roe
+1 An Act to establish a greater tire weight limit for a mobile crane moving on any
+2 highway in this state.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 32-22-21 be AMENDED:
+5 32-22-21. No vehicle equipped with pneumatic tires may be operated or moved
+6 upon any highway in this state, if the weight of the vehicle and the load thereon resting
+7 upon the surface of the highway exceeds:
+8 (1) Six hundred fifty pounds on any inch of the tire width on any type of axle
+9 permanently attached to a mobile crane, moving upon any highway in this state,
+10 with a boom carried over the vehicle;
+11 (2) Six hundred pounds on any inch of the tire width on:
+12 (a) An axle equipped with dual tires;
+13 (b) A steering axle;
+14 (c) An axle of an oversize or overweight vehicle that cannot be readily reduced
+15 in size or weight and is operating with a permit issued under § 32-22-42;
+16 (d) An axle of a trailer being towed by a vehicle with a gross vehicle weight
+17 rating of eleven thousand pounds or less; or
+18 (e) An axle equipped with tires having a minimum width of four hundred forty-
+19 five millimeters or seventeen and one-half inches if operated on a highway
+20 identified in § 32-22-21.2; or
+21 (2)(3) Five hundred pounds on any inch of the tire width on any other type of axle.
+22 In no instance may the weight on any axle or combination of axles exceed the
+23 maximum weight limits specified in § 32-22-16. A violation of this section is a Class 2
+24 misdemeanor.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.892.9 2 1189
+1 For the purposes of this section, "mobile crane" means a lifting machine mounted
+2 on a self-propelled carrier, featuring a telescoping or lattice boom, designed to easily move
+3 between work sites for lifting and moving heavy materials.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,98 @@
+Title: 
+Official Title: 
+Source: versions - Senate State Affairs Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.805.11 101st Legislative Session 142
+2026 South Dakota Legislature
+Senate Bill 142
+SENATE STATE AFFAIRS ENGROSSED
+Introduced by: Senator Voita
+1 An Act to amend the requirements for filing certain campaign finance disclosure
+2 statements.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 12-27-22 be AMENDED:
+5 12-27-22. The treasurer of a political committee listed below shall file a campaign
+6 finance disclosure statement or a report the following campaign finance disclosure
+7 statements with the secretary of state as follows:
+8 (1) For a candidate or candidate campaign committee for any statewide office, file a
+9 pre-primary, pre-general, year-end, and, if applicable, supplemental report and
+10 amendments in even numbered years and in odd numbered years, file a year-end
+11 report and, if applicable, amendments:
+12 (a) A pre-primary statement;
+13 (b) A pre-general statement;
+14 (c) An annual year-end statement;
+15 (d) A supplemental report as provided in § 12-27-28, if applicable; and
+16 (e) If applicable, amendments to any information provided on a prior
+17 statement;
+18 (2) For a candidate or candidate campaign committee for a legislative or county office
+19 with a recognized political party, file a pre-primary, a pre-general, year-end and,
+20 if applicable, supplemental report and amendments in even numbered years:
+21 (a) A pre-primary statement;
+22 (b) A pre-general statement;
+23 (c) An annual year-end statement;
+24 (d) A supplemental report as provided in § 12-27-28, if applicable; and
+25 (e) If applicable, amendments to any information provided on a prior
+26 statement;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.805.11 2 142
+1 (3) For a statewide political action committee, file a pre-primary, pre-general, year-
+2 end, and, if applicable, supplemental report and amendments in even numbered
+3 years and in odd numbered years, file a year-end report and, if applicable,
+4 amendments:
+5 (a) A pre-primary statement;
+6 (b) A pre-general statement;
+7 (c) An annual year-end statement;
+8 (d) A supplemental report as provided in § 12-27-28, if applicable; and
+9 (e) If applicable, amendments to any information provided on a prior
+10 statement;
+11 (4) For a statewide political party, file a pre-primary, pre-general, year-end and, if
+12 applicable, supplemental report and amendments in even numbered years and in
+13 odd numbered years, file a year-end or amendments, if applicable:
+14 (a) A pre-primary statement;
+15 (b) A pre-general statement;
+16 (c) An annual year-end statement;
+17 (d) A supplemental report as provided in § 12-27-28, if applicable; and
+18 (e) If applicable, amendments to any information provided on a prior
+19 statement;
+20 (5) For a county political party and auxiliary organization, file a pre-general and, if
+21 applicable, supplemental report and amendments in even numbered years:
+22 (a) A pre-primary statement;
+23 (b) A pre-general statement;
+24 (c) An annual year-end statement;
+25 (d) A supplemental report as provided in § 12-27-28, if applicable; and
+26 (e) If applicable, amendments to any information provided on a prior
+27 statement; and
+28 (6) For a statewide ballot question committee, file a pre-primary, pre-general, year-
+29 end and, if applicable, supplemental report and amendments in even numbered
+30 years and in odd numbered years, file a year-end and, if applicable, amendments:
+31 (a) A pre-primary statement;
+32 (b) A pre-general statement;
+33 (c) An annual year-end statement;
+34 (d) A supplemental report as provided in § 12-27-28, if applicable; and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.805.11 3 142
+1 (e) If applicable, amendments to any information provided on a prior
+2 statement.
+3 The treasurer of a political committee listed in this section may submit a
+4 termination report statement at any time.
+5 If a political party loses the status of a qualified party, the party must file a
+6 termination report statement by five p.m. central time on the last Friday in January
+7 following the calendar year in which the qualified party status was lost. If a statewide
+8 ballot question committee does not list any activity on the next required campaign finance
+9 report statement submitted to the secretary of state, that committee has until the next
+10 reporting period to report activity. If that committee does not have any activity to report
+11 by the next reporting period, the committee must submit a termination report statement
+12 by that reporting period deadline.
+13 A violation of this section is a Class 2 misdemeanor. A subsequent offense within
+14 a calendar year is a Class 1 misdemeanor.
+15 Section 2. This Act is effective beginning January 1, 2027.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

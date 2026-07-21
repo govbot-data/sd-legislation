@@ -1,0 +1,362 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.992.22 101st Legislative Session 228
+2026 South Dakota Legislature
+Senate Bill 228
+ENROLLED
+AN ACT
+ENTITLED An Act to modify provisions for a tax increment financing district.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+Section 1. That § 10-6-137 be AMENDED:
+10-6-137. Following the construction of any structure classified pursuant to this
+section, the valuation of the structure for taxation purposes must occur in the usual
+manner. The board of county commissioners of the county in which the structure is located
+may adopt a discretionary formula for assessed value to be used for tax purposes. Except
+as otherwise provided in § 10-6-137.1, the formula may include, for any or all of the five
+tax years following construction, all, any portion, or none of the assessed value for tax
+purposes. Any formula adopted pursuant to this section may not be used for any property
+within a tax increment finance district.
+The board may, if requested by the owner of the structure, fully assess the
+structure without application of the formula. In waiving the formula for the structure of
+one owner, the board is not prohibited from applying the formula for subsequent new
+structures. The assessed value during any of the five years may not be less than the
+assessed value of the property in the year preceding the first year of the tax years
+following construction.
+Any structure that is partially constructed on the assessment date may be valued
+for tax purposes, pursuant to this section, and the value may not be less than the assessed
+value of the property in the year preceding the beginning of construction. The period that
+the property is valued for tax purposes under this section may include the years when the
+property is partially constructed.
+Following the five-year period under this section, the property must be assessed
+at the same percentage as all other property for tax purposes, except as otherwise
+provided in § 10-6-137.1.
+
+26.992.22 2 228
+Any of the following types of real property may be specifically classified for the
+purpose of taxation pursuant to this section:
+(1) Any new industrial structure, or any addition, renovation, or reconstruction to an
+existing structure, if the new structure, addition, renovation, or reconstruction has
+a full and true value of thirty thousand dollars or more;
+(2) Any new industrial structure, including a power generation facility, or an addition
+to an existing facility, if the new facility or addition has a full and true value of
+thirty thousand dollars or more;
+(3) Any new nonresidential agricultural structure, or any addition to an existing
+structure, if the new structure or addition has a full and true value of ten thousand
+dollars or more;
+(4) Any new commercial structure, or any addition, renovation, or reconstruction to an
+existing structure, except a commercial residential structure as described in
+subdivision (5), if the new structure or addition, renovation, or reconstruction has
+a full and true value of thirty thousand dollars or more;
+(5) Any new commercial residential structure, or addition to an existing structure,
+containing four or more units, if the new structure or addition has a full and true
+value of thirty thousand dollars or more;
+(6) Any new affordable housing structure containing four or more units, with a monthly
+rental rate of the units at or below the annually calculated rent for the state's sixty
+percent area median income being used by the South Dakota Housing Development
+Authority for a minimum of ten years following the date of first occupancy, if the
+structure has a full and true value of thirty thousand dollars or more;
+(7) Any new residential structure, or addition to or renovation of an existing structure,
+located within a redevelopment neighborhood established pursuant to § 10-6-141,
+if the new structure, addition, or renovation has a full and true value of five
+thousand dollars or more, provided the structure is located in an area defined and
+designated as a redevelopment neighborhood based on conditions set forth in § 11-
+7-2 or 11-7-3; or
+(8) Any commercial, industrial, or nonresidential agricultural property that increases
+more than ten thousand dollars in full and true value, as a result of reconstruction
+or renovation of the structure.
+Section 2. That § 10-12-44 be AMENDED:
+SB228 ENROLLED
+
+26.992.22 3 228
+10-12-44. The county auditor having jurisdiction over a school district shall raise
+additional revenue, for the general fund and special education fund, from real property
+taxes, to compensate for a tax abatement, a tax increment financing district, or a
+discretionary formula in accordance with the following:
+(1) For tax increment financing districts created pursuant to chapter 11-9, the county
+auditor shall impose an additional tax levy, for an amount not to exceed an amount
+equal to the sum of the levies in §§ 10-12-42 and 13-37-16 multiplied by the total
+value of the tax increment financing district less the tax increment base as
+determined pursuant to § 11-9-19;
+(2) For property subject to § 10-6-137, 10-6-137.1, or 10-6-144, the county auditor
+shall impose an additional tax levy, for an amount not to exceed the amount of
+taxes that were not collected, due to the reduction in value based on the maximum
+levies, pursuant to §§ 10-12-42 and 13-37-16; and
+(3) For abated taxes, the county auditor shall impose an additional tax levy, for an
+amount not to exceed the amount of the school district's portion of the taxes that
+were abated, pursuant to chapter 10-18, during the previous tax year.
+The levies in this section are not subject to the referendum provision of § 10-12-
+43 and these levies must maintain the same proportion to each other, as represented in
+the mathematical relationship at the maximum levies pursuant to § 10-12-42.
+Section 3. That § 11-9-1 be AMENDED:
+11-9-1. Terms used in this chapter mean:
+(1) "Department," the Department of Revenue;
+(2) "District," a tax increment financing district in a contiguous geographic area within
+a political subdivision, which is defined and created by resolution of the governing
+body, provided that parcels that are not otherwise adjacent are not contiguous
+based solely on the existence of an easement, right-of-way, transportation
+corridor, or waterway connecting the parcels, unless the parcels are:
+(a) Separated only by the easement, right-of-way, transportation corridor, or
+waterway; and
+(b) Located directly opposite one another;
+(3) "Governing body," a board of commissioners, board of trustees, common council,
+or other authoritative body by which a political subdivision is controlled;
+(4) "Grant," the transfer of money or property to a transferee for a governmental
+purpose that is not a related party to or an agent of the political subdivision;
+SB228 ENROLLED
+
+26.992.22 4 228
+(5) "Planning commission," a planning commission created under chapter 11-2 or 11-
+6, a planning committee of a political subdivision that does not have a planning
+commission, or the governing body of a political subdivision that does not have a
+planning commission or planning committee;
+(6) "Political subdivision," a municipality, as defined in § 11-6-1, or county of this
+state;
+(7) "Project plan," an approved plan for the development or redevelopment of a district
+and all approved amendments to the plan;
+(8) "Taxable property," all real and personal taxable property located in a district; and
+(9) "Tax increment valuation," the total value of the district minus the tax increment
+base as determined pursuant to § 11-9-19.
+Section 4. That § 11-9-4 be AMENDED:
+11-9-4. The planning commission shall designate the boundaries of a district that
+the planning commission recommends be created. The planning commission shall submit
+the recommendation to the governing body. The boundaries of a district may not split a
+whole unit of property that is being used for a single purpose.
+Section 5. That § 11-9-5 be AMENDED:
+11-9-5. To create a district, the governing body must adopt a resolution that:
+(1) Describes the boundaries of the district with sufficient definiteness to identify with
+ordinary and reasonable certainty the territory included;
+(2) Creates the district on a given date;
+(3) Includes a finding that the assessed value of the taxable property in the district
+plus the tax increment base of all other existing districts does not exceed:
+(a) For a district created by a first class municipality, seven and one-half
+percent of the total assessed value of all taxable property in the political
+subdivision; and
+(b) For all other classes, ten percent of the total assessed value of all taxable
+property in the political subdivision;
+(4) Assigns a name to the district for identification purposes. The first district created
+in each political subdivision must be known as "Tax Increment Financing District
+Number One, City (or Town, or County) of __________." Each subsequently
+created district must be assigned the next consecutive number; and
+SB228 ENROLLED
+
+26.992.22 5 228
+(5) Demonstrates that the district has been reviewed by all affected taxing districts at
+a public meeting held pursuant to chapter 1-25, provided that the affected taxing
+districts may provide input but do not have authority to approve or reject the
+creation of the district.
+Section 6. That § 11-9-6 be AMENDED:
+11-9-6. Unless otherwise authorized by a joint resolution among the affected
+political subdivisions, a district established after July 1, 2026, may not overlap with any
+other existing district.
+Section 7. That § 11-9-8 be AMENDED:
+11-9-8. The resolution required by § 11-9-5 must contain the following findings:
+(1) Not less than fifty percent, by area, of the real property within the district is a
+blighted area or not less than fifty percent, by area, of the real property within the
+district will stimulate and develop the general economic welfare and prosperity of
+the state through the promotion and advancement of industrial, commercial,
+manufacturing, agricultural, or natural resources development; and
+(2) The improvement of the area is likely to significantly enhance the value of
+substantially all other real property in the district.
+It is not necessary to identify the specific parcels meeting the criteria.
+Section 8. That a NEW SECTION be added to chapter 11-9:
+No county may create a district located, in whole or in part, within a municipality,
+unless the governing body of the municipality has consented to the creation of the district
+by resolution.
+Section 9. That § 11-9-10 be AMENDED:
+11-9-10. For the purposes of this chapter, the term "blighted area" means an area
+that substantially impairs or arrests the sound growth of the political subdivision, inhibits
+housing development, constitutes an economic or social liability, or is a danger in its
+present condition and use to the health, safety, morals, or welfare of the public because
+of:
+(1) The presence of a substantial number of substandard, slum, deteriorated, or
+deteriorating structures;
+SB228 ENROLLED
+
+26.992.22 6 228
+(2) A predominance of defective or inadequate street layouts;
+(3) Faulty lot layout in relation to size, adequacy, accessibility, or usefulness;
+(4) Unsanitary or unsafe conditions;
+(5) The deterioration of land or structures affixed to the land;
+(6) Tax or special assessment delinquencies exceeding the fair value of the land;
+(7) Defective or unusual conditions of title;
+(8) The existence of conditions that endanger life or property by fire and other causes;
+or
+(9) A predominance of open space with obsolete platting, diversity of ownership, or
+deterioration of structures or site improvements.
+Section 10. That § 11-9-14 be AMENDED:
+11-9-14. For the purposes of this chapter, the term "project costs" are any
+expenditures made or estimated to be made, or monetary obligations incurred or
+estimated to be incurred, by a political subdivision, which are listed in a project plan as
+grants or costs of public works or improvements within a district.
+Section 11. That § 11-9-15 be AMENDED:
+11-9-15. For the purposes of this chapter, the term "project costs" means:
+(1) Capital costs, including the actual costs of the construction of public works or
+improvements, buildings, structures, and permanent fixtures; the demolition,
+alteration, remodeling, repair, or reconstruction of existing buildings, structures,
+and permanent fixtures; the acquisition of equipment; the clearing, over-
+excavation, and grading of land, including use of engineered fill and soil
+compaction; and the amount of interest payable on tax increment bonds issued
+pursuant to this chapter until the positive tax increments to be received from the
+district, as estimated by the project plan, are sufficient to pay the principal of and
+interest on the tax increment bonds when due;
+(2) Financing costs, including all interest paid to holders of evidences of indebtedness
+issued to pay for project costs, any premium paid over the principal amount thereof
+because of the redemption of obligations prior to maturity, and a reserve for the
+payment of principal and interest on obligations in an amount determined by the
+governing body to be reasonably required for the marketability of obligations;
+(3) Real property assembly costs, including the actual cost of the acquisition by a
+political subdivision of real or personal property within a district, less any proceeds
+SB228 ENROLLED
+
+26.992.22 7 228
+to be received by the political subdivision from the sale, lease, or other disposition
+of property pursuant to a project plan;
+(4) Professional service costs, including those costs incurred for architectural,
+planning, engineering, and legal services;
+(5) Imputed administrative costs, including reasonable charges for the time spent by
+a municipal or county employee in connection with the implementation of a project
+plan;
+(6) Relocation costs;
+(7) Organizational costs, including the costs of conducting environmental impact and
+other studies and the costs of informing the public of the creation of a district and
+the implementation of project plans;
+(8) Payments and grants made, at the discretion of the governing body, that are found
+to be necessary or convenient to the creation of a district, the implementation of
+project plans, or to stimulate and develop the general economic welfare and
+prosperity of the state, except:
+(a) No payment or grant may be used for any residential structure pursuant to
+§ 11-9-42; and
+(b) A recipient for a grant made for a district shall enter into an agreement with
+the governing body specifying the only purposes for which a grant may be
+used; and
+(9) Incidental costs diminished by any income, special assessments, or other
+revenues, other than tax increments, received, or reasonably expected to be
+received, by the political subdivision, in connection with the implementation of the
+plan.
+Section 12. That § 11-9-23 be AMENDED:
+11-9-23. Except as provided in this section, if the municipality adopts an
+amendment to the original project plan for any district that includes additional project
+costs for which tax increments may be received by the municipality, the tax increment
+base for the district must be redetermined pursuant to § 11-9-20. The tax increment base
+as redetermined under this section is effective for the purposes of this chapter only if it
+exceeds the original tax increment base determined pursuant to § 11-9-20.
+The provisions of this section do not apply if the additional project costs are twenty-
+five percent or less than the amount approved in the original project plan and the
+SB228 ENROLLED
+
+26.992.22 8 228
+additional project costs will be incurred before the expiration of the period specified in
+§ 11-9-13.
+Section 13. That § 11-9-32 be AMENDED:
+11-9-32. Moneys may be paid out of the special fund for the district created under
+§ 11-9-31 only to pay project costs or grants of the district, to reimburse the political
+subdivision for the payment of project costs or grants of the district, or to satisfy claims
+of holders of tax increment bonds issued for the district.
+Section 14. That § 11-9-46 be AMENDED:
+11-9-46. The district must be terminated when:
+(1) Positive tax increments are no longer allocable to the district pursuant to § 11-9-
+25; or
+(2) The governing body, by resolution, dissolves the district after payment or provision
+for payment of all project costs, grants, and all tax increment bonds of the district.
+Within thirty days after the termination of a district, the governing body shall
+provide to the department a notice, which must include the name of the district and copies
+of the resolution of dissolution and the district's final financial statement. The final financial
+statement must account for the distribution of any remaining funds pursuant to § 11-9-
+45.
+Section 15. That a NEW SECTION be added to chapter 11-9:
+For any district established after July 1, 2026, a governing body may not approve
+a project plan unless an independent fiscal feasibility review has been completed and
+submitted to all political subdivisions.
+The review must be conducted by a third-party who is a municipal advisor
+registered with the Municipal Securities Rulemaking Board and the United States Securities
+and Exchange Commission pursuant to section 15B of the Securities Exchange Act of 1934,
+15 U.S.C. §§ 78a to 78qq, inclusive (January 1, 2026), a licensed certified public
+accountant, or another independent third-party reviewer, including a nonprofit or research
+organization, or attorney, with demonstrated experience in municipal finance and tax
+increment financing, approved by the governing body.
+SB228 ENROLLED
+
+26.992.22 9 228
+The person conducting the review may be compensated for conducting the review
+but must be independent of any developer, obligated person, and private entity receiving
+financial assistance or reimbursement under the project plan. If the review is conducted:
+(1) By a municipal advisor, the advisor must:
+(a) Act in the capacity of municipal advisor to the governing body and may not
+act on behalf of any developer, underwriter, or other private party; and
+(b) Acknowledge in writing that the advisor owes a fiduciary duty to the
+governing body with respect to any advice provided in the review;
+(2) By a certified public accountant, the accountant:
+(a) Must perform the review in accordance with applicable professional
+standards;
+(b) May not prepare, or have prepared, any development feasibility analysis,
+financial projection, or valuation study for the developer or any affiliated
+entity relating to the district; and
+(c) Must acknowledge in writing that the review is conducted for the benefit of
+the governing body; or
+(3) By an independent third-party reviewer, including a nonprofit or research
+organization, or attorney, approved by the governing body, the third-party
+reviewer may not receive funding or compensation, other than compensation for
+conducting the review, from the governing body or any developer, underwriter, or
+other private entity involved in the project.
+Section 16. That a NEW SECTION be added to chapter 11-9:
+A fiscal feasibility review required pursuant to section 15 of this Act:
+(1) Must contain:
+(a) A description of the project plan, proposed district boundaries, and
+estimated project costs;
+(b) An analysis of the tax increment base and the projected tax increment
+valuation for the anticipated duration of the district;
+(c) An evaluation of whether the projected tax increment revenue is sufficient
+to pay the project costs and any other obligation proposed to be paid from
+the revenue;
+(d) An analysis of the timing of projected revenue relative to anticipated
+expenditures or debt service requirements;
+(e) A discussion of material financial risks to the feasibility of the project plan;
+SB228 ENROLLED
+
+26.992.22 10 228
+(f) A statement identifying material assumptions, limitations, and reliance on
+information from other third persons; and
+(g) A conclusion stating whether, based on the assumptions and analyses
+described in the report, the project plan is reasonably feasible from a
+financing standpoint;
+(2) Is advisory in nature and does not constitute a guarantee of project completion,
+revenue, or valuation;
+(3) Does not relieve the governing body of the responsibility to evaluate the project
+plan; and
+(4) Must be completed and made available to the governing body and the public at
+least fourteen days prior to the governing body's consideration of the resolution
+establishing the district.
+SB228 ENROLLED
+
+26.992.22 11 228
+An Act to modify provisions for a tax increment financing district.
+Received at this Executive Office
+I certify that the attached Act originated in this _____ day of _____________,
+the:
+2026 at ____________M.
+Senate as Bill No. 228
+By
+Secretary of the Senate for the Governor
+The attached Act is hereby
+approved this ________ day of
+President of the Senate ______________, A.D., 2026
+Attest:
+Governor
+Secretary of the Senate
+STATE OF SOUTH DAKOTA,
+ss.
+Office of the Secretary of State
+Speaker of the House
+Filed ____________, 2026
+Attest: at _________ o'clock __M.
+Chief Clerk of the House Secretary of State
+Senate Bill No. 228 By
+File No. ____ Asst. Secretary of State
+Chapter No. ______
+SB228 ENROLLED

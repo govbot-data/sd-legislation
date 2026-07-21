@@ -1,0 +1,27 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.56.9 101st Legislative Session 1109
+2026 South Dakota Legislature
+House Bill 1109
+Introduced by: Representative Stevens
+1 An Act to allow for the expungement of records pertinent to dismissed protection
+2 order cases.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 22-19A:
+5 If the court dismisses a petition filed pursuant to § 22-19A-8, either initially or
+6 after a hearing held pursuant to § 22-19A-10, the court may then grant the expungement,
+7 as defined by § 23A-3-26, of all records pertinent to the court file, including any on file
+8 with the Department of Social Services.
+9 Section 2. That a NEW SECTION be added to chapter 25-10:
+10 If the court dismisses a petition filed pursuant to § 25-10-3, either initially or after
+11 a hearing held pursuant to § 25-10-4, the court may then grant the expungement, as
+12 defined by § 23A-3-26, of all records pertinent to the court file, including any on file with
+13 the Department of Social Services.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

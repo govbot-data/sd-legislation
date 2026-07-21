@@ -1,0 +1,50 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.383.9 101st Legislative Session 1019
+2026 South Dakota Legislature
+House Bill 1019
+Introduced by: The Chair of the Committee on Agriculture and Natural Resources at the request of the Department
+of Agriculture and Natural Resources
+1 An Act to remove knowledge and intent from certain actions involving pesticide
+2 laws.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 38-20A-13 be AMENDED:
+5 38-20A-13. If the secretary determines, based on the preponderance of evidence,
+6 that a registered pesticide or its labeling does not comply with the provisions of this
+7 chapter or rules promulgated under this chapter, the secretary may cancel the registration
+8 of that pesticide, subject to a hearing under the provisions of chapter 1-26.
+9 Section 2. That § 38-20A-26 be AMENDED:
+10 38-20A-26. No person may knowingly or willfully distribute, sell, or offer for sale
+11 within this state any pesticide which that is adulterated or misbranded, or any device
+12 which that is misbranded.
+13 Section 3. That § 38-20A-27 be AMENDED:
+14 38-20A-27. No person may knowingly or willfully distribute, sell, or offer for sale
+15 within this state any:
+16 (1) Any pesticide which that is not registered under the provisions of §§ 38-20A-4 to
+17 38-20A-13, inclusive; or any
+18 (2) Any pesticide, if any of the claims made or any of the directions for the pesticide's
+19 use differ in substance from the representations made in connection with its
+20 registration; or any
+21 (3) Any pesticide, if the composition of the pesticide differs from the composition
+22 represented in its registration.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.383.9 2 1019
+1 The secretary may allow a change in the labeling or formula of a pesticide within a
+2 registration period without requiring reregistration of the pesticide.
+3 Section 4. That § 38-20A-28 be AMENDED:
+4 38-20A-28. No person may knowingly or willfully distribute, sell, or offer for sale
+5 within this state any pesticide, unless it is in the registrant's or the manufacturer's
+6 unbroken immediate container and there is affixed to the container, and to the outside
+7 container or wrapper, if one exists, through which the ingredient statement on the
+8 immediate container cannot be clearly read, a label bearing clearly and plainly the
+9 information required in this chapter.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

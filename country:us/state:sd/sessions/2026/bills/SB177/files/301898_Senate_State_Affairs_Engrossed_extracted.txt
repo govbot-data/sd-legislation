@@ -1,0 +1,27 @@
+Title: 
+Official Title: 
+Source: versions - Senate State Affairs Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.759.10 101st Legislative Session 177
+2026 South Dakota Legislature
+Senate Bill 177
+SENATE STATE AFFAIRS ENGROSSED
+Introduced by: Senator Blanc
+1 An Act to clarify the requirements for marking an optical scan ballot.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 12-18-16.1 be AMENDED:
+4 12-18-16.1. If an optical scan ballot is used, the voter may use a pencil or other
+5 marking instrument provided to mark the voter's choice on the ballot person in charge of
+6 the election must:
+7 (1) Provide a black ink pen for each in-person voter to mark the voter's choice on the
+8 ballot; and
+9 (2) Provide instructions to each voter who applies to vote by absentee ballot that the
+10 voter use a black ink pen to mark the voter's choice on the ballot.
+11 The person in charge of the election may not disqualify any ballot marked by a
+12 writing instrument other than a black ink pen.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

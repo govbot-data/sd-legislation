@@ -1,0 +1,196 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.142.14 101st Legislative Session 1024
+2026 South Dakota Legislature
+House Bill 1024
+ENROLLED
+AN ACT
+ENTITLED An Act to modify requirements for ambulance operators.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+Section 1. That § 32-17-42 be AMENDED:
+32-17-42. A motor vehicle may be equipped with blue lights if it is:
+(1) Authorized by the Department of Transportation;
+(2) A tow truck or wrecker as defined in § 32-17-10; or
+(3) Operated by:
+(a) A member of a fire department or search and rescue unit; or
+(b) An ambulance operator who meets the requirements of section 4 of this Act.
+This provision does not relieve the driver of the vehicle from the duty to drive with
+due regard for the safety of all persons using the street, nor does it protect the driver
+from the consequence of a reckless disregard for the safety of others.
+No person may use a blue light unless the person is authorized by this chapter and
+is operating a Department of Transportation vehicle or a county highway vehicle in
+performance of winter highway maintenance duties, or the person is actually en route to
+the scene of a fire or other emergency requiring the person's services and the person has
+been authorized in writing to use a blue light. Authorization for use of a blue light in
+accordance with this chapter may be given by the Department of Transportation, the
+highway patrol, a county highway superintendent, the chief of a fire department, the
+coordinator of a search and rescue unit, or the director of an ambulance service, and only
+to members of the department or service who are in good standing.
+The use of a blue light in violation of this section is a Class 2 misdemeanor.
+Section 2. That § 32-31-4 be AMENDED:
+32-31-4. The speed limits set forth in §§ 32-25-1.1 to 32-25-17, inclusive, do not
+apply to any authorized emergency vehicle responding to an emergency call if the driver
+
+26.142.14 2 1024
+sounds an audible siren or air horn, or both, or displays flashing, oscillating, or rotating
+beams of red light, or combinations of red, blue, or white light, visible one hundred eighty
+degrees to the front of the vehicle. The lights must be capable of warning the public of the
+presence of an emergency vehicle under normal atmospheric conditions.
+The speed limits set forth in §§ 32-25-1.1 to 32-25-17, inclusive, do not apply to
+authorized emergency vehicles operated by law enforcement officers who are measuring
+the speed of other vehicles by use of the emergency vehicle speedometer.
+An ambulance operator who meets the requirements of section 4 of this Act may
+operate an ambulance in excess of the speed limit without audible signals while operating
+outside the city limits of a municipality.
+Section 3. That § 34-11-12 be AMENDED:
+34-11-12. Each ambulance run must include:
+(1) One emergency medical technician or one advanced life support personnel,
+licensed pursuant to chapter 36-4B; and
+(2) One ambulance operator who meets the requirements of section 4 of this Act.
+Section 4. That a NEW SECTION be added to chapter 34-11:
+An ambulance operator must be eighteen years or older, possess a driver's license,
+and:
+(1) Be licensed as emergency medical services personnel in accordance with chapter
+36-4B;
+(2) Be a firefighter;
+(3) Be a law enforcement officer, as defined in § 23-3-27; or
+(4) Provide documentation to the ambulance service that the individual:
+(a) Has completed training in cardiopulmonary resuscitation offered by a state
+or national organization and approved by the medical or program director;
+and
+(b) Has completed an emergency vehicle operator course, which consists of at
+least six hours of instruction, offered by a state or national organization,
+and approved by the medical or program director.
+The ambulance service shall maintain the documentation required by this section
+and shall provide it to the department, upon request.
+Section 5. That § 36-4B-1 be AMENDED:
+HB1024 ENROLLED
+
+26.142.14 3 1024
+36-4B-1. Terms used in this chapter mean:
+(1) "Advanced life support," a level of emergency care consisting of basic life support
+procedures and definitive therapy;
+(2) "Advanced life support personnel," a person licensed by the board as:
+(a) An emergency medical technician-intermediate/85;
+(b) An emergency medical technician-intermediate/99;
+(c) An advanced emergency medical technician; or
+(d) A paramedic;
+(3) "Basic life support personnel," a person licensed by the board as:
+(a) An emergency medical responder; or
+(b) An emergency medical technician;
+(4) "Board," the State Board of Medical and Osteopathic Examiners;
+(5) "Direct control," real-time communications during an ambulance run between
+emergency medical services personnel and a physician, physician assistant, or
+nurse practitioner, licensed in this state;
+(6) "Emergency medical services," health care provided to a patient by emergency
+medical services personnel;
+(7) "Emergency medical services personnel," a person licensed by the board as:
+(a) An emergency medical responder;
+(b) An emergency medical technician;
+(c) An emergency medical technician-intermediate/85;
+(d) An emergency medical technician-intermediate/99;
+(e) An advanced emergency medical technician; or
+(f) A paramedic; and
+(8) "Indirect control," the establishment and implementation of guidelines, policies, and
+protocols approved by a physician, physician assistant, or nurse practitioner,
+licensed in this state.
+Section 6. That § 36-4B-31 be AMENDED:
+36-4B-31. The board may deny the issuance or renewal of a license, and may
+suspend or revoke a license issued under this chapter, if the individual:
+(1) Procures or attempts to procure a license through fraud, deceit, misrepresentation,
+or in violation of the provisions of this chapter and rules promulgated thereunder;
+(2) Is unable to perform the skills for which the individual is licensed;
+(3) Has engaged in unprofessional or dishonorable conduct, as defined in § 36-4-30;
+HB1024 ENROLLED
+
+26.142.14 4 1024
+(4) Has been convicted of a felony that:
+(a) Has a direct bearing upon the individual's ability to serve the public in a
+capacity licensed by this chapter; or
+(b) Has been convicted of a crime that requires the individual to register as a
+sex offender in any state;
+(5) Has had the individual's National Registry of Emergency Technicians or other health
+care certification or license encumbered for any reason;
+(6) Provides emergency medical services without authorization from a physician,
+physician assistant, or nurse practitioner; or
+(7) Fails to respond to an emergency while on call through willful disregard and not by
+a good-faith error or circumstances beyond the individual's control.
+Section 7. That § 36-4B-35 be AMENDED:
+36-4B-35. The board shall promulgate rules, pursuant to chapter 1-26, to:
+(1) Provide an application form and process for the licensure of emergency medical
+services personnel;
+(2) Establish criteria for educational and training program approval, including
+instructor qualifications, student acceptance, and clinical requirements;
+(3) Establish the educational and training requirements, and the National Registry of
+Emergency Medical Technicians requirements, for applicants seeking licensure as
+emergency medical services personnel;
+(4) Establish continuing education requirements for emergency medical services
+personnel;
+(5) Establish procedures for the administration of the emergency medical services
+personnel program;
+(6) Regulate the professional conduct of emergency medical services personnel;
+(7) Establish the educational and training requirements, and conditions for issuance of
+a critical care endorsement, as provided for in § 36-4B-18.1;
+(8) Establish the:
+(a) Educational and training requirements and conditions for issuance of a
+community paramedic endorsement; and
+(b) Practice protocols and supervisory requirements for a person with a
+community paramedic endorsement; and
+(9) Establish the allowable skills and techniques performed by emergency medical
+services personnel under direct and indirect control.
+HB1024 ENROLLED
+
+26.142.14 5 1024
+Section 8. That § 36-4B-42 be AMENDED:
+36-4B-42. Any individual licensed in accordance with this chapter must report any
+of the following occurrences to the board, within thirty days of the date of the occurrence:
+(1) Conviction or discipline for unprofessional conduct or dishonorable conduct, as
+defined in § 36-4-30;
+(2) Any encumbrance of the individual's National Registry of Emergency Medical
+Technicians or other health care certification or licensure;
+(3) Hospital disciplinary action implicating the individual;
+(4) Action affecting the individual's privilege to practice;
+(5) Judgment or settlement related to the individual's alleged malpractice; and
+(6) Change in the individual's:
+(a) Home address;
+(b) Business address;
+(c) Home phone number;
+(d) Work phone number;
+(e) Email address; or
+(f) Other information that is used for communicating with the board.
+Failure to report may constitute a basis for disciplinary action against the individual.
+Section 9. That § 36-4B-41 be REPEALED.
+HB1024 ENROLLED
+
+26.142.14 6 1024
+An Act to modify requirements for ambulance operators.
+Received at this Executive Office
+I certify that the attached Act originated in this _____ day of _____________,
+the:
+2026 at ____________M.
+House as Bill No. 1024
+By
+Chief Clerk of the House for the Governor
+The attached Act is hereby
+approved this ________ day of
+Speaker of the House ______________, A.D., 2026
+Attest:
+Governor
+Chief Clerk of the House
+STATE OF SOUTH DAKOTA,
+ss.
+Office of the Secretary of State
+President of the Senate
+Filed ____________, 2026
+Attest: at _________ o'clock __M.
+Secretary of the Senate Secretary of State
+House Bill No. 1024 By
+File No. ____ Asst. Secretary of State
+Chapter No. ______
+HB1024 ENROLLED

@@ -1,0 +1,259 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.361.19 101st Legislative Session 14
+2026 South Dakota Legislature
+Senate Bill 14
+Introduced by: The Chair of the Committee on Health and Human Services at the request of the State Board of
+Pharmacy
+1 An Act to modify provisions related to the practice of pharmacy.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 36-11-2 be AMENDED:
+4 36-11-2. Terms used in this chapter mean:
+5 (1) "Biological product," as defined in 42 U.S.C. § 262(i), (January 1, 2018);
+6 (2) "Board," the State Board of Pharmacy;
+7 (3) "Brand name," the proprietary or registered trademark name given to a drug
+8 product by its manufacturer, labeler, or distributor and placed on the drug or on
+9 its container, label, or wrapping at the time of packaging;
+10 (4) "Compounding," the preparation, mixing, assembling, packaging, or labeling of a
+11 drug or drug device, as the result of a practitioner's prescription drug order or an
+12 initiative based on the pharmacist/, patient/, and practitioner relationship in the
+13 course of professional practice, or for the purpose of or as an incident to research,
+14 teaching, or chemical analysis, and not for sale or dispensing. The term also
+15 includes the preparation of drug or drug devices in anticipation of prescription drug
+16 orders based on routine, regularly observed prescribing patterns;
+17 (5) "Delivery," the actual, constructive, or attempted transfer of a drug or drug device
+18 from one person to another, whether or not for a consideration;
+19 (6) "Dispensing," the preparation and delivery of a drug to a patient or a patient's
+20 agent pursuant to a prescription drug order in a suitable container with appropriate
+21 labeling for subsequent administration to or use by a patient. The term includes
+22 preparation of labels for drug devices if the labeling is related to the dosage and
+23 administration of drugs;
+24 (7) "Distributing," the delivery of a drug or drug device other than by administration
+25 or dispensing;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.361.19 2 14
+1 (8) "Drug administration," the direct application of a drug or drug device by injection,
+2 inhalation, ingestion, or any other means to the body of a patient or research
+3 subject;
+4 (9) "Drug device," equipment, a process, a biotechnological entity, a diagnostic agent,
+5 or other product used in combination with a drug to provide effective management
+6 of medication regimens;
+7 (10) "Equivalent drug product," a drug product, other than a biological product, that is
+8 considered to be therapeutically equivalent to other pharmaceutically equivalent
+9 products as determined by the edition of Approved Drug Products with Therapeutic
+10 Equivalence Evaluations adopted by the board through rules promulgated pursuant
+11 to chapter 1-26;
+12 (11) "Interchangeable biological product," a biological product that the United States
+13 Food and Drug Administration either has licensed and determined meets the
+14 standards for interchangeability pursuant to 42 U.S.C. § 262(k)(4), (January 1,
+15 2018), or has determined is therapeutically equivalent, as set forth in the edition
+16 of Approved Drug Products with Therapeutic Equivalence Evaluations as adopted
+17 by the board through rules promulgated pursuant to chapter 1-26;
+18 (12) "Labeling," the process of preparing and affixing a label to any drug or drug device
+19 container exclusive of the labeling by the manufacturer, packer, or distributor of a
+20 nonprescription drug or commercially packaged legend drug or drug device;
+21 (13) "Medicines," drugs or chemicals, or their preparations, in suitable form for the
+22 prevention, relief, or cure of diseases when used either internally or externally by
+23 man or for animals;
+24 (14) "Nonprescription drugs," drugs that are labeled for use by the general public in
+25 accordance with 21 U.S.C. § 352 (January 1, 2025), and may be sold without a
+26 prescription drug order in accordance with 21 U.S.C. § 353 (January 1, 2025). The
+27 term does not include drugs that are required by federal law to bear the statement
+28 "Caution: federal law prohibits dispensing without prescription," drugs intended for
+29 human use by hypodermic injection, or animal remedies regulated by chapter 39-
+30 18;
+31 (15) "Patient counseling," oral communication by the pharmacist of information to the
+32 patient or caregiver to improve therapy by ensuring proper use of drugs and drug
+33 devices;
+34 (16) "Pharmaceutical care," provision of drug therapy and other pharmaceutical patient
+35 care services intended to achieve outcomes related to curing or preventing a
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.361.19 3 14
+1 disease, eliminating or reducing a patient's symptoms, or arresting or slowing a
+2 disease process;
+3 (17) "Pharmacist," a person licensed by the board to engage in the practice of
+4 pharmacy;
+5 (18) "Pharmacist-in-charge," a pharmacist designated by a pharmacy owner to assume
+6 full legal responsibility for all professional and facility operations;
+7 (19) "Pharmacy," any place of business within or outside this state where drugs are
+8 dispensed and pharmaceutical care is provided to residents of this state;
+9 (19)(20) "Practitioner," a person licensed, registered, or otherwise authorized by the
+10 jurisdiction in which the person is practicing to prescribe drugs in the course of
+11 professional practice;
+12 (20)(21) "Prescription drug order," a written or oral order of a practitioner for a drug or
+13 drug device for a specific patient;
+14 (21)(22) "Proper name," the nonproprietary name for a biological product designated by
+15 the United States Food and Drug Administration license for use upon each package
+16 of the product; and
+17 (22)(23) "Registered pharmacy technician," a person registered by the board who is
+18 employed by a pharmacy to assist pharmacists in the practice of pharmacy by
+19 performing specific tasks delegated by and under the immediate personal
+20 supervision and control of a pharmacist, as permitted by the board.
+21 Section 2. That § 36-11-11 be AMENDED:
+22 36-11-11. The Board of Pharmacy may shall promulgate rules pursuant to chapter
+23 1-26:
+24 (1) Pertaining to the practice of pharmacy;
+25 (2) Relating to the sanitation of persons and establishments licensed under the
+26 provisions of this chapter;
+27 (3) Pertaining to establishments licensed under the provisions of this chapter wherein
+28 any drug is compounded, prepared, dispensed, or sold;
+29 (4) Providing for minimum equipment and standards of establishments licensed under
+30 the provisions of this chapter;
+31 (5) Pertaining to the sale of drugs by or through any mechanical device;
+32 (6) In cooperation with other governmental agencies where there exists a joint
+33 responsibility for protecting the public health and welfare;
+34 (7) Pertaining to the sale of nonprescription drugs;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.361.19 4 14
+1 (8) To adopt such publications or supplements thereto, as shall from time to time be
+2 deemed necessary to describe the drugs, medicines, prescription drugs, or
+3 dispensing physician or other terms defined in § 36-11-2;
+4 (9) Pertaining to the posting of prescription prices on the premises of a pharmacy
+5 department to provide consumers with comparative pricing information;
+6 (10) Pertaining to the registration of drug wholesalers and manufacturers;
+7 (11) Pertaining to home health care and service;
+8 (12) Pertaining to computerized pharmacy;
+9 (13) Pertaining to the registration of registered pharmacy technicians; an annual
+10 registration fee not to exceed thirty dollars; and tasks that may not be delegated
+11 by a licensed pharmacist to a registered technician;
+12 (14) Redispensing Pertaining to the redispensing of pharmaceuticals; and
+13 (15) Pertaining to the dispensing of biological products; and
+14 (16) Pertaining to remote drop sites, as authorized in section 10 of this Act.
+15 Section 3. That § 36-11-32 be AMENDED:
+16 36-11-32. The board shall may issue a pharmacy license only to a pharmacist in
+17 good standing, if the pharmacist:
+18 (1) SubmitsA pharmacist who is the owner, or part owner, of the merchandise and
+19 fixtures of the place of business for which the pharmacy license is applied for,
+20 provided:
+21 (a) The pharmacist will serve as the pharmacist-in-charge; or
+22 (b) The pharmacist has submitted an affidavit, on a form prescribed by the
+23 board, delegating complete responsibility for the pharmaceutical services in
+24 the place of business to another pharmacist-in-charge; or
+25 (2) A non-pharmacist owner of the merchandise and fixtures of the place of business
+26 for which the pharmacy license is applied for, provided the owner has submitted
+27 an affidavit on a form prescribed by the board delegating complete responsibility
+28 for the pharmaceutical services in the place of business to a pharmacist-in-charge.
+29 The applicant for the pharmacy license shall submit a form prescribed by the board;
+30 and
+31 (2) Pays and pay a fee, not to exceed two hundred dollars, set by the board in rules
+32 promulgated in accordance with chapter 1-26.
+33 Section 4. That § 36-11-33 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.361.19 5 14
+1 36-11-33. The board may issue to a pharmacist in good standing a license to
+2 operate a part-time pharmacy in a hospital, nursing facility, or related facility, provided
+3 that the pharmacy services are limited to inpatients or residents of the facility.
+4 The board may issue a license under this section if:
+5 (1) The pharmacist owner of the proposed pharmacy submits a form prescribed by the
+6 board and pays a fee, not to exceed two hundred dollars, set by the board in rules
+7 promulgated in accordance with chapter 1-26; and
+8 (2) The merchandise and fixtures of the pharmacy are owned by a person other than
+9 the pharmacist applying for the license owner:
+10 (a) Is a pharmacist and will serve as the pharmacist-in-charge; or
+11 (b) Submits an affidavit, on a form prescribed by the board, delegating
+12 complete responsibility for the pharmaceutical services in the proposed
+13 pharmacy to a pharmacist-in-charge.
+14 The pharmacist pharmacist-in-charge must ensure all staff comply with the
+15 provisions of this chapter and with minimum standards, as established by the board in
+16 rules promulgated pursuant to chapter 1-26.
+17 Section 5. That § 36-11-35 be AMENDED:
+18 36-11-35. Each pharmacy license expires on June thirtieth following the date of
+19 issue issuance. To renew a pharmacy license, the pharmacist owner must submit a
+20 renewal application on or before June thirtieth on a form prescribed by the board, and pay
+21 the renewal fee set by the board in rules promulgated in accordance with chapter 1-26,
+22 but not exceeding two hundred dollars. If the renewal application and fee is submitted
+23 after the expiration of the license, the board must assess a fifty-dollar late fee and may
+24 reinstate the license.
+25 If a majority ownership of the pharmacy changes, the new owners must, within
+26 thirty days after ownership change:
+27 (1) Submit the renewal application, indicating the change of ownership; and
+28 (2) Pay the renewal fee established by the board as provided in this section.
+29 Section 6. That § 36-11-37 be AMENDED:
+30 36-11-37. A pharmacy license may be transferred to another pharmacist owner
+31 may change the designation of the pharmacist-in-charge, provided an application for the
+32 transfer of the license change is made upon a form prescribed by the board and upon
+33 payment of a fifty dollar fee. The application for transfer must be filed with the board not
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.361.19 6 14
+1 more than ten days after the transfer change of active management is made. If the
+2 application for transfer is received by the board after ten days, the pharmacy license is
+3 void, and the pharmacist owner must reapply for the license.
+4 When a change in the designation of a pharmacist-in-charge occurs, an on-hand
+5 inventory of controlled substances, as listed in chapter 34-20B, must be completed. The
+6 inventory must be taken on the date the new pharmacist-in-charge assumes active
+7 management of the pharmacy. The inventory list must be retained in the pharmacy for
+8 two years from the date of the inventory.
+9 Section 7. That § 36-11-38 be AMENDED:
+10 36-11-38. In the event of the death of the pharmacist in active management
+11 pharmacist-in-charge, the pharmacy license issued to the deceased under this chapter
+12 shall, within one hundred twenty days after the date of death or on June thirtieth,
+13 whichever is sooner, become null and void, unless the license is transferred designation
+14 of the pharmacist-in-charge is changed as provided in § 36-11-37.
+15 Section 8. That § 36-11-44 be AMENDED:
+16 36-11-44. Any pharmacist who permits the compounding or dispensing of
+17 prescriptions or the vending of drugs in the pharmacist's place of business, except under
+18 the personal supervision of a pharmacist, or any pharmacist who, while continuing in
+19 business, makes any false representations to procure a license for the pharmacist or any
+20 other person, is guilty of a Class 2 misdemeanor.
+21 The delivery of a drug or drug device to a patient outside of a pharmacy by courier,
+22 mail, or remote drop site is not considered a violation of this chapter, if done so under the
+23 supervision of a pharmacist in a licensed pharmacy.
+24 Section 9. That § 36-11-48 be AMENDED:
+25 36-11-48. The board may suspend or revoke, in accordance with chapter 1-26,
+26 any pharmacy license issued under this chapter on the following grounds:
+27 (1) The license was obtained by false representations made in the application therefor;
+28 (2) The pharmacy for which the license was issued was kept open for the transaction
+29 of business without a pharmacist in charge thereof pharmacist-in-charge;
+30 (3) Conviction of a violation of any law of this state or of the United States pertaining
+31 to the drug business or for the aiding or abetting in the violation of the law;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.361.19 7 14
+1 (4) The active management of the pharmacy was changed without the transfer change
+2 in designation of the pharmacist-in-charge, as provided in § 36-11-37, of the
+3 license;
+4 (5) The location of the pharmacy was changed without the change being reported as
+5 provided in § 36-11-39;
+6 (6) The pharmacy was kept open for the transaction of business after the pharmacist
+7 owner ceased to be in active management of the pharmacy, without a change in
+8 designation of the pharmacist-in-charge, as provided in § 36-11-37; or
+9 (7) The minimum requirements of this chapter and the board are no longer met; or
+10 (8) The majority ownership of the pharmacy changed without the change being
+11 reported as provided in § 36-11-35.
+12 A pharmacy license may not be suspended or revoked except by a vote of three or
+13 more members of the board.
+14 Section 10. That a NEW SECTION be added to chapter 36-11:
+15 A licensed pharmacy may utilize a remote drop site to deliver prescription drugs to
+16 patients if:
+17 (1) The remote drop site is under the supervision of the pharmacist-in-charge; and
+18 (2) The prescription drugs are prepared by, and remain under the control of, the
+19 pharmacy.
+20 A remote drop site is not required to be separately licensed as a pharmacy.
+21 Section 11. That § 36-11-34 be REPEALED.
+22 The board may not issue a pharmacy license to any pharmacist applicant unless:
+23 (1) The applicant is the owner, or part owner, of the merchandise and fixtures of the
+24 place of business for which the pharmacy license is applied for;
+25 (2) The application is made jointly with a pharmacist owner; or
+26 (3) The nonpharmacist owner of the merchandise and fixtures of the place of business
+27 for which the pharmacy license is applied for, has submitted an affidavit on a form
+28 prescribed by the board delegating complete responsibility for the pharmaceutical
+29 services in said place of business to the pharmacist applicant.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

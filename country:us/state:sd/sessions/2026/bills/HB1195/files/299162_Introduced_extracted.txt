@@ -1,0 +1,27 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.781.9 101st Legislative Session 1195
+2026 South Dakota Legislature
+House Bill 1195
+Introduced by: Representative Emery
+1 An Act to provide free admission to state parks and recreation areas for residents
+2 enrolled as members of Indian tribes.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 41-17:
+5 Any South Dakota resident who is an enrolled member of an Indian tribe may
+6 obtain free admission to any South Dakota state park or recreation area. The qualifying
+7 individual may also receive a fifty percent discount on any camping fee or associated
+8 electrical service fee established pursuant to § 41-17-1.1 or 41-17-14.1.
+9 Any individual who applies for and qualifies for free admission under the provisions
+10 of this section must be issued a lifetime park entrance license by the Department of Game,
+11 Fish and Parks. The Game, Fish and Parks Commission shall promulgate rules pursuant to
+12 chapter 1-26 establishing criteria and procedures for obtaining free admission and reduced
+13 fees pursuant to this section and for the issuance of a lifetime park entrance license.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

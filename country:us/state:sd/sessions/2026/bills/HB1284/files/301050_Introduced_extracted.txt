@@ -1,0 +1,21 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.896.12 101st Legislative Session 1284
+2026 South Dakota Legislature
+House Bill 1284
+Introduced by: Representative Weisgram
+1 An Act to provide that an alcoholic beverage may be carried and consumed in
+2 enterprises connected to and in the same building as a bar or lounge.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 35-4:
+5 An individual may carry and consume an alcoholic beverage purchased in a bar or
+6 lounge, as described in § 42-7A-37.1, in any other connected enterprise, owned or
+7 operated by the same person, within the same building.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

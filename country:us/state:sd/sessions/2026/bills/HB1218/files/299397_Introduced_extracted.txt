@@ -1,0 +1,156 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.543.32 101st Legislative Session 1218
+2026 South Dakota Legislature
+House Bill 1218
+Introduced by: Representative Hughes
+1 An Act to create a new class of nonagricultural property for purposes of taxation,
+2 and to provide a penalty therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 10-6:
+5 For purposes of this title, "nonagricultural property" means property classified
+6 under subdivisions 10-6-110(2) and (3).
+7 Section 2. That § 10-6-110 be AMENDED:
+8 10-6-110. For the purposes of taxation, all property is hereby classified into the
+9 following classes:
+10 (1) Agricultural property;
+11 (2) Nonagricultural Commercial-investor nonagricultural property; and
+12 (3) Commercial-operator nonagricultural property; and
+13 (4) Owner-occupied single-family dwellings.
+14 Agricultural property includes any land classified as agricultural land pursuant to
+15 § 10-6-112 and any improvements on the agricultural land used exclusively for
+16 agricultural purposes. However, agricultural Agricultural property does not include any
+17 normally an occupied dwelling or, automobile garage, or portion of a building used for that
+18 purpose by the occupant of such the dwelling.
+19 Owner-occupied single-family dwellings include all property classified pursuant to
+20 § 10-13-39.
+21 Nonagricultural property includes all other property not otherwise classified as
+22 agricultural property or owner-occupied single-family dwellings, and further classified
+23 under section 4 of this Act.
+24 The director, in listing and assessing all property to which this section applies, shall
+25 designate opposite each description the class to which the property belongs.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.543.32 2 1218
+1 Section 3. That a NEW SECTION be added to chapter 10-6:
+2 Terms used in sections 3 to 7, inclusive, of this Act, mean:
+3 (1) "Ownership holder," an individual holding title, a revocable living trust in which the
+4 grantor is the current beneficiary, or an entity beneficially owned entirely by an
+5 individual;
+6 (2) "Family business," a commercial property, except residential property, where the
+7 ownership holder or the qualified spouse materially participated for at least ten
+8 years, provided the term does not extend to a commercial property after the
+9 termination of the natural life of the ownership holder and, if applicable, the
+10 qualified spouse;
+11 (3) "Material participation," involvement in the day-to-day management and
+12 operations contributing to the commercial activity of a property on a regular,
+13 continuous, and substantial basis, as described in 26 U.S.C § 469(h) (March 11,
+14 2021) and 26 C.F.R § 1.469-5T (April 1, 1996);
+15 (4) "Qualified entity," a partnership, joint venture, limited liability company, or
+16 corporation owned more than fifty percent by the ownership holder or a qualified
+17 relative of the ownership holder, where the owners of at least forty percent of the
+18 beneficial interest of the limited liability company or corporation materially
+19 participate;
+20 (5) "Qualified relative," a spouse, child, step-child, parent, grandparent, sibling, uncle,
+21 aunt, niece, or nephew of the ownership holder; and
+22 (6) "Qualified spouse," a spouse, or an unremarried widow, of the ownership holder or
+23 of a qualified relative.
+24 Section 4. That a NEW SECTION be added to chapter 10-6:
+25 For purposes of classifying property for taxation, the following property is classified
+26 as commercial-operator nonagricultural property:
+27 (1) A family business; and
+28 (2) Nonagricultural property, except residential property, where the ownership holder,
+29 qualified entity, qualified spouse, or qualified relative materially participates.
+30 Nonagricultural property that is not classified as commercial-operator
+31 nonagricultural property is classified as commercial-investor nonagricultural property.
+32 Section 5. That a NEW SECTION be added to chapter 10-6:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.543.32 3 1218
+1 Prior to August first of each year, an ownership holder may submit to the director
+2 of equalization an application to reclassify property, for the purpose of taxation, as
+3 commercial-operator nonagricultural property. The secretary of the department shall
+4 develop the application form. The ownership holder shall include in the application any
+5 documentary evidence required by the director to verify eligibility for the reclassification.
+6 Within thirty days of receiving a request, the director shall determine whether the
+7 property meets the criteria provided in section 4 of this Act for classification as
+8 commercial-operator nonagricultural property. If the property meets the criteria, the
+9 director must classify the property as commercial-operator nonagricultural property for
+10 the following tax year.
+11 An aggrieved person may appeal the determination of the director pursuant to
+12 chapter 1-26.
+13 It is a Class 1 misdemeanor for an ownership holder to knowingly misrepresent the
+14 facts of the application.
+15 Section 6. That a NEW SECTION be added to chapter 10-6:
+16 To renew the classification of property as commercial-operator nonagricultural
+17 property, the ownership holder shall, prior to August first of each year, submit an affidavit
+18 to the director of equalization attesting to the eligibility of the property as commercial-
+19 operator nonagricultural property. The secretary of the department shall prescribe forms
+20 for purposes of submitting an affidavit under this section.
+21 If an ownership holder fails to submit an application to renew the classification of
+22 the property prior to the date provided in this section, the director of equalization must
+23 reclassify the property as commercial-investor nonagricultural property for the following
+24 tax year.
+25 Section 7. That a NEW SECTION be added to chapter 10-6:
+26 If an application or affidavit submitted pursuant to section 5 or 6 of this Act, is
+27 approved and the director determines that the ownership holder knowingly
+28 misrepresented the facts on the application or affidavit, the county auditor must assess
+29 a penalty on the property equal to two thousand five hundred dollars, for each year in
+30 which the property was wrongly classified as commercial-operator nonagricultural
+31 property.
+32 If an application or affidavit, submitted pursuant to section 5 or 6 of this Act, is
+33 approved and the director determines that the ownership holder negligently
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.543.32 4 1218
+1 misrepresented the facts on the application or affidavit, the county auditor must assess a
+2 penalty on the property equal to five hundred dollars for each year in which the property
+3 was wrongly classified as commercial-operator nonagricultural property.
+4 The county treasurer shall deposit any civil penalty collected under this section in
+5 the county general fund.
+6 Section 8. That § 10-12-42 be AMENDED:
+7 10-12-42. For taxes payable in 2026, and each year thereafter, the levy for the
+8 general fund of a school district is as follows:
+9 (1) The Except as otherwise provided in this section, the maximum tax levy on
+10 nonagricultural property is five dollars and twenty-one and one-tenth cents per
+11 thousand dollars of taxable valuation, subject to the limitations on agricultural
+12 property as provided in subdivision (2) of this section and owner-occupied property
+13 as provided in subdivision (3) of this section;
+14 (2) The maximum tax levy on agricultural property for the school district is one dollar
+15 and twelve and five-tenths cents per thousand dollars of taxable valuation. If the
+16 district's levies are less than the maximum levies as stated in this section, the
+17 levies must maintain the same proportion to each other as represented in the
+18 mathematical relationship at the maximum levies; and
+19 (3) The maximum tax levy for an owner-occupied single-family dwelling pursuant to
+20 § 10-13-40 for the school district is two dollars and fifty-one and eight-tenths cents
+21 per thousand dollars of taxable valuation. If the district's levies are less than the
+22 maximum levies as stated in this section, the levies must maintain the same
+23 proportion to each other as represented in the mathematical relationship at the
+24 maximum levies.
+25 For taxes payable in 2028 and each year thereafter, the maximum levy for the
+26 general fund of a school district, for commercial-operator nonagricultural property, must
+27 be at least twenty-five percent lower than the maximum levy for nonagricultural property
+28 provided in subdivision (1) of this section.
+29 All levies in this section must be imposed on valuations where the median level of
+30 assessment represents eighty-five percent of market value as determined by the
+31 Department of Revenue. These valuations must be used for all school funding purposes.
+32 If the district has imposed an excess levy pursuant to § 10-12-43, the levies must
+33 maintain the same proportion to each other as represented in the mathematical
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.543.32 5 1218
+1 relationship at the maximum levies in this section. The school district may elect to tax at
+2 less than the maximum amounts set forth in this section.
+3 Section 9. Section 8 of this Act is effective beginning July 1, 2027.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

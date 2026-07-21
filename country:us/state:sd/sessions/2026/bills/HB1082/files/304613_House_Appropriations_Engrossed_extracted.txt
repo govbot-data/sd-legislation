@@ -1,0 +1,55 @@
+Title: 
+Official Title: 
+Source: versions - House Appropriations Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.219.16 101st Legislative Session 1082
+2026 South Dakota Legislature
+House Bill 1082
+HOUSE APPROPRIATIONS ENGROSSED
+Introduced by: Representative Wittman
+1 An Act to establish parameters for the reimbursement of school districts that
+2 provide free or reduced-price meals to students.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 13-35-2 be AMENDED:
+5 13-35-2. Pupils and employed personnel of the school district or other agencies
+6 contracting with the Department of Education, who are fed through a school food services
+7 program may be charged for meals.
+8 The board of a school district may impose a charge for any meal provided through
+9 the school district's food services program to:
+10 (1) Any student other than a student who is eligible for free or reduced-price meals
+11 through the National School Lunch Program, 42 U.S.C. § 1751, et seq. (January 1,
+12 2026), or the School Breakfast Program, 42 U.S.C. § 1773 (January 1, 2026);
+13 (2) An employee of the school district; or
+14 (3) Any other individual, not otherwise exempted in accordance with section 2 of this
+15 Act.
+16 Section 2. That a NEW SECTION be added to chapter 13-35:
+17 If a student is eligible for reduced-price meals through the National School Lunch
+18 Program, 42 U.S.C. § 1751, et seq. (January 1, 2026), or the School Breakfast Program,
+19 42 U.S.C. § 1773 (January 1, 2026), the board of a school district may not impose a
+20 charge upon the student for any meals served by the district through the National School
+21 Lunch Program or the School Breakfast Program.
+22 Section 3. That a NEW SECTION be added to chapter 13-35:
+23 On or before June thirtieth of each year, the department shall, based on
+24 information forwarded by each school district, calculate the amount to be reimbursed by
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.219.16 2 1082
+1 the department for the cost of meals served to students who may not be charged,
+2 pursuant to section 2 of this Act. The department shall:
+3 (1) Subtract the amount to be reimbursed to the district for each meal served to a
+4 student eligible for reduced-price meals through the National School Lunch
+5 Program, 42 U.S.C. § 1751, et seq. (January 1, 2026), or the School Breakfast
+6 Program, 42 U.S.C. § 1773 (January 1, 2026), from the amount reimbursed to the
+7 district for a meal served to a student eligible for free meals through either
+8 program; and
+9 (2) Multiply the difference of subdivision (1) by the number of meals served to students
+10 who may not be charged, pursuant to section 2 of this Act.
+11 The Department of Education shall, with moneys appropriated in the general
+12 appropriation bill, reimburse each school district in accordance with this section.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

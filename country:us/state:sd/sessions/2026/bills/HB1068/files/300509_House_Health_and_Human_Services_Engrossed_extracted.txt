@@ -1,0 +1,39 @@
+Title: 
+Official Title: 
+Source: versions - House Health and Human Services Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.122.10 101st Legislative Session 1068
+2026 South Dakota Legislature
+House Bill 1068
+HOUSE HEALTH AND HUMAN SERVICES ENGROSSED
+Introduced by: Representative Andera
+1 An Act to authorize the dispensing of ivermectin and hydroxychloroquine under a
+2 written protocol developed by a health care provider, and to provide liability
+3 protection therefor.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That a NEW SECTION be added to chapter 36-11:
+6 A pharmacist may dispense ivermectin or hydroxychloroquine to an individual who
+7 is eighteen years or older in accordance with a written protocol, developed by a licensed
+8 health care provider acting within the provider's scope of practice, containing a non-
+9 patient-specific prescriptive order. The written protocol must address providing the
+10 individual with:
+11 (1) A screening risk assessment tool for each drug; and
+12 (2) Information on:
+13 (a) Indications and contraindications for the use of the drug;
+14 (b) The appropriate method for using the drug; and
+15 (c) Evaluating and treating adverse events.
+16 The pharmacist shall retain a copy of the written protocol at the pharmacist's place
+17 of practice.
+18 A pharmacist, acting in good faith in accordance with this section, is not criminally
+19 or civilly liable, or subject to disciplinary or adverse action from the board, except if the
+20 actions constitute gross negligence or willful misconduct.
+21 Any other health care provider, acting in good faith in accordance with this section,
+22 is not criminally or civilly liable, or subject to disciplinary or adverse action from the
+23 provider's licensure board, except if the actions constitute gross negligence or willful
+24 misconduct.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

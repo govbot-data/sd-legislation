@@ -1,0 +1,27 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.778.11 101st Legislative Session 1150
+2026 South Dakota Legislature
+House Bill 1150
+Introduced by: Representative Walburg
+1 An Act to make an appropriation to increase the rate of payment for federally
+2 qualified health centers.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. There is appropriated $4,000,000 from the general fund and $4,000,000 in federal
+5 fund expenditure authority, to the Department of Social Services, for increasing the rate of
+6 payment for services, as described in § 28-6-1, to the extent available with the moneys and
+7 authority appropriated for federally qualified health centers, as defined in 42 C.F.R.
+8 § 405.2401 (November 5, 2025).
+9 Section 2. The secretary of the Department of Social Services shall approve vouchers and
+10 the state auditor shall draw warrants to pay expenditures authorized in this Act.
+11 Section 3. Any amounts appropriated in this Act not lawfully expended or obligated shall
+12 revert in accordance with the procedures prescribed in chapter 4-8.
+13 Section 4. This Act is effective beginning June 30, 2026.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

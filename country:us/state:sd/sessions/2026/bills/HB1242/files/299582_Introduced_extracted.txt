@@ -1,0 +1,59 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.861.9 101st Legislative Session 1242
+2026 South Dakota Legislature
+House Bill 1242
+Introduced by: Representative Jensen (Phil)
+1 An Act to require emergency personnel to use flares or emergency reflective
+2 triangles to mark stopped emergency vehicles in some circumstances.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 32-31-3 be AMENDED:
+5 32-31-3. The exemptions granted in subdivisions 32-31-2(2) and (3) to an
+6 authorized emergency vehicle apply only if the vehicle is making use of audible or visual
+7 signals meeting the requirements of law. However, the
+8 The exemption granted in subdivision 32-31-2(1) to an authorized emergency
+9 vehicle applies only if the driver of the emergency vehicle is making use of:
+10 (1) Using visual signals meeting the requirements of law; and
+11 (2) Has placed, as soon as practicable after stopping, three flares or emergency
+12 reflective triangles on the roadway, in the manner and as required by section 2 of
+13 this Act.
+14 Section 2. That a NEW SECTION be added to chapter 32-31:
+15 The driver of an emergency vehicle that is stopped to respond to an emergency
+16 must mark the location by placing three flares or emergency reflective triangles on the
+17 roadway if:
+18 (1) Visibility is reduced due to:
+19 (a) Weather;
+20 (b) Terrain;
+21 (c) Time of day;
+22 (2) Road conditions at the time of the emergency reduce a driver's ability to slow or
+23 stop a motor vehicle; or
+24 (3) The nature of the emergency requires emergency vehicles to be at the location for
+25 an extended period of time.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.861.9 2 1242
+1 If traffic on the roadway moves in two directions, one of the flares or emergency
+2 reflective triangles must be placed at least one hundred feet in the front, one at least one
+3 hundred feet to the rear, and one alongside the stopped emergency vehicle.
+4 Upon a one-way roadway or divided highway, one of the flares or emergency
+5 reflective triangles must be placed at least one hundred feet to the rear, one at least two
+6 hundred feet to the rear, and one alongside the stopped emergency vehicle.
+7 Section 3. That § 32-31-6.2 be AMENDED:
+8 32-31-6.2. Any driver of a motor vehicle who, while violating § 32-31-6.1, causes
+9 an accident, is guilty of a Class 1 misdemeanor if:
+10 (1) The accident is with a stopped emergency vehicle making use of its red visual
+11 signals; or
+12 (2) The accident is with a stopped emergency vehicle marked additionally by flares or
+13 emergency reflective triangles in the circumstances described in section 2 of this
+14 Act; or
+15 (3) The accident is with any vehicle making use of amber, yellow, or blue warning
+16 lights and the vehicle is either stopped or occupying the shoulder of the highway.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

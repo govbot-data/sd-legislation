@@ -1,0 +1,91 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.849.20 101st Legislative Session 1315
+2026 South Dakota Legislature
+House Bill 1315
+Introduced by: Representative Ismay
+1 An Act to authorize the recall of certain elected officials or individuals appointed to
+2 fill vacancies in certain offices.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 3-17:
+5 A petition for the removal of an elected official or an individual appointed to fill a
+6 vacant office in this state, and the election of a successor, must be signed by fifteen
+7 percent of the registered voters of the jurisdiction in which the voters who elected the
+8 official are located, based upon the total number of registered voters at the last preceding
+9 general election. A signature on the petition is not valid if signed more than sixty days
+10 before the petition is filed with the secretary of state pursuant to section 2 of this Act.
+11 This section does not apply to officers subject to impeachment pursuant to S.D.
+12 Const., Art. XVI, § 3.
+13 Section 2. That a NEW SECTION be added to chapter 3-17:
+14 A petition under this chapter must contain:
+15 (1) The place of residence of the petition's signer;
+16 (2) The date of signing the petition; and
+17 (3) A statement alleging, as a ground for the removal:
+18 (a) Crime or misdemeanor in office;
+19 (b) Drunkenness;
+20 (c) Gross incompetency;
+21 (d) Malfeasance; or
+22 (e) Misconduct.
+23 The State Board of Elections shall, pursuant to § 12-1-9, promulgate rules
+24 prescribing the form of the petition.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.849.20 2 1315
+1 Section 3. That a NEW SECTION be added to chapter 3-17:
+2 A petition under this chapter must be filed in the jurisdiction provided for in § 12-
+3 6-4. If the secretary of state determines that the petition satisfies the requirements of
+4 sections 1 and 2 of this Act, the secretary must certify the petition and order an election
+5 pursuant to section 6 of this Act.
+6 Section 4. That a NEW SECTION be added to chapter 3-17:
+7 The procedure for challenging a petition established in §§ 12-1-13 to 12-1-16,
+8 inclusive, is applicable to a petition under this chapter, provided that only the petition
+9 signatures may be so challenged. A failure to challenge petition signatures pursuant to
+10 §§ 12-1-13 to 12-1-16, inclusive, does not prohibit an interested person from challenging
+11 the filing of the petition or the sufficiency of the specific statement of the grounds of the
+12 petition.
+13 Section 5. That a NEW SECTION be added to chapter 3-17:
+14 Any interested person may challenge the filing of a petition under this chapter or
+15 the sufficiency of the specific statement of the grounds, as set forth in section 2 of this
+16 Act, in the petition. The challenge must be brought in the circuit court for the jurisdiction
+17 served by the elected or appointed official sought to be removed, within five business days
+18 after the petition is presented pursuant to section 3 of this Act. The circuit court shall
+19 conduct an expedited declaratory judgment hearing, with no right to trial by jury, on any
+20 challenge brought pursuant to this section.
+21 Section 6. That a NEW SECTION be added to chapter 3-17:
+22 Except as otherwise provided in this section, a special election on the question of
+23 the removal of an elected or appointed official, and the election of a successor, must be
+24 held within sixty days after a petition under this chapter is filed pursuant to section 3 of
+25 this Act.
+26 The elected or appointed official sought to be removed may be a candidate and,
+27 unless the elected or appointed official requests otherwise in writing, the secretary of state
+28 shall place the elected or appointed official's name on the official ballot without
+29 nomination. The secretary of state shall place on the official ballot the name of any other
+30 candidate nominated. The candidate having the highest number of votes must be declared
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.849.20 3 1315
+1 elected. If no other candidate is nominated for the position, the special election may not
+2 be held, and the elected or appointed official must remain in office.
+3 If the petition is filed within ninety days prior to a primary, general, or statewide
+4 special election, the question must be submitted at that election.
+5 If a declaratory judgment is issued, pursuant to section 5 of this Act, which is in
+6 favor of the elected or appointed official, the special election may not be held, and the
+7 elected or appointed official must remain in office.
+8 Section 7. That a NEW SECTION be added to chapter 3-17:
+9 If an elected or appointed official sought to be removed by a petition under this
+10 chapter is elected in a special election pursuant to section 6 of this Act, the official must
+11 continue in office. If a successor is elected, the official is deemed removed from office
+12 upon or at the expiration of the time for qualification of the successor. The successor shall
+13 qualify within ten days after receiving notification of election, and in case of a failure to
+14 qualify, the office is deemed vacant. The qualified successor of any removed official shall
+15 hold office during the remainder of the removed official's unexpired term.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

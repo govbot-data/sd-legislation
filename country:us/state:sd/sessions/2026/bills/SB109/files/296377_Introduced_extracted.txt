@@ -1,0 +1,207 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.211.45 101st Legislative Session 109
+2026 South Dakota Legislature
+Senate Bill 109
+Introduced by: Senator Howard
+1 An Act to modify requirements to create a tax increment financing district.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 11-9-1 be AMENDED:
+4 11-9-1. Terms used in this chapter mean:
+5 (1) "Department," the Department of Revenue;
+6 (2) "District," a tax increment financing district;
+7 (3) "Financing plan," the intended methods and revenue sources by which the political
+8 subdivision will pay for the project costs;
+9 (4) "Governing body," the board of trustees, the board of commissioners, or the
+10 common council of a municipality, or the board of county commissioners, or the
+11 common council of a municipality;
+12 (4) "Grant," the transfer of money or property to a transferee for a governmental
+13 purpose that is not a related party to or an agent of the political subdivision;
+14 (5) "Planning commission," a planning commission created under chapters 11-2 or 11-
+15 6, a planning committee of a governing body of a political subdivision that does
+16 not have a planning commission, or the governing body of a political subdivision
+17 that does not have a planning commission or planning committee;
+18 (6) "Political subdivision," a municipality, as defined in § 11-6-1, or county of this
+19 state;
+20 (7) "Project plan," the properly approved plan for the development or redevelopment
+21 of a tax increment financing district including and all properly approved
+22 amendments to the plan;
+23 (8) "Tax increment financing district," a contiguous geographic area within a political
+24 subdivision defined and created by resolution of the governing body;
+25 (9) "Taxable property," all real and personal taxable property located in a tax
+26 increment financing district; and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.211.45 2 109
+1 (10) "Tax increment valuation," the total value of the tax increment financing district
+2 minus the tax increment base as determined pursuant to § 11-9-19.
+3 Section 2. That § 11-9-5 be AMENDED:
+4 11-9-5. To establish create a district, the governing body must adopt a resolution,
+5 which is subject to a referendum under the provisions of section 11 of this Act, that:
+6 (1) Describes the boundaries of a the district with sufficient definiteness to identify
+7 with ordinary and reasonable certainty the territory included. The boundaries may
+8 not split a whole unit of property that is being used for a single purpose;
+9 (2) Creates the district on a given date;
+10 (3) Includes a finding that the assessed value of the taxable property in the district
+11 plus the tax increment base of all other existing districts does not exceed ten two
+12 and one-half percent of the total assessed value of all taxable property in the
+13 political subdivision; and
+14 (4) Assigns a name to the district for identification purposes. The first district created
+15 in each political subdivision must be known as "Tax Increment Financing District
+16 Number One, City (or Town, or County) of __________." Each subsequently
+17 created district must be assigned the next consecutive number.
+18 Section 3. That § 11-9-8 be AMENDED:
+19 11-9-8. The resolution required by § 11-9-5 shall must contain the following
+20 findings:
+21 (1) Not less than twenty-five fifty percent, by area, of the real property within the
+22 district is a blighted area or and not less than fifty percent, by area, of the real
+23 property within the district will stimulate and develop the general economic welfare
+24 and prosperity of the state through the promotion and advancement of industrial,
+25 commercial, manufacturing, agricultural, or natural resources development; and
+26 (2) The improvement of the area is likely to significantly enhance the value of
+27 substantially all other real property in the district; and
+28 (3) The review required by section 12 of this Act indicates that the social or economic
+29 benefits of the project exceed its costs to property owners and political subdivisions
+30 authorized to impose a property tax within the boundaries of the district.
+31 It is not necessary to identify the specific parcels meeting the criteria. No county
+32 may create a district located, in whole or in part, within a municipality, unless the
+33 governing body of the municipality has consented to creation of a district by resolution.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.211.45 3 109
+1 Section 4. That a NEW SECTION be added to chapter 11-9:
+2 No county may create a district located, in whole or in part, within a municipality,
+3 unless the governing body of the municipality has consented to the creation of the district
+4 by resolution.
+5 No municipality may create a district unless the board of county commissioners of
+6 the county in which the district is located, either in whole or in part, has consented to the
+7 creation of the district by resolution.
+8 Section 5. That § 11-9-10 be AMENDED:
+9 11-9-10. For the purposes of this chapter, the term "blighted area" means an area
+10 that substantially impairs or arrests the sound growth of the political subdivision, inhibits
+11 housing development, constitutes an economic or social liability, or is a danger in its
+12 present condition and use to the health, safety, morals, or welfare of the public because
+13 of:
+14 (1) The presence of a substantial number of substandard, slum, deteriorated, or
+15 deteriorating structures;
+16 (2) A predominance of defective or inadequate street layouts;
+17 (3) Faulty lot layout in relation to size, adequacy, accessibility, or usefulness;
+18 (4) Insanitary Unsanitary or unsafe conditions;
+19 (5) The deterioration of site or other improvements land or structures affixed to the
+20 land;
+21 (6) A diversity of ownership, tax, Tax or special assessment delinquency delinquencies
+22 exceeding the fair value of the land;
+23 (7) Defective or unusual conditions of title; or
+24 (8) The existence of conditions which that endanger life or property by fire and other
+25 causes; or
+26 (9) A predominance of open space with obsolete platting, diversity of ownership, or
+27 deterioration of structures or site improvements.
+28 Section 6. That § 11-9-14 be AMENDED:
+29 11-9-14. For the purposes of this chapter, the term "project costs" are any
+30 expenditures made or estimated to be made, or monetary obligations incurred or
+31 estimated to be incurred, by a political subdivision that, which are listed in a project plan
+32 as grants or costs of public works or improvements within a district, plus any incidental
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.211.45 4 109
+1 costs diminished by any income, special assessments, or other revenues, other than tax
+2 increments, received, or reasonably expected to be received, by the political subdivision
+3 in connection with the implementation of the plan..
+4 Section 7. That § 11-9-15 be AMENDED:
+5 11-9-15. For the purposes of this chapter, the term "project costs" means:
+6 (1) Capital costs, including the actual costs of the construction of public works or
+7 improvements, buildings, structures, and permanent fixtures; the demolition,
+8 alteration, remodeling, repair, or reconstruction of existing buildings, structures,
+9 and permanent fixtures; the acquisition of equipment; the clearing, over-
+10 excavation, and grading of land, including use of engineered fill and soil
+11 compaction; and the amount of interest payable on tax increment bonds issued
+12 pursuant to this chapter until the positive tax increments to be received from the
+13 district, as estimated by the project plan, are sufficient to pay the principal of and
+14 interest on the tax increment bonds when due;
+15 (2) Financing costs, including all interest paid to holders of evidences of indebtedness
+16 issued to pay for project costs, any premium paid over the principal amount thereof
+17 because of the redemption of obligations prior to maturity, and a reserve for the
+18 payment of principal and interest on obligations in an amount determined by the
+19 governing body to be reasonably required for the marketability of obligations;
+20 (3) Real property assembly costs, including the actual cost of the acquisition by a
+21 political subdivision of real or personal property within a district, less any proceeds
+22 to be received by the political subdivision from the sale, lease, or other disposition
+23 of property pursuant to a project plan;
+24 (4) Professional service costs, including those costs incurred for architectural,
+25 planning, engineering, and legal advice and services;
+26 (5) Imputed administrative costs, including reasonable charges for the time spent by
+27 a municipal or county employee in connection with the implementation of a project
+28 plan;
+29 (6) Relocation costs;
+30 (7) Organizational costs, including the costs of conducting environmental impact and
+31 other studies and the costs of informing the public of the creation of a district and
+32 the implementation of project plans; and
+33 (8) Payments and grants made, at the discretion of the governing body, that are found
+34 to be necessary or convenient to the creation of a district, the implementation of
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.211.45 5 109
+1 project plans, or to stimulate and develop the general economic welfare and
+2 prosperity of the state. No payment or grant may be used for any residential
+3 structure pursuant to § 11-9-42Incidental costs diminished by any income, special
+4 assessments, or other revenues, other than tax increments, received, or
+5 reasonably expected to be received, by the political subdivision, in connection with
+6 the implementation of the plan.
+7 Section 8. That § 11-9-23 be AMENDED:
+8 11-9-23. If Except as provided in this section, if the municipality adopts an
+9 amendment to the original project plan for any district that includes additional project
+10 costs for which tax increments may be received by the municipality, the tax increment
+11 base for the district shall must be redetermined pursuant to § 11-9-20. The tax increment
+12 base as redetermined under this section is effective for the purposes of this chapter only
+13 if it exceeds the original tax increment base determined pursuant to § 11-9-20.
+14 The provisions of this section do not apply if the additional project costs are thirty-
+15 five fifteen percent or less than the amount approved in the original project plan and the
+16 additional project costs will be incurred before the expiration of the period specified in
+17 § 11-9-13.
+18 Section 9. That § 11-9-32 be AMENDED:
+19 11-9-32. Moneys may only be paid out of the special fund only for the district
+20 created under § 11-9-31 to pay project costs or grants of the district, to reimburse the
+21 political subdivision for the payment of project costs or grants of the district, or to satisfy
+22 claims of holders of tax increment bonds issued for the district.
+23 Section 10. That § 11-9-46 be AMENDED:
+24 11-9-46. The existence of a district shall terminate must be terminated when:
+25 (1) Positive tax increments are no longer allocable to a district under § 11-9-25; or
+26 (2) The governing body, by resolution, dissolves the district, after payment or
+27 provision for payment of all project costs, grants, and all tax increment bonds of
+28 the district.
+29 Section 11. That a NEW SECTION be added to chapter 11-9:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.211.45 6 109
+1 If the estimated project costs of a proposed district are greater than fifteen million
+2 dollars, the governing body creating the district must call a special election to determine
+3 the question of the establishment of the district. The election must be held on a Tuesday
+4 between forty-five and sixty days from when the governing body adopted the resolution
+5 establishing the district.
+6 If the resolution is adopted within the ninety days prior to the political subdivision's
+7 regular election or a primary or general election and with sufficient time to comply with
+8 the subdivision's requirements for publishing notice of the election, the question must be
+9 submitted to the voters at that election.
+10 A special election held pursuant to this section must be held upon the same notice
+11 and conducted in the same manner as a regular election of the political subdivision.
+12 Section 12. That a NEW SECTION be added to chapter 11-9:
+13 The governing body shall submit the project plan and financing plan for the district
+14 to an independent, certified public accountant to provide:
+15 (1) A cost-benefit analysis of the project;
+16 (2) An estimate for the expected change in the distribution of property taxes over time
+17 resulting from the project; and
+18 (3) An estimate for the expected effects on employment, housing, and economic
+19 output resulting from the project.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

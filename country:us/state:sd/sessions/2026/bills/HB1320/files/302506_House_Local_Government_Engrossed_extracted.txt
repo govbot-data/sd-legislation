@@ -1,0 +1,30 @@
+Title: 
+Official Title: 
+Source: versions - House Local Government Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.909.10 101st Legislative Session 1320
+2026 South Dakota Legislature
+House Bill 1320
+HOUSE LOCAL GOVERNMENT ENGROSSED
+Introduced by: Representative Randolph
+1 An Act to revise a provision related to service of process for boards of county
+2 commissioners.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 7-8-29 be AMENDED:
+5 7-8-29. Such appeal shall be taken within twenty days after the publication of the
+6 decision of the board by serving a written notice on one of the members of the board,
+7 upon any county administrator, commissioner, executive, treasurer, or any registered
+8 agent of the board when the appeal is taken by any person aggrieved by the decision of
+9 the board, and upon the person or persons affected by the decision of the board when the
+10 appeal is taken by the state's attorney; and the county auditor shall upon.
+11 Upon the filing of the required bond and the payment of his fees, which shall be
+12 the same as allowed registers are equal to those imposed by a register of deeds for like
+13 services, the county auditor shall make out a complete transcript of the proceedings of
+14 the board relating to the matter of its the board's decision and deliver the same transcript
+15 to the clerk of courts.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

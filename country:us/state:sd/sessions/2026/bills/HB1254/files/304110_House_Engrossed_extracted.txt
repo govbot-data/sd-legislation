@@ -1,0 +1,24 @@
+Title: 
+Official Title: 
+Source: versions - House Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.809.36 101st Legislative Session 1254
+2026 South Dakota Legislature
+House Bill 1254
+HOUSE ENGROSSED
+Introduced by: Representative Heinemann
+1 An Act to exempt any soil amendment used exclusively for agricultural purposes
+2 from sales tax.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 10-45:
+5 There are specifically exempted from the provisions of this chapter and from the
+6 computation of the amount of tax imposed by it, the gross receipts from the sale of any
+7 soil amendment, as defined in § 38-19A-1, provided five hundred pounds or more of any
+8 one of these products is sold in a single sale to be used exclusively for agricultural
+9 purposes.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

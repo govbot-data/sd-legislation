@@ -1,0 +1,50 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.792.14 101st Legislative Session 207
+2026 South Dakota Legislature
+Senate Bill 207
+Introduced by: Senator Voita
+1 An Act to require a vote to approve the creation of certain tax increment financing
+2 districts.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 11-9-5 be AMENDED:
+5 11-9-5. To establish create a district, the governing body must adopt a resolution
+6 that:
+7 (1) Describes the boundaries of a the district with sufficient definiteness to identify
+8 with ordinary and reasonable certainty the territory included. The boundaries may
+9 not split a whole unit of property that is being used for a single purpose;
+10 (2) Creates the district on Specifies a given date for the creation of a district;
+11 (3) Includes a finding that the assessed value of the taxable property in the district
+12 plus the tax increment base of all other existing districts does not exceed ten
+13 percent of the total assessed value of all taxable property in the political
+14 subdivision; and
+15 (4) Assigns a name to the district for identification purposes. The first district created
+16 in each political subdivision must be known as "Tax Increment Financing District
+17 Number One, City (or Town, or County) of __________." Each subsequently
+18 created district must be assigned the next consecutive number.
+19 A resolution adopted under this section is subject to a referendum under the
+20 provisions of section 2 of this Act
+21 Section 2. That a NEW SECTION be added to chapter 11-9:
+22 If the estimated project costs of a proposed district are greater than fifteen million
+23 dollars, the governing body creating the district must call a special election to determine
+24 the question of the establishment of the district. Except as provided below, the election
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.792.14 2 207
+1 must be held on a Tuesday between forty-five and sixty days from the date on which the
+2 governing body adopted the resolution establishing the district.
+3 If the resolution is adopted by the governing body within the ninety-day period
+4 prior to the political subdivision's regular election or a primary or general election and with
+5 sufficient time to comply with the subdivision's requirements for publishing notice of the
+6 election, the question must be submitted to the voters at that election.
+7 A special election under this section must be held upon the same notice and
+8 conducted in the same manner as a regular election of the political subdivision.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

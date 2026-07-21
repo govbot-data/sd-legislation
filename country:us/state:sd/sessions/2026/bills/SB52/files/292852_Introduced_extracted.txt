@@ -1,0 +1,69 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.552.12 101st Legislative Session 52
+2026 South Dakota Legislature
+Senate Bill 52
+Introduced by: The Chair of the Committee on Retirement Laws at the request of the South Dakota Retirement
+System
+1 An Act to clarify statutes governing the administration of disability benefits by the
+2 South Dakota Retirement System.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 3-12C-816 be AMENDED:
+5 3-12C-816. Upon receipt of an application for disability benefits after June 30,
+6 2015, along with statements from a health care provider and the member's employer, the
+7 executive director shall determine whether the member is eligible for disability benefits.
+8 The executive director may request the advice of the disability advisory committee with
+9 respect to any application. The recommendation of the disability advisory committee is
+10 not binding on the executive director. The disability advisory committee or the executive
+11 director may require an independent medical examination of the member to be conducted
+12 by a disinterested health care provider selected by the disability advisory committee or
+13 the executive director to evaluate the member's condition. The disability advisory
+14 committee or the executive director may require a functional capacity assessment of the
+15 member to be conducted by a licensed professional qualified to administer such an the
+16 assessment. The assessment may be used to evaluate the member's qualification for
+17 benefits. Refusal to undergo an examination or assessment pursuant to this section is
+18 cause for denying the application.
+19 If the executive director determines that the member is not disabled, a notice of
+20 the executive director's determination and the reasons for the determination shall be sent
+21 by certified mail to the member's last known addressThe executive director shall issue an
+22 order to approve or deny a member’s application for disability benefits, and shall mail the
+23 order to the member's last known address by certified mail.
+24 Section 2. That § 3-12C-817 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.552.12 2 52
+1 3-12C-817. If the executive director determines that the member whose
+2 application was received pursuant to § 3-12C-816, meets the qualifications to receive
+3 disability benefits, a notice of the executive director's determination shall be sent by
+4 certified mail to the member's last known address. A member whose application for
+5 disability benefits is approved shall receive the benefits beginning with the month following
+6 the date on which the member's contributory service terminates. If any member fails to
+7 terminate contributory service within one year after receiving notice that the member's
+8 application has been approved, the member's application approval expires.
+9 Section 3. That § 3-12C-822 be AMENDED:
+10 3-12C-822. A member's disability benefits terminate if the member is no longer
+11 disabled, as certified by a health care provider. Upon receipt of certification, the executive
+12 director shall determine whether the member meets the qualifications for disability
+13 benefits. In making this determination the executive director shall follow the same
+14 procedure used in making the initial determination of disability provided in § 3-12C-816.
+15 A member's disability benefits shall must be suspended and subject to termination if the
+16 member refuses to undergo an examination or assessment requested by the disability
+17 advisory committee or the executive director. If the executive director finds that the
+18 member no longer meets the qualifications for disability benefits, the executive director
+19 shall notify the member of this finding by certified mail and the payment of disability
+20 benefits shall terminate thirty days after receipt of the notice. The finding by the executive
+21 director is subject to appeal and review as a contested case
+22 If the executive director determines that the member no longer qualifies for
+23 disability benefits, the executive director must issue an order to terminate the member's
+24 benefits and send the order to the member's last known address through certified mail.
+25 The member's benefits terminate sixty days after the date the order is mailed to the
+26 member.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

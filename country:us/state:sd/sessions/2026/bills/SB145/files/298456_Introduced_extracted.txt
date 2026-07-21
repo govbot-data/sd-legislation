@@ -1,0 +1,28 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.841.9 101st Legislative Session 145
+2026 South Dakota Legislature
+Senate Bill 145
+Introduced by: Senator Pischke
+1 An Act to revise the limitations on a municipality's power to take actions for the
+2 promotion of health or the suppression of disease.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 9-32-1 be AMENDED:
+5 9-32-1. EveryEach municipality shall have power to may do what may be is
+6 necessary or expedient for the promotion of health or the suppression of disease, so long
+7 as, in the absence of an act of martial law having been declared, any measure so taken,
+8 including by ordinance or a resolution, does not prohibit or interfere with the free exercise
+9 of religion, abridge any person's freedom of speech, freedom of the press, or the right of
+10 the people to peaceably assemble, or the right of the people to petition the government
+11 for a redress of grievances under the First Amendment to the United States Constitution,
+12 or prohibit or interfere with activities within any person's residence or privately held
+13 business, or interfere with any person's right to bear arms under the Second Amendment
+14 to the United States Constitution.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

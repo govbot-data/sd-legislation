@@ -1,0 +1,28 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.624.14 101st Legislative Session 1038
+2026 South Dakota Legislature
+House Bill 1038
+Introduced by: The Chair of the Committee on Commerce and Energy at the request of the Public Utilities Commission
+of the State of South Dakota
+1 An Act to allow the Public Utilities Commission to assess actual costs to large new
+2 customers.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 49-34A:
+5 The commission may assess a filing party the actual costs associated with
+6 processing a docket brought pursuant to § 49-34A-56.
+7 The commission may assess a customer the actual costs associated with processing
+8 a request for approval of a contract related to the provision of electric service to a
+9 customer approved, or eligible for approval, as a large new customer pursuant to § 49-
+10 34A-56.
+11 The commission shall forward any moneys collected under this section to the state
+12 treasurer, for deposit in the South Dakota Public Utilities Commission gross receipts tax
+13 fund established in § 49-1A-2.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,65 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.91.11 101st Legislative Session 1170
+2026 South Dakota Legislature
+House Bill 1170
+Introduced by: Representative Garcia
+1 An Act to allow online access to verify registry status for organ donation.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 34-26-67 be AMENDED:
+4 34-26-67. (a) The Department of Public Safety shall establish or contract for the
+5 establishment of a donor registry.
+6 (b) The department, in partnership with the federally-designated organ
+7 procurement organization and any nonprofit tissue or eye donation agency which that
+8 holds agreements with hospitals in South Dakota, shall compile, operate, maintain, and
+9 modify the registry as necessary. The registry shall must include pertinent information on
+10 all South Dakotans who have registered to donate organs, tissues, and eyes, and all
+11 relevant information regarding a donor's making amendment to, or revocation of, an
+12 anatomical gift in accordance with the Revised Uniform Anatomical Gift Act ( §§ 34-26-48
+13 to 34-26-72, inclusive).
+14 (c) A donor registry must:
+15 (1) Allow a donor, or other person authorized under by § 34-26-51, to include on the
+16 donor registry a statement or symbol that the donor has made, amended, or
+17 revoked an anatomical gift;
+18 (2) Allow a donor or an individual, or other person authorized by § 34-26-51, online
+19 access to register:
+20 (A) Register as a donor, to amend an;
+21 (B) Amend the individual's existing donor status, or remove an;
+22 (C) Remove the individual's existing donor registration seven days a
+23 week on a twenty-four hour basis; and
+24 (D) Verify the individual's donor registration status;
+25 (3) Be accessible electronically to the federally designated organ procurement
+26 organization and any nonprofit tissue or eye donation agency which that holds
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.91.11 2 1170
+1 agreements with hospitals in South Dakota to allow the procurement organization
+2 to obtain relevant information on the donor registry to determine, at or near death
+3 of the donor or a prospective donor, whether the donor or prospective donor has
+4 made, amended, or revoked an anatomical gift; and
+5 (4) Be accessible for purposes of subdivision (2) seven days a week on a twenty-four
+6 hour basis.
+7 (d) Personally identifiable information on a donor registry about a donor or
+8 prospective donor may not be used or disclosed without the express consent of the donor,
+9 prospective donor, or person that made the anatomical gift for any purpose other than to
+10 determine, at or near death of the donor or prospective donor, whether the donor or
+11 prospective donor has made, amended, or revoked an anatomical gift.
+12 (e) This section does not prohibit any person from creating or maintaining a donor
+13 registry that is not established by or under contract with the state. Any such registry must
+14 comply with subsections (c) and (d).
+15 (f) The department shall collect data from the registry that is not restricted by
+16 subsection (d) and share the data with the federally-designated organ procurement
+17 organization and any nonprofit tissue or eye donation agency which that holds agreements
+18 with hospitals in South Dakota to be used for the purpose of evaluating the effectiveness
+19 or educational initiatives to promote organ, tissue, and eye donation that are conducted
+20 or coordinated by organ procurement organizations, hospitals, and state agencies
+21 operating in the state.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

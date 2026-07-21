@@ -1,0 +1,55 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.553.12 101st Legislative Session 53
+2026 South Dakota Legislature
+Senate Bill 53
+Introduced by: The Chair of the Committee on Retirement Laws at the request of the South Dakota Retirement
+System
+1 An Act to ensure uniformity in member identification provisions governing the South
+2 Dakota Retirement System.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 3-12C-602 be AMENDED:
+5 3-12C-602. A member who has left covered employment may withdraw the sum
+6 of the member's accumulated contributions upon application to the system and submission
+7 of a copy of the member's current driver license or other picture identification card issued
+8 by a government agency or tribe executive director, on a form approved by the system.
+9 If the member is married, the member's spouse shall sign the application and provide a
+10 copy of the spouse's current driver license or other picture identification card issued by a
+11 government agency or tribe must sign the form.
+12 A member who withdraws the member's accumulated contributions pursuant to
+13 this section forfeits all credited service and benefits provided in this chapter.
+14 The right to withdraw accumulated contributions ceases if the member returns to
+15 covered employment with a participating unit.
+16 Section 2. That § 3-12C-1208 be AMENDED:
+17 3-12C-1208. No retirement benefit may be paid unless the system has received
+18 a completed application for a retirement benefit, including the benefit option elected. The
+19 application must be signed by the generational member, and the member shall provide a
+20 copy of the member's current driver license or other picture identification card issued by
+21 a government agency or tribe made to the executive director, on a form approved by the
+22 system. If the member is married, the member's spouse must sign the application and
+23 provide a copy of the spouse's current driver license or other picture identification card
+24 issued by a government agency or tribe form.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.553.12 2 53
+1 A member who is married is not required to obtain the signature of the member's
+2 spouse if the member submits a completed form, in which the member certifies, under
+3 the penalty of perjury, that the member is unable to obtain the signature of the member's
+4 spouse because either:
+5 (1) The member does not know where the member's spouse is and has made a good
+6 faith effort to locate the spouse; or
+7 (2) Exceptional circumstances make it inappropriate for the member to obtain the
+8 signature of the member's spouse.
+9 If the member is unable to obtain the signature of the member's spouse for either
+10 reason, the member must elect the sixty percent joint and survivor benefit pursuant to
+11 § 3-12C-1209 and provide documentation to support the assertion of subdivision (1) or
+12 (2) of this section.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
