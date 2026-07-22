@@ -1,0 +1,45 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.765.9 101st Legislative Session 1209
+2026 South Dakota Legislature
+House Bill 1209
+Introduced by: Representative Garcia
+1 An Act to require employment verification eligibility through the e-verify program
+2 and to provide a penalty therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 60-2:
+5 Every employer, as defined in § 61-1-4, after hiring an employee, shall verify the
+6 employment eligibility of the employee through the United States Department of
+7 Homeland Security's e-verify program, and shall keep a record of the verification for the
+8 duration of the employee's employment.
+9 An employer that does not register with and participate in the e-verify program
+10 may not receive any economic incentive from the state. The employer shall provide proof
+11 to the Department of Labor and Regulation that the employer is registered with and is
+12 participating in the e-verify program.
+13 If the Department of Labor and Regulation determines that the employer is not
+14 complying with this section, the department must notify the employer by certified mail of
+15 the department's determination of noncompliance and of the employer's right to appeal
+16 the determination to a circuit court. If an employer declines to appeal the determination
+17 within thirty days or is unsuccessful in appealing the determination, then the department
+18 must issue a final determination of noncompliance, after which the employer must, within
+19 thirty days of the final determination, repay all moneys received as an economic incentive
+20 from the state.
+21 For purposes of this section, "economic incentive" means any grant, loan, or
+22 performance-based incentive from any division or agency of government in this state,
+23 received by an employer within the preceding twelve months.
+24 Section 2. That a NEW SECTION be added to chapter 60-2:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.765.9 2 1209
+1 Any individual may not knowingly submit false information or documents to an
+2 employer to evade determination of employment eligibility under the e-verify program.
+3 A violation of this section is a Class 1 misdemeanor.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

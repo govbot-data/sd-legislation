@@ -1,0 +1,29 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.433.10 101st Legislative Session 122
+2026 South Dakota Legislature
+Senate Bill 122
+Introduced by: Senator Perry
+1 An Act to establish a duty to assist in an emergency and provide a penalty therefor.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to chapter 22-18:
+4 A person at the scene of an emergency who knows that another person is exposed
+5 to the risk of serious bodily injury or has suffered serious bodily injury shall, to the extent
+6 that the person may do so without danger to self or others, provide assistance to the
+7 person by obtaining or attempting to obtain aid from law enforcement or medical
+8 personnel. A violation of this section is a Class 2 misdemeanor.
+9 A person who, without compensation or expectation of compensation, provides
+10 assistance in compliance with this section, is not liable for any civil damages as a result
+11 of an act or omission by the person in providing the assistance, unless the person acts in
+12 a willful, wanton, or reckless manner in providing the assistance. Immunity from liability
+13 under this section does not apply to a person providing assistance in the regular course
+14 of the person's employment and receiving or expecting to receive compensation for the
+15 assistance.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

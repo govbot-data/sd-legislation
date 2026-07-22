@@ -1,0 +1,62 @@
+Title: 
+Official Title: 
+Source: versions - House Judiciary Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.175.17 101st Legislative Session 1140
+2026 South Dakota Legislature
+House Bill 1140
+HOUSE JUDICIARY ENGROSSED
+Introduced by: Representative Hughes
+1 An Act to permit a court to impose as a condition of probation, or parole in certain
+2 circumstances, treatment at a nonprofit entity awarded an alternative care
+3 program grant.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That § 23A-27-18.3 be AMENDED:
+6 23A-27-18.3. The conditions of probation imposed pursuant to § 23A-27-12 or
+7 23A-27-13, or the conditions of a suspension of execution imposed pursuant to § 23A-27-
+8 18, shall provide, in addition to any other conditions, and as an explicit condition of
+9 probation, suspended imposition of sentence, or suspended execution of sentence, that
+10 the defendant not commit another federal, state, or local crime during the term of
+11 probation or suspension.
+12 The conditions of probation imposed pursuant to § 23A-27-12 or 23A-27-13, or the
+13 conditions of a suspension of execution imposed pursuant to § 23A-27-18, may provide,
+14 in addition to any other conditions, and as an explicit condition of probation, suspended
+15 imposition of sentence, or suspended execution of sentence, that the defendant:
+16 (1) Pay a fine or perform community service work as directed by the court; or
+17 (2) Participate in and complete a program at any nonprofit entity awarded an
+18 alternative care program grant pursuant to § 16-2-60, if:
+19 (a) The defendant consents to participating in the program;
+20 (b) The program has availability and the defendant's application is approved
+21 based on the standard criteria for all applicants; and
+22 (c) The defendant's application is completed prior to sentencing;
+23 (3) Receive treatment for chemical dependency at any South Dakota treatment facility
+24 accredited pursuant to § 34-20A-27 and reimburse the county for costs of
+25 treatment ordered by the court; or
+26 (3)(4) Make restitution pursuant to the provisions of chapter 23A-28.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.175.17 2 1140
+1 Section 2. That § 32-23-4 be AMENDED:
+2 32-23-4. If conviction for a violation of § 32-23-1 is for a third offense, the person
+3 is guilty of a Class 6 felony, and the court must revoke the person's driver license for a
+4 period of not less than one year from the date sentence is imposed or one year from the
+5 date of initial release from imprisonment, whichever is later. If the person is returned to
+6 imprisonment prior to the completion of the period of driver's license revocation, time
+7 spent imprisoned does not count toward fulfilling the period of revocation. If the person is
+8 convicted of driving without a license during that period, the court must sentence the
+9 person to the county jail for not less than ten days, which sentence may not be suspended.
+10 Notwithstanding § 23A-27-19, the court retains jurisdiction to modify the conditions of the
+11 license revocation for the term of the revocation. Upon the successful completion of a
+12 court-approved chemical dependency counseling program, and proof of financial
+13 responsibility pursuant to § 32-35-113, the court may permit the person to operate a
+14 vehicle for the purposes of employment, 24/7 sobriety testing, attendance at school, child
+15 care delivery or pickup, health appointments, attendance at court or probation
+16 appointments, or attendance at counseling programs, treatment, or aftercare, or an
+17 alternative care program pursuant to subdivision 23A-27-18.3(2).
+Underscores indicate new language.
+Overstrikes indicate deleted language.

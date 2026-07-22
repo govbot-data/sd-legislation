@@ -1,0 +1,36 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.764.16 101st Legislative Session 147
+2026 South Dakota Legislature
+Senate Bill 147
+Introduced by: Senator Davis
+1 An Act to prohibit a person from refusing to identify oneself in certain circumstances
+2 and to provide a penalty therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 35-9-2.1 be AMENDED:
+5 35-9-2.1. Any merchant who is a licensee under this title, or the merchant's
+6 employee, who has reasonable grounds to believe a person under the age of twenty-one
+7 has illegally purchased, attempted to purchase, or possess alcoholic beverages or has
+8 misrepresented the person's age with the use of any document for purposes of purchasing
+9 or attempting to purchase alcoholic beverages from the merchant or the merchant's
+10 employee, may detain the person, on the premises of the merchant's establishment, in a
+11 reasonable manner and for a reasonable length of time:
+12 (1) To request identification;
+13 (2) To verify the identification;
+14 (3) To make reasonable inquiry as to whether the person has violated § 35-9-2;
+15 (4) To inform a law enforcement officer of the detention of the person and surrender
+16 that person to the custody of a law enforcement officer; or
+17 (5) In the case of a minor, to inform a law enforcement officer or the parents, guardian,
+18 or other private person interested in the welfare of that minor of this detention and
+19 to surrender custody of the minor to that person.
+20 A person detained pursuant to this section may not refuse to verify that person's
+21 identification to the merchant, the merchant's employee, or any law enforcement officer.
+22 A violation of this section is a Class 2 misdemeanor.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

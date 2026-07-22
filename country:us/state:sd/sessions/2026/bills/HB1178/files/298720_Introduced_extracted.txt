@@ -1,0 +1,133 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.363.25 101st Legislative Session 1178
+2026 South Dakota Legislature
+House Bill 1178
+Introduced by: Representative Novstrup
+1 An Act to establish provisions for homeownership through shared equity
+2 agreements.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to a NEW CHAPTER in title 11:
+5 Terms used in this Act mean:
+6 (1) "Contribution," the amount an investor-owner agrees to contribute, as a fixed
+7 percentage, to an occupant-owner's down payment and monthly mortgage
+8 obligation;
+9 (2) "Eligible home," a single-family residence that:
+10 (a) Complies with all applicable residential building code and local zoning
+11 requirements;
+12 (b) Is the primary residence of an occupant-owner; and
+13 (c) Is not a manufactured or mobile home;
+14 (3) "Investor-owner," a person that makes a contribution toward an occupant-owner's
+15 purchase of an eligible home;
+16 (4) "Occupant-owner," an individual who, together with the individual's spouse, if
+17 applicable, agrees to purchase an eligible home, assisted by the contribution of an
+18 investor-owner; and
+19 (5) "Shared equity agreement," a written agreement setting forth the terms and
+20 conditions of an arrangement in which an investor-owner makes a contribution
+21 toward an occupant-owner's purchase of an eligible home, in exchange for the
+22 occupant-owner's grant of a shared equity encumbrance in favor of the investor-
+23 owner.
+24 Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 11:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.363.25 2 1178
+1 If an investor-owner and an occupant-owner desire to enter into a shared equity
+2 agreement pursuant to this Act, the investor-owner and the occupant-owner must execute
+3 the agreement and record the agreement in the office of the register of deeds for the
+4 county in which the home is located.
+5 Section 3. That a NEW SECTION be added to a NEW CHAPTER in title 11:
+6 A shared equity agreement must:
+7 (1) Identify the investor-owner and occupant-owner each by full legal name, residence
+8 or physical location, mailing address, and phone number;
+9 (2) State the location of the eligible home, including the full legal description of the
+10 real property;
+11 (3) Specify the agreed-upon contribution, not exceeding thirty percent;
+12 (4) Establish a term for the agreement, not exceeding fifteen years, unless renewed
+13 as set forth in section 6 of this Act;
+14 (5) Provide that title to the home is held by the occupant-owner, subject to an
+15 encumbrance that:
+16 (a) Secures the occupant-owner's obligation to repay the contribution and any
+17 other agreed upon amount to the investor-owner; and
+18 (b) Is subordinate to the mortgage as required in section 5 of this Act.
+19 (6) Grant the occupant-owner the exclusive right of possession of the home during the
+20 term of the agreement;
+21 (7) Allocate to the occupant-owner all responsibility for the payment of capital
+22 improvements, insurance, maintenance, repairs, taxes, and utilities;
+23 (8) Allow the occupant-owner to elect to buy out the investor-owner's share prior to
+24 expiration of the term;
+25 (9) Contain provisions describing events of default and available remedies, including
+26 termination of the agreement pursuant to section 6 of this Act; and
+27 (10) Pursuant to section 7 of this Act, include provisions for:
+28 (a) Payment due to the investor-owner upon termination of the agreement; and
+29 (b) Conveyance of the investor-owner's interest in the eligible home to the
+30 occupant-owner.
+31 Section 4. That a NEW SECTION be added to a NEW CHAPTER in title 11:
+32 A shared equity agreement may not:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.363.25 3 1178
+1 (1) Run with the land or be binding or enforceable at law or in equity against any
+2 subsequent bona fide purchaser of the real property;
+3 (2) Prohibit the occupant-owner from using the home in any lawful manner as the
+4 occupant-owner chooses;
+5 (3) Contain a prepayment penalty; or
+6 (4) Prevent the occupant-owner from refinancing a mortgage or lien against the home,
+7 provided that the terms comply with section 5 of this Act.
+8 Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 11:
+9 The occupant-owner in a shared equity arrangement is required to obtain a
+10 traditional mortgage for the eligible home, which must have a fixed or limited variable
+11 interest rate for at least the term of the shared equity agreement and any renewal of the
+12 agreement.
+13 Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 11:
+14 A shared equity agreement terminates upon the earlier of:
+15 (1) The investor-owner's receipt of notice of the occupant-owner's election to buy out
+16 the investor-owner's interest in the eligible home;
+17 (2) The maturity of the mortgage against the home;
+18 (3) The transfer of ownership of the home, further encumbrance of the home, except
+19 refinancing as contemplated in section 4 of this Act, or any other conveyance of
+20 title;
+21 (4) The occurrence of an agreed-upon event of default that requires termination of the
+22 agreement;
+23 (5) One hundred twenty days after the death of the occupant-owner, unless the
+24 investor-owner consents in writing to the assumption of the agreement by the
+25 occupant-owner's successor; or
+26 (6) The expiration of the agreement's term, unless the investor-owner and occupant-
+27 owner elect, prior to the expiration, to renew the agreement for a successive term
+28 not exceeding fifteen years.
+29 Section 7. That a NEW SECTION be added to a NEW CHAPTER in title 11:
+30 Upon termination of a shared equity agreement, the eligible home must be
+31 appraised, at the occupant-owner's expense, by an independent licensed appraiser
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.363.25 4 1178
+1 selected by agreement of the investor-owner and the occupant-owner, and the investor-
+2 owner is entitled to payment in an amount that is the greater of:
+3 (1) The contribution percentage multiplied by the appraised value of the home; or
+4 (2) The actual dollar amount contributed by the investor-owner pursuant to the
+5 agreement, plus interest at a rate equal to one percent higher than the maximum
+6 rate of the first mortgage obtained by the occupant-owner pursuant to section 5 of
+7 this Act.
+8 As of the date of termination, the occupant-owner is responsible for all financial
+9 obligations associated with the home, including any amounts owing under a mortgage.
+10 The investor-owner's contribution is zero percent as of the date of termination.
+11 The investor-owner does not bear any portion of any loss resulting from the sale
+12 or appraisal of the eligible home at a value below the original purchase price of the home,
+13 and the occupant-owner is solely responsible for any resulting loss.
+14 Upon receipt of payment in full pursuant to this section, the investor-owner must
+15 execute and record a release of the encumbrance.
+16 Section 8. That a NEW SECTION be added to a NEW CHAPTER in title 11:
+17 A shared equity agreement entered into pursuant to this Act creates a private co-
+18 ownership arrangement between an investor-owner and an occupant-owner, which
+19 precludes the occupant-owner from using public housing moneys to finance an eligible
+20 home.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

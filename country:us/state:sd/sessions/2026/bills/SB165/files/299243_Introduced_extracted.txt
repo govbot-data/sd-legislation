@@ -1,0 +1,841 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.636.15 101st Legislative Session 165
+2026 South Dakota Legislature
+Senate Bill 165
+Introduced by: Senator Reed
+1 An Act to revise certain provisions pertaining to municipal government.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 9-8-2 be AMENDED:
+4 9-8-2. If there is a vacancy from any cause in the office of the mayor, the vacancy
+5 must be filled by appointment pursuant to a motion supported by a majority vote of all
+6 the aldermen,. The motion must be made at a meeting of the aldermen held as soon as
+7 practicable after the vacancy occurs, to serve. The individual appointed as the mayor
+8 serves until the office is filled by election for the unexpired term at the next annual regular
+9 municipal election or by special election as provided in § 9-13-14.2. Until the vacancy is
+10 filled, the powers and duties of the mayor are executed by the mayor pro tempore, as
+11 provided in § 9-8-13.
+12 The president of the council shall serve as the mayor pro tempore until the vacancy
+13 in the office of the mayor is filled by appointment or election. In the case of a temporary
+14 absence or temporary incapacitation of the president of the council, or a vacancy in the
+15 office of the president of the council, the vice president of the council shall serve as the
+16 mayor pro tempore until the earliest of the following occurs:
+17 (1) The temporary absence or temporary incapacitation of the president of the council
+18 concludes;
+19 (2) The vacancy in the office president of the council is filled; or
+20 (3) The vacancy in the office of the mayor is filled by appointment or election.
+21 A resignation by the mayor must be in writing and must specify the effective date
+22 of the resignation. A temporary absence or temporary incapacitation of the mayor is not
+23 a vacancy in the office of the mayor.
+24 Section 2. That § 9-8-3 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.636.15 2 165
+1 9-8-3. The mayor presides at all meetings of the council. The mayor votes only in
+2 the case of a tie, except pursuant to § 9-8-10. The mayor performs other duties as may
+3 be prescribed by the laws and ordinances, and takes care that the laws and ordinances
+4 are faithfully executed. The mayor shall annually, or as may be necessary, give the council
+5 information relative to the affairs of the municipality, and recommend for the council's
+6 consideration the measures the mayor deems prudent. The mayor may sign or veto any
+7 ordinance or resolution passed by the common council. The mayor may veto any part or
+8 item of an ordinance or resolution appropriating money as provided in §§ 9-19-10 to 9-
+9 19-12, inclusive.
+10 Section 3. That § 9-14-2 be AMENDED:
+11 9-14-2. Except as otherwise provided, no person may hold any elected municipal
+12 office who is not a qualified voter of the municipality and who has not resided therein at
+13 least three months next preceding his election or appointment. If the person has resided
+14 in an area annexed, pursuant to chapter 9-4, for at least three months, he may hold any
+15 municipal office. No person may hold any municipal office who is a defaulter to the
+16 municipality. This section does not apply to appointive officers.An individual is not eligible
+17 to hold elective office unless the individual:
+18 (1) Is a qualified voter of the municipality, as described in § 12-4-1; and
+19 (2) Has resided in the municipality or an area annexed, pursuant to chapter 9-4, for
+20 at least three months preceding the individual's election or appointment.
+21 Section 4. That § 9-14-3 be AMENDED:
+22 9-14-3. Such officers as needed and provided for by ordinance shall be appointed.
+23 Each appointive officer of a municipality governed by a mayor and common council shall
+24 be appointed by the mayor with the approval of the council, and in other municipalities,
+25 each officer shall be appointed by a majority vote of the members elected to the governing
+26 body, except as provided in the city manager law and subject to the provisions of the civil
+27 service applying to employees, police, and firefighters. Such officers shall be appointed
+28 annually or at intervals determined by the governing body.Each municipality may
+29 determine, by ordinance, which officers are to be appointed and describe the duties of
+30 each appointed officer.
+31 Except as provided in chapter 9-10:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.636.15 3 165
+1 (1) In municipalities governed by a mayor and common council, each appointed officer
+2 is appointed by the mayor, with the approval of a majority vote of all the members
+3 of the common council qualified to serve pursuant to chapter 9-13; and
+4 (2) In municipalities that are not governed by a mayor and common council, each
+5 appointed officer is appointed by a majority vote of all of the members qualified to
+6 serve on the governing body pursuant to chapter 9-13.
+7 Each appointed officer may be appointed annually or at intervals determined by
+8 the governing body. Except where a property interest arises by written contract, the
+9 appointment does not confer any property interest in employment.
+10 Section 5. That § 9-14-4 be AMENDED:
+11 9-14-4. All appointive officers except the auditor and marshal shall be
+12 commissioned by warrant, under the corporate seal, signed by the mayor and auditor.
+13 The marshal shall be commissioned by warrant, under the corporate seal, signed by the
+14 president of the Board of Trustees and the clerk. The mayor Following appointment and
+15 qualification, the municipal finance officer shall issue a certificate of appointment under
+16 the seal of the municipality to the auditor each appointed officer.
+17 Section 6. That § 9-14-5 be AMENDED:
+18 9-14-5. Each appointive appointed municipal officer shall begin discharging the
+19 duties of the office as soon as the officer has qualified by filing an oath or affirmation of
+20 office in the usual form provided by law, as provided in § 3-1-5. The officer shall file the
+21 form with the municipal finance officer within ten days after the first meeting of the month
+22 following the appointment. The officer shall hold office until the appointment and
+23 qualification of a successor, including during any interim term created by a change of form
+24 of government.
+25 Each elective municipal officer, ifA municipal officer elected to fill a vacancy, shall
+26 begin discharging the duties of the office as soon as the officer has qualified by filing an
+27 oath or affirmation of office in the usual form provided by law, as provided in § 3-1-5. The
+28 officer shall file the form with the municipal finance officer within ten days after the first
+29 meeting of the month following the election. Except as otherwise provided, each officer,
+30 if elected for a full term, shall begin discharging the duties of the office on the first meeting
+31 of the month next succeeding the election or as soon thereafter as the officer has qualified
+32 If the elected officer fails to file the form, a vacancy is created pursuant to § 9-13-28.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.636.15 4 165
+1 Any individual appointed to fill a vacancy for an elective office shall begin
+2 discharging the duties of the office as soon as the individual has qualified by filing an oath
+3 or affirmation of office, as provided in § 3-1-5. The appointed officer shall file the form
+4 with the municipal finance officer within ten days after the appointment. If the appointed
+5 officer fails to file the form, a vacancy is created pursuant to § 9-13-28.
+6 Section 7. That § 9-14-6 be AMENDED:
+7 9-14-6. Each appointive appointed officer, before entering upon the discharge of
+8 the duties of the office, shall take and subscribe an oath or affirmation of office, in the
+9 form required by the Constitution usual form provided by law.
+10 The Each appointed officer shall furnish an undertaking to be approved by the
+11 governing body. The undertaking shall be in a sum prescribed by the governing body and
+12 shall be conditioned a bond for the faithful performance of the duties of the office and to
+13 account, pay over, and deliver all money or property coming into the officer's hands by
+14 virtue of that office according to law. The governing body shall establish the amount of
+15 the bond applicable to each officer annually. The requirement for an individual bond is
+16 satisfied if the municipality provides blanket coverage pursuant to § 3-5-14.
+17 Section 8. That § 9-14-9 be AMENDED:
+18 9-14-9. All undertakings Any bond provided for in §§ 9-14-6 to 9-14-7, inclusive,
+19 shall must be filed, after approval, with the governing body municipal finance officer.
+20 Section 9. That § 9-14-10 be AMENDED:
+21 9-14-10. The removal of any municipal officer from the ward or municipality for
+22 which the officer was elected or appointed, or the officer's failure, within ten days after
+23 the first meeting of the month following the election or appointment, to qualify and begin
+24 the duties of office, causes a vacancy in the office.An immediate vacancy is created if any
+25 elected municipal officer moves from the district, municipality, or ward for which the officer
+26 was elected or appointed to fill the vacancy of the office.
+27 Section 10. That § 9-14-12 be AMENDED:
+28 9-14-12. Except as otherwise provided, any appointive appointed officer of a
+29 municipality governed by a board of commissioners or board of trustees may be removed
+30 by a majority vote of the all members of such board of the governing body who are
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.636.15 5 165
+1 qualified to serve on the governing body by election or appointment pursuant to chapter
+2 9-13.
+3 Section 11. That § 9-14-13 be AMENDED:
+4 9-14-13. In an aldermanic-governed municipality, the mayor, except as otherwise
+5 provided, may remove from office any officer appointed by the mayor, if the mayor
+6 believes that the interests of the municipality demand such removal. The mayor shall
+7 report the reasons for removal to the council at its next regular meeting.In a municipality
+8 governed by a mayor and common council pursuant to chapter 9-8, the mayor may
+9 remove from office any officer appointed by the mayor, if the mayor believes the removal
+10 is in the interest of the municipality. The mayor shall report the reasons for removal to
+11 the common council at the next regular meeting. The report may be given in executive
+12 session, pursuant to § 1-25-2, but in all cases the fact of the presentation of the report
+13 must be placed in the minutes of the meeting.
+14 Section 12. That § 9-14-14 be AMENDED:
+15 9-14-14. Any municipality may adopt an ordinance establishing a civil service
+16 system for its municipal employees, policemen and firemen, and providing for the law
+17 enforcement officers, and firefighters, which provides for:
+18 (1) The appointment of a civil service board, prescribing its powers, duties and
+19 compensation, and providing for the; and
+20 (2) The suspension or removal of any employee, policeman or fireman law
+21 enforcement officer, or firefighter for cause,.
+22 The decision to suspend or remove any employee, law enforcement officer, or
+23 firefighter is subject to review and affirmance, reversal or modification of such action by
+24 the civil service board at a hearing before such board of the civil service board, if requested
+25 by the employee, policeman or fireman suspended or discharged, at which removed
+26 employee, law enforcement officer, or firefighter. At the hearing, the employee, policeman
+27 or fireman law enforcement officer, or firefighter is entitled to be present in person or by
+28 counsel, which. The civil service board may affirm, modify, or reverse the suspension or
+29 removal. Any final order of the civil service board may be appealed to the circuit court
+30 pursuant to chapter 1-26.
+31 The ordinance after adoption establishing a civil service system may not be
+32 repealed or modified so as to affect the standing of any employee, policeman or fireman
+33 under the provisions thereof law enforcement officer, or firefighter, except pursuant to
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.636.15 6 165
+1 the negotiation process provided for in chapter 3-18, and which. The ordinance
+2 establishing a civil service system may be repealed only by an initiated
+3 ordinance.However, an
+4 An employee, policeman or fireman law enforcement officer, or firefighter
+5 represented by a labor or employee organization, authorized by chapter 3-18, may not
+6 request the civil service board to review any suspension or removal, unless the labor
+7 contract covering such the employee, law enforcement officer, or firefighter specifically
+8 provides for such review. Any final order of a civil service board may be appealed to the
+9 circuit court pursuant to chapter 1-26.
+10 Section 13. That § 9-14-15 be AMENDED:
+11 9-14-15. Policemen, firemen, and Except as otherwise provided in this section,
+12 municipal employees, law enforcement officers, and firefighters appointed under any civil
+13 service ordinance and not represented by any labor or employee organization authorized
+14 by chapter 3-18 may be removed only pursuant to the provisions of the ordinance. Nothing
+15 in this section restricts the Governor's authority, pursuant to § 3-17-3, to remove local
+16 law enforcement officers, including those appointed under any civil service ordinance.
+17 Officers and employees appointed by a city manager may be removed by him the city
+18 manager.
+19 Section 14. That § 9-14-16 be AMENDED:
+20 9-14-16. No mayor, alderman, commissioner, or trustee Except as otherwise
+21 provided in § 9-14-16.1, an elected municipal officer may not hold any other office under
+22 position with the municipality while an incumbent of such in office. The term "office"
+23 "position" does not include membership on any municipality municipal board, commission,
+24 or committee, if the ordinance or resolution establishing the board, commission, or
+25 committee specifically includes the mayor, an alderman, commissioner, or trustee elected
+26 officer in the membership of the board. No mayor, alderman, commissioner, or trustee
+27 An elected officer is not disqualified from holding such office in any municipality as
+28 a result of holding any liquor license, or being the spouse of a person an individual holding,
+29 any liquor alcoholic beverage license. No mayor, alderman, commissioner, or trustee,
+30 pursuant to chapter 35-4. An elected officer who is the holder of a liquor license may vote
+31 on the issuance or transfer of any such other alcoholic beverage license. No auditor or
+32 clerk may hold the office of treasurer under the municipality while an incumbent of such
+33 office.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.636.15 7 165
+1 Section 15. That § 9-14-16.1 be AMENDED:
+2 9-14-16.1. The provisions of § 9-14-16 do not prohibit any mayor, alderman,
+3 commissioner, or trustee elected officer from serving in any other volunteer, unsalaried
+4 municipal position or providing any service for a municipality if the compensation for such
+5 the service does not exceed five ten thousand dollars per calendar year. The provisions of
+6 § 9-14-16 do not prohibit any mayor, alderman, commissioner, or trustee elected officer
+7 from receiving compensation in excess of five ten thousand dollars per calendar year for
+8 service to a municipal ambulance service in municipalities of the second or third class.
+9 Section 16. That § 9-14-17 be AMENDED:
+10 9-14-17. The municipal finance officer shall keep an office at a place directed by the
+11 governing body. The finance officer shall keep the corporate seal, all papers and
+12 records of the municipality, and a record of the proceedings of the governing body,
+13 whose meetings the finance officer shall attend. The finance officer shall draw and
+14 countersign all warrants on the treasury in pursuance of orders or resolutions of
+15 the governing body and keep a full and accurate account of all such warrants in
+16 books provided for that purpose. The finance officer shall make or cause to be
+17 made estimates of the expenses of any work to be done by the municipality and
+18 countersign all contracts made on its behalf and certificates of work authorized by
+19 any committee of the governing body or by any municipal officer. However, the
+20 finance officer may destroy any record which the records destruction board, acting
+21 pursuant to § 1-27-19, declares to have no further administrative, legal, fiscal,
+22 research, or historical value.A municipal finance officer shall:
+23 (1) Keep an office at a place directed by the governing body;
+24 (2) Keep the corporate seal and all documents and records of the municipality;
+25 (3) Attend all meetings of the governing body;
+26 (4) Keep a record of the proceedings of the governing body;
+27 (5) Draw and countersign all warrants on the treasury pursuant to orders or resolutions
+28 of the governing body;
+29 (6) Except as provided in chapter 9-10, supervise the accounting system for all
+30 departments and offices of the municipality in accordance with the
+31 recommendations of the Department of Legislative Audit;
+32 (7) Keep a full and accurate account of all warrants in book or electronic format;
+33 (8) Cause estimates to be provided for the expense of any work to be done by the
+34 municipality;
+35 (9) Keep a list of all certificates issued for work or any other purpose;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.636.15 8 165
+1 (10) Countersign all contracts and certificates of work authorized by the governing
+2 body, unless the contract is approved by:
+3 (a) Any municipal board with authority to approve contracts by statute or by
+4 ordinance; or
+5 (b) Any municipal officer with authority to approve contracts pursuant to a
+6 spending policy adopted by the governing body of the municipality;
+7 (11) Keep regular accounts of all indebtedness of the municipality, which show at all
+8 times the financial condition of the municipality;
+9 (12) Countersign and keep accurate account of bonds, warrants, certificates, or other
+10 evidence of indebtedness issued or redeemed by the governing body, and the
+11 amount of each that is outstanding;
+12 (13) Record the amount, purpose, and recipient of any bond, warrant, or other evidence
+13 of indebtedness of the municipality;
+14 (14) Keep an account with all receiving and disbursing officers of the municipality,
+15 showing the amount received from the different sources of revenue and the amount
+16 that was disbursed under the direction of the governing body;
+17 (15) Audit and adjust all claims and demands against the municipality before they are
+18 allowed by the governing body;
+19 (16) Keep a record of the finance officer's acts and doings; and
+20 (17) Perform other duties as may be required by ordinance, resolution, or direction of
+21 the governing body.
+22 The governing body may determine which duties, if any, a municipal finance officer
+23 may not delegate to an employee under the supervision of the municipal finance officer.
+24 The municipal finance officer may destroy any record of the municipality in a
+25 manner consistent with chapter 1-27 or other applicable law.
+26 Section 17. That § 9-14-22 be AMENDED:
+27 9-14-22. When required by the governing body or any officer of the first and
+28 second class municipality, the Except to the extent inconsistent with § 16-18-A, the city
+29 attorney shall furnish shall:
+30 (1) Furnish an opinion upon any matter relating to the affairs of the municipality or the
+31 official duties of such officer; conduct municipal officers;
+32 (2) Conduct the prosecution of all actions or proceedings arising out of the violation of
+33 any ordinance; and perform such
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.636.15 9 165
+1 (3) Perform any other professional services incident to his office as may be as required
+2 by ordinance or directed by the governing body.
+3 Section 18. That § 9-14-23 be AMENDED:
+4 9-14-23. The governing body of any municipal corporation A municipality may
+5 contract for legal services or employ an attorney under such terms and conditions as the
+6 governing body shall deem proper. Any contract for legal services with an attorney shall
+7 be made by ordinance or resolution. Such contract shall set forth the compensation to be
+8 paid and the specific services to be rendered to provide legal services for the municipality.
+9 Section 19. That § 9-14-24 be AMENDED:
+10 9-14-24. If a A municipality chooses to may contract with or employ or retain a
+11 person to serve as a city engineer, the city engineer shall who must be a licensed
+12 professional engineer under chapter 36-18A. If the city engineer is not also licensed as a
+13 land surveyor under chapter 36-18A, the city engineer shall must delegate any duties that
+14 are defined in chapter 36-18A as the practice of land surveying to a licensed land surveyor.
+15 The governing body shall, by ordinance or agreement contract, prescribe the duties
+16 and fix the compensation of the city engineer.
+17 All surveys, profiles, plans, or and estimates made by the city engineer for the
+18 municipality are the property of the municipality and shall, must be carefully preserved in
+19 the municipality's office or the office of the city engineer, and are open to public inspection.
+20 Section 20. That § 9-14-26 be AMENDED:
+21 9-14-26. Any peace law enforcement officer of any a municipality which that is
+22 situated in more than one county may serve and execute any civil or criminal process
+23 within any of the counties in which such the municipality is situated.
+24 Section 21. That § 9-14-27 be AMENDED:
+25 9-14-27. The A governing body may prescribe by ordinance additional duties to
+26 be performed by any appointed municipal officer not inconsistent with the laws of this
+27 state.
+28 Section 22. That § 9-14-29 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.636.15 10 165
+1 9-14-29. Every chief of police or other policeman, On or before the last day of
+2 each month, each law enforcement officer receiving a salary for his services, shall account
+3 for and pay over on or before the end of each month to the treasurer from the municipality
+4 shall provide and remit to the municipal finance officer an itemized account and receipts
+5 for all fees received by him the officer in the service of any civil process, taking a receipt
+6 therefor and filing an itemized account thereof with the auditor or clerk.
+7 Section 23. That § 9-14-30 be AMENDED:
+8 9-14-30. The municipalities of the State of South Dakota and their several offices,
+9 boards, and departments may, in their discretion, Any municipality may provide, either
+10 by self insurance, or by purchase from private companies self-insurance or contract, group
+11 life, health, and accident insurance, or any one or more of such insurance risks
+12 combination of coverage, for their respective employees and officers of the municipality,
+13 and the immediate families of such the employees and officers, as the terms "employee"
+14 and "officer" are defined in § 9-14-31. Such accident. Accident insurance applies only if
+15 benefits under the worker's compensation law are not applicable.
+16 Section 24. That § 9-14-33 be AMENDED:
+17 9-14-33. Authority and power is hereby given to said employees or officers to
+18 direct the municipalities of the State of South Dakota covered hereby to pay A municipality
+19 may deduct out of the salary or wages of such municipal employees or officers the amount
+20 of their participation in the cost of insurance provided pursuant to § 9-14-30.
+21 Section 25. That § 9-14-35.1 be AMENDED:
+22 9-14-35.1. Any health insurance plan or policy provided by a municipality for
+23 municipal officers and employees and other persons pursuant to §§ 9-14-30 and 9-14-35
+24 may include the use of flexible spending accounts, which may include payment or
+25 reimbursement that may be paid or reimbursed through the use of debit cards, direct
+26 deposit to financial institutions, by check, or a combination of these.
+27 Section 26. That § 9-14-36 be AMENDED:
+28 9-14-36. The governing body of any municipal corporation in this state is hereby
+29 empowered and authorized to enter into insurance contracts for the protection and benefit
+30 of its employees and such insurance contracts may be in the form of group life insurance,
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.636.15 11 165
+1 of any municipality may provide for salary saving, or retirement annuities. A municipal
+2 corporation entering into any such insurance contracts is authorized to, and may deduct
+3 from the salary or wages of such any employee protected by such insurance contract or
+4 contracts, his or her, included in the life insurance, salary sharing, or retirement annuity
+5 plan, the pro rata share of the cost of such the insurance, and pay the premium for such
+6 the insurance out of the funds so deducted. Discretion is vested in the governing moneys.
+7 The governing body to may determine what which particular class or group of employees
+8 shall be is protected by such the insurance contracts. Provided, provided that when such
+9 the class or group has been determined, no an insurance contracts shall contract may not
+10 be made or entered into without the consent of at least sixty percent of such the class or
+11 group.
+12 Section 27. That § 9-14-37 be AMENDED:
+13 9-14-37. It is a Class 2 misdemeanor for any member of the governing body or
+14 other municipal elected or appointed officer or employee to commit a palpable omission
+15 of duty or to intentionally commit oppression, misconduct, or malfeasance in the discharge
+16 of the official duties of his office. Upon conviction of a violation of this section, the court
+17 in which such conviction is had may in its discretion may enter an order removing the
+18 member of the governing body or other officer so convicted elected or appointed officer
+19 or employee from his the municipal office or position.
+20 Section 28. That § 9-14-39 be AMENDED:
+21 9-14-39. Any person having been an officer of any municipality shall, within Within
+22 five days after demand, leaving office, an officer of a municipality shall deliver to his the
+23 officer's successor in office all books, property, and effects of every description in his
+24 possession belonging to the municipality or pertaining to his the office. Upon refusal so to
+25 do he shall be A former officer in violation of this section is personally liable for all the
+26 damages caused thereby and to such by the violation, any additional penalties as may be
+27 prescribed by ordinance, and associated reasonable attorney fees and costs related to the
+28 violation. The municipality may also obtain injunctive relief from the court.
+29 Section 29. That § 9-14-42 be AMENDED:
+30 9-14-42. Each person over eighteen years of age A municipality may require each
+31 individual seeking employment with a municipality shall to submit, subject to the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.636.15 12 165
+1 discretion of the municipality, to a state and federal criminal background investigation by
+2 means of fingerprint checks by the South Dakota Division of Criminal Investigation and
+3 the Federal Bureau of Investigation. The municipality may submit completed fingerprint
+4 cards to the Division of Criminal Investigation before the prospective new employee enters
+5 into service. Upon completion of the state and federal criminal background check, the
+6 Division of Criminal Investigation shall forward to the municipality all information obtained
+7 as a result of the check. Failure to submit to or cooperate with the criminal background
+8 investigation is grounds for denial of an application employment.
+9 Section 30. That § 9-14-43 be AMENDED:
+10 9-14-43. The hours of employment of full-time employees of city municipal fire
+11 departments are governed by mutual agreements with the respective municipal
+12 corporations. The hours of employment for any such employee municipal policy or
+13 contract, but may not exceed two hundred twelve hours during a twenty-eight-day work
+14 period or two hundred four hours during a twenty-seven-day work period, as determined
+15 by mutual agreement, unless the employee is paid additional compensation or is allowed
+16 compensatory time off.
+17 Section 31. That § 9-18-2 be AMENDED:
+18 9-18-2. Every municipal officer shall keep a record of the official acts and
+19 proceedings of his office, and such record shall be open to public inspection during
+20 business hours under reasonable restrictions.Except as otherwise provided by law, records
+21 of the official acts and proceedings of municipal officers are subject to disclosure as
+22 provided in chapter 1-27.
+23 Section 32. That § 9-18-3 be AMENDED:
+24 9-18-3. Copies of all papers filed in the office of the auditor or clerk and transcripts
+25 of all records of the governing body certified by him under the corporate seal are
+26 admissible in evidence the same as the originals thereof. Such original papers or records
+27 or such copies or transcripts thereof are prima facie evidence of the facts stated
+28 therein.The following documents, if certified by the municipal finance officer under the
+29 corporate seal, are admissible in evidence the same as the originals:
+30 (1) Copies of all papers filed in the office of the municipal finance officer; and
+31 (2) Transcripts of all records of the governing body.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.636.15 13 165
+1 These documents are prima facie evidence of the facts stated therein.
+2 Section 33. That § 9-19-1 be AMENDED:
+3 9-19-1. The word "ordinance" as used in this title shall Terms in this title mean:
+4 (1) "Ordinance," a permanent legislative act of the governing body of a municipality
+5 within the limits of its powers.
+6 The word "resolution" as used in this title shall mean; and
+7 (2) "Resolution," any determination, decision, or direction of the governing body of a
+8 municipality directive, or other act of a special or temporary character, of the
+9 governing body of a municipality, for the purpose of initiating, effecting, or carrying
+10 out its the body's administrative duties and functions under the laws and
+11 ordinances governing the municipality.
+12 Section 34. That § 9-19-3 be AMENDED:
+13 9-19-3. Every municipality may enact, make, amend, revise, or repeal all such
+14 ordinances, resolutions, and regulations as may be proper and necessary to carry into
+15 effect the powers granted thereto, and to provide for the punishment of each violation
+16 thereof by a fine not to exceed the fine established by subdivision 22-6-2(2), by
+17 imprisonment not exceeding thirty days, or by both the fine and imprisonment.A
+18 municipality may amend, enact, repeal, or revise ordinances and resolutions to exercise
+19 the authorized powers of the municipality. The municipality may seek injunctive relief and
+20 establish penalties for violations of ordinances and resolutions, not exceeding those
+21 specified in subdivision 22-6-2(2).
+22 Section 35. That § 9-19-3.1 be AMENDED:
+23 9-19-3.1. In the a prosecution for the violation of any municipal ordinance which
+24 or resolution that authorizes a criminal penalty of a jail sentence, the municipality must
+25 prove the defendant guilty of the violation of the ordinance beyond a reasonable doubt.
+26 The proceedings shall be commenced by complaint naming the first or second class
+27 municipality as plaintiff, and the response thereto shall be by either oral plea or written
+28 answer. The defendant shall be entitled, by making demand therefor at any time before
+29 the commencement of trial, to trial by jury in the event the defendant is subject to any
+30 jail sentence. Except as provided in this section the proceedings shall be governed by the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.636.15 14 165
+1 rules of civil procedure, the proceedings are governed by the procedures set forth in title
+2 23A.
+3 Section 36. That § 9-19-5 be AMENDED:
+4 9-19-5. An ordinance must embrace but may only contain one subject which shall,
+5 which must be expressed in its the title.
+6 Section 37. That § 9-19-7 be AMENDED:
+7 9-19-7. The title of all ordinances shall any ordinance must be read twice with at
+8 least five days intervening between the first and second reading. The ordinance shall must
+9 be signed:
+10 (1) Signed by the mayor or, mayor pro tempore, acting mayor, or president of the
+11 Board of Trustees, filed board of trustees;
+12 (2) Filed with the auditor or clerk, and published once except that an ordinance
+13 incorporating and adopting comprehensive regulations or a code promulgated,
+14 approved, and published by a recognized and established national organization
+15 prescribing building, electrical, plumbing, safety, fire, or health regulations need
+16 not be published in a newspaper, but upon adoption of such an ordinance the
+17 auditor or clerk shall publish a notice of the fact of adoption once a week for two
+18 successive weeks in the official newspaper, and twenty days after the completed
+19 publication of such notice, unless the referendum shall have been invoked, such
+20 ordinance shall become effective municipal finance officer; and
+21 (3) Published once in the official newspaper.
+22 Section 38. That § 9-19-8 be AMENDED:
+23 9-19-8. Any resolution may be passed after one reading, and shall must be
+24 recorded at length in the minutes of the meeting at which it is passed, with a statement
+25 of the number of votes for and against it. Such resolution shall be published in full either,
+26 entirely, together with the number of votes for and against the resolution, either as part
+27 of the minutes of the meeting at which the resolution passed, or separately.
+28 Section 39. That § 9-19-9 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.636.15 15 165
+1 9-19-9. The final vote upon all ordinances upon the second reading and to pass
+2 the same over any veto shall to adopt an ordinance must be taken by yeas and nays and
+3 orally or by roll call, with the results entered upon into the minutes of the meeting.
+4 Section 40. That § 9-19-10 be AMENDED:
+5 9-19-10. The Except as otherwise provided in this section, a mayor in any
+6 municipality with a common council may veto any ordinance or resolution operating under
+7 the aldermanic form pursuant to chapter 9-8 may exercise the veto power granted by § 9-
+8 8-3, by filing a written objection with the finance officer within ten days after its passage.
+9 The veto may extend to any one or more items contained in an ordinance or resolution
+10 making an appropriation or to the entire ordinance or resolution. If the veto only extends
+11 to a part of such If only part of an ordinance or resolution making an appropriation is
+12 vetoed, the remainder shall must take effect.
+13 The mayor may not veto any ordinance or resolution necessary for the immediate
+14 preservation of the public peace, health, safety, or support of the municipal government
+15 and its existing institutions if the ordinance or resolution:
+16 (1) Is passed by a two-thirds vote of all the aldermen qualified to serve by election or
+17 appointment pursuant to chapter 9-13; and
+18 (2) States on its face that the ordinance or resolution is necessary for the immediate
+19 preservation of the public peace, health, safety, or support of the municipal
+20 government.
+21 Section 41. That § 9-19-11 be AMENDED:
+22 9-19-11. If the a mayor vetoes any ordinance, resolution, or other item exercises
+23 veto power pursuant to § 9-19-10, the municipal finance officer shall must present the
+24 ordinance, resolution, or other vetoed item, together with the mayor's written objection,
+25 for reconsideration at the next meeting of the common council and it may be reconsidered.
+26 If at that meeting the ordinance or resolution is passed by a two-thirds vote of the
+27 aldermen, it shall be qualified to serve by election or appointment pursuant to chapter 9-
+28 13, the ordinance or resolution must:
+29 (1) Be published, together with a statement of the votes for and against the ordinance
+30 or resolution; and become
+31 (2) Become effective, notwithstanding the mayor's disapproval veto, unless suspended
+32 by referendum.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.636.15 16 165
+1 Section 42. That § 9-19-12 be AMENDED:
+2 9-19-12. If the mayor fails to sign any ordinance or resolution or file written
+3 objections thereto within ten days after its passage, the ordinance or resolution shall:
+4 (1) Must be published; and become a
+5 (2) Becomes law without the mayor's signature.
+6 This section does not apply to any ordinance or resolution necessary for the
+7 immediate preservation of the public peace, health, safety, or support of the municipal
+8 government and its existing institutions if the ordinance or resolution:
+9 (1) Is passed by a two-thirds vote of all the aldermen qualified to serve by election or
+10 appointment pursuant to chapter 9-13; and
+11 (2) States on its face that the ordinance or resolution is necessary for the immediate
+12 preservation of the public peace, health, safety, or support of the municipal
+13 government.
+14 Section 43. That § 9-19-13 be AMENDED:
+15 9-19-13. Except such resolutions or ordinances as may be necessary for the
+16 immediate preservation of the public peace, health, or safety, or support of the municipal
+17 government and its existing public institutions, or which provide for an election or for
+18 hearing on an improvement or assessment or which call for bids, which take effect upon
+19 the passage and publication thereof, every Except as otherwise provided in this section,
+20 every resolution or ordinance passed by the governing body shall take takes effect on the
+21 twentieth day after its publication, unless suspended by operation of a referendum.
+22 An ordinance or resolution may take effect immediately if it:
+23 (1) Is necessary for the immediate preservation of the public peace, health, safety, or
+24 support of the municipal government and its existing institutions;
+25 (2) Is not subject to referendum pursuant to § 9-20-19; or
+26 (3) Provides for an election or hearing on an improvement or assessment or calls for
+27 bids.
+28 Section 44. That § 9-19-14 be AMENDED:
+29 9-19-14. After an ordinance takes effect, the auditor or clerk municipal finance
+30 officer shall record the same together with ordinance and a certificate of the date of its
+31 publication in a book to be known as the "Ordinance Book," "ordinance book," and file the
+32 affidavit of publication with the original ordinance.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.636.15 17 165
+1 Section 45. That § 9-19-14.1 be AMENDED:
+2 9-19-14.1. If a municipality posts the ordinance book or any part of the book on
+3 the municipality's official website, the municipality shall must make reasonable efforts to
+4 ensure the most current version of the ordinance book or any part of the book is posted,
+5 provided that the official version of the municipality's ordinances is the ordinance book
+6 referenced in § 9-19-14.
+7 Section 46. That § 9-19-15 be AMENDED:
+8 9-19-15. Every A municipality may compile the municipal ordinances, without
+9 revision or amendment, for publication in ordinance book or codified form. The compilation
+10 shall be codification is effective without publication as required for ordinances.
+11 The municipal auditor or clerk shall furnish a free copy of the book to the circuit
+12 clerk of court and the county law library of each county in which the municipality is
+13 situated.
+14 Section 47. That § 9-19-16 be AMENDED:
+15 9-19-16. Every municipality shall have the power to revise the ordinances as
+16 provided herein. The governing body of any municipality may, not oftener more than once
+17 every five years may, appoint a committee of one or more competent persons to prepare
+18 and submit for its consideration an ordinance in revision of revising the ordinances of the
+19 municipality.
+20 Section 48. That § 9-19-17 be AMENDED:
+21 9-19-17. Upon the adoption of an ordinance which revises revising the ordinances
+22 of the a municipality by the governing body, the auditor or clerk shall municipal finance
+23 officer must publish a notice of the adoption of the revised ordinances once in the official
+24 newspaper. Twenty days after the completed publication of the notice, unless the
+25 referendum is invoked, the ordinance shall become becomes effective without publication
+26 of the revised ordinance book in a newspaper.
+27 The governing body may publish the revised ordinances in book form. The auditor
+28 or clerk shall furnish a free copy of the book or the revised ordinances to the circuit clerk
+29 of court and the county law library of each county in which the municipality is situated.
+30 Section 49. That § 9-19-18 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.636.15 18 165
+1 9-19-18. An original ordinance or resolution, the record or a certified copy thereof
+2 of the record, or any compilation or revision of ordinances purporting to be printed under
+3 the authority of the municipality are admissible in evidence without further proof.
+4 Section 50. That a NEW SECTION be added to chapter 9-19:
+5 An ordinance incorporating and adopting comprehensive regulations or a code
+6 promulgated, approved, and published by a recognized and established national
+7 organization prescribing building, electrical, plumbing, safety, fire, or health regulations
+8 need not be published in its entirety in a newspaper. Upon adoption or amendment of the
+9 ordinance, the municipal finance officer must publish a notice of the fact of adoption or
+10 amendment once a week for two successive weeks in the official newspaper. The ordinance
+11 becomes effective twenty days after the completed publication of the notice, unless
+12 referendum is invoked. The publication procedures provided in this section apply whether
+13 or not a municipality has modified the comprehensive regulations or codes during the
+14 adoption or amendment process.
+15 Section 51. That a NEW SECTION be added to chapter 9-19:
+16 Upon request of the circuit clerk of court or law library of the county in which a
+17 municipality is situated, the municipal finance officer must choose one of the following
+18 forms to make available, for free, to the requesting clerk or library:
+19 (1) A physical copy of the ordinance book;
+20 (2) A link to the electronic compilation of the ordinance book; or
+21 (3) An electronic copy of the codification.
+22 Section 52. That § 10-33A-18 be AMENDED:
+23 10-33A-18. If a corporation, limited liability company, limited partnership, limited
+24 liability partnership, or limited liability limited partnership subject to the gross receipts tax
+25 under this chapter fails for any reason to file the required returns or to pay the tax due,
+26 any of the corporate officers, member-managers or managers of limited liability
+27 companies, or partners of partnerships that control, supervise, or are charged with the
+28 responsibility of filing the returns or remitting tax payments are personally liable for the
+29 failure. The dissolution of a corporation, limited liability company, limited partnership,
+30 limited liability partnership, or limited liability limited partnership does not discharge an
+31 officer, member-manager, manager, or partner's liability for a prior failure of the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.636.15 19 165
+1 corporation, limited liability company, limited partnership, limited liability partnership, or
+2 limited liability limited partnership to file a return or remit the tax due. The sum due for
+3 such a the liability may be assessed and collected as provided by law.
+4 If the responsible corporate officers, limited liability company member-managers,
+5 managers, or partners elect not to be personally liable for the failure to file the required
+6 returns or to pay the tax due, the corporation, limited liability company, limited
+7 partnership, limited liability partnership, or limited liability limited partnership shall must
+8 provide the department with a surety bond or certificate of deposit as security for payment
+9 of any tax that may become due. The bond or certificate of deposit provided for in this
+10 section shall must be in an amount equal to the estimated annual gross receipts multiplied
+11 by the applicable sales or gross receipts tax rate. This section does not apply to elected
+12 or appointed officials of a municipality, if bonded pursuant to §§ 9-14-6 and 9-14-6.1.
+13 Section 53. That § 10-45-55 be AMENDED:
+14 10-45-55. If a corporation, limited liability company, limited partnership, limited
+15 liability partnership, or limited liability limited partnership subject to tax under this chapter
+16 fails for any reason to file the required returns or to pay the tax due, any of the corporate
+17 officers, member-managers or managers of limited liability companies, or partners of
+18 partnerships that control, supervise, or are charged with the responsibility of filing the
+19 returns or remitting tax payments shall be are personally liable for the failure. The
+20 dissolution of a corporation, limited liability company, limited partnership, limited liability
+21 partnership, or limited liability limited partnership does not discharge an officer, member-
+22 manager, manager, or partner's liability for a prior failure of the corporation, limited
+23 liability company, limited partnership, limited liability partnership, or limited liability
+24 limited partnership to file a return or remit the tax due. The sum due for such a the liability
+25 may be assessed and collected as provided by law.
+26 If the corporate officers, limited liability company member-managers or managers,
+27 or partners elect not to be personally liable for the failure to file the required returns or to
+28 pay the tax due, the corporation, limited liability company, limited partnership, limited
+29 liability partnership, or limited liability limited partnership shall must provide the
+30 Department of Revenue with a surety bond or certificate of deposit as security for payment
+31 of any tax that may become due. The bond or certificate of deposit provided for in this
+32 section shall must be in an amount equal to the estimated annual gross receipts multiplied
+33 by the applicable sales or excise tax rate. This section does not apply to elected or
+34 appointed officials of a municipality, if bonded pursuant to §§ 9-14-6 and 9-14-6.1.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.636.15 20 165
+1 Section 54. That § 10-46-47.1 be AMENDED:
+2 10-46-47.1. If a corporation, limited liability company, limited partnership, limited
+3 liability partnership, or limited liability limited partnership subject to tax under this chapter
+4 fails for any reason to file the required returns or to pay the tax due, any of the corporate
+5 officers, member-managers or managers of limited liability companies, or partners of
+6 partnerships that control, supervise, or are charged with the responsibility of filing the
+7 returns or remitting tax payments shall be are personally liable for the failure. The
+8 dissolution of a corporation, limited liability company, limited partnership, limited liability
+9 partnership, or limited liability limited partnership does not discharge an officer, member-
+10 manager, manager, or partner's liability for a prior failure of the corporation, limited
+11 liability company, limited partnership, limited liability partnership, or limited liability
+12 limited partnership to file a return or remit the tax due. The sum due for such a the liability
+13 may be assessed and collected as provided by law.
+14 If the corporate officers, limited liability company member-managers or managers,
+15 or partners elect not to be personally liable for the failure to file the required returns or to
+16 pay the tax due, the corporation, limited liability company, limited partnership, limited
+17 liability partnership, or limited liability limited partnership shall must provide the
+18 Department of Revenue with a surety bond or certificate of deposit as security for payment
+19 of any tax that may become due. The bond or certificate of deposit provided for in this
+20 section shall must be in an amount equal to the estimated annual gross receipts multiplied
+21 by the applicable sales or excise tax rate. This section does not apply to elected or
+22 appointed officials, if bonded pursuant to §§ 9-14-6 and 9-14-6.1.
+23 Section 55. That § 10-46A-13 be AMENDED:
+24 10-46A-13. If a corporation, limited liability company, limited partnership, limited
+25 liability partnership, or limited liability limited partnership subject to tax under this chapter
+26 fails for any reason to file the required returns or to pay the tax due, any of the corporate
+27 officers, member-managers or managers of limited liability companies, or partners of
+28 partnerships that control, supervise, or are charged with the responsibility of filing the
+29 returns or remitting tax payments shall be are personally liable for the failure. The
+30 dissolution of a corporation, limited liability company, limited partnership, limited liability
+31 partnership, or limited liability limited partnership does not discharge an officer, member-
+32 manager, manager, or partner's liability for a prior failure of the corporation, limited
+33 liability company, limited partnership, limited liability partnership, or limited liability
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.636.15 21 165
+1 limited partnership to file a return or remit the tax due. The sum due for such a the liability
+2 may be assessed and collected as provided by law.
+3 If the corporate officers, limited liability company member-managers or managers,
+4 or partners elect not to be personally liable for the failure to file the required returns or to
+5 pay the tax due, the corporation, limited liability company, limited partnership, limited
+6 liability partnership, or limited liability limited partnership shall must provide the
+7 Department of Revenue with a surety bond or certificate of deposit as security for payment
+8 of any tax that may become due. The bond or certificate of deposit provided for in this
+9 section shall must be in an amount equal to the estimated annual gross receipts multiplied
+10 by the applicable sales or excise tax rate. This section does not apply to elected or
+11 appointed officials of a municipality, if bonded pursuant to §§ 9-14-6 and 9-14-6.1.
+12 Section 56. That § 10-46B-11 be AMENDED:
+13 10-46B-11. If a corporation, limited liability company, limited partnership, limited
+14 liability partnership, or limited liability limited partnership subject to tax under this chapter
+15 fails for any reason to file the required returns or to pay the tax due, any of the corporate
+16 officers, member-managers or managers of limited liability companies, or partners of
+17 partnerships that control, supervise, or are charged with the responsibility of filing the
+18 returns or remitting tax payments shall be are personally liable for the failure. The
+19 dissolution of a corporation, limited liability company, limited partnership, limited liability
+20 partnership, or limited liability limited partnership does not discharge an officer, member-
+21 manager, manager, or partner's liability for a prior failure of the corporation, limited
+22 liability company, limited partnership, limited liability partnership, or limited liability
+23 limited partnership to file a return or remit the tax due. The sum due for such a the liability
+24 may be assessed and collected as provided by law.
+25 If the corporate officers, limited liability company member-managers or managers,
+26 or partners elect not to be personally liable for the failure to file the required returns or to
+27 pay the tax due, the corporation, limited liability company, limited partnership, limited
+28 liability partnership, or limited liability limited partnership shall must provide the
+29 Department of Revenue with a surety bond or certificate of deposit as security for payment
+30 of any tax that may become due. The bond or certificate of deposit provided for in this
+31 section shall must be in an amount equal to the estimated annual gross receipts multiplied
+32 by the applicable sales or excise tax rate. This section does not apply to elected or
+33 appointed officials of a municipality if bonded pursuant to §§ 9-14-6 and 9-14-6.1.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.636.15 22 165
+1 Section 57. That § 23A-1-1 be AMENDED:
+2 23A-1-1. This title shall govern governs the procedure to be used in the courts of
+3 this state in all criminal proceedings and in all proceedings any:
+4 (1) Criminal proceeding; and
+5 (2) Prosecution for violations of ordinances and bylaws of units the violation of an
+6 ordinance, resolution, or the bylaws of a unit of local government of this state,
+7 which authorizes a criminal penalty.
+8 Section 58. That § 9-14-6.1 be REPEALED.
+9 The amount of the bond of the municipal finance officer shall be annually
+10 established by the governing board in an amount equal to the maximum monetary total
+11 estimated to be on hand at any one time, but the amount of such bond required may not
+12 exceed two hundred fifty thousand dollars in municipalities of the first class or one hundred
+13 fifty thousand dollars in municipalities of the second or third class.
+14 Section 59. That § 9-14-7 be REPEALED.
+15 In third class municipalities the clerk, director of equalization, treasurer, and
+16 marshal, within ten days after the first meeting of the month following the election or
+17 appointment, shall take and subscribe an oath or affirmation of office in the form required
+18 by the Constitution and furnish an undertaking to be approved by the Board of Trustees
+19 in such sum as it shall direct.
+20 Section 60. That § 9-14-18 be REPEALED.
+21 The municipal finance officer shall keep regular books of account in which shall be
+22 entered all indebtedness of the municipality, and which shall at all times show the financial
+23 condition of the municipality, the amount of bonds, warrants, certificates, or other
+24 evidences of indebtedness issued by the governing body, and the amounts of all bonds,
+25 warrants, certificates, or other evidences of indebtedness which have been redeemed and
+26 the amount of each outstanding.
+27 The finance officer shall countersign all bonds, warrants, or other evidences of
+28 indebtedness of the municipality and keep accurate accounts of each, stating to whom
+29 and for what purpose issued and the amount of the bond, warrant, or other evidence of
+30 indebtedness of the municipality. The finance officer shall keep an account with all
+31 receiving and disbursing officers of the municipality, showing the amount received from
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.636.15 23 165
+1 the different sources of revenue and the amount which was disbursed under the direction
+2 of the governing body. However, the finance officer may destroy any record which the
+3 records destruction board, acting pursuant to § 1-27-19, declares to have no further
+4 administrative, legal, fiscal, research, or historical value.
+5 Section 61. That § 9-14-19 be REPEALED.
+6 The municipal finance officer shall supervise the accounting system for all
+7 departments and offices of the municipality in accordance with the recommendations of
+8 the Department of Legislative Audit except that for those municipalities administered
+9 under the city manager form of government, the supervision is by the city manager.
+10 Section 62. That § 9-14-20 be REPEALED.
+11 The municipal finance officer shall keep a list of all certificates issued for work or
+12 any other purpose. Before the levy by the governing body of any special tax, the finance
+13 officer shall, unless that duty is performed by the engineer, report to the governing body
+14 a schedule of all lots that are subject to the proposed special tax or assessment and the
+15 amount of the special tax or assessment. The schedule shall be verified by the finance
+16 officer's affidavit.
+17 Section 63. That § 9-14-21 be REPEALED.
+18 The municipal finance officer shall examine all reports, books, papers, vouchers,
+19 and accounts of the treasurer; audit and adjust all claims and demands against the
+20 municipality before they are allowed by the governing body; and keep a record of the
+21 finance officer's acts and doings. The finance officer shall keep a book in which the finance
+22 officer shall enter all contracts. The book shall include an index to the contracts and shall
+23 be open to the inspection of all parties interested. The finance officer shall perform such
+24 other duties as may be required by ordinance, resolution, or direction of the governing
+25 body. However, the finance officer may destroy any record which the Records Destruction
+26 Board, acting pursuant to § 1-27-19, declares to have no further administrative, legal,
+27 fiscal, research, or historical value.
+28 Section 64. That § 9-14-31 be REPEALED.
+29 The term "employee" is defined to include all persons who receive more than fifty
+30 percent of all compensation for personal services, rendered to the State of South Dakota,
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.636.15 24 165
+1 or to any of its governmental subdivisions, or to any of the several offices, boards, and
+2 departments thereof. The term "officer" is defined to include all appointive and elective
+3 officers of the municipalities of the State of South Dakota, or of the several offices, boards,
+4 and departments thereof, whose official duties, as such officers, require not less than
+5 one-half of their time.
+6 Section 65. That § 9-14-32 be REPEALED.
+7 Municipalities of the State of South Dakota are hereby authorized to appropriate
+8 the necessary funds for the cost of all or any portion of the insurance provided for by § 9-
+9 14-30.
+10 Section 66. That § 9-19-22 be REPEALED.
+11 A municipality may not adopt, enforce, or maintain an ordinance, order, or rule for
+12 the purpose of making payments to an individual under a guaranteed income program. If
+13 a municipality fails to comply with the order, the attorney general must bring an action in
+14 the name of the state for injunctive relief against a municipality that has adopted an
+15 ordinance, order, rule, or program in violation of this section.
+16 For the purposes of this section, the term "guaranteed income program" means a
+17 plan funded or administered by the government under which an individual is provided with
+18 regular, unconditional cash payments to be used for any purpose by the individual. The
+19 term does not include a program under which an individual is required to seek
+20 reemployment as a condition of any payments, perform work, or attend training.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

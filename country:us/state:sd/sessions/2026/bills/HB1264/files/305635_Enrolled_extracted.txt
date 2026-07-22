@@ -1,0 +1,94 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.985.13 101st Legislative Session 1264
+2026 South Dakota Legislature
+House Bill 1264
+ENROLLED
+AN ACT
+ENTITLED An Act to eliminate the Agricultural Land Assessment Implementation
+and Oversight Advisory Task Force, and to provide that the Department of
+Revenue receive the submission of recommendations and provide a report on
+agricultural value.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+Section 1. That § 10-6-124 be AMENDED:
+10-6-124. The secretary of the department may promulgate rules pursuant to
+chapter 1-26 concerning the:
+(1) Collection and tabulation of information required to determine median appraisal or
+sales assessment ratio, and coefficient of dispersion;
+(2) Criteria to be included in a compliance audit of assessment practices;
+(3) Conditions under which a certificate of compliance may be issued to a county;
+(4) Procedures for determining the valuation of agricultural buildings and structures;
+(5) Procedures for determining the valuation of dwellings on agricultural land and
+automobile garages or portions of buildings used as automobile garages;
+(6) Application of cropland and noncropland income values;
+(7) Application of soil classification standards; and
+(8) Procedures for making adjustments to the value of agricultural land pursuant to
+§§ 10-6-127 to 10-6-132, inclusive.
+Section 2. That § 10-6-128 be AMENDED:
+10-6-128. The secretary of the department may contract with one or more
+qualified entities for the purpose of creating or maintaining a database to determine the
+agricultural income value of agricultural land by county, consisting of eight consecutive
+years of cropland data and noncropland data. The data for the year representing the
+highest agricultural income value among the eight years and the year representing the
+
+26.985.13 2 1264
+lowest agricultural income value among the eight years must be discarded from the
+database and the remaining six years averaged for valuation purposes. For each
+assessment year, the first year of the eight-year data period is nine years prior to the
+assessment year.
+The cropland data must include acres planted, acres harvested, yield per acre, and
+statewide crop prices. The noncropland data must include cash rents and statewide calf
+prices. The noncropland data may also include rangeland and pastureland animal unit
+months per acre, rangeland and pastureland acres, and grazing season data.
+A qualified entity contracting with the secretary of the department pursuant to this
+section shall provide the data for each county to the secretary by June first of each year.
+For purposes of this section, a qualified entity is a federal or state agency,
+instrumentality, institution of higher learning, other federal or state authority, or private
+entity with expertise in researching or evaluating land production capacity.
+On or before March first of each year, the department shall provide a report to the
+Taxation Committees in the Senate and the House of Representatives on the data compiled
+pursuant to this section.
+Section 3. That § 10-6-129 be AMENDED:
+10-6-129. An entity contracting with the department pursuant to § 10-6-128 may
+submit recommendations regarding the factors to use for the percentage of annual earning
+capacity to be used to determine the agricultural income value of the land pursuant to
+§ 10-6-127. Any recommendations under this section must be submitted to the
+department by September first of each year.
+Section 4. That § 10-6-134 be REPEALED.
+Section 5. That § 10-6-135 be REPEALED.
+HB1264 ENROLLED
+
+26.985.13 3 1264
+An Act to eliminate the Agricultural Land Assessment Implementation and Oversight Advisory
+Task Force, and to provide that the Department of Revenue receive the submission of
+recommendations and provide a report on agricultural value.
+Received at this Executive Office
+I certify that the attached Act originated in this _____ day of _____________,
+the:
+2026 at ____________M.
+House as Bill No. 1264
+By
+Chief Clerk of the House for the Governor
+The attached Act is hereby
+approved this ________ day of
+Speaker of the House ______________, A.D., 2026
+Attest:
+Governor
+Chief Clerk of the House
+STATE OF SOUTH DAKOTA,
+ss.
+Office of the Secretary of State
+President of the Senate
+Filed ____________, 2026
+Attest: at _________ o'clock __M.
+Secretary of the Senate Secretary of State
+House Bill No. 1264 By
+File No. ____ Asst. Secretary of State
+Chapter No. ______
+HB1264 ENROLLED

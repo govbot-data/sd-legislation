@@ -1,0 +1,49 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.281.9 101st Legislative Session 131
+2026 South Dakota Legislature
+Senate Bill 131
+Introduced by: Senator Zikmund
+1 An Act to revise the season in which a nonprofit organization may host a special
+2 pheasant hunt for disabled veterans and Purple Heart recipients.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 41-11-5.5 be AMENDED:
+5 41-11-5.5. Any A nonprofit organization may establish host a special pheasant
+6 hunt in which disabled veterans or and Purple Heart recipients of the United States Armed
+7 Forces of the armed forces of the United States may participate. The special pheasant
+8 hunt may be held before or during the regular pheasant during the private shooting
+9 preserve season, pursuant to § 41-10-11. No fee may be charged to participants in any
+10 such special pheasant the hunt, by either the state or the sponsoring organization.
+11 The Game, Fish and Parks Commission shall promulgate rules, pursuant to chapter
+12 1-26, to administer the special pheasant hunts authorized in this section.
+13 For the purposes of this section a disabled veteran is a person who meets one of
+14 the following criteria "disabled veteran" means an individual who is:
+15 (1) A resident or nonresident veteran of the armed forces of the United States whohas:
+16 (a) Has been adjudicated by the United States Department of Veterans Affairs
+17 as being twenty percent or more disabled due to a service-connected
+18 disability or has received the United States Department of Veterans Affairs
+19 K Award; or
+20 (b) Is designated by the United States Department of Veterans Affairs to
+21 receive Special Monthly Compensation Level K pursuant to 38 U.S.C. § 1114
+22 (January 1, 2026); or
+23 (2) A resident of this state who has served on active duty in the armed forces of the
+24 United States or has served as a member of the armed forces reserve or national
+25 guard, and the resident is forty percent or more disabled for the purposes of
+26 receiving social security benefits been adjudicated by the United States
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.281.9 2 131
+1 Department of Veterans Affairs as being forty percent or more disabled, and has
+2 received an honorable discharge from:
+3 (a) Active duty in the armed forces of the United States;
+4 (b) The reserve component of the armed forces of the United States; or
+5 (c) The South Dakota National Guard.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

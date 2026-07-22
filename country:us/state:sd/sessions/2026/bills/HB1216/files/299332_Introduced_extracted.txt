@@ -1,0 +1,37 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.626.9 101st Legislative Session 1216
+2026 South Dakota Legislature
+House Bill 1216
+Introduced by: Representative Healy
+1 An Act to revise the list of mandatory reporters of suspected child abuse or neglect.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 26-8A-3 be AMENDED:
+4 26-8A-3. Any physician, dentist, doctor of osteopathy, chiropractor, optometrist,
+5 emergency medical technician, paramedic, mental health professional or counselor,
+6 podiatrist, psychologist, member of the clergy, religious healing practitioner, social
+7 worker, hospital intern or resident, parole or court services officer, law enforcement
+8 officer, teacher, school counselor, school official, nurse, licensed or registered child welfare
+9 provider, employee or volunteer of a domestic abuse shelter, employee or volunteer of a
+10 child advocacy organization or child welfare service provider, chemical dependency
+11 counselor, coroner, dental hygienist, or any safety-sensitive position as defined in § 3-6C-
+12 1, who has reasonable cause to suspect that a child under the age of eighteen has been
+13 abused or neglected as defined in § 26-8A-2, shall report that information in accordance
+14 with §§ 26-8A-6, 26-8A-7, and 26-8A-8. Any person who intentionally fails to make the
+15 required report is guilty of a Class 1 misdemeanor.
+16 Any person who knows or has reason to suspect that a child has been abused or
+17 neglected as defined in § 26-8A-2 may report that information as provided in § 26-8A-8.
+18 Section 2. That § 26-8A-15 be AMENDED:
+19 26-8A-15. The privilege of confidentiality set forth in §§ 19-2-3, 19-19-503, 19-
+20 19-504, 19-19-505, 19-19-508.1, and 36-26-30 may not be claimed in any judicial
+21 proceeding involving an alleged abused or neglected child or resulting from the giving or
+22 causing the giving of a report concerning abuse or neglect of a child pursuant to §§ 26-
+23 8A-3 to 26-8A-8, inclusive.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,31 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.340.9 101st Legislative Session 1101
+2026 South Dakota Legislature
+House Bill 1101
+Introduced by: Representative Uhre‑Balk
+1 An Act to prohibit an insurer from declining or limiting life, disability, or long-term
+2 care insurance policies based solely on an individual's status as a living organ
+3 donor.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That a NEW SECTION be added to chapter 58-1:
+6 An insurer may not:
+7 (1) Decline or limit coverage of an individual under any life, disability, or long-term
+8 care insurance policy solely due to the status of the individual as a living organ
+9 donor;
+10 (2) Condition the continuation of a life, disability, or long-term care insurance policy
+11 on an insured individual not becoming a living organ donor; or
+12 (3) Otherwise discriminate in the offering, issuance, cancellation, amount of coverage,
+13 price, or any other condition of a life, disability, or long-term care insurance policy
+14 based solely, and without any additional actuarial risk, upon the status of an
+15 individual as a living organ donor.
+16 For purposes of this section, "living organ donor" means an individual who has
+17 donated all or part of an organ and is not deceased.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

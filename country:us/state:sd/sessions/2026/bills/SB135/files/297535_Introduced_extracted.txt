@@ -1,0 +1,66 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.729.44 101st Legislative Session 135
+2026 South Dakota Legislature
+Senate Bill 135
+Introduced by: Senator Karr
+1 An Act to protect residents from increased utility costs and utility shortages caused
+2 by data centers and clarify authority to regulate data centers.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. This Act is known as the "Data Center Bill of Rights for Citizens."
+5 Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+6 For purposes of this chapter, "data center" means a centralized repository for the
+7 dissemination, management, processing, and storage of electronic data and information.
+8 Section 3. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+9 The operator of a data center shall pay for all costs associated with the provision
+10 of electricity to the data center.
+11 A provider of electricity may not:
+12 (1) Increase fees, rates, or surcharges imposed on residential customers for the
+13 purpose of financing, offsetting, or subsidizing a data center's infrastructure costs,
+14 service demands, or utility consumption; or
+15 (2) Allocate to residential customers any cost associated with the distribution,
+16 generation, or transmission infrastructure, or any other cost attributable to the
+17 data center.
+18 Section 4. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+19 The state may not preempt or otherwise limit the authority of the governing body
+20 of a county, municipality, or other political subdivision to adopt ordinances and resolutions
+21 limiting, prohibiting, or otherwise regulating the construction, development, or operation
+22 of data centers.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.729.44 2 135
+1 Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+2 The state, or any political subdivision of the state, may not authorize or grant any
+3 tax exemption to a data center.
+4 Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+5 Prior to commencing operation in this state, the operator of a data center shall
+6 provide notice of projected water consumption to each local water provider in the area in
+7 which the data center is proposed to be located. Each water provider receiving notice
+8 pursuant to this section shall determine whether the data center's projected water
+9 consumption is compatible with the local water supply and issue that determination in
+10 writing to the operator. The operator shall present a copy of each notice and determination
+11 to the Board of Water Management.
+12 If the board receives a determination from each applicable water provider that the
+13 data center's projected water consumption is compatible with the local water supply, the
+14 board must issue, to the operator and the general public, a written statement that the
+15 operator has satisfied the requirements of this section.
+16 Notwithstanding the board's issuance of a written statement pursuant to this
+17 section, the data center may not consume an amount of the local water supply exceeding
+18 limits established by order of the board, after allocation to residential and essential public
+19 services. In establishing allocation limits under this section, the board shall seek to ensure
+20 water availability and prevent disproportionate use of water by data centers.
+21 Section 7. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+22 The operator of a data center that is authorized to operate in this state pursuant
+23 to this chapter, shall, at the time and in the manner prescribed by the Board of Water
+24 Management, submit to the board a semi-annual report regarding the data center's water
+25 use. The report must contain average usage data and certify compliance with this section.
+26 The board shall make the usage data contained in the report available to the public.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

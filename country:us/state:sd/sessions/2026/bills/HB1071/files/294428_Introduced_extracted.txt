@@ -1,0 +1,50 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.503.9 101st Legislative Session 1071
+2026 South Dakota Legislature
+House Bill 1071
+Introduced by: Representative Jordan
+1 An Act to establish a ten-year boat registration for owners of certain boats.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 32-3A-13 be AMENDED:
+4 32-3A-13. Each Except for a ten-year registration as provided in section 2 of this
+5 Act, each registration and validation decal shall expire expires on the last day of the month
+6 of the year for which it was issued.
+7 The boat shall A boat must be registered in the same manner as a motor vehicles
+8 vehicle pursuant to §§ 32-5-2.2 and 32-5-2.6. The registration may be renewed by the
+9 owner and new validation decals obtained as provided in § 32-3A-4.
+10 A ten-year registration expires on the last day of the month of issuance in the tenth
+11 year and may be renewed for successive ten-year periods, if the owner continues to be
+12 eligible pursuant to the requirements of section 2 of this Act.
+13 Section 2. That a NEW SECTION be added to chapter 32-3A:
+14 The owner of a boat that is transported exclusively on a trailer that is registered,
+15 in this state, to the owner pursuant to § 32-5-8 may elect to register the boat for a period
+16 of ten years.
+17 In addition to and when satisfying the requirements of § 32-3A-4, the owner must
+18 provide proof of registration of the trailer used to transport the boat and submit an
+19 affidavit stating that the boat is transported exclusively on the trailer.
+20 The owner must pay a fee set by the commission, as authorized in § 32-3A-4, only
+21 when applying for or renewing a ten-year registration.
+22 Upon approval of the application, the county treasurer must issue to the owner a
+23 registration certificate and decals in the same manner as prescribed in § 32-3A-5, except
+24 that the decals must be marked to reflect the ten-year registration, with the month and
+25 year of expiration listed.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.503.9 2 1071
+1 If, during the ten-year registration period, the trailer is no longer registered to the
+2 owner, the boat registration converts to an annual registration pursuant to § 32-3A-13
+3 and expires on:
+4 (1)_ The expiration date listed on the registration certificate and decals, if less than one
+5 year remains in the ten-year registration period; or
+6 (2) December thirty-first of the year in which the trailer was last registered to the
+7 owner, if the time remaining in the ten-year registration period is one year or more.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

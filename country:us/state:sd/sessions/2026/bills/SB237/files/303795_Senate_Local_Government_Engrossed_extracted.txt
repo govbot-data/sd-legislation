@@ -1,0 +1,26 @@
+Title: 
+Official Title: 
+Source: versions - Senate Local Government Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.919.10 101st Legislative Session 237
+2026 South Dakota Legislature
+Senate Bill 237
+SENATE LOCAL GOVERNMENT ENGROSSED
+This bill has been extensively amended (hoghoused) and may no longer be
+consistent with the original intention of the sponsor.
+Introduced by: Senator Davis
+1 An Act to require that counties provide written notice to township supervisors of
+2 conditional use applications and appeals.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 11-2:
+5 A county shall provide to each township supervisor who has an oath filed in the
+6 office of the county auditor, pursuant to § 8-4-3, written notice of any application for the
+7 conditional use of real property or any appeal filed pursuant to this chapter, for property
+8 located in the township, at least ten days before the board of adjustment or other
+9 approving authority holds a public hearing on the application or appeal.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

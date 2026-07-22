@@ -1,0 +1,101 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.767.11 101st Legislative Session 1162
+2026 South Dakota Legislature
+House Bill 1162
+Introduced by: Representative Hunt
+1 An Act to add certain substances to Schedule I of the controlled substances
+2 schedule.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 34-20B-12 be AMENDED:
+5 34-20B-12. Any of the following substances, including their isomers, esters,
+6 ethers, salts, and salts of isomers, esters, and ethers, is included in Schedule I, unless
+7 specifically excepted, whenever the existence of such isomers, esters, ethers, and salts is
+8 possible within the specific chemical designation:
+9 (1) Acetylmethadol;
+10 (2) Allylprodine;
+11 (3) Alphacetylmethadol, except levo-alphacetylmethadol, also known as levo-alpha-
+12 acetylmethadol, levomethadyl acetate or LAAM;
+13 (4) Alphameprodine;
+14 (5) Alphamethadol;
+15 (6) Benzethidine;
+16 (7) Betacetylmethadol;
+17 (8) Betameprodine;
+18 (9) Betamethadol;
+19 (10) Betaprodine;
+20 (11) Clonitazene;
+21 (12) Dextromoramide;
+22 (13) Diampromide;
+23 (14) Diethyliambutene;
+24 (15) Dimenoxadol;
+25 (16) Dimepheptanol;
+26 (17) Dimethyliambutene;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.767.11 2 1162
+1 (18) Dioxaphetyl butyrate;
+2 (19) Dipipanone;
+3 (20) Ethylmethylthiambutene;
+4 (21) Etonitazene;
+5 (22) Etoxeridine;
+6 (23) Fenethylline;
+7 (24) Furethidine;
+8 (25) Hydroxypethidine;
+9 (26) Ketobemidone;
+10 (27) Levomoramide;
+11 (28) Levophenacylmorphan;
+12 (29) Mecloqualone;
+13 (30) Morpheridine;
+14 (31) Noracymethadol;
+15 (32) Norlevorphanol;
+16 (33) Normethadone;
+17 (34) Norpipanone;
+18 (35) Phenadoxone;
+19 (36) Phenampromide;
+20 (37) Phenibut;
+21 (38) Phenomorphan;
+22 (38)(39) Phenoperidine;
+23 (39)(40) Piritramide;
+24 (40)(41) Proheptazine;
+25 (41)(42) Properidine;
+26 (42)(43) Racemoramide;
+27 (43)(44) Tianeptine;
+28 (45) Trimeperidine;
+29 (44)(46) Methaqualone;
+30 (45)(47) N-benzylpiperazine;
+31 (46)(48) 4-chloro-N-[1-[2-(4-nitrophenyl)ethyl]-2-piperidinylidene]-
+32 benzenesulfonamide, W-18;
+33 (47)(49) N,N-diethyl-2-(2-(4 isopropoxybenzyl)-5-nitro-1H-benzimidazol-1-yl)ethan-
+34 1-amine, also known as isotonitazene;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.767.11 3 1162
+1 (48)(50) 2-(2-(4-butoxybenzyl)-5-nitro-1H-benzimidazol-1-yl)-N,N-diethylethan-1-
+2 amine (butonitazene);
+3 (49)(51) 2-(2-(4-ethoxybenzyl)-1H-benzimidazol-1-yl)-N,N-diethylethan-1-amine
+4 (etodesnitazene, etazene);
+5 (50)(52) N,N-diethyl-2-(2-(4-fluorobenzyl)-5-nitro-1H-benzimidazol-1-yl)ethan-1-
+6 amine) (flunitazene);
+7 (51)(53) N,N-diethyl-2-(2-(4-methoxybenzyl)-1H-benzimidazol-1-yl)ethan-1-amine
+8 (metodesnitazene);
+9 (52)(54) N,N-diethyl-2-(2-(4-methoxybenzyl)-5-nitro-1H-benzimidazol-1-yl)ethan-1-
+10 amine (metonitazene);
+11 (53)(55) 2-(4-ethoxybenzyl)-5-nitro-1-(2-(pyrrolidin-1-yl)ethyl)-1H-benzimidazole (N-
+12 pyrrolidino etonitazene, etonitazepyne);
+13 (54)(56) N,N-diethyl-2-(5-nitro-2-(4-propoxybenzyl)-1H-benzimidazol-1-yl)ethan-1-
+14 amine (protonitazene);
+15 (55)(57) 7-[(10,11-dihydro-5 H -dibenzo[a,d]cyclohepten-5-yl)amino]heptanoic acid)
+16 (amineptine);
+17 (56)(58) N-phenyl-N′ -(3-(1-phenylpropan-2-yl)-1,2,3-oxadiazol-3-ium-5-
+18 yl)carbamimidate) (mesocarb); and
+19 (57)(59) N-methyl-1-(thiophen-2-yl)propan-2-amine (methiopropamine).
+Underscores indicate new language.
+Overstrikes indicate deleted language.

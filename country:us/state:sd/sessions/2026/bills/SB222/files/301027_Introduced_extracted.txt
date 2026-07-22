@@ -1,0 +1,66 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.982.13 101st Legislative Session 222
+2026 South Dakota Legislature
+Senate Bill 222
+Introduced by: Senator Karr
+1 An Act to make an appropriation for eligible water, wastewater, storm water, and
+2 nonpoint source projects and to declare an emergency.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. There is appropriated $10,000,000 from the general fund, to the Department of
+5 Agriculture and Natural Resources, for the purpose of providing grants for eligible water,
+6 wastewater, storm water, and nonpoint source projects in accordance with the guidance
+7 provided in section 2 of this Act.
+8 Section 2. To be eligible for funding, projects must go through the Department of Agriculture
+9 and Natural Resources by way of the Board of Water and Natural Resources and be included
+10 in the state water plan. The following funding terms apply to eligible projects under this Act:
+11 (1) Eligible applicants may receive a grant award limited to a per person project cost
+12 based on the population served by the system or municipality, using the 2020
+13 federal census numbers or system service numbers, as determined by the board.
+14 The grant limit must apply to each applicant, regardless of the project cost or the
+15 number of projects in need of funding, and must be determined as follows:
+16 (a) Systems or municipalities with service populations of up to one thousand
+17 may receive up to an eighty percent grant, with a maximum project cost
+18 for determining the grant amount limited to nine thousand dollars per
+19 person per applicant for all eligible projects considered for grants;
+20 (b) Systems or municipalities with service populations with at least one
+21 thousand and up to two thousand five hundred may receive up to a fifty
+22 percent grant with a maximum project cost for determining the grant
+23 amount limited to seven thousand dollars per person per applicant for all
+24 eligible projects considered for grants; and
+25 (c) Systems or municipalities with service populations greater than two
+26 thousand five hundred may receive a thirty percent grant with a maximum
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.982.13 2 222
+1 project cost for determining the grant amount limited to three thousand
+2 dollars per person per applicant for all eligible projects considered for
+3 grants;
+4 (2) Projects addressing regionalization and consolidation, environmental and health
+5 regulatory compliance issues, drought resiliency, water availability, nonpoint
+6 source improvements, or other significant environmental issues may receive
+7 funding above the grant limits in this Act. The department shall evaluate projects
+8 and make recommendations to the board for funding based on need and positive
+9 long-term benefits of the project; and
+10 (3) Eligible engineering studies for projects with long term drought resiliency, drinking
+11 water availability issues, or water or wastewater regionalization projects may be
+12 awarded a grant in an amount up to one hundred percent of the study cost.
+13 The board has discretion to deny funding for lake dredging and projects that do
+14 not align with cost effective regionalization.
+15 Section 3. The secretary of the Department of Agriculture and Natural Resources shall
+16 approve vouchers and the state auditor shall draw warrants to pay expenditures authorized
+17 by this Act.
+18 Section 4. Any amounts appropriated in this Act not lawfully expended shall revert in
+19 accordance with the procedures prescribed in chapter 4-8.
+20 Section 5. Whereas, this Act is necessary for the support of the state government and its
+21 existing public institutions, an emergency is hereby declared to exist, and this Act shall be in
+22 full force and effect from and after its passage and approval.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

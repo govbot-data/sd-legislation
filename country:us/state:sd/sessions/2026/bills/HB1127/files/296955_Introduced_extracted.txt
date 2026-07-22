@@ -1,0 +1,69 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.208.9 101st Legislative Session 1127
+2026 South Dakota Legislature
+House Bill 1127
+Introduced by: Representative Soye
+1 An Act to revise provisions related to birth centers and the practice of certified
+2 professional midwives at birth centers.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 34-12-59 be AMENDED:
+5 34-12-59. Except as provided in § 34-12-60, no person may establish or operate
+6 a birth center in this state without an appropriate a license issued under §§ 34-12-57 to
+7 34-12-63, inclusive by the Department of Health in accordance with § 34-12-61.
+8 Section 2. That § 34-12-60 be AMENDED:
+9 34-12-60. The following facilities are exempt from the requirements of §§ 34-12-
+10 57 to 34-12-63 section 5 of this Act, inclusive:
+11 (1) A hospital licensed pursuant to this chapter; and
+12 (2) A critical access hospital licensed pursuant to this chapter.
+13 Section 3. That § 34-12-61 be AMENDED:
+14 34-12-61. An applicant for A person seeking a birth center license shall submit an
+15 application to the Department of Health on a form prescribed by the department. The
+16 application shall must be accompanied by a nonrefundable license fee of five hundred
+17 dollars. The department shall issue a license if, after inspection and investigation, the
+18 department finds that the application and birth center meet the requirements of §§ 34-
+19 12-57 to 34-12-63 section 5 of this Act, inclusive. The birth center license is renewable
+20 annually on a form prescribed by the department.
+21 Section 4. That § 34-12-63 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.208.9 2 1127
+1 34-12-63. A birth center shall adopt, implement, and enforce a written risk
+2 assessment system that conforms to the patient assessment protocols established
+3 pursuant to § 34-12-62. A birth center A practitioner shall perform the risk assessment of
+4 a potential client prior to accepting the client for admission and shall only may admit only
+5 a client that who has been assessed to have a low-risk pregnancy. A birth center client
+6 practitioner shall be continually assessed assess a client to identify if her condition
+7 deviates from a low-risk pregnancy at any time during the pregnancy, delivery, or
+8 postpartum period. At least one practitioner or registered nurse must be on duty in the
+9 birth center at all times if a client is in active labor. The birth center practitioner shall refer
+10 or transfer the client to a physician or hospital in accordance with the standards
+11 established pursuant to § 34-12-62.
+12 Any licensed practical nurse or other nursing personnel involved in client care must
+13 be under the direct supervision of a practitioner or registered nurse licensed in accordance
+14 with chapter 36-9.
+15 For purposes of this section, "practitioner" means a:
+16 (1) Physician licensed in accordance with chapter 36-4;
+17 (2) Certified nurse midwife authorized to practice nurse midwifery as provided in
+18 chapter 36-9A; or
+19 (3) Certified professional midwife licensed in accordance with chapter 36-9C.
+20 Section 5. That a NEW SECTION be added to chapter 34-12:
+21 A birth center must have a written plan for each client that:
+22 (1) Addresses the client's medical, physical, mental, and emotional needs;
+23 (2) Is based on a physical examination of the client and an assessment of the client's
+24 medical history upon admission; and
+25 (3) Is approved by the client's attending practitioner, as defined § 34-12-63.
+26 Each client's attending practitioner is responsible for documenting orders and
+27 progress notes on the client's medical record.
+28 Section 6. That § 34-12-58 be REPEALED.
+29 Any birth center shall be located within thirty minutes normal driving time of a
+30 hospital licensed pursuant to this chapter that provides routine birth services.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

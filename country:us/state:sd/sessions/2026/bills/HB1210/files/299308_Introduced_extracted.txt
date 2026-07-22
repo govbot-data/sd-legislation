@@ -1,0 +1,23 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.673.12 101st Legislative Session 1210
+2026 South Dakota Legislature
+House Bill 1210
+Introduced by: Representative Garcia
+1 An Act to prohibit COVID-19 vaccination requirements and to provide a penalty
+2 therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 34-22:
+5 Notwithstanding any other provision of law, no employer, educational institution,
+6 state agency, political subdivision, or other person may require an individual to receive a
+7 COVID-19 vaccination as a condition of employment, enrollment, or for the receipt of a
+8 benefit or service.
+9 A violation of this section is a Class 2 misdemeanor.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

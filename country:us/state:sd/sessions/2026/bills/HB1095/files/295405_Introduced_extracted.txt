@@ -1,0 +1,210 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.405.21 101st Legislative Session 1095
+2026 South Dakota Legislature
+House Bill 1095
+Introduced by: Representative Reimer
+1 An Act to modify provisions pertaining to the submission of a nominating petition.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 9-13-7 be AMENDED:
+4 9-13-7. No candidate for elective municipal office may be nominated unless the
+5 candidate files a nominating petition with the municipal finance officer no later than five
+6 p.m. on the Tuesday seventy days before the date of the election. A petition is considered
+7 filed if it is mailed by registered mail by five p.m. on the last day to file a petition local
+8 time, on the second Tuesday of March, for an election held on the first Tuesday after the
+9 first Monday in June, or before five p.m. local time, on the second Tuesday of August for
+10 an election held on the first Tuesday after the first Monday in November.
+11 A candidate may file a nominating petition by sending the petition to the
+12 municipality's finance officer, by registered mail, as defined in § 12-1-3. If a candidate
+13 files a nominating petition by registered mail, the petition is considered filed if the petition
+14 is received by the finance officer on or before March thirty-first, for an election held on
+15 the first Tuesday after the first Monday in June or on or before August thirty-first, for an
+16 election held on the first Tuesday after the first Monday in November.
+17 The petition must be on the form prescribed by the State Board of Elections and
+18 must contain:
+19 (1) The name of the candidate;
+20 (2) The candidate's residential address;
+21 (3) The candidate's mailing address, if applicable; and
+22 (4) The office the candidate seeks.
+23 If an individual who signs a petition lives within a second-class or third-class
+24 municipality, the individual may give the individual's post office box number in lieu of a
+25 street address.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.405.21 2 1095
+1 The finance officer may only accept a nominating petition that is on the prescribed
+2 form and was circulated and submitted pursuant to the provisions of this chapter and
+3 chapter 12-6. The municipal finance officer or clerk shall verify by signature that the
+4 nominating petition contains the minimum number of signatures of registered voters
+5 within the municipality or ward, and that the candidate is a registered voter within the
+6 municipality or ward. Upon verification, the filing of a nominating petition constitutes
+7 nomination.
+8 Section 2. That § 9-13-7.1 be AMENDED:
+9 9-13-7.1. Any person who has filed a nominating petition pursuant to § 9-13-7
+10 may withdraw from the nomination by a written request, signed by the person and
+11 properly acknowledged and filed with the finance officer of the municipality. The name of
+12 a withdrawn or deceased candidate may not be printed on the ballot if the candidate
+13 withdraws or dies no later than five p.m. on the deadline day for filing nominating
+14 petitions. If the withdrawal or death of a candidate occurs at any time prior to five p.m.
+15 on the deadline day for filing nominating petitions results in there being no contest on the
+16 ballot, that ballot need not be voted. In addition, if that contest constitutes the only ballot
+17 to be voted upon, then the election shall be canceled by the official in charge of the election
+18 and the unopposed candidate shall be issued a certificate of election.
+19 Any candidate who has filed a nominating petition pursuant to § 9-13-7 may
+20 withdraw from the nomination by making a written request under oath. The candidate
+21 shall file the request with the municipal finance officer. The finance officer may not print
+22 the name of a candidate if the candidate withdraws or dies before five p.m. local time, on
+23 the first Thursday after the deadline for filing a nominating petition.
+24 If the death or withdrawal of a candidate at any time before the withdrawal
+25 deadline results in the number of nominating petitions filed for the vacant position to be
+26 equal to or less than the number of vacancies, the contest may not be placed on the ballot,
+27 and the finance officer must issue a certificate of election to the unopposed candidate. If
+28 that contest is the only contest to be voted upon, the finance officer must cancel the
+29 election.
+30 Section 3. That § 12-5-3.11 be AMENDED:
+31 12-5-3.11. If a the bylaws of a political party has no prescribed method of
+32 selection of slates do not prescribe a method of selecting a slate of delegates and
+33 alternates to its the party's national convention, the slates of delegates and alternates to
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.405.21 3 1095
+1 the national convention shall must be elected by the primary. Names of candidates for
+2 delegates and alternates to the national convention, in number equal to the entire number
+3 of the delegates and alternates to be selected, shall be
+4 The number of candidates comprising a slate of delegates and alternates must:
+5 (1) Equal the number of delegates and alternates required to be selected from the
+6 state; and
+7 (2) Be grouped in a slate upon a single nominating petition, under the respective
+8 designations upon a single nominating petition.
+9 The nominating petition shall for a slate of delegates and alternates must contain
+10 a statement indicating the candidates for delegates candidates' collective preference
+11 choice for President president of the United States, if any, or that the candidates have no
+12 preference, or that the candidates are uncommitted. No name of any candidate for
+13 delegate or alternate may be filed in may be listed on the nominating petition of more
+14 than one slate.
+15 The nominating petition for a slate of delegates and alternates to a party's national
+16 convention must be filed with the secretary of state after December thirty first and before
+17 five p.m. central time on the last Tuesday of March before the date of the primary election.
+18 Section 4. That § 12-6-4 be AMENDED:
+19 12-6-4. Except as provided by § 12-5-4 and as may be otherwise provided in
+20 chapter 12-9, no candidate for any office to be filled, or nomination to be made, at either
+21 or both the primary or general election, other than a presidential election, may have that
+22 person's name printed upon the official primary election ballot of that person's party,
+23 unless a petition has been filed on that person's behalf after December thirty-first and by
+24 the last Tuesday of March at five p.m. local time before the date of the primary election.
+25 If the petition is mailed by registered mail by the last Tuesday of March at five p.m. local
+26 time before the primary election, the petition shall be considered timely submitted.
+27 A nominating petition for national convention delegates and alternates as provided
+28 in § 12-5-3.11 shall be filed in accordance with the provisions of this section. Nominating
+29 petitions for all party and public offices except legislative and judicial offices shall be filed
+30 in the office of the county auditor of the county in which the person is a candidate.
+31 Nominating petitions for legislative and judicial office whether elected in one or more
+32 counties, and all other party and public offices to be voted on in more than one county
+33 shall be filed in the Office of the Secretary of State.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.405.21 4 1095
+1 Except as otherwise provided by § 12-5-4 and chapter 12-9, a candidate for
+2 nomination or election to any office, other than a presidential election, may not have the
+3 candidate's name printed on the official primary election ballot of the candidate's political
+4 party, unless a petition has been filed on the candidate's behalf after December thirty-
+5 first, but before five p.m. local time on the second Tuesday of March before the date of
+6 the primary election.
+7 A candidate may file a nominating petition by submitting the petition to the officer
+8 with whom the petition must be filed, by registered mail, as defined in § 12-1-3. If a
+9 candidate files a nominating petition by registered mail, the petition is considered filed if
+10 the petition is received by the officer with whom the petition must be filed, on or before
+11 March thirty-first.
+12 A nominating petition must be filed:
+13 (1) With the secretary of state, for:
+14 (a) A legislative or judicial office; and
+15 (b) Any office to be voted on by the voters of more than one county; and
+16 (2) With the auditor of the county in which the individual is a candidate, for all county
+17 offices.
+18 Section 5. That § 12-6-8.1 be AMENDED:
+19 12-6-8.1. Any person may have his or her name withdrawn candidate may
+20 withdraw the candidate's name from the primary election by making a written request
+21 under oath. The candidate shall file the request shall be filed with the officer with whom
+22 the nominating petition was filed pursuant to § 12-6-4, not later than two days after the
+23 last Tuesday in March at five p.m. If the request is mailed by registered mail not later
+24 than two days after the last Tuesday in March at five p.m., the request is properly filed.
+25 No, before five p.m. local time, on the first Thursday after the deadline for filing a
+26 nominating petition.
+27 The candidate may withdraw the candidate's name by submitting the written
+28 request to the officer with whom the nominating petition was filed, by registered mail, as
+29 defined in § 12-1-3. If the candidate submits a written request to withdraw from the
+30 primary by registered mail, the request is properly filed if the request is received by the
+31 officer, on or before March thirty-first.
+32 A name that is withdrawn pursuant to this section may not be printed on the ballots
+33 to be used at the election.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.405.21 5 1095
+1 Section 6. That § 13-7-6 be AMENDED:
+2 13-7-6. No candidate for elective school board membership may be nominated
+3 unless the candidate is a resident voter of the school district and unless the candidate files
+4 a nominating petition with the business manager of the school district. The candidate must
+5 file the nominating petition no later than five p.m. on the Tuesday seventy days before
+6 the date of the election. The petition is considered timely filed if the petition is mailed by
+7 registered mail by five p.m. on the Tuesday seventy days before the date of the election
+8 before five p.m. local time, on the second Tuesday of:
+9 (1) March, for an election held on the first Tuesday after the first Monday in June; or
+10 (2) August, for an election held on the first Tuesday after the first Monday in
+11 November.
+12 A candidate may file a nominating petition by sending the petition to the school
+13 district's business manager, by registered mail, as defined in § 12-1-3. If a candidate files
+14 a nominating petition by registered mail, the petition is considered filed if the petition is
+15 received by the business manager on or before March thirty-first, for an election held on
+16 the first Tuesday after the first Monday in June or on or before August thirty-first, for an
+17 election held on the first Tuesday after the first Monday in November.
+18 The candidate shall sign a formal declaration of candidacy before the circulation of
+19 the petition. The petition must be signed by at least twenty voters of the school district or
+20 if the school district is divided into school board representation areas, the petition must
+21 be signed by at least twenty voters who reside within the school board representation
+22 area. A nominating petition may not be circulated more than four months before the
+23 election. If the election is held on the first Tuesday after the first Monday in June, the
+24 candidate may not circulate a nominating petition before January first. If the election is
+25 held on the first Tuesday after the first Monday of November, the candidate may not
+26 circulate a nominating petition before June first.
+27 An individual who signs a petition or the petition circulator shall write the
+28 individual's place of residence and date of signing. The petition circulator must verify the
+29 petition under oath.
+30 The business manager shall verify by signature that the candidate is a resident
+31 voter of the school district and that the nominating petition contains the minimum number
+32 of signatures. Upon verification by the business manager, the filing of the nominating
+33 petition constitutes nomination and entitles the candidate to have the candidate's name
+34 placed on the ballot for the term the candidate specifies on the petition.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.405.21 6 1095
+1 Section 7. That § 13-7-7 be AMENDED:
+2 13-7-7. Any person who has filed a nominating petition pursuant to § 13-7-6 may
+3 withdraw from nomination by request in writing signed by the person and properly
+4 acknowledged and filed with the election official of the school district by five p.m. on the
+5 deadline day for filing nominating petitions. No name withdrawn may be printed on the
+6 ballots to be used.
+7 Any candidate who has filed a nominating petition pursuant to § 13-7-6 may
+8 withdraw from the nomination by making a written request under oath. The candidate
+9 shall file the request with the school district's business manager. The business manager
+10 may not print the name of a candidate if the candidate withdraws or dies before five p.m.
+11 local time on the first Thursday after the deadline for filing a nominating petition.
+12 If the death or withdrawal of a candidate at any time before the withdrawal
+13 deadline results in the number of nominating petitions filed for the vacant position to be
+14 equal to or less than the number of vacancies, the contest may not be placed on the ballot,
+15 and the business manager shall issue a certificate of election to the unopposed candidate.
+16 If that contest is the only contest to be voted upon, the business manager must cancel
+17 the election.
+18 Section 8. This Act is effective beginning December 1, 2026.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

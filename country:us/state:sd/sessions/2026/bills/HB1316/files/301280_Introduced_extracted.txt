@@ -1,0 +1,33 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.829.9 101st Legislative Session 1316
+2026 South Dakota Legislature
+House Bill 1316
+Introduced by: Representative Kayser
+1 An Act to revise the time for conducting the canvass of an election.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 12-20-36 be AMENDED:
+4 12-20-36. Within six calendar days after the close of any election, the officer The
+5 person in charge of the election, with the assistance of a majority of the governing board
+6 as the canvassing board, shall make the canvass of votes at nine a.m. local time on the
+7 first Tuesday following the election. Each member of the governing board may name and
+8 have on file with the officer in charge of the election a person to represent the member at
+9 the official canvass in the event of the member's absence for cause.
+10 The person in charge of the election shall post the time and place of the canvass
+11 to the secretary of state's website.
+12 Section 2. That § 12-20-47 be AMENDED:
+13 12-20-47. Within seven days after the day of election, the The Board of State
+14 Canvassers shall open and examine the returns from each county. However, if at nine
+15 a.m. central time on the second Tuesday following the election. If the returns from each
+16 county have not been received, the board may adjourn, not exceeding for a period of
+17 time not to exceed ten days, for the purpose of obtaining the returns from each county.
+18 The board shall proceed with the canvass after the returns have been received from each
+19 county.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

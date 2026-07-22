@@ -1,0 +1,33 @@
+Title: 
+Official Title: 
+Source: versions - House State Affairs Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.765.10 101st Legislative Session 1209
+2026 South Dakota Legislature
+House Bill 1209
+HOUSE STATE AFFAIRS ENGROSSED
+Introduced by: Representative Garcia
+1 An Act to require employment verification eligibility through the e-verify program
+2 and to provide a penalty therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 60-2:
+5 Every employer, as defined in § 61-1-4, after hiring an employee, shall verify the
+6 employment eligibility of the employee through the United States Department of
+7 Homeland Security's e-verify program, and shall keep a record of the verification for the
+8 duration of the employee's employment.
+9 Section 2. That a NEW SECTION be added to chapter 60-2:
+10 The attorney general may, upon receipt of a complaint, investigate an alleged
+11 violation of section 1 of this Act. If the attorney general deems the complaint meritorious,
+12 the attorney general may recover a civil penalty of two-thousand dollars for each violation.
+13 The attorney general shall forward to the state treasurer for deposit in the general fund
+14 any civil penalty recovered pursuant to this section.
+15 Section 3. That a NEW SECTION be added to chapter 60-2:
+16 Any individual may not knowingly submit false information or documents to an
+17 employer to evade determination of employment eligibility under the e-verify program.
+18 A violation of this section is a Class 1 misdemeanor.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

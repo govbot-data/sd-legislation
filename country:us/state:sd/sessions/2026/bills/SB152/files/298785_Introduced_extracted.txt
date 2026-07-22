@@ -1,0 +1,31 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.894.10 101st Legislative Session 152
+2026 South Dakota Legislature
+Senate Bill 152
+Introduced by: Senator Duhamel
+1 An Act to establish provisions relating to the use of military protective orders upon
+2 arrest and as evidence in an action for a protection order.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 23A-3:
+5 When a law enforcement officer arrests any person who is a member of, or
+6 otherwise associated with, the armed forces of the United States, the officer must
+7 determine whether a military protective order registered in the Federal Bureau of
+8 Investigation's National Crime Information Center database has been issued against the
+9 person. If the officer has probable cause to believe the person has violated the military
+10 protective order, the officer must notify the authority that issued the military protective
+11 order.
+12 For purposes of this section, "military protective order" has the same meaning as
+13 in 32 C.F.R. § 635.19 (January 23, 2026).
+14 Section 2. That a NEW SECTION be added to chapter 25-10:
+15 In any proceeding under this chapter, a military protective order, as defined in 32
+16 C.F.R. § 635.19 (January 23, 2026), may be admitted as evidence in order to establish a
+17 relevant pattern or course of conduct of the respondent.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

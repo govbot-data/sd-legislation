@@ -1,0 +1,122 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.557.17 101st Legislative Session 112
+2026 South Dakota Legislature
+Senate Bill 112
+Introduced by: Senator Carley
+1 An Act to establish a currency based on gold and silver.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to a NEW CHAPTER in title 1:
+4 Terms used in this chapter mean:
+5 (1) “Bullion,” refined precious gold or silver metal, valued primarily based on its metal
+6 content and not on its form or function;
+7 (2) “Bullion depository,” an entity providing vault facilities within the United States for
+8 the storage of bullion, which:
+9 (a) Complies with the administrative rules promulgated for the selection of or
+10 establishment of a bullion depository per section 3 of this Act; and
+11 (b) Has a contractual relationship to provide services for deposits of specie or
+12 legal tender for an authorized electronic payment system vendor;
+13 (3) “Depository agent,” a private entity authorized by the state treasurer to operate a
+14 bullion depository or perform related services under this chapter;
+15 (4) “Electronic payment system,” an electronic platform or payment system that uses
+16 gold or silver specie as the basis for transactions and that:
+17 (a) Uses bullion held in a bullion depository for electronic transactions;
+18 (b) Allows for the redemption of bullion by system participants;
+19 (c) Enables account holders to make payments to participating vendors; and
+20 (d) Is authorized and approved by the state treasurer to provide accounts that
+21 hold bullion and allow users to buy, sell, save, or spend bullion as a form of
+22 legal tender;
+23 (5) “Legal tender,” a medium of exchange, including specie, recognized by this state
+24 for the payment of debts, taxes, fees, and other obligations;
+25 (6) “Social credit scoring system,” a method of recordkeeping, data collection, or
+26 scoring that evaluates, monitors, or ranks an individual’s or entity’s behavior,
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.557.17 2 112
+1 beliefs, associations, or compliance with government or corporate standards, and
+2 that conditions access to services, benefits, or opportunities based on that
+3 evaluation;
+4 (7) “Specie,” coin or bullion of gold or silver having intrinsic value and used or intended
+5 for use as money, in physical forms certified at least ninety-nine and one-half
+6 percent pure in the case of gold and ninety-nine and nine-tenths percent pure in
+7 the case of silver, and coined, stamped, or imprinted with its weight and purity;
+8 and
+9 (8) “Transactional gold and silver,” a representation of physical gold, silver, or bullion,
+10 that reflects the exact units of metal in fractional troy ounces or grams and that:
+11 (a) May be transferred through electronic or written instruction by the owner;
+12 (b) May be used to make or receive payments, or to transfer value, within this
+13 state or between parties who consent to its use; and
+14 (c) Is fully backed by specie held in a qualified depository and redeemable on
+15 demand by the holder in the underlying gold or silver specie or bullion.
+16 Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 1:
+17 Gold and silver specie are recognized as legal tender in this state and, beginning
+18 July 1, 2027, may be used for the payment of:
+19 (1) Debts between private parties, if mutually agreed upon; and
+20 (2) Taxes, fees, or other obligations owed to this state or a political subdivision, if the
+21 state or political subdivision agrees to accept specie as payment.
+22 No person or entity is compelled to accept gold or silver specie as payment, except
+23 as provided in this section or by mutual agreement or where payments are made by an
+24 electronic payment system participant in gold or silver specie and the other party receives
+25 U.S. dollars utilizing traditional payment mechanisms.
+26 Section 3. That a NEW SECTION be added to a NEW CHAPTER in title 1:
+27 The state treasurer shall promulgate rules pursuant to chapter 1-26 to:
+28 (1) Define the shape or form of gold and silver bullion used for the purposes set forth
+29 in this chapter;
+30 (2) Designate or establish a bullion depository for secure storage of gold and silver
+31 specie, to facilitate transactions under section 2 of this Act; and
+32 (3) Authorize an electronic payment system that enables vendors to receive and
+33 process payments using gold or silver specie.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.557.17 3 112
+1 Section 4. That a NEW SECTION be added to a NEW CHAPTER in title 1:
+2 The state treasurer may:
+3 (1) Operate the bullion depository directly or contract with a depository agent; and
+4 (2) Contract with one or more private entities to develop or operate the electronic
+5 payment system.
+6 Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 1:
+7 The state treasurer shall promulgate rules pursuant to chapter 1-26 to ensure that:
+8 (1) The bullion depository is secure, transparent, and accessible to residents of this
+9 state;
+10 (2) The electronic payment system is reliable and compliant with existing state and
+11 federal law;
+12 (3) Any depository agent or contracted entity operates in the best interests of this
+13 state and the depositors acting in reliance on the depository agent or contracted
+14 agency;
+15 (4) Deposits in a state-authorized bullion depository for the purpose of electronic
+16 exchange are insured for one hundred percent of the full replacement value under
+17 an all-risk insurance policy issued by a non-governmental-operated insurer;
+18 (5) The sufficiency of gold and silver specie held by a state-authorized bullion
+19 depository is verified by the treasurer at regular intervals;
+20 (6) Appropriate fraud prevention measures are established to prevent the procurement
+21 of bullion, specie, or transactional gold and silver through a knowing
+22 misrepresentation or knowing concealment of a material fact made to induce
+23 another person to act to that person's detriment;
+24 (7) A system participant's transaction information is not:
+25 (a) Shared without proper court authorization; or
+26 (b) Used in any type of social credit scoring system; and
+27 (8) A system participant's deposits are the sole property of the participant and are not
+28 subject to state appropriation without due process.
+29 Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 1:
+30 The exchange of one type or form of legal tender for another type or form of legal
+31 tender, as provided in this chapter, does not give rise to any tax liability.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.557.17 4 112
+1 Section 7. That a NEW SECTION be added to a NEW CHAPTER in title 1:
+2 The state treasurer shall submit to the Legislature, by December first of each year,
+3 a report detailing, for the preceding fiscal year:
+4 (1) The status and operations of the bullion depository;
+5 (2) The implementation and usage of the electronic payment system; and
+6 (3) The economic impact of recognizing gold and silver specie as legal tender.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,121 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.334.22 101st Legislative Session 1155
+2026 South Dakota Legislature
+House Bill 1155
+Introduced by: Representative Manhart
+1 An Act to permit the state to invest in Bitcoin.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 4-5-26 be AMENDED:
+4 4-5-26. State public funds moneys made available for investment may be invested
+5 in the following classes of securities and investments and, except as provided by § 3-12C-
+6 223; chapter 3-13; chapter 13-63; the permanent school and other educational and
+7 charitable trust funds as provided in S.D. Const., Art. VIII, §§ 2 and 7; the permanent
+8 trust fund containing the net proceeds from the sale of state cement enterprises as
+9 provided in S.D. Const., Art. XIII, § 20; the health care trust fund as provided in S.D.
+10 Const., Art. XII, § 5; and the education enhancement trust fund as provided in S.D.
+11 Const., Art. XII, § 6; not otherwise:
+12 (1) Direct and indirect obligations of the United States government;
+13 (2) Agencies and instrumentalities of the United States government;
+14 (3) Mortgage-backed securities of United States government-sponsored enterprises;
+15 (4) Direct obligations of the State of South Dakota this state and any of its political
+16 subdivisions;
+17 (5) Obligations consisting of notes, bonds, debentures, and certificates, which are direct
+18 obligations of a solvent corporation or trust existing under the laws of the United
+19 States or any state thereof, if such the investments are rated in the four highest
+20 classifications established by at least two standard rating services at the time of
+21 purchase;
+22 (6) Savings accounts, share accounts, and certificates of deposit of banks, savings and
+23 loan associations, and building and loan associations, and bankers' acceptances;
+24 (7) Repurchase agreements fully collateralized by securities described in this section;
+25 (8) Shares in exchange-traded funds and open-end, no-load funds that are
+26 administered by an investment company registered under the Federal Investment
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.334.22 2 1155
+1 Company Act of 1940, 15 U.S.C. §§ 80a-1 to 80a-64, inclusive (January 1, 2026),
+2 whose shares are registered under the Federal Securities Act of 1933, 15 U.S.C.
+3 §§ 77a to 77aa, inclusive (January 1, 2026), and investments are predominantly
+4 in securities described in this section; or and
+5 (9) Bitcoin that meet the requirements of sections 2 to 5, inclusive, of this Act.
+6 In addition to the investments authorized by subdivisions (1) to (8) of this
+7 section,inclusive, the investment council the State Investment Council may also allocate
+8 a sum certain of state public funds moneys for investment in the accounts and certificates
+9 of South Dakota banks and associations. This sum shall must initially be offered to South
+10 Dakota banks and associations, and if not initially fully subscribed, the investment officer
+11 shall must immediately reoffer the unsubscribed sum to other qualified public depositories
+12 defined by subdivision 4-6A-1(7) in § 4-6A-1.
+13 Section 2. That a NEW SECTION be added to chapter 4-5:
+14 Terms used in sections 2 to 5, inclusive, of this Act mean:
+15 (1) "Bitcoin," a digital asset that:
+16 (a) Is native to the decentralized peer-to-peer blockchain network that
+17 originates from the genesis block created on January 3, 2009; and
+18 (b) Maintains an unbroken chain of blocks from the genesis block through the
+19 chain recognized by the network of independent nodes as having the
+20 greatest cumulative proof of work;
+21 (2) "Digital asset," virtual currency, cryptocurrencies, natively electronic assets, and
+22 other digital-only assets that confer economic, proprietary, or access rights or
+23 powers;
+24 (3) "Exchange-traded product," any financial instrument that:
+25 (a) Is approved by the Securities and Exchange Commission, the United States
+26 Commodity Futures Trading Commission, or the Division of Banking;
+27 (b) Is traded on a United States regulated exchange; and
+28 (c) Derives value from an underlying pool of assets;
+29 (4) "Private key," a unique element of cryptographic data used for signing transactions
+30 on a blockchain and known only by the owner;
+31 (5) "Qualified custodian," any federal or state-chartered bank, trust company, or
+32 special purpose depository institution or company regulated by the Division of
+33 Banking, which is authorized to maintain custody of digital assets;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.334.22 3 1155
+1 (6) "Registered investment company," a financial services company regulated by the
+2 United States Securities and Exchange Commission and registered under 15 U.S.C.
+3 §§ 77a to 77aa, inclusive (January 1, 2026), and 15 U.S.C. §§ 80a-1 to 80a-64,
+4 inclusive (January 1, 2026); and
+5 (7) "Secure custody solution," a technological product or blended product and service
+6 that meets the requirements set forth in section 5 of this Act.
+7 Section 3. That a NEW SECTION be added to chapter 4-5:
+8 The amount of state moneys that the State Investment Council may invest in
+9 Bitcoin may not exceed ten percent of the state moneys made available for investment.
+10 Section 4. That a NEW SECTION be added to chapter 4-5:
+11 Any Bitcoin acquired as an investment must be held:
+12 (1) Directly by the State Investment Council through the use of a secure custody
+13 solution;
+14 (2) On behalf of the State Investment Council by a qualified custodian; or
+15 (3) In the form of an exchange-traded product issued by a registered investment
+16 company.
+17 Section 5. That a NEW SECTION be added to chapter 4-5:
+18 The secure custody solution required pursuant to section 4 of this Act must have
+19 the following characteristics:
+20 (1) The private key is exclusively controlled by the State Investment Council;
+21 (2) The private key is exclusively contained within an encrypted, hardware-secured
+22 environment and is used only to sign and authorize cryptocurrency transactions
+23 through end-to-end encryption channels;
+24 (3) Passwordless non-asset keys must be included for authentication and endorsement
+25 of action to initiate the movement of assets, provided that the keys are stored
+26 within a government device;
+27 (4) Any hardware that contains the private key is maintained in at least two
+28 geographically diverse, secure data centers;
+29 (5) The secure custody solution enforces a multi-party governance structure for
+30 authorizing transactions, enforces user access controls, and logs all user-initiated
+31 actions;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.334.22 4 1155
+1 (6) The provider of the secure custody solution has implemented a disaster recovery
+2 protocol that ensures customer access to assets in the event the provider becomes
+3 unavailable; and
+4 (7) The secure custody solution undergoes regular code audits and penetration testing
+5 from audit firms, and any identified vulnerabilities are promptly remedied.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

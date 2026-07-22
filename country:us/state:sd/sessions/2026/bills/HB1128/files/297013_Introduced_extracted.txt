@@ -1,0 +1,114 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.591.9 101st Legislative Session 1128
+2026 South Dakota Legislature
+House Bill 1128
+Introduced by: Representative Rice
+1 An Act to exempt certain nonresident military personnel from payment of motor
+2 vehicle excise tax.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 32-5B-2 be AMENDED:
+5 32-5B-2. Motor vehicles exempted from the provisions of this chapter are as
+6 follows:
+7 (1) Any motor vehicle exempted in § 32-5-1.3, 32-5-42, 32-5-42.1, or 32-5-42.2;
+8 (2) Any motor vehicle acquired by inheritance from or bequest of a decedent;
+9 (3) Any motor vehicle previously titled or licensed jointly in the names of two or more
+10 persons and subsequently transferred without consideration to one or more of such
+11 the persons;
+12 (4) Any motor vehicle transferred without consideration between spouses, between a
+13 parent and child, and between siblings;
+14 (5) Any motor vehicle transferred pursuant to any mergers or consolidations of
+15 corporations or limited liability companies consolidation or merger of a corporation
+16 or limited liability company, or plans of reorganization by which substantially all of
+17 the assets of a corporation or limited liability company are transferred, if the motor
+18 vehicle was previously titled, licensed, and registered in this state;
+19 (6) Any motor vehicle transferred by a subsidiary corporation or limited liability
+20 company to its parent corporation or limited liability company for no or nominal
+21 consideration, or in sole consideration of the cancellation or surrender of the
+22 subsidiary's stock if, provided that the motor vehicle was previously titled, licensed,
+23 and registered in this state;
+24 (7) Any motor vehicle transferred:
+25 (a) Transferred between an:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.591.9 2 1128
+1 (i) An individual and a corporation, if the individual and the owner of
+2 the majority of the capital stock of the corporation are one and the
+3 same, or any motor vehicle transferred between an; or
+4 (ii) An individual and a limited liability company, if the individual and the
+5 majority member of the limited liability company are one and the
+6 same, and if the motor vehicle; and
+7 (b) Which was previously titled, licensed, and registered in this state;
+8 (8) Any motor vehicle transferred between a corporation or limited liability company
+9 and its stockholders, members, or creditors if to:
+10 (a) To effectuate a dissolution of the corporation or limited liability company, it
+11 is necessary to transfer the title from the corporate entity or limited liability
+12 company to the stockholders, members, or creditors; and if the
+13 (b) The motor vehicle was previously titled, licensed, and registered in this
+14 state;
+15 (9) Any motor vehicle transferred between an individual and a limited or general
+16 partnership if the:
+17 (a) The individual and the owner of the majority interest in the partnership are
+18 one and the same person; and if the
+19 (b) The motor vehicle was previously titled, licensed, and registered in this
+20 state;
+21 (10) Any motor vehicle transferred to effect effectuate a sale of all or substantially all
+22 of the assets of the business entity, if the motor vehicle was previously titled,
+23 licensed, and registered in this state;
+24 (11) Any motor vehicle acquired by a secured party or lien holder in satisfaction of a
+25 debt;
+26 (12) Any motor vehicle sold or transferred that, which is eleven or more model years
+27 old and that is sold or transferred for two thousand five hundred dollars or less
+28 before trade-in;
+29 (13) Any damaged motor vehicle transferred to an insurance company in the settlement
+30 of an insurance claim;
+31 (14) Any motor vehicle owned by a former resident of this state who returns to the state
+32 and who had previously paid vehicle excise tax to this state on the motor vehicle,
+33 as evidenced within the department's records or by submission of other acceptable
+34 proof of payment of such the tax;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.591.9 3 1128
+1 (15) Any motor vehicle transferred between corporations, both subsidiary and
+2 nonsubsidiary, if the:
+3 (a) The individuals who hold a majority of stock in the first corporation also
+4 hold a majority of stock in the second corporation; but these, except that
+5 the individuals need not hold the same ratio of stock in both corporations,
+6 and if the
+7 (b) The motor vehicle was previously titled, licensed, and registered in this
+8 state;
+9 (16) Any motor vehicle transferred between limited liability companies, both subsidiary
+10 and nonsubsidiary, if the:
+11 (a) The individuals who hold a majority interest in the first limited liability
+12 company also hold a majority interest in the second limited liability
+13 company; and if the
+14 (b) The motor vehicle was previously titled, licensed, and registered in this
+15 state;
+16 (17) Any motor vehicle transferred by a trustor to a trustee or from a trustee to a
+17 beneficiary of a trust;
+18 (18) Any motor vehicle rented for twenty-eight days or less, which is subject to the tax
+19 imposed by § 32-5B-20;
+20 (19) Any motor vehicle transferred without consideration to any South Dakota nonprofit
+21 organization that is in this state, which:
+22 (a) Is exempt under 26 U.S.C. § 501(c)(3) of the Internal Revenue Code and
+23 that will donate (January 1, 2026); and
+24 (b) Donates the motor vehicle to a needy family or individual; and
+25 (20) Any motor vehicle transferred without consideration to any South Dakota nonprofit
+26 organization that is in this state, which:
+27 (a) Is exempt under 26 U.S.C. § 501 (c)(3) of the Internal Revenue Code and
+28 that sells (January 1, 2026); and
+29 (b) Sells the motor vehicle within forty-five days of the transfer; and
+30 (21) Any motor vehicle owned by nonresident military personnel, as described in § 32-
+31 5-47.1, who:
+32 (a) Is a legal resident of a state other than this state; and
+33 (b) Maintains current registration of the motor vehicle in the other state.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

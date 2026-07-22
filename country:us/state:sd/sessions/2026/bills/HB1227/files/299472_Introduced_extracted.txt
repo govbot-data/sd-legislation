@@ -1,0 +1,33 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.680.9 101st Legislative Session 1227
+2026 South Dakota Legislature
+House Bill 1227
+Introduced by: Representative Weems
+1 An Act to increase the annual fee required of an owner of an electric motor vehicle.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 32-5-188 be AMENDED:
+4 32-5-188. In addition to the license fees paid pursuant to the provisions of this
+5 chapter for a motor vehicle, the owner of an electric motor vehicle shall pay an annual fee
+6 of fifty one hundred dollars. The fee shall must be paid at the time of annual registration
+7 as otherwise provided in this chapter. However, the The license fee imposed by this section
+8 does not apply to any motorcycle propelled by an electric motor, if the license fee is paid
+9 pursuant to § 32-5-9.
+10 For the purposes of this section, the term, "electric motor vehicle," means a
+11 noncommercial motor vehicle that is propelled by an electric motor that draws electricity
+12 from a battery that is capable of being recharged from an external source of electricity,
+13 and that which may be legally operated on the interstate highways in this state and eligible
+14 for registration pursuant to the laws of this state. The electric motor vehicle shall must
+15 have been made by a manufacturer primarily for use on public streets, roads, and
+16 highways and meets must meet National Highway Traffic Safety Administration standards
+17 included provided in 49 C.F.R. § 571 as of (January 1, 2021).
+18 The fees received pursuant to this section shall must be deposited in the state
+19 highway fund.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

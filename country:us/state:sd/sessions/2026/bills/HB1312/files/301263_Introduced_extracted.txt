@@ -1,0 +1,83 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.976.13 101st Legislative Session 1312
+2026 South Dakota Legislature
+House Bill 1312
+Introduced by: Representative Rice
+1 An Act to limit annual valuation increases on owner-occupied single-family
+2 dwellings and provide an exception for mill rate limitations on taxing
+3 districts.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That § 10-6-105 be AMENDED:
+6 10-6-105. All real property subject to taxation shall must be listed and assessed
+7 annually, but the value of such the property is to be determined according to its value on
+8 the first day of November preceding the assessment, while the value of any owner-
+9 occupied single-family dwelling is subject to the value limitations provided in sections 2
+10 and 3 of this Act.
+11 Section 2. That chapter 10-6 be amended with a NEW SECTION:
+12 For purposes of the annual assessment required by § 10-6-105, the assessed value
+13 of an owner-occupied single-family dwelling may not increase more than the index factor,
+14 as defined in § 10-13-38, beginning with the base amount as determined for assessment
+15 year 2025, or any subsequent base year as provided in this section, whichever is later.
+16 When a change in ownership of an owner-occupied single-family dwelling occurs,
+17 the property must be reassessed at its fair market value, to determine the property's base
+18 amount. When an owner-occupied single-family dwelling is sold between a willing seller
+19 and a willing buyer, with no coercion or advantage taken by either party, the property's
+20 base amount may not exceed the sale price of the property.
+21 The limitation in the taxable value of owner-occupied single-family dwellings under
+22 this section may not directly result in an increase in taxes imposed on nonagricultural
+23 property or agricultural property by any taxing district.
+24 For purposes of this section, "base amount" means:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.976.13 2 1312
+1 (1) The fair market value of any owner-occupied single-family dwelling, on November
+2 1, 2020, increased by no more than the index factor, as defined in § 10-13-38, for
+3 each assessment required by § 10-6-105, which was completed in 2021, 2022,
+4 2023, and 2024;
+5 (2) Where a change in ownership of an owner-occupied single-family dwelling has
+6 occurred between November 2, 2020, and October 31, 2025, inclusive, the fair
+7 market value of the property on the date of transfer or purchase, increased by no
+8 more than the index factor, as defined in § 10-13-38, for each assessment required
+9 by § 10-6-105, which was completed after the transfer or purchase in any year
+10 between 2021 and 2024, inclusive; or
+11 (3) Where a change in ownership of an owner-occupied single-family dwelling occurs
+12 on November 1, 2025, or later, the fair market value of the property.
+13 Section 3. That a NEW SECTION be added to chapter 10-6:
+14 The base amount of any owner-occupied single-family dwelling may be further
+15 increased above the limitations provided by section 2 of this Act, if there is a change in
+16 the use or classification of the property, or to account for any addition to, or expansion
+17 of, the property.
+18 An addition to, or expansion of, the property may only result in an increase in the
+19 assessed value above the limitations provided by section 2 of this Act by the difference in
+20 assessed value between the real property with the addition or expansion and the real
+21 property as if no addition or expansion was made.
+22 For purposes of this section, the increase in taxable value from improvements to
+23 an owner-occupied single-family dwelling does not include additions to, or improvements
+24 of, existing structures affixed to the land if the improvements result in an increased
+25 assessed value of forty percent or less of the current assessed value.
+26 Section 4. That a NEW SECTION be added to chapter 10-12:
+27 Notwithstanding any other provision of law, if the limitation provided by § 10-13-
+28 35 constitutes a mill rate for a taxing district greater than a mill rate limitation provided
+29 by law for the district, the district may impose a tax levy resulting in a mill rate greater
+30 than the limits set forth in law, to the extent that the revenue payable from real property
+31 taxation in the district does not exceed the amount of revenue payable from real property
+32 taxation in the 2025 tax year, increased annually by:
+33 (1) The index factor, as defined in § 10-13-38; and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.976.13 3 1312
+1 (2) The percentage of growth in value resulting from:
+2 (a) Improvements or changes in use of the real property within the district;
+3 (b) Annexation or minor boundary changes of the district; and
+4 (c) Adjustment in taxation or classification of property within the district.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

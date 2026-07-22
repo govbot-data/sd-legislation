@@ -1,0 +1,22 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.87.21 101st Legislative Session 7
+2026 South Dakota Legislature
+Senate Bill 7
+Introduced by: Senator Rohl
+1 An Act to modify the tax rate on gold severed in this state.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 10-39-43 be AMENDED:
+4 10-39-43. For the privilege of severing precious metals in this state, there There
+5 is imposed on each person severing gold in this state, a severance tax of four dollars per
+6 ounce of one percent of the market value of gold severed by the person in this state.
+7 For purposes of this section, "market value" means the average London Bullion
+8 Market Association price of gold, over the calendar quarter in which the gold was severed.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

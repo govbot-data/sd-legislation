@@ -1,0 +1,25 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.944.15 101st Legislative Session 1246
+2026 South Dakota Legislature
+House Bill 1246
+Introduced by: Representative Hughes
+1 An Act to prohibit nondisclosure of certain agreements related to data centers.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to chapter 1-27:
+4 A state agency or political subdivision may not enter into an agreement with a non-
+5 governmental entity, private person, or public-private business concerning the
+6 construction, development, or location of a data center, which requires confidentiality or
+7 nondisclosure. An agreement under this section is a public record as defined in § 1-27-
+8 1.1.
+9 For purposes of this section, "data center" means any facility that is used as a
+10 centralized repository for the dissemination, management, processing, and storage of
+11 electronic data and information.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

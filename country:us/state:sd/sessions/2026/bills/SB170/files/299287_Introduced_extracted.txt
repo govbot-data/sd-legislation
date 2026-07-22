@@ -1,0 +1,48 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.254.11 101st Legislative Session 170
+2026 South Dakota Legislature
+Senate Bill 170
+Introduced by: Senator Larson
+1 An Act to require the provision of a notice to consumers, interacting with certain
+2 chatbots or other human-simulating computer technologies that could
+3 mislead or deceive the consumer.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That a NEW SECTION be added to chapter 37-24:
+6 Except as otherwise provided in this section, a person may not engage in a
+7 commercial transaction or trade practice with a consumer if:
+8 (1) The transaction or practice requires the consumer to communicate with or interact
+9 with a chatbot, an artificial intelligence agent, an avatar, or another form of
+10 computer technology that engages in a textual or aural conversation; and
+11 (2) The consumer could reasonably believe that the consumer is engaging with
+12 human.
+13 The prohibition set forth in this section does not apply if the consumer is notified,
+14 in a clear and conspicuous fashion, at the outset of the transaction or practice, that the
+15 consumer is not communicating with another human.
+16 Section 2. That a NEW SECTION be added to chapter 37-24:
+17 Except as otherwise provided in this section, either a consumer subjected to a
+18 commercial transaction or trade practice that does not comply with section 1 of this Act,
+19 or the attorney general, may bring a civil action against the violating person, except as
+20 provided below, and may recover:
+21 (1) Actual damages;
+22 (2) Liquidated damages in the amount of one thousand dollars for each violation; or
+23 (3) In the case of a class action, an amount not exceeding ten million dollars.
+24 The prevailing party may also recover reasonable attorney's fees and costs.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.254.11 2 170
+1 Nothing in this section permits a cause of action against an internet service
+2 provider who is involved only in the routine transmission of the violative transaction or
+3 trade practice over the provider's computer network.
+4 Section 3. That a NEW SECTION be added to chapter 37-24:
+5 The attorney general may seek injunctive relief against any person that fails to
+6 comply with section 1 of this Act.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

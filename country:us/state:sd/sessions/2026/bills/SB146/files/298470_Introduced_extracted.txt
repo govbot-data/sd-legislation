@@ -1,0 +1,51 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.750.11 101st Legislative Session 146
+2026 South Dakota Legislature
+Senate Bill 146
+Introduced by: Senator Pischke
+1 An Act to clarify the effect of the resignation of certain gubernatorial appointees.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 3-4-11 be AMENDED:
+4 3-4-11. If any position on a board or commission whose members are appointed
+5 by the Governor with the consent of the Senate becomes vacant pursuant to § 3-4-1, the
+6 Governor may make an interim appointment to fill the vacancy, but any and the Senate
+7 must act upon the appointment. The interim appointment expires when the Senate acts
+8 upon the appointee's nomination.
+9 If the vacancy is any position on a board or commission whose members are
+10 appointed by the Governor with the consent of the Senate becomes vacant as the result
+11 of a resignation, the person who has resigned remains must continue to serve on the
+12 board or commission until the earlier of:
+13 (1) The Governor appoints a appointing another person with the consent of the Senate
+14 or makes;
+15 (2) The Governor making an interim appointment to fill the vacancy or until, which
+16 must be acted upon by the Senate; or
+17 (3) Until a date set in writing by the person who resigned, whichever is sooner.
+18 If a person's term on the board or commission has expired, the person remains on
+19 the board or commission until the Governor appoints another person and the Senate
+20 consents to the appointment of the Governor's nominee or until the Governor reappoints
+21 the same person and the Senate acts upon consents to the renomination of the person
+22 whose term has expired.
+23 If a person's term on a board or commission has expired and the Governor does
+24 not nominate a another person for the new term by the tenth legislative day after the
+25 Legislature convenes, the person whose term has expired is deemed to be renominated
+26 for the new term and the Senate may shall act on the nomination accordingly. If a person
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.750.11 2 146
+1 is unable to serve an additional term due to a term limit, the person is not deemed
+2 renominated pursuant to this section and may not remain on the board or commission
+3 pursuant to this section after the adjournment of the next legislative session after the
+4 person's term expires.
+5 This section applies to any board or commission whose members are appointed by
+6 the Governor with the consent of the Senate, unless the board or commission is specifically
+7 exempted from this section by law.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

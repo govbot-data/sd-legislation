@@ -1,0 +1,25 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.625.15 101st Legislative Session 1179
+2026 South Dakota Legislature
+House Bill 1179
+Introduced by: Representative Mortenson
+1 An Act to increase the reimbursement fee for preparation of a garnishment
+2 disclosure.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 21-18-9 be AMENDED:
+5 21-18-9. If a garnishee summons, affidavit, and garnishment disclosure is served,
+6 the garnishee shall must be paid the sum of fifteen fifty dollars to reimburse the garnishee
+7 for the expense of preparing the garnishment disclosure, which sum shall must be taxed
+8 as a part of the plaintiff's costs. If the garnishee is not paid, the garnishment proceeding
+9 is void. The return of service of the garnishee summons shall must include a statement
+10 that the sum was paid. The garnishment disclosure shall must be returned to the plaintiff
+11 and filed with the court.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

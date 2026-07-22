@@ -1,0 +1,36 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.460.10 101st Legislative Session 45
+2026 South Dakota Legislature
+Senate Bill 45
+Introduced by: The Chair of the Committee on Judiciary at the request of the Attorney General
+1 An Act to revise a provision regulating delta-8 tetrahydrocannabinol, THC-O acetate,
+2 and hexahydrocannabinol for persons under the age of twenty-one and to
+3 provide a penalty therefor.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That § 34-20B-117 be AMENDED:
+6 34-20B-117. The following actions are unlawful:
+7 (1) To knowingly sell or distribute a product intended for human consumption
+8 containing delta-8 tetrahydrocannabinol, delta-9 tetrahydrocannabinolic acid, THC-
+9 O acetate, or hexahydrocannabinol to a person under the age of twenty-one;
+10 (2) The purchase or attempt to purchase, the receipt or attempt to receive, the
+11 possession, or the consumption of, a product intended for human consumption
+12 containing delta-8 tetrahydrocannabinol, delta-9 tetrahydrocannabinolic acid, THC-
+13 O acetate, or hexahydrocannabinol to by a person under the age of twenty-one;
+14 and
+15 (3) To purchase a product intended for human consumption containing delta-8
+16 tetrahydrocannabinol, delta-9 tetrahydrocannabinolic acid, THC-O acetate, or
+17 hexahydrocannabinol on behalf of, or to give a product intended for human
+18 consumption containing delta-8 tetrahydrocannabinol, THC-O acetate, or
+19 hexahydrocannabinol to, any person under the age of twenty-one, unless the
+20 purchaser is a parent or guardian of the person under the age of twenty-one.
+21 A violation of this section subdivision (1) is a Class 6 felony. A violation of
+22 subdivision (2) or (3) is a Class 2 misdemeanor.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

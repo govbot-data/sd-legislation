@@ -1,0 +1,23 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.948.9 101st Legislative Session 233
+2026 South Dakota Legislature
+Senate Bill 233
+Introduced by: Senator Davis
+1 An Act to prohibit the assessment of certain administrative fees or penalties related
+2 to the provision of care by an out-of-network provider.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 58-17F:
+5 A health carrier may not assess or impose upon a health care provider an
+6 administrative fee or penalty related to any provision of care to a patient that involved an
+7 out-of-network provider.
+8 For purposes of this section, an "out-of-network provider," means a provider, of
+9 any item or service, who is not a participating provider.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

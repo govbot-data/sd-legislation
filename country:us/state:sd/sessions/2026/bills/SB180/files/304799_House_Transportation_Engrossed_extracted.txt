@@ -1,0 +1,69 @@
+Title: 
+Official Title: 
+Source: versions - House Transportation Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.871.10 101st Legislative Session 180
+2026 South Dakota Legislature
+Senate Bill 180
+HOUSE TRANSPORTATION ENGROSSED
+Introduced by: Senator Hulse
+1 An Act to modify requirements regarding nondomiciled commercial driver licenses.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 32-12A-13 be AMENDED:
+4 32-12A-13. The department may issue a nondomiciled commercial learner's permit or
+5 commercial driver license to:
+6 (1) A person who is domiciled in a foreign jurisdiction whose commercial motor vehicle
+7 testing and licensing standards, as determined by the administrator of the Federal
+8 Motor Carrier Safety Administration, do not meet the testing standards established
+9 in 49 C.F.R. Part 383 as amended through January 1, 2015;
+10 (2) A person who is domiciled in a state whose commercial driver licensing program
+11 has been decertified by the administrator of the Federal Motor Carrier Safety
+12 Administration.
+13 an applicant who meets the requirements set forth in 49 C.F.R. §§ 383 and 384 (January
+14 1, 2026). In addition, the department must observe the following conditions applicable to
+15 the issuance of a nondomiciled commercial learner's permit or commercial driver license
+16 in this state:
+17 (1) An applicant may only be:
+18 (a) An individual who has lawful, employment-based nonimmigrant status in
+19 the H-2A, H-2B, or E-2 visa category; or
+20 (b) An individual domiciled in a United States territory, who holds any of the
+21 same employment-based visas described in subsection (a);
+22 (2) Any non-citizen applicant, except for a lawful permanent resident, must provide an
+23 unexpired foreign passport and an unexpired form I-94 or I-94A that indicates a
+24 specified type of employment-based nonimmigrant status at every issuance,
+25 transfer, renewal, and upgrade action;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.871.10 2 180
+1 (3) The department must query the Systematic Alien Verification for Entitlements
+2 system, administered by the U.S. Citizenship and Immigration Services, to confirm
+3 the applicant's claim of lawful immigration status in a specified category;
+4 (4) The department must retain copies of the application documents for at least two
+5 years;
+6 (5) The expiration date for any nondomiciled commercial learner's permit or
+7 commercial driver license must match the expiration date on the form I-94 or I-
+8 94A or expire within one year of issuance, whichever is sooner;
+9 (6) The applicant must be present at each renewal; and
+10 (7) The department must downgrade the nondomiciled commercial learner's permit or
+11 commercial driver license if department personnel determine that the holder is no
+12 longer eligible to hold a nondomiciled commercial learner's permit or commercial
+13 driver license.
+14 The word, nondomiciled, shall must appear on the face of the nondomiciled
+15 commercial learner's permit or commercial driver license. An applicant shall surrender any
+16 nondomiciled commercial learner's permit or commercial driver license issued by another
+17 state. The holder of a nondomiciled commercial learner's permit or commercial driver
+18 license is subject to the same disqualifications and conditions applicable to a commercial
+19 learner's permit or commercial driver license issued to a person domiciled in this state.
+20 A nondomiciled commercial learner's permit or commercial driver license issued
+21 pursuant to subdivision (1) of this section may be renewed in person only upon
+22 presentation of valid documentary evidence that the applicant is authorized to stay in the
+23 United States. The department may renew a nondomiciled commercial driver license
+24 without a skills or knowledge test if the license has been expired for a period less than
+25 one year.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,37 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.468.23 101st Legislative Session 1243
+2026 South Dakota Legislature
+House Bill 1243
+Introduced by: Representative Jensen (Phil)
+1 An Act to require the display of the state motto in public schools and provide for
+2 associated legal representation.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 13-24:
+5 The motto of the State of South Dakota, "Under God the People Rule," must be
+6 displayed in each public school. The display must be placed in a prominent location within
+7 each public school. The display may take the form of a mounted plaque, student artwork,
+8 or any other appropriate form, as determined by the school principal.
+9 For purposes of this section, "prominent location," means a school entryway,
+10 cafeteria, or other common area where students are most likely to see the state motto
+11 display.
+12 Section 2. That § 13-24-24 be AMENDED:
+13 13-24-24. For any lawsuit brought or any complaint filed against a school district,
+14 an employee of a school district, the board of a school district, or a member thereof as a
+15 result of a school district displaying the national motto of the United States in accordance
+16 with § 13-24-23 or the motto of this state in accordance with section 1 of this Act, the
+17 attorney general shall provide legal representation at no cost to the school district,
+18 employee, school board, or member of the school board.
+19 In addition to the expenses of representation, the state shall assume financial
+20 responsibility for any other related expense incurred by the school district, an employee,
+21 the board, or member thereof, including any award for monetary damages, attorney's
+22 fees, and costs for which the school district, an employee, the board, or a member thereof
+23 would be otherwise responsible.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

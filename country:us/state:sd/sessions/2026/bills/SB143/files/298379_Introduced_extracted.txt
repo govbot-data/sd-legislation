@@ -1,0 +1,36 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.329.33 101st Legislative Session 143
+2026 South Dakota Legislature
+Senate Bill 143
+Introduced by: Senator Carley
+1 An Act to require that the Department of Health annually report on public health
+2 effects of cannabis use.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 34-20G:
+5 On or before March first of each year, the department shall provide a report to the
+6 legislature. The report must include, for the preceding calendar year:
+7 (1) The expenses incurred and revenues generated from the medical cannabis
+8 program;
+9 (2) The impact of medical cannabis on public safety, public health, and on behavioral
+10 health services; and
+11 (3) The number of:
+12 (a) Applications received by the department for registry identification cards;
+13 (b) Cannabis-related poisonings;
+14 (c) Drug-related deaths in which a toxicology screen detected metabolites;
+15 (d) Hospitalizations in this state related to cannabis use;
+16 (e) Licensing violations determined by the department;
+17 (f) Medical cannabis establishments by type;
+18 (g) Registered qualifying patients by medical condition;
+19 (h) Practitioners, by specialty, who have provided written certifications;
+20 (i) Qualifying patients and designated caregivers;
+21 (j) Qualifying patient demographics by age and sex; and
+22 (k) Registry identification cards revoked.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

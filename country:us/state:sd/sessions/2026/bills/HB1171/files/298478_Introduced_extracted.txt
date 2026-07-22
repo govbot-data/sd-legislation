@@ -1,0 +1,34 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.4.17 101st Legislative Session 1171
+2026 South Dakota Legislature
+House Bill 1171
+Introduced by: Representative Garcia
+1 An Act to establish provisions related to the disclosure of COVID-19 and mRNA
+2 vaccination status and blood donations.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 34-24B:
+5 Any person who collects human blood donations for the purpose of providing blood
+6 for human blood transfusion shall require a blood donor to disclose whether the donor has
+7 ever received a COVID-19 or mRNA vaccination.
+8 If a donor indicates that the donor has received a COVID-19 or mRNA vaccination,
+9 the person collecting the blood donation must label the blood bag to conspicuously indicate
+10 that the donor has received a COVID-19 or mRNA vaccination.
+11 Nothing in this section authorizes the disclosure of the donor's personally
+12 identifiable information on the blood bag.
+13 Section 2. That a NEW SECTION be added to chapter 34-24B:
+14 An individual needing a blood transfusion in a nonemergent situation may request
+15 blood from a donor who has or has not received a COVID-19 or mRNA vaccination. The
+16 health care professional performing the transfusion must use the requested blood, if the
+17 blood is available at the health care facility in which the individual is receiving care.
+18 No person may deny, restrict, or otherwise interfere with an individual's care,
+19 based on the individual's request to receive blood from a donor who has or has not
+20 received a COVID-19 or mRNA vaccination.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,40 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.133.13 101st Legislative Session 196
+2026 South Dakota Legislature
+Senate Bill 196
+Introduced by: Senator Karr
+1 An Act to increase the income limits for a property tax assessment freeze.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 10-6A-2 be AMENDED:
+4 10-6A-2. Any person An individual making an application under the provisions of
+5 this chapter is entitled to a real property tax assessment freeze upon the person's
+6 individual's owner-occupied single-family dwelling if the person:
+7 (1) Has a household income of less than fifty-five thousand dollars if the household is
+8 a single-member household, or the person has a household income of less than
+9 sixty-five eighty-five thousand dollars if the household is a multiple-member
+10 household;
+11 (2) Has been an owner of an owner-occupied single-family dwelling and a resident of
+12 South Dakota for at least five years, unless the person has received the assessment
+13 freeze in the previous year;
+14 (3) Has resided for at least two hundred days of the previous calendar year in the
+15 single-family dwelling; and
+16 (4) Has established a base year.
+17 The surviving spouse of a person who has previously qualified is entitled to the real
+18 property tax assessment freeze if the surviving spouse meets the other conditions of this
+19 chapter.
+20 Beginning on January 1, 2026, 2027, the household income listed in subdivision
+21 (1) of this section must increase annually by the index factor. The index factor is the
+22 annual percentage change in the consumer price index for urban wage earners and clerical
+23 workers as computed by the Bureau of Labor Statistics of the United States Department
+24 of Labor for the year before the year immediately preceding the year of adjustment or the
+25 annual percentage change in federal social security payments for the preceding year,
+26 whichever is greater.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

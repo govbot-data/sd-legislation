@@ -1,0 +1,81 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.266.9 101st Legislative Session 105
+2026 South Dakota Legislature
+Senate Bill 105
+Introduced by: Senator Pischke
+1 An Act to require the licensure of certain individuals performing installation of radon
+2 mitigation systems and provide a penalty therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to a NEW CHAPTER in title 36:
+5 For purposes of this chapter, "radon mitigation system" means an installation
+6 designed to decrease or eliminate the presence of radon in an indoor space.
+7 Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 36:
+8 Before an individual installs a radon mitigation system for compensation, the
+9 individual must be licensed as a radon mitigation specialist by the Department of Health.
+10 A violation of this section is a Class 1 misdemeanor.
+11 Section 3. That a NEW SECTION be added to a NEW CHAPTER in title 36:
+12 To apply for licensure as a radon mitigation specialist, an individual must submit
+13 to the Department of Health:
+14 (1) An application provided by the department;
+15 (2) The licensure fee established by the department in accordance with section 7 of
+16 this Act;
+17 (3) Documentation of having completed the requirements of a nationally recognized
+18 certification program approved by the department; and
+19 (4) Proof the applicant eighteen is years or older.
+20 An initial license issued by the department pursuant to this section expires one
+21 year from the date of issuance.
+22 Section 4. That a NEW SECTION be added to a NEW CHAPTER in title 36:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.266.9 2 105
+1 To renew a license, a licensee must:
+2 (1) Submit a renewal application provided by the department;
+3 (2) Pay the renewal fee established by the department, as provided by section 7 of
+4 this Act;
+5 (3) Provide documentation to the department of the licensee's completion of seven
+6 hours of department-approved continuing education consisting of topics designed
+7 to maintain or advance a licensee's knowledge of radon mitigation practices; and
+8 (4) Provide documentation to the department that the licensee's national certification
+9 is current and in good standing.
+10 The department may reinstate an expired license if a renewal application and
+11 renewal fee is received within thirty days after the license expires. The department may
+12 assess a late fee of no more than seventy-five dollars for renewal applications processed
+13 after the expiration date of the license being renewed.
+14 Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 36:
+15 The department may, in compliance with chapter 1-26, deny the issuance of a
+16 license, or suspend or revoke a license if:
+17 (1) The license was obtained by false or fraudulent means; or
+18 (2) The applicant or licensee engages in conduct that demonstrates the inability to
+19 install radon mitigation systems in accordance with standards of installation
+20 established by the department under section 7 of this Act.
+21 Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 36:
+22 There is created in the state treasury the radon mitigation licensure fund. The fund
+23 consists of all fees imposed pursuant to this chapter and other moneys designated for
+24 deposit in the fund.
+25 The department shall administer the fund to defray the expenses associated with
+26 the administration of this chapter. Interest on moneys credited to the fund must remain
+27 in the fund. Expenditures from the fund must be budgeted through the general
+28 appropriations bill.
+29 Section 7. That a NEW SECTION be added to a NEW CHAPTER in title 36:
+30 The department shall promulgate rules, in accordance with chapter 1-26, to
+31 establish:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.266.9 3 105
+1 (1) Criteria governing the initial licensure and renewal application process;
+2 (2) Continuing education standards for license renewal and criteria for verifying
+3 compliance with this chapter;
+4 (3) Standards for the installation of radon mitigation systems;
+5 (4) The initial licensure fee, which may not exceed five hundred dollars; and
+6 (5) The license renewal fee, which may not exceed two hundred fifty dollars.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,33 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.288.9 101st Legislative Session 1012
+2026 South Dakota Legislature
+House Bill 1012
+Introduced by: The Chair of the Committee on Judiciary at the request of the Chief Justice
+1 An Act to revise and repeal provisions allowing probation for contempt of a custody
+2 or visitation decree.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 25-4A-8 be AMENDED:
+5 25-4A-8. The provisions of § 23A-38-2 do not apply to §§ 25-4A-1 to 25-4A-7 25-
+6 4A-5, inclusive.
+7 Section 2. That § 25-4A-6 be REPEALED.
+8 The contemnor may be placed on probation for a period of time, not to exceed five
+9 years or until discharge. The probation, if warranted, may be supervised by a probation
+10 officer who shall, if directed by the court, require reports from the contemnor and visit
+11 with the contemnor at the contemnor's home.
+12 Section 3. That § 25-4A-7 be REPEALED.
+13 Any violation of the terms and conditions of the probation imposed by the court
+14 may be brought before the court by a motion to revoke probation. The motion to revoke
+15 probation may be made by the original moving party, the attorney general, or the state's
+16 attorney. If the motion to revoke probation alleges a prima facie case that the probationer
+17 has violated a term or condition of probation, the court may cause the probationer's arrest
+18 by warrant. An arrested probationer shall be brought promptly before the court causing
+19 the arrest.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

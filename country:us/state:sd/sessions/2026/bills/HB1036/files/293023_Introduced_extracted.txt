@@ -1,0 +1,36 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.295.17 101st Legislative Session 1036
+2026 South Dakota Legislature
+House Bill 1036
+Introduced by: Representative Auch
+1 An Act to limit annual valuation increases on owner-occupied single-family
+2 dwellings and nonagricultural property.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 10-6-105 be AMENDED:
+5 10-6-105. All real property subject to taxation shall must be listed and assessed
+6 annually, but the value of such the property is to be determined according to its value on
+7 the first day of November preceding the assessment, while the value of any owner-
+8 occupied single-family dwelling and nonagricultural property, as classified in § 10-6-110,
+9 is subject to the value limitations provided in section 2 of this Act.
+10 Section 2. That chapter 10-6 be amended with a NEW SECTION:
+11 Except as otherwise provided in this section, for purposes of the annual assessment
+12 required by § 10-6-105, the assessed value of an owner-occupied single-family dwelling
+13 or nonagricultural property may not increase more than three percent annually.
+14 A property subject to the limitation of this section must be assessed at its fair
+15 market value when:
+16 (1) A change in ownership of the property occurs;
+17 (2) The classification or use of the property changes; or
+18 (3) An addition or expansion has been made to the property.
+19 Subdivision (3) of this section does not include additions to, or expansions of,
+20 existing structures affixed to the land if the improvements result in an increase in the
+21 property's fair market value of forty percent or less. The renovation of existing structures
+22 does not constitute an addition or expansion of the property.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,47 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.956.11 101st Legislative Session 1280
+2026 South Dakota Legislature
+House Bill 1280
+Introduced by: Representative Jorgenson
+1 An Act to prohibit drone surveillance of state military installations, to provide a
+2 penalty therefor, and to authorize law enforcement to intercept or disable any
+3 drone or small unmanned aircraft threatening public safety.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That a NEW SECTION be added to chapter 50-15:
+6 No person may use a drone, small unmanned aircraft, or small unmanned aircraft
+7 system, as defined in § 50-1-1, to conduct surveillance of, interfere with the operation of,
+8 or photographically or electronically record a state military installation, facility, aircraft,
+9 military vehicle, or weapons system, without obtaining prior written consent from the
+10 military installation or facility commander.
+11 A violation of this section is a Class 6 felony.
+12 Section 2. That a NEW SECTION be added to chapter 50-15:
+13 If a law enforcement officer suspects that a drone, small unmanned aircraft, or
+14 small unmanned aircraft system, as defined in § 50-1-1, is engaged in any of the activities
+15 prohibited in §§ 50-15-3 to 50-15-5.1, inclusive, and section 1 of this Act, the officer may
+16 take reasonable and necessary mitigation measures to protect public safety. A law
+17 enforcement officer may intercept or disable the drone or small unmanned aircraft by:
+18 (1) Jamming;
+19 (2) Hacking; or
+20 (3) Physical capture.
+21 No law enforcement officer may use a firearm to disable a drone or small unmanned
+22 aircraft.
+23 A law enforcement officer may act pursuant to this section only if there is
+24 reasonable suspicion that a drone or small unmanned aircraft is an imminent threat to
+25 public safety, or is otherwise in violation of state or federal law.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.956.11 2 1280
+1 In addition to the penalty set forth for any offense under §§ 50-15-3 to 50-15-5.1,
+2 inclusive, a court may order the forfeiture, destruction, sale, or other disposition of any
+3 drone, small unmanned aircraft, or small unmanned aircraft system intercepted, disabled
+4 or captured pursuant to this section, under the process set forth in chapter 23A-49.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

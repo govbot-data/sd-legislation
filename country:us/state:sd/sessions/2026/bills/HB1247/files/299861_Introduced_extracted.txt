@@ -1,0 +1,28 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.793.14 101st Legislative Session 1247
+2026 South Dakota Legislature
+House Bill 1247
+Introduced by: Representative Moore
+1 An Act to lower the cost threshold at which a tax increment finance base must be
+2 redetermined.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 11-9-23 be AMENDED:
+5 11-9-23. If Except as provided in this section, if the municipality adopts an
+6 amendment to the original project plan for any district that includes additional project
+7 costs for which tax increments may be received by the municipality, the tax increment
+8 base for the district shall must be redetermined pursuant to § 11-9-20. The tax increment
+9 base as redetermined under this section is effective for the purposes of this chapter only
+10 if it exceeds the original tax increment base determined pursuant to § 11-9-20.
+11 The provisions of this section do not apply if the additional project costs are thirty-
+12 five fifteen percent or less than the amount approved in the original project plan and the
+13 additional project costs will are to be incurred before the expiration of the period specified
+14 in § 11-9-13.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,45 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.301.23 101st Legislative Session 166
+2026 South Dakota Legislature
+Senate Bill 166
+Introduced by: Senator Nelson
+1 An Act to require boards of county commissioners and county planning and zoning
+2 commissions to hold meetings after certain times or provide recordings of
+3 meetings to the public for later viewing.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That § 7-8-14 be AMENDED:
+6 7-8-14. The board of county commissioners shall meet and hold sessions, as open
+7 meetings in accordance with chapter 1-25, for the transaction of business at the
+8 courthouse, or at any other suitable location in the county, on at least a quarterly basis in
+9 January, April, July, and October of each year.
+10 Any meeting other than a special meeting:
+11 (1) May not begin earlier than 6:00 p.m., if held on a weekday; or
+12 (2) Must be recorded, with the recording made available for free on a publicly
+13 accessible platform within twenty-four hours of the meeting.
+14 The board may hold as many regular meetings throughout the year as necessary
+15 to transact business.
+16 The county auditor or the chair of the board of county commissioners may call a
+17 special sessions if meeting, if necessitated by the interests of the county demand it, by
+18 giving notice of the special session meeting to each county commissioner and the public
+19 in accordance with § 1-25-1.1.
+20 Section 2. That § 11-2-3.1 be AMENDED:
+21 11-2-3.1. The planning commission shall meet at such times as may be once every
+22 three months, or more frequently as necessary, to accomplish the purposes of this
+23 chapter, but, in no event, shall the commission meet less than once every three months.
+24 A meeting of the commission:
+25 (1) May not begin earlier than 6:00 p.m., if held on a weekday; or
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.301.23 2 166
+1 (2) Must be recorded, with the recording made available for free on a publicly
+2 accessible platform within twenty-four hours of the meeting.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

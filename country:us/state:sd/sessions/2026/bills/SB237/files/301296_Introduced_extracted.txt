@@ -1,0 +1,50 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.919.9 101st Legislative Session 237
+2026 South Dakota Legislature
+Senate Bill 237
+Introduced by: Senator Davis
+1 An Act to establish additional notice and hearing requirements for applicants
+2 seeking conditional use permits for proposed uses that materially affect
+3 public infrastructure or rights-of way.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That a NEW SECTION be added to chapter 11-2:
+6 An applicant seeking a conditional use permit from a county for a proposed use
+7 that is anticipated to substantially increase the burden on existing public infrastructure or
+8 rights-of-way within the county shall send notice, by certified mail, to the board or other
+9 approving authority, at least forty-five days before submitting the permit application.
+10 Within thirty days of receiving the notice, the authority shall schedule a public
+11 hearing to determine whether a haul road agreement or other conditions are necessary
+12 for the applicant's proposed use of the infrastructure or rights-of-way.
+13 Within fourteen days after the hearing, the authority shall provide a written
+14 decision to the applicant stating whether the applicant must enter into a haul road
+15 agreement or satisfy other conditions prior to the granting of a permit under this chapter.
+16 For purposes of this section, "haul road agreement" means a contract between a
+17 contractor or developer and the governing body of a political subdivision which designates
+18 specific public roads within the jurisdiction of the political subdivision for use by the
+19 contractor or developer in transporting heavy materials to and from a construction or
+20 industrial site.
+21 Section 2. That a NEW SECTION be added to chapter 11-4:
+22 An applicant seeking a conditional use permit from a municipality for a proposed
+23 use that is anticipated to substantially increase the burden on existing public infrastructure
+24 or rights-of-way within the municipality must send notice, by certified mail, to the
+25 approving authority at least forty-five days before submitting the permit application.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.919.9 2 237
+1 Within thirty days of receiving the notice, the authority shall schedule a public
+2 hearing to determine whether a haul road agreement, as defined in section 1 of this Act,
+3 or other conditions are necessary for the applicant's proposed use of the infrastructure or
+4 rights-of-way.
+5 Within fourteen days after the hearing, the authority shall provide a written
+6 decision to the applicant stating whether the applicant must enter into a haul road
+7 agreement or satisfy other conditions prior to the granting of a permit under this chapter.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

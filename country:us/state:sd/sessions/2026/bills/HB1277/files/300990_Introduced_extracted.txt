@@ -1,0 +1,26 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.890.21 101st Legislative Session 1277
+2026 South Dakota Legislature
+House Bill 1277
+Introduced by: Representative Novstrup
+1 An Act to require that campgrounds and campground additions, alterations, and
+2 modifications comply with National Fire Protection Association standards.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 34-18:
+5 Any existing or newly constructed campground, or a permanent addition,
+6 alteration, or modification to an existing structure in a campground, which requires notice
+7 to the department, as set forth in § 34-18-23, must comply with the National Fire
+8 Protection Association 1194, Standard for Recreational Vehicle Parks and Campgrounds,
+9 2026 Edition.
+10 This section does not apply to a campground owned or operated by this state or a
+11 political subdivision of this state.
+12 Section 2. This Act is effective beginning July 1, 2027.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

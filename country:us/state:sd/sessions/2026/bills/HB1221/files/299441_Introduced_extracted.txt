@@ -1,0 +1,29 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.604.9 101st Legislative Session 1221
+2026 South Dakota Legislature
+House Bill 1221
+Introduced by: Representative Lems
+1 An Act to establish a post-employment restriction for employees of the Governor's
+2 Office of Economic Development and create a penalty therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 1-16G:
+5 Notwithstanding the provisions of § 53-9-8, an individual employed by the
+6 Governor's Office of Economic Development may not, for a period of five years after
+7 termination of employment with the office, accept compensation or employment from, or
+8 enter into a contractual relationship with, any person that, during the individual's
+9 employment with the Governor's Office of Economic Development, received, directly or
+10 indirectly:
+11 (1) Any grant, loan, moneys, or other financial assistance administered by the
+12 Governor's Office of Economic Development; or
+13 (2) Moneys from the employer's investment in South Dakota's future fund established
+14 pursuant to § 61-5-29.1.
+15 A violation of this section is a Class 1 misdemeanor.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

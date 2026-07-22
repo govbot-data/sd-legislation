@@ -1,0 +1,31 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.788.14 101st Legislative Session 206
+2026 South Dakota Legislature
+Senate Bill 206
+Introduced by: Senator Grove
+1 An Act to make an appropriation to contract for a study on the length of service
+2 award programs for volunteers.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. There is appropriated $100,000 from the general fund, to the Legislative Research
+5 Council, for the purpose of hiring a contractor to study state and federal laws, regulations,
+6 and services related to the operation, administration, and implementation of an Internal
+7 Revenue Code Section 457(e) length of service award program for volunteer firefighters and
+8 emergency medical services personnel.
+9 Section 2. The contractor shall present a report containing recommendations on
+10 implementing a length of service award program for volunteer firefighters and emergency
+11 medical services personnel to the Executive Board of the Legislative Research Council no later
+12 than November 30, 2026.
+13 Section 3. The director shall approve vouchers and the state auditor shall draw warrants to
+14 pay expenditures authorized in this Act.
+15 Section 4. Any amounts appropriated in this Act not lawfully expended or obligated shall
+16 revert in accordance with the procedures prescribed in chapter 4-8.
+17 Section 5. This Act is effective beginning June 30, 2026.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

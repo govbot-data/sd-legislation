@@ -1,0 +1,161 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.533.12 101st Legislative Session 49
+2026 South Dakota Legislature
+Senate Bill 49
+ENROLLED
+AN ACT
+ENTITLED An Act to safeguard the integrity, privacy, and security of genetic data
+and provide a civil penalty therefor.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+Section 1. That a NEW SECTION be added to chapter 37-24:
+Terms used in this Act mean:
+(1) "Biological sample," any part of a human that is known to contain deoxyribonucleic
+acid;
+(2) "Consumer," an individual who is a resident of this state;
+(3) "De-identified data," genetic data that cannot reasonably be used to infer
+information about, or otherwise be linked to, an identifiable consumer;
+(4) "Direct-to-consumer genetic testing company," an entity that:
+(a) Offers genetic testing products or services directly to consumers; or
+(b) Analyzes, collects, or uses genetic data collected via a direct-to-consumer
+genetic testing product or service that is provided to the company by the
+consumer;
+(5) "Express consent," an affirmative written response, which may be presented and
+captured electronically;
+(6) "Genetic data," data other than de-identified data, regardless of format, which
+concerns a consumer's genetic characteristics; and
+(7) "Service provider," a person that:
+(a) Is involved in the collection, transportation, or analysis of, or any other
+service in connection with, a consumer's biological sample or genetic data,
+on behalf of a direct-to-consumer genetic testing company;
+(b) Collects, uses, maintains, or discloses biological samples or genetic data,
+collected or derived from a direct-to-consumer genetic testing product or
+service, or directly provided by the consumer; or
+
+26.533.12 2 49
+(c) Delivers the results of the analysis of a biological sample or genetic data.
+Section 2. That a NEW SECTION be added to chapter 37-24:
+To safeguard the confidentiality, integrity, privacy, and security of a consumer's
+genetic data, a direct-to-consumer genetic testing company shall:
+(1) Make available to the consumer in plain language:
+(a) A privacy policy that includes basic, essential information about the
+company's collection, disclosure, and use of genetic data; and
+(b) A prominent, publicly available privacy notice that includes information
+about the company's access, consent, data collection, deletion, disclosure,
+maintenance, retention, security, and transfer practices; and how the
+company uses genetic data;
+(2) Provide a clear and complete notice to the consumer that the consumer's de-
+identified data may be shared with or disclosed to a third party for research
+purposes, in accordance with 45 C.F.R. part 46 (November 25, 2025);
+(3) Obtain the consumer's express consent to collect, disclose, or use the consumer's
+genetic data, including:
+(a) Initial express consent that describes the uses of genetic data collected
+through a genetic testing product or service and specifies who has access
+to the test results and how the genetic data may be shared;
+(b) Separate express consent, which must include the name of the person
+receiving the information, for each transfer or disclosure of the consumer's
+genetic data or biological sample to any person other than the company's
+vendors and service providers;
+(c) Separate express consent for each use of the consumer's genetic data or
+the biological sample beyond the primary purpose of the genetic testing
+product or service;
+(d) Separate express consent to retain any biological sample provided by the
+consumer following completion of the initial testing service requested by the
+consumer;
+(e) Informed consent, in compliance with federal policy for the protection of
+human research subjects under 45 C.F.R. part 46 (November 25, 2025), to
+transfer or disclose the consumer's genetic data to a third-party for research
+purposes, or for research conducted under the control of the company for
+publication or generalizable knowledge purposes; and
+SB49 ENROLLED
+
+26.533.12 3 49
+(f) Separate express consent for marketing by the direct-to-consumer genetic
+testing company, to another consumer, based on the consumer's genetic
+data, or by a third party, to another consumer, based on the consumer
+having ordered or purchased a genetic testing product or service;
+(4) Develop, implement, and maintain a security program to protect the consumer's
+genetic data against unauthorized access, disclosure, or use;
+(5) Provide a process for the consumer to:
+(a) Access the consumer's genetic data;
+(b) Delete the consumer's account and genetic data; and
+(c) Request and obtain the destruction of the consumer's biological sample;
+and
+(6) Provide mechanisms, without any unnecessary steps, for the consumer to revoke
+any consent of the consumer. At least one mechanism must utilize the primary
+medium through which the company communicates to the consumer.
+Section 3. That a NEW SECTION be added to chapter 37-24:
+If a consumer revokes consent pursuant to section 2 of this Act, the company must
+honor the consumer's revocation of consent within thirty days. If a consumer revokes
+consent to store the consumer's biological sample, the company must destroy the
+consumer's biological sample within thirty days of receiving the consumer's revocation of
+consent.
+Section 4. That a NEW SECTION be added to chapter 37-24:
+A service provider under contract with a direct-to-consumer genetic testing
+company is subject to the same confidentiality obligations as the direct-to-consumer
+genetic testing company, as set forth in section 2 of this Act, with respect to all biological
+samples, genetic data, and information regarding the identity of any consumer that is in
+the service provider's possession.
+Section 5. That a NEW SECTION be added to chapter 37-24:
+The attorney general, upon petition to the court, may impose a civil penalty against
+a person for violating section 2 of this Act, section 3 of this Act, or section 4 of this Act.
+The amount of the civil penalty may not exceed five thousand dollars per violation.
+Section 6. That a NEW SECTION be added to chapter 37-24:
+SB49 ENROLLED
+
+26.533.12 4 49
+The provisions of sections 2 to 5, inclusive, of this Act do not apply to:
+(1) Protected health information collected by a covered entity or business associate,
+as those terms are defined in 45 C.F.R. § 160.103 (November 25, 2025);
+(2) A biological sample that is obtained or genetic data that is generated for the
+purpose of a consumer's medical screening, diagnosis, or treatment;
+(3) A public or private institution of higher education;
+(4) An entity owned or operated by a public or private institution of higher education;
+(5) A forensic laboratory that is operated by, associated with, or under contract with,
+a law enforcement agency, when performing forensic analysis or related services
+as part of a criminal investigation;
+(6) An entity that analyzes, collects, or uses genetic data or biological samples only in
+the context of research, as defined in 24 C.F.R. § 164.501 (November 25, 2025),
+in a manner that complies with the federal policy of the protection of human
+research subjects under 45 C.F.R. part 46 (November 25, 2025); the Guideline for
+Good Clinical Practice issued by the International Council for Harmonisation
+(January 6, 2025); or the United States Food and Drug Administration policy for
+the protection of human subjects under 21 C.F.R. part 50 (December 4, 2025) and
+21 C.F.R. part 56 (December 4, 2025); or
+(7) A hospital licensed under chapter 34-12, including any laboratory or health care
+facility owned, operated by, or affiliated with the hospital.
+SB49 ENROLLED
+
+26.533.12 5 49
+An Act to safeguard the integrity, privacy, and security of genetic data and provide a civil
+penalty therefor.
+Received at this Executive Office
+I certify that the attached Act originated in this _____ day of _____________,
+the:
+2026 at ____________M.
+Senate as Bill No. 49
+By
+Secretary of the Senate for the Governor
+The attached Act is hereby
+approved this ________ day of
+President of the Senate ______________, A.D., 2026
+Attest:
+Governor
+Secretary of the Senate
+STATE OF SOUTH DAKOTA,
+ss.
+Office of the Secretary of State
+Speaker of the House
+Filed ____________, 2026
+Attest: at _________ o'clock __M.
+Chief Clerk of the House Secretary of State
+Senate Bill No. 49 By
+File No. ____ Asst. Secretary of State
+Chapter No. ______
+SB49 ENROLLED

@@ -1,0 +1,123 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.988.10 101st Legislative Session 1301
+2026 South Dakota Legislature
+House Bill 1301
+Introduced by: Representative Healy
+1 An Act to limit costs and risks associated with electricity use by data centers and
+2 impose a moratorium.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 49-34A:
+5 Terms used in this Act mean:
+6 (1) "Approval authority," for an electric utility that is:
+7 (a) A state or rural electric cooperative, the board of directors; or
+8 (b) Owned by a municipality or other political subdivision of this state, the
+9 governing body;
+10 (2) "Data center," any facility that is used as a centralized repository for the
+11 dissemination, management, processing, and storage of electronic data and
+12 information; and
+13 (3) "Large data center," a data center with a peak electricity demand of twenty
+14 megawatts or greater.
+15 Section 2. That a NEW SECTION be added to chapter 49-34A:
+16 When establishing or negotiating a rate or tariff for any data center, an electric
+17 utility shall ensure that:
+18 (1) The data center pays the full cost of providing electric service to the data center,
+19 including the cost of any infrastructure upgrade necessitated by the operation of
+20 the data center;
+21 (2) The cost of providing electric service to the data center is not paid for by other
+22 retail customers;
+23 (3) The costs and risks of infrastructure upgrades are not transferred to other retail
+24 customers during the operation of the data center;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.988.10 2 1301
+1 (4) Other retail customers are not placed at financial risk for paying stranded costs
+2 associated with providing electric service to the data center if it prematurely ceases
+3 operating; and
+4 (5) The data center bears all costs of decommissioning the data center.
+5 Section 3. That a NEW SECTION be added to chapter 49-34A:
+6 The operator of a large data center shall submit to the electric utility providing
+7 electric service to the large data center a proposal to meet some or all of the large data
+8 center's load demand through private electric supplier agreements or self-generation, as
+9 a means to limit the risk to other retail customers of stranded-asset costs.
+10 If a large data center receives electricity from a private electricity supplier or self-
+11 generation in addition to an electric utility, the electric utility must interconnect the private
+12 electricity supplier or self-generation at the large data center's cost.
+13 Section 4. That a NEW SECTION be added to chapter 49-34A:
+14 The operator of a large data center shall file an annual report with any electric
+15 utility providing electric service to the large data center and, if the large data center
+16 receives electric service from a public utility, with the commission.
+17 The report must be filed on the date and in the form specified by the commission
+18 or approval authority, as applicable.
+19 The commission or approval authority, as applicable, shall make the report
+20 available to the public, excluding information that is confidential pursuant to chapter 1-
+21 27.
+22 Section 5. That a NEW SECTION be added to chapter 49-34A:
+23 The report required under section 4 of this Act must contain:
+24 (1) The name of the large data center;
+25 (2) The name of each developer and owner of the large data center;
+26 (3) The physical size of the large data center in square feet;
+27 (4) The street address of the large data center and the county in which it is located;
+28 (5) The peak electrical demand of the large data center;
+29 (6) Information about any private electricity supplier or self-generation available to
+30 the large data center pursuant to section 3 of this Act, and the amount of electricity
+31 provided by the private electricity supplier or self-generation;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.988.10 3 1301
+1 (7) A list of each customer type and the duration of any customer demand contract for
+2 the large data center;
+3 (8) A description of any transmission and distribution facility addition or enhancement
+4 required to serve the large data center;
+5 (9) A description of each energy efficiency, load management, and conservation
+6 measure implemented by the large data center;
+7 (10) A description of any commitment by the large data center to use renewable energy;
+8 (11) An estimate of the service life of the large data center;
+9 (12) A statement identifying each decommissioning resource, activity, and deficiency of
+10 the large data center;
+11 (13) Any policy, term, or schedule of the large data center, which is intended to limit
+12 cost and risk impacts on other retail customers;
+13 (14) Information about whether the large data center engages in any cryptocurrency
+14 mining operation and the annual energy usage for the operation; and
+15 (15) A copy of any required county or municipal zoning or other permit of the large data
+16 center.
+17 Section 6. That a NEW SECTION be added to chapter 49-34A:
+18 At least annually, each electric utility shall provide, on the electric utility's website,
+19 a report of:
+20 (1) The statewide load forecast of large data centers serviced by the electric utility;
+21 (2) A description of existing and proposed electricity generation needed to meet the
+22 large data center load forecast;
+23 (3) An estimate of the cost of any new generation and transmission needed to meet
+24 the large data center load forecast; and
+25 (4) Any applicable stranded-asset cost information, including the total cost recovered
+26 from other retail customers.
+27 Section 7. That a NEW SECTION be added to chapter 49-34A:
+28 A large data center shall comply with any decommissioning requirements adopted
+29 by the commission or approval authority, as applicable. In addition, the large data center
+30 shall:
+31 (1) Bear all costs of decommissioning the large data center; and
+32 (2) Within the first year following the commencement of operation of the large data
+33 center:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.988.10 4 1301
+1 (a) Submit a decommissioning plan to the electric utility providing electric
+2 service to the large data center;
+3 (b) Post a security bond or other instrument that secures the costs of
+4 decommissioning the large data center; and
+5 (c) Provide a copy of the bond or instrument to the electric utility.
+6 Section 8. Notwithstanding any other provision of law, a moratorium is imposed on any new
+7 construction or expansion of a large data center in this state. The moratorium includes the
+8 expansion of any data center that is not currently a large data center but, if expanded, would
+9 become a large data center. The moratorium is in effect through June 30, 2027.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

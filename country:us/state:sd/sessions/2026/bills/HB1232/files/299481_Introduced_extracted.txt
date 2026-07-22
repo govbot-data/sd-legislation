@@ -1,0 +1,29 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.900.19 101st Legislative Session 1232
+2026 South Dakota Legislature
+House Bill 1232
+Introduced by: Representative Pourier
+1 An Act to establish principles for a state agency to consider when formulating or
+2 implementing a policy or rule that has direct tribal implications.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 1-54:
+5 When formulating or implementing any policy or administrative rules that have
+6 direct tribal implications, a state agency shall document its consideration of the following
+7 principles:
+8 (1) Commitment to cooperation and collaboration between the agency and the Indian
+9 Tribes;
+10 (2) Understanding of and respect for the Indian tribes as sovereign nations and the
+11 government-to-government relationship between the state and each tribe;
+12 (3) Regular and early communication with tribal officials;
+13 (4) Accountability when addressing issues raised by tribal officials regarding the policy
+14 or rules; and
+15 (5) Preservation of the tribal-state relationship.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,27 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.965.9 101st Legislative Session 1304
+2026 South Dakota Legislature
+House Bill 1304
+Introduced by: Representative Shubeck
+1 An Act to allow subdivisions to limit the operation of drones at open-air events.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to chapter 50-15:
+4 In accordance with § 50-15-10, a political subdivision may enact ordinances and
+5 resolutions containing reasonable and necessary limitations on the operation of drones to
+6 protect privacy and prevent trespass at:
+7 (1) Parades;
+8 (2) Outdoor festivals;
+9 (3) The state fair;
+10 (4) County fairs;
+11 (5) Air shows;
+12 (6) Sporting events; and
+13 (7) Any other open-air event that draws large numbers of people.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,45 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.346.31 101st Legislative Session 1117
+2026 South Dakota Legislature
+House Bill 1117
+Introduced by: Representative Muckey
+1 An Act to modify provisions of a report required by the Governor's Office of
+2 Economic Development on certain awards and grants.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 61-5-29.3 be AMENDED:
+5 61-5-29.3. The On of before March first of each year, the Governor's Office of
+6 Economic Development shall provide a written report to either the Joint Committee on
+7 Appropriations or the Interim Committee on Appropriations on a biannual basis the
+8 Government Operations and Audit Committee, the State Affairs Committees in the Senate
+9 and the House of Representatives, and the Commerce and Energy Committees in the
+10 Senate and in the House of Representatives, the following information for each award or
+11 grant made from the employer's investment in South Dakota's future fund, established in
+12 § 61-5-29.1, during the previous twenty years:
+13 (1) The name of the recipient and the amount of the award or grant;
+14 (2) The location of the recipient;
+15 (3) The research or economic development purpose that is or was being funded;
+16 (4) The measures that are or were being used to determine the economic impact of
+17 the award or grant; and
+18 (5) The number of jobs created or retained, if any;
+19 (6) The balance of the fund at the time of reporting;
+20 (7) The status of the research or economic development purpose; and
+21 (8) For awards or grants made more than two years prior to the report, any projection
+22 of jobs created or retained in this state by the recipient of the award or grant
+23 resulting from the research or economic development purpose since the award or
+24 grant was made.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.346.31 2 1117
+1 Twice each year, the Governor's Office of Economic Development shall also provide
+2 the report required in this section to either the Joint Committee on Appropriations or the
+3 special interim committee established in § 4-8A-2.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

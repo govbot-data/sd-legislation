@@ -1,0 +1,60 @@
+Title: 
+Official Title: 
+Source: versions - Senate Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.456.16 101st Legislative Session 42
+2026 South Dakota Legislature
+Senate Bill 42
+SENATE ENGROSSED
+Introduced by: The Chair of the Committee on Judiciary at the request of the Attorney General
+1 An Act to enhance the penalties for ingestion, possession with intent to deliver, and
+2 delivery of a controlled substance in a state correctional facility.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 24-2-22 be AMENDED:
+5 24-2-22. Any employee or other person who delivers or procures to be delivered,
+6 or possesses with the intent to deliver, to any inmate in a state correctional facility, or
+7 who deposits or conceals in or around any facility or place used to house inmates, or in
+8 any mode of transport entering the grounds of any facility or place and its ancillary
+9 facilities used to house inmates, any of the following articles, with the intent that any
+10 inmate obtain or receive the article, is guilty of a felony pursuant to the following schedule:
+11 (1) Any alcoholic beverage or marijuana is a Class 6 felony;
+12 (2) A cell phone or any other electronic communication device prohibited by
+13 Department of Corrections policy is a Class 4 felony;
+14 (3) Any prescription or nonprescription drug or controlled substance, as defined by
+15 chapter 34-20B, except as authorized by the Department of Corrections, is a Class
+16 4 Class 3 felony;
+17 (4) A dangerous weapon, as defined by § 22-1-2, is a Class 2 felony; and
+18 (5) Any article, not proscribed by this section, that is not provided by or authorized by
+19 the facility in any form, is a Class 6 felony.
+20 Section 2. That § 22-42-5.1 be AMENDED:
+21 22-42-5.1. No person may knowingly ingest a controlled drug or substance or
+22 have a controlled drug or substance in an altered state in the body unless the substance
+23 was obtained directly or pursuant to a valid prescription or order from a practitioner, acting
+24 in the course of the practitioner's professional practice, or except as otherwise authorized
+25 by chapter 34-20B. The following penalties apply to a violation of this section:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.456.16 2 42
+1 (1) A first violation is a Class 1 misdemeanor, and the court, in addition to any other
+2 sentence, shall order that the person complete a drug and alcohol evaluation and
+3 complete supervised probation using evidence-based sentencing practices, which
+4 may include the HOPE probation program and other programs as established in
+5 chapter 16-22;
+6 (2) A second violation is a Class 1 misdemeanor, and the court, in addition to any other
+7 sentence, may sentence the person to a period of up to one year in jail, and shall
+8 sentence the person to a period of supervised probation using evidence-based
+9 practices, which may include the HOPE probation program and other programs as
+10 established in chapter 16-22, and order that the person complete a drug and
+11 alcohol evaluation and complete any other recommended course of treatment; and
+12 (3) A third or subsequent violation, occurring within ten years of the person's first
+13 conviction, is a Class 6 felony;
+14 (4) A violation by an inmate under confinement in a state correctional facility is a Class
+15 5 felony; and
+16 (5) A violation by a person while under parole supervision is a Class 5 felony.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

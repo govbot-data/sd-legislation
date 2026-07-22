@@ -1,0 +1,35 @@
+Title: 
+Official Title: 
+Source: versions - House State Affairs Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.900.20 101st Legislative Session 1232
+2026 South Dakota Legislature
+House Bill 1232
+HOUSE STATE AFFAIRS ENGROSSED
+Introduced by: Representative Pourier
+1 An Act to establish principles for a state agency to consider when formulating or
+2 implementing a program that has the potential of affecting tribal members
+3 on a reservation.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That § 1-54-5 be AMENDED:
+6 1-54-5. It is the policy of the state to consult with a tribal government regarding
+7 the conduct of state government programs which that have the potential of affecting tribal
+8 members on the a reservation. In developing or administering any program that has the
+9 potential of affecting tribal members on a reservation, the state recognizes the following
+10 guiding principles:
+11 (1) Commitment to cooperation and collaboration between the agency and each Indian
+12 tribe;
+13 (2) Understanding of and respect for the Indian tribes as sovereign nations and the
+14 government-to-government relationship between the state and each tribe;
+15 (3) Regular and early communication with tribal officials;
+16 (4) Accountability when addressing issues raised by tribal officials regarding the
+17 program; and
+18 (5) Preservation of the tribal-state relationship.
+19 This section may not be construed to confer any substantive rights on any party in
+20 any litigation or otherwise.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

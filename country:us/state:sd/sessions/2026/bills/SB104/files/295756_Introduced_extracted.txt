@@ -1,0 +1,29 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.420.11 101st Legislative Session 104
+2026 South Dakota Legislature
+Senate Bill 104
+Introduced by: Senator Pischke
+1 An Act to require the reimbursement of therapy using equine movement through
+2 the state medicaid program.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 28-6:
+5 The Department of Social Service shall, for a medical assistance recipient under
+6 this chapter, reimburse therapy using equine movement provided by:
+7 (1) A physical therapist licensed in accordance with chapter 36-10;
+8 (2) An occupational therapist licensed in accordance with chapter 36-31; or
+9 (3) A speech-language pathologist licensed in accordance with chapter 36-37.
+10 For purposes of this section, "therapy using equine movement" means therapeutic
+11 activities that leverage horse-human interactions to facilitate progression toward meeting
+12 therapeutic goals.
+13 Section 2. The Department of Social Services shall, on or before August 1, 2026, submit a
+14 state plan amendment to the Centers for Medicare and Medicaid Services to effectuate the
+15 coverage referenced in section 1 of this Act.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,39 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.298.33 101st Legislative Session 199
+2026 South Dakota Legislature
+Senate Bill 199
+Introduced by: Senator Karr
+1 An Act to establish a new fund to provide property tax relief.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to chapter 10-13:
+4 There is created in the state treasury the property tax relief fund. The fund consists
+5 of moneys transferred from the general fund pursuant to section 2 of this Act.
+6 The Department of Revenue shall administer the fund. The purpose of the fund is
+7 to supplement property tax levies of political subdivisions of this state to reduce property
+8 taxes imposed on real property as provided for by the Legislature. Interest on moneys
+9 credited to the fund must remain in the fund. Expenditures from the fund must be by a
+10 special appropriation of the Legislature.
+11 Section 2. That a NEW SECTION be added to chapter 10-13:
+12 On or before August first of 2026, the state treasurer shall transfer from the general
+13 fund into the property tax relief fund, established in section 1 of this Act, twenty-five
+14 percent of the annual increase in general fund moneys in the 2026 fiscal year over the
+15 2025 fiscal year. If there is no increase in the general fund moneys in the 2026 fiscal year
+16 over the 2025 fiscal year, the amount deposited into the fund is zero.
+17 On or before each subsequent August first, the state treasurer shall transfer from
+18 the general fund into the property tax relief fund, the sum of:
+19 (1) The amount deposited into the property tax relief fund in the previous fiscal year;
+20 and
+21 (2) Twenty-five percent of the annual increase in general fund moneys in the previous
+22 fiscal year over the fiscal year prior to the previous fiscal year.
+23 If there is no increase in the general fund moneys in the previous fiscal year, the
+24 amount to be deposited into the property tax relief fund is equal to subdivision (1) of this
+25 section.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

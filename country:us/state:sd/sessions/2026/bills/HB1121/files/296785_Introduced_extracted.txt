@@ -1,0 +1,28 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.590.15 101st Legislative Session 1121
+2026 South Dakota Legislature
+House Bill 1121
+Introduced by: Representative Hansen
+1 An Act to expand the locations at which raw milk may be purchased for personal
+2 use by a consumer.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 39-6-3 be AMENDED:
+5 39-6-3. Raw milk for human consumption may be secured or purchased for
+6 personal use by any consumer at:
+7 (1) At the place or farm where the milk is produced and the milk may be delivered ;
+8 (2) At a farmers market; and
+9 (3) At a retail store that is owned by the producer of the raw milk and is not located
+10 at the place or farm where the milk is produced.
+11 The producer of the raw milk may deliver the milk directly to the consumer by the
+12 producer. No raw milk for human consumption may be purchased at a farmers' market or
+13 farmer owned retail store that is not located at the place or farm where the milk is
+14 produced.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

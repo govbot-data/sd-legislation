@@ -1,0 +1,40 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.70.9 101st Legislative Session 162
+2026 South Dakota Legislature
+Senate Bill 162
+Introduced by: Senator Pischke
+1 An Act to revise the factors for considering deviation from the child support
+2 obligation schedule.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 25-7-6.10 be AMENDED:
+5 25-7-6.10. Deviation from the schedule in § 25-7-6.2 must be considered if raised
+6 by either party and made only upon the entry of specific findings based upon any of the
+7 following factors:
+8 (1) The income of a subsequent spouse or contribution of a third party to the income
+9 or expenses of that parent but only if the application of the schedule works a
+10 financial hardship on either parent;
+11 (2) Any financial condition of either parent that would make application of the schedule
+12 inequitable. If the total amount of the child support obligation, including any
+13 adjustments for health insurance and child care costs, exceeds fifty percent of the
+14 obligor's monthly net income, it is presumed that the amount of the obligation
+15 imposes a financial hardship on the obligor. This presumption may be rebutted
+16 based upon other factors set forth in this section;
+17 (3) Any necessary education or health care special needs of the child;
+18 (4) The effect of agreements between the parents regarding extra forms of support for
+19 the direct benefit of the child;
+20 (5) The obligation of either parent to provide for subsequent natural children, adopted
+21 children, or stepchildren. However, an existing support order may not be modified
+22 solely for this reason; or
+23 (6) The voluntary and unreasonable act of a parent that causes the parent to be
+24 unemployed or underemployed, consistent with the provisions of § 25-7-6.26; or
+25 (7) The federal income tax consequences arising from claiming the child as a
+26 dependent.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

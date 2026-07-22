@@ -1,0 +1,59 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.522.9 101st Legislative Session 1083
+2026 South Dakota Legislature
+House Bill 1083
+Introduced by: The Committee on Judiciary at the request of the Governor
+1 An Act to revise certain provisions related to stalking, establish the crime of felony
+2 stalking of a public official, and provide a penalty therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 22-19A-1 be AMENDED:
+5 22-19A-1. No person may:
+6 (1) Willfully, maliciously, and repeatedly follow or harass another person;
+7 (2) Make a credible threat to another person with the intent to place that person in
+8 reasonable fear of death or great bodily injury; or
+9 (3) Willfully, maliciously, and repeatedly harass another person by means of any
+10 verbal, electronic, digital media, mechanical, telegraphic, or written
+11 communication; or
+12 (4) Knowingly disseminate, post, or publish, by electronic means, another person's
+13 employment, home, or school address or location, or identifying information, as
+14 defined by § 22-40-9, without the other person's consent, and with the intent to
+15 intimidate, harass, or cause substantial emotional distress to the other person or
+16 the other person's immediate family, as defined by § 22-1-2.
+17 A violation of this section constitutes the crime of stalking. Stalking is a Class 1
+18 misdemeanor. However, any Any second or subsequent conviction occurring within ten
+19 years of a prior conviction under this section is a Class 6 felony. Any conviction for, or
+20 plea of guilty to, an offense in another state which, if committed in this state, would be a
+21 violation of this section and occurring within ten years prior to the date of the violation
+22 being charged, shall must be used to determine if the violation being charged is a second
+23 or subsequent offense.
+24 Section 2. That § 22-19A-7 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.522.9 2 1083
+1 22-19A-7. Any person who willfully, maliciously, and repeatedly follows or
+2 harasses a child twelve years of age or younger, or who makes a credible threat to a child
+3 twelve years of age or younger, with the intent to place that the child in reasonable fear
+4 of death or great bodily injury, or with the intent to cause the child to reasonably fear for
+5 the child's safety, is guilty of the crime of felony stalking. Felonious of a child. Felony
+6 stalking of a child is a Class 6 felony.
+7 Section 3. That a NEW SECTION be added to chapter 22-19A:
+8 Any person who violates § 22-19A-1 against a public official, with the intent to
+9 place the public official in reasonable fear of death or great bodily injury, or with the intent
+10 to cause the public official to reasonably fear for the public official's safety, is guilty of the
+11 crime of felony stalking of a public official. Felony stalking of a public official is a Class 6
+12 felony.
+13 For the purposes of this section, "public official" means:
+14 (1) An elected official holding statewide office;
+15 (2) A federal or state legislator;
+16 (3) A federal or state judge or justice; or
+17 (4) A law enforcement officer as defined in § 22-1-2.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

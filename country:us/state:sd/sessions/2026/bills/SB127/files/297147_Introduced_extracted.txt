@@ -1,0 +1,47 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.14.24 101st Legislative Session 127
+2026 South Dakota Legislature
+Senate Bill 127
+Introduced by: Senator Howard
+1 An Act to limit nuisances caused by data centers.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to chapter 21-10:
+4 Terms used in sections 1 to 4, inclusive, of this Act mean:
+5 (1) "Data center," a centralized repository for the dissemination, management,
+6 processing, and storage of electronic data and information, including:
+7 (a) Application, cloud, or web hosting;
+8 (b) Cloud computing;
+9 (c) Colocation services;
+10 (d) Cryptocurrency mining;
+11 (e) Media streaming support;
+12 (f) Platform as a service;
+13 (g) Software as a service; and
+14 (h) Any other comparable digital service.; and
+15 (2) "Residential area," any area designated or zoned for residential use pursuant to
+16 local law or zoning ordinance.
+17 Section 2. That a NEW SECTION be added to chapter 21-10:
+18 Effective July 1, 2026, a facility housing a data center may not be established within
+19 one mile of any residential area, but a county, municipality, or township may adopt more
+20 restrictive data center siting requirements.
+21 Section 3. That a NEW SECTION be added to chapter 21-10:
+22 A data center may not exceed a continuous noise level of forty-five decibels,
+23 measured according to federal or local environmental standards, at the nearest property
+24 line of a residential area.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.14.24 2 127
+1 Section 4. That a NEW SECTION be added to chapter 21-10:
+2 A data center in violation of section 2 or 3 of this Act is declared a nuisance. The
+3 state's attorney or any affected citizen may maintain an action against the operator of the
+4 data center, and against the owner of the building in which or ground upon which the
+5 nuisance exists, to enjoin the nuisance.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

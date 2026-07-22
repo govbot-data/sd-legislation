@@ -1,0 +1,87 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.729.47 101st Legislative Session 135
+2026 South Dakota Legislature
+Senate Bill 135
+ENROLLED
+AN ACT
+ENTITLED An Act to protect residents from increased utility costs and utility
+shortages caused by data centers and clarify authority to regulate data
+centers.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+Section 1. This Act is known as the "Data Center Bill of Rights for Citizens."
+Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+For purposes of this chapter, "data center" means a centralized repository for the
+dissemination, management, processing, and storage of electronic data and information,
+with a peak demand of ten megawatts or greater.
+Section 3. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+A provider of electricity shall establish and maintain separate terms and conditions
+for electric service applicable to a data center. The terms and conditions must require that
+the data center reimburse any provider of electricity for all costs fairly attributed to the
+data center for service demand and utility consumption, including costs incurred to serve
+the data center if the data center departs the system or materially reduces its load.
+Section 4. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+The state may not preempt or otherwise limit the authority of the governing body
+of a county, municipality, or other political subdivision to adopt ordinances and resolutions
+limiting, prohibiting, or otherwise regulating the construction, development, or operation
+of data centers.
+Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+
+26.729.47 2 135
+Prior to commencing operation in this state, the operator of a data center shall
+provide notice of projected water consumption to each local water provider in the area in
+which the data center is proposed to be located. Each water provider receiving notice
+pursuant to this section shall determine whether the data center's projected water
+consumption is compatible with the local water supply and issue that determination in
+writing to the operator. The operator shall present a copy of each notice and determination
+to the Board of Water Management.
+If the board receives a determination from each applicable water provider that the
+data center's projected water consumption is compatible with the local water supply, the
+board must issue, to the operator and the general public, a written statement that the
+operator has satisfied the requirements of this section.
+Notwithstanding the board's issuance of a written statement pursuant to this
+section, the data center may not consume an amount of the local water supply exceeding
+limits established by order of the board, after allocation to residential and essential public
+services. In establishing allocation limits under this section, the board shall seek to ensure
+water availability and prevent disproportionate use of water by data centers.
+Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+The operator of a data center that is authorized to operate in this state pursuant
+to this chapter, shall, at the time and in the manner prescribed by the Board of Water
+Management, submit to the board a semi-annual report regarding the data center's water
+use. The report must contain average usage data and certify compliance with this section.
+The board shall make the usage data contained in the report available to the public.
+SB135 ENROLLED
+
+26.729.47 3 135
+An Act to protect residents from increased utility costs and utility shortages caused by data
+centers and clarify authority to regulate data centers.
+Received at this Executive Office
+I certify that the attached Act originated in this _____ day of _____________,
+the:
+2026 at ____________M.
+Senate as Bill No. 135
+By
+Secretary of the Senate for the Governor
+The attached Act is hereby
+approved this ________ day of
+President of the Senate ______________, A.D., 2026
+Attest:
+Governor
+Secretary of the Senate
+STATE OF SOUTH DAKOTA,
+ss.
+Office of the Secretary of State
+Speaker of the House
+Filed ____________, 2026
+Attest: at _________ o'clock __M.
+Chief Clerk of the House Secretary of State
+Senate Bill No. 135 By
+File No. ____ Asst. Secretary of State
+Chapter No. ______
+SB135 ENROLLED

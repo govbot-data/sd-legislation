@@ -1,0 +1,162 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.412.11 101st Legislative Session 1214
+2026 South Dakota Legislature
+House Bill 1214
+Introduced by: Representative Wittman
+1 An Act to require that courts consider as a mitigating factor during sentencing an
+2 individual's history as a victim of abuse and provide for a reduced sentence
+3 in certain circumstances.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That a NEW SECTION be added to chapter 23A-27:
+6 Terms used in sections 1 to 12, inclusive, of this Act, mean:
+7 (1) "Abuse," physical, psychological, or sexual abuse threatened by, or actually
+8 inflicted upon an individual by, a current or former family member, household
+9 member, romantic or sexual partner, spouse, or trafficker of the individual, or by
+10 another who used the individual for financial gain;
+11 (2) "Physical abuse," any physical injury or damage to the body that is not accidental;
+12 (3) "Psychological abuse," a pattern of coercive control, economic or financial control,
+13 humiliation, mental intimidation, or threats, that provokes fear of harm; and
+14 (4) "Sexual abuse," any sexual contact or behavior that is perpetrated without consent,
+15 by force, or under unequal or coercive conditions.
+16 Section 2. That a NEW SECTION be added to chapter 23A-27:
+17 Before an individual's sentence is imposed, the court shall consider as a mitigating
+18 factor, if applicable, the individual's history as a victim of abuse.
+19 The individual shall provide to the court documentary evidence corroborating that
+20 the individual was, at the time of the offense, a victim of abuse, with at least one piece of
+21 evidence being a:
+22 (1) Court record;
+23 (2) Presentence report;
+24 (3) Social services record;
+25 (4) Hospital record;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.412.11 2 1214
+1 (5) Sworn statement from a witness to the abuse who is not the individual;
+2 (6) Law enforcement record; or
+3 (7) Protective order.
+4 Section 3. That a NEW SECTION be added to chapter 23A-27:
+5 In addition to the evidence required by section 2 of this Act, the individual may
+6 provide to the court:
+7 (1) Jail records;
+8 (2) Department of Corrections records;
+9 (3) Documentation prepared at or near the time of the commission or prosecution of
+10 an offense tending to support the individual's claim of abuse;
+11 (4) Verification of consultation with:
+12 (a) A licensed health care provider;
+13 (b) A licensed mental health care provider;
+14 (c) An employee of a court acting within the scope of employment;
+15 (d) A member of the clergy;
+16 (e) An attorney; or
+17 (f) A social worker, rape crisis counselor, or other advocate acting on behalf of
+18 an agency that assists victims of abuse; and
+19 (5) Expert testimony from a psychiatrist, psychologist, or mental health professional
+20 showing that the individual was diagnosed with post-traumatic stress disorder as
+21 a result of the abuse.
+22 Section 4. That a NEW SECTION be added to chapter 23A-27:
+23 If the court finds by clear and convincing evidence that, at the time of the offense,
+24 the individual was a victim of abuse, and the abuse was related to and was a substantial
+25 contributing factor to the crime for which sentence is being rendered, the court must
+26 reduce the penalty provided by law for the offense as follows:
+27 (1) A sentence of life imprisonment in a state correctional facility without the possibility
+28 of parole must be reduced to thirty-five years or less;
+29 (2) A sentence of life imprisonment in a state correctional facility with the possibility
+30 of parole must be reduced to thirty years or less; and
+31 (3) A sentence to a term of years in a state correctional facility must be reduced by at
+32 least one-third.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.412.11 3 1214
+1 Section 5. That a NEW SECTION be added to chapter 23A-27:
+2 If the offense is a crime of violence, as defined in § 22-1-2, in order to receive the
+3 sentence reduction provided in section 4 of this Act, the individual must prove by clear
+4 and convincing evidence that the victim of the individual was the perpetrator of the
+5 individual's abuse.
+6 Section 6. That a NEW SECTION be added to chapter 23A-27:
+7 The provisions of sections 1 to 12, inclusive, of this Act do not apply to an individual
+8 convicted of:
+9 (1) A Class A felony;
+10 (2) An offense that would require the individual to register as a sex offender under
+11 chapter 22-24B; or
+12 (2) An attempt or conspiracy to commit an offense that would require the individual to
+13 register as a sex offender.
+14 Section 7. That a NEW SECTION be added to chapter 23A-27:
+15 An individual serving a sentence for an offense committed prior to July 1, 2026,
+16 may submit, to the court that imposed the individual's original sentence, a request to
+17 apply for resentencing. The request must include documentation showing the individual
+18 is:
+19 (1) Confined in a state correctional facility under the custody and control of the
+20 Department of Corrections;
+21 (2) Serving a sentence for an offense committed prior to July 1, 2026; and
+22 (3) Eligible for an alternative sentence as a victim of abuse.
+23 If the court finds the requirements are met, the court must notify the individual
+24 that the individual may apply for resentencing. Upon notification, the individual may
+25 request that the court appoint an attorney to assist in the preparation of and proceedings
+26 on the application for resentencing.
+27 If the court finds the requirements are not met, the court must notify the individual
+28 and deny the individual's request without prejudice.
+29 Section 8. That a NEW SECTION be added to chapter 23A-27:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.412.11 4 1214
+1 To apply for resentencing, an individual shall submit, to the court that imposed the
+2 individual's original sentence, the same evidence required by section 2 of this Act. The
+3 individual may also submit to the court evidence permitted by section 3 of this Act.
+4 If the application does not comply with the requirements of section 2 of this Act,
+5 the court must notify the individual and deny the individual's application without prejudice.
+6 If the application does comply with the requirements of section 2 of this Act, the
+7 court must notify the individual and, within thirty days, conduct a sentencing hearing to
+8 determine whether the individual may be resentenced in accordance with section 4 of this
+9 Act.
+10 Upon receipt of an application for resentencing, the clerk of court shall notify and
+11 provide a copy of the application to the appropriate state's attorney.
+12 Section 9. That a NEW SECTION be added to chapter 23A-27:
+13 At a resentencing hearing pursuant to section 8 of this Act, the court shall
+14 determine any controverted issues of fact relevant to the issue of sentencing. The court
+15 may consider any facts or circumstances relevant to the imposition of a new sentence
+16 submitted by the individual or the state's attorney.
+17 The court may consider the individual's institutional record of confinement, but the
+18 institutional record may not be solely dispositive as to whether the individual receives a
+19 new sentence. Consideration of the institutional record may include the individual's
+20 participation in programming and treatment while incarcerated and the individual's
+21 disciplinary history. The inability of the individual to participate in programming or
+22 treatment despite the individual's willingness to do so may not be considered an
+23 aggravating factor.
+24 The court may not order a new presentence investigation or entertain any matter
+25 challenging the underlying basis of the individual's original conviction.
+26 Section 10. That a NEW SECTION be added to chapter 23A-27:
+27 If, at the conclusion of the resentencing hearing, the court determines that the
+28 individual may not be resentenced in accordance with section 4 of this Act, the court must
+29 notify the individual and enter an order that includes written findings of fact and the
+30 reasons for the court's determination. If the individual is denied resentencing on the merits
+31 of the individual's application, the court must deny the application with prejudice.
+32 If the court determines that the individual may be resentenced in accordance with
+33 section 4 of this Act, the court must notify the individual and, unless the individual
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.412.11 5 1214
+1 withdraws the application for resentencing, enter an order vacating the individual's original
+2 sentence and impose a new sentence in accordance with section 4 of this Act. The order
+3 must include written findings of fact and the reasons for the court's determination.
+4 Section 11. That a NEW SECTION be added to chapter 23A-27:
+5 When calculating a new sentence to be served pursuant to sections 4 and 10 of
+6 this Act, the court shall credit to the individual any time served in a county jail and any
+7 period of incarceration served under the custody and control of the Department of
+8 Corrections as a result of the individual's original sentence.
+9 Section 12. That a NEW SECTION be added to chapter 23A-27:
+10 An appeal may be taken to the Supreme Court, as a matter of right, from any order
+11 denying resentencing or any new sentence imposed pursuant to sections 1 to 11, inclusive,
+12 of this Act. The procedure on appeal is the same as prescribed by law or Supreme Court
+13 rule in other criminal cases.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

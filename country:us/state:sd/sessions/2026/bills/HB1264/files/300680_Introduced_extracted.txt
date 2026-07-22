@@ -1,0 +1,139 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.985.12 101st Legislative Session 1264
+2026 South Dakota Legislature
+House Bill 1264
+Introduced by: Representative Overweg
+1 An Act to eliminate the Agricultural Land Assessment Implementation and Oversight
+2 Advisory Task Force, and to provide that the Department of Revenue receive
+3 the submission of recommendations and provide a report on agricultural
+4 value.
+5 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+6 Section 1. That § 10-6-124 be AMENDED:
+7 10-6-124. The secretary of revenue the department may promulgate rules
+8 pursuant to chapter 1-26 concerning the:
+9 (1) Collection and tabulation of information required to determine median appraisal or
+10 sales assessment ratio, and coefficient of dispersion;
+11 (2) Criteria to be included in a compliance audit of assessment practices;
+12 (3) Conditions under which a certificate of compliance may be issued to a county;
+13 (4) Procedures for determining the valuation of agricultural buildings and structures;
+14 (5) Procedures for determining the valuation of dwellings on agricultural land and
+15 automobile garages or portions of buildings used as automobile garages;
+16 (6) Application of cropland and noncropland income values;
+17 (7) Application of soil classification standards; and
+18 (8) Procedures for making adjustments to the value of agricultural land pursuant to
+19 §§ 10-6-127 to 10-6-132, inclusive.
+20 Before the secretary promulgates any rules pursuant to subdivision (4) to (8),
+21 inclusive, the secretary shall present the proposed rules to the Agricultural Land
+22 Assessment Implementation and Oversight Advisory Task Force established pursuant to
+23 § 10-6-134.
+24 Section 2. That § 10-6-128 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.985.12 2 1264
+1 10-6-128. The secretary of revenue, upon notifying the Agricultural Land
+2 Assessment Implementation and Oversight Advisory Task Force, the department may
+3 contract with one or more qualified entities for the purpose of creating or maintaining a
+4 database to determine the agricultural income value of agricultural land by county,
+5 consisting of eight consecutive years of cropland data and noncropland data. The data for
+6 the year representing the highest agricultural income value among the eight years and
+7 the year representing the lowest agricultural income value among the eight years shall
+8 must be discarded from the database and the remaining six years averaged for valuation
+9 purposes. For each assessment year, the first year of the eight-year data period shall be
+10 the year that is nine years less than prior to the assessment year.
+11 The cropland data must include acres planted, acres harvested, yield per acre, and
+12 statewide crop prices. The noncropland data must include cash rents and statewide calf
+13 prices. The noncropland data may also include rangeland and pastureland animal unit
+14 months per acre, rangeland and pastureland acres, and grazing season data.
+15 Any A qualified entity contracting with the secretary of revenue the department
+16 pursuant to this section shall provide the data for each county to the secretary of revenue
+17 by June first of each year.
+18 For purposes of this section, a qualified entity is a federal or state agency,
+19 instrumentality, institution of higher learning, other federal or state authority, or private
+20 entity with expertise in researching or evaluating land production capacity.
+21 On or before March first of each year, the department shall provide a report to the
+22 Taxation Committees in the Senate and the House of Representatives on the data compiled
+23 pursuant to this section.
+24 Section 3. That § 10-6-129 be AMENDED:
+25 10-6-129. The economics department of South Dakota State University shall An
+26 entity contracting with the department pursuant to § 10-6-128 may submit
+27 recommendations to the Agricultural Land Assessment Implementation and Oversight
+28 Advisory Task Force by November 1, 2008, regarding the factors to use for the percentage
+29 of annual earning capacity to be used to determine the agricultural income value of the
+30 land pursuant to § 10-6-127 and other provisions used to assess agricultural land that will
+31 provide the least amount of shift between cropland and noncropland on a statewide basis.
+32 Thereafter, the economics department shall submit such. Any recommendations, if any,
+33 to the task force under this section must be submitted to the department by September
+34 first of each year.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.985.12 3 1264
+1 Section 4. That § 10-6-134 be REPEALED.
+2 There is hereby established the Agricultural Land Assessment Implementation and
+3 Oversight Advisory Task Force. The task force consists of the following fourteen members:
+4 (1) The speaker of the House of Representatives shall appoint four members of the
+5 House of Representatives. The speaker shall appoint members in a manner that is
+6 proportional to a party's representation in the House of Representatives, except
+7 the speaker shall appoint at least one member from the minority party in the House
+8 of Representatives;
+9 (2) The speaker of the House of Representatives shall appoint three members of the
+10 general public, at least one of the members shall have an agricultural background
+11 and at least one of the members shall have a business background;
+12 (3) The president pro tempore of the Senate shall appoint four members of the Senate.
+13 The president pro tempore shall appoint members in a manner that is proportional
+14 to a party's representation in the Senate, except the president pro tempore shall
+15 appoint at least one member from the minority party in the Senate; and
+16 (4) The president pro tempore of the Senate shall appoint three members of the
+17 general public, at least one of the members shall have an agricultural background
+18 and at least one of the members shall have a business background.
+19 The speaker of the House of Representatives and president pro tempore of the
+20 Senate before the close of each regular session of the Legislature held in odd-numbered
+21 years shall appoint members to the task force for a term of two years. If there is a vacancy
+22 on the task force, the vacancy shall be filled in the same manner as the original
+23 appointment.
+24 The task force shall advise the department regarding the rules promulgated by the
+25 department to administer the provisions concerning the assessment and taxation of
+26 agricultural lands and shall review the implementation of the provisions of law concerning
+27 the assessment and taxation of agricultural land. The task force shall report to the Senate
+28 and House of Representatives and may submit a copy of its report to the Governor. The
+29 task force may present draft legislation and policy recommendations to the Legislative
+30 Research Council Executive Board.
+31 Section 5. That § 10-6-135 be REPEALED.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.985.12 4 1264
+1 The Agricultural Land Assessment Implementation and Oversight Advisory Task
+2 Force established pursuant to § 10-6-134 shall make recommendations in the following
+3 areas:
+4 (1) The proper percentage of annual earning capacity and capitalization rate to be used
+5 to determine the agricultural income value pursuant to § 10-6-127;
+6 (2) The changes, if any, that must be made to §§ 13-16-7, 13-37-16, and 13-37-35.1
+7 to ensure that the total amount of additional taxes that may be generated on
+8 agricultural land by a school district pursuant to the provisions of §§ 13-16-7, 13-
+9 37-16, and 13-37-35.1 will not provide a substantial property tax revenue increase
+10 for the school district pursuant to the implementation of the productivity system
+11 pursuant to §§ 10-6-127 to 10-6-132, inclusive;
+12 (3) The changes, if any, that must be made to §§ 13-16-7, 13-37-16, and 13-37-35.1
+13 to ensure that the total amount of property taxes that may be lost on agricultural
+14 land by a school district pursuant to the provisions of §§ 13-16-7, 13-37-16, and
+15 13-37-35.1 will not provide a substantial property tax revenue decrease for the
+16 school district pursuant to the implementation of the productivity system pursuant
+17 to §§ 10-6-127 to 10-6-132, inclusive; and
+18 (4) The distribution of the local effort for the general fund of school districts between
+19 the classifications of real property as provided by § 13-13-72.1 which establishes
+20 the real property tax contribution from agricultural property for the general fund
+21 of school districts as a fixed ratio of the total local effort for such levies. The task
+22 force shall also consider the other taxes paid by agricultural property, the
+23 relationship of the total assessed value of agricultural property to the total assessed
+24 value of all real property, and other factors the task force deems appropriate.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

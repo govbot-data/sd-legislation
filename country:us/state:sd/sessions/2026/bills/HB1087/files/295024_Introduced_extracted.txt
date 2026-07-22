@@ -1,0 +1,272 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.631.18 101st Legislative Session 1087
+2026 South Dakota Legislature
+House Bill 1087
+Introduced by: Representative Ismay
+1 An Act to prohibit the use of paid petition circulators.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 2-1-1.1 be AMENDED:
+4 2-1-1.1. A petition sponsor shall file, in a physical and electronic copy format, a
+5 petition for an initiated amendment to the South Dakota Constitution, as it is to be
+6 circulated, with the secretary of state before the petition may be circulated and at least
+7 one year before the next general election at which the initiated amendment to the
+8 constitution is proposed to be submitted to the voters. The petition must:
+9 (1) Be accompanied by the full text of the initiated amendment in fourteen-point font;
+10 (2) Designate, in fourteen-point font, the date of the general election at which the
+11 initiated amendment is to be submitted;
+12 (3) Contain, in fourteen-point font, the title and explanation of the initiated
+13 amendment as prepared by the attorney general, pursuant to § 12-13-25.1;
+14 (4) Contain the fiscal note, if any, prepared pursuant to § 2-9-30, in fourteen-point
+15 font;
+16 (5) Be accompanied by a notarized affidavit form, signed by each person who is a
+17 petition sponsor, which includes the name and address of each petition sponsor;
+18 and
+19 (6) Be accompanied by a statement of organization as provided in § 12-27-6.
+20 The title to be contained on a petition for an initiated amendment, pursuant to
+21 subdivision (3), must be included on both sides of the sheet of paper on which the petition
+22 is printed. The title printed on the back side of the petition must be printed in at least
+23 sixteen-point font.
+24 Only an individual who is registered as a voter of this state, pursuant to chapter
+25 12-4, may be a petition sponsor for an initiated amendment to the constitution.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.631.18 2 1087
+1 Each petition circulator shall provide to each individual who signs the petition a
+2 circulator handout containing the title of the initiated amendment to the Constitution, as
+3 prepared by the attorney general; the full text of the initiated amendment to the
+4 Constitution; the name, phone number, and email address of each petition sponsor; and
+5 a statement indicating whether the petition circulator is a volunteer or a paid circulator
+6 and, if a paid circulator, the amount the circulator is being paid that the circulator is not
+7 being compensated for circulating the petition. The secretary of state must approve the
+8 circulator handout for each initiated amendment to the Constitution before the petition is
+9 circulated.
+10 A petition for an initiated amendment to the constitution may not be circulated
+11 more than twenty-four months before the general election that was designated pursuant
+12 to subdivision (2). A sworn affidavit, signed by at least two-thirds of the petition sponsors,
+13 stating that the documents filed constitute the entire petition and to the best of the
+14 knowledge of the sponsors contains a sufficient number of signatures, must also be filed
+15 with the secretary of state. The initiated amendment petition signatures must be filed with
+16 the secretary of state by the first Tuesday in February of a general election year for the
+17 initiated amendment to qualify for submission to the voters at the next general election.
+18 The State Board of Elections shall prescribe the form of the petition, including
+19 petition size and petition font size for ballot measure language not prescribed in this
+20 section.
+21 Section 2. That § 2-1-1.2 be AMENDED:
+22 2-1-1.2. A petition sponsor shall file, in physical and electronic copy format, a
+23 petition for an initiated measure, as it is to be circulated, with the secretary of state,
+24 before the petition may be circulated and at least one year before the next general election
+25 at which the initiated measure is proposed to be submitted to the voters. The petition
+26 must:
+27 (1) Be accompanied by the full text of the initiated measure in fourteen-point font;
+28 (2) Designate, in fourteen-point font, the date of the general election at which the
+29 initiated measure is to be submitted;
+30 (3) Contain, in fourteen-point font, the title and explanation of the initiated measure
+31 as prepared by the attorney general, pursuant to § 12-13-25.1;
+32 (4) Contain the fiscal note, if any, prepared pursuant to § 2-9-30, in fourteen-point
+33 font;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.631.18 3 1087
+1 (5) Be accompanied by a notarized affidavit form signed by each person who is a
+2 petition sponsor, which includes the name and address of each petition sponsor;
+3 and
+4 (6) Be accompanied by a statement of organization as provided in § 12-27-6.
+5 The title to be contained on a petition for an initiated amendment, pursuant to
+6 subdivision (3), must be included on both sides of the sheet of paper on which the petition
+7 is printed. The title printed on the back side of the petition must be printed in at least
+8 sixteen-point font.
+9 Only an individual who is registered as a voter of this state, pursuant to chapter
+10 12-4, may be a petition sponsor for an initiated measure.
+11 Each petition circulator shall provide to each individual who signs the petition a
+12 circulator handout containing the title of the initiated measure as prepared by the attorney
+13 general; the full text of the initiated measure; the name, phone number, and email
+14 address of each petition sponsor; and a statement indicating whether the petition
+15 circulator is a volunteer or a paid circulator and, if a paid circulator, the amount the
+16 circulator is being paid that the circulator is not being compensated for circulating the
+17 petition. The secretary of state must approve the circulator handout for each initiated
+18 measure before the petition is circulated.
+19 A petition for an initiated measure may not be circulated more than twenty-four
+20 months before the general election that was designated pursuant to subdivision (2). A
+21 sworn affidavit, signed by at least two-thirds of the petition sponsors, stating that the
+22 documents filed constitute the entire petition and to the best of the knowledge of the
+23 sponsors contains a sufficient number of signatures, must also be filed with the secretary
+24 of state. The initiated measure petition signatures must be filed with the secretary of state
+25 by the first Tuesday in February of a general election year for the initiated measure to
+26 qualify for submission to the voters at the next general election.
+27 The State Board of Elections shall prescribe the form of the petition, including
+28 petition size and petition font size for ballot measure language not prescribed in this
+29 section.
+30 Section 3. That § 2-1-1.3 be AMENDED:
+31 2-1-1.3. Terms used in this chapter mean:
+32 (1) "Circulates," either:
+33 (a) Physically presents or otherwise makes available a ballot measure petition
+34 to another person for that person's signature; or
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.631.18 4 1087
+1 (b) Solicits from another person, personally and in the presence of such other
+2 person, a signature on a ballot measure petition, while acting in concert
+3 with another person who simultaneously physically presents or otherwise
+4 makes available the ballot measure petition;
+5 (2) "Petition circulator," the same as the term is defined under § 12-1-3;
+6 (3) "Petition sponsor," any person who proposes the placement of a statewide ballot
+7 measure on the ballot;
+8 (4) "Ballot measure," any measure placed on a statewide ballot in accordance with
+9 § 2-1-1.1, 2-1-1.2, or 2-1-3.1;
+10 (5) "Paid circulator," any person who receives money or anything of value as
+11 consideration, in whole or in part, for acting as a petition circulator;
+12 (6) "Volunteer circulator," any person who does not receive money or anything of value
+13 as consideration, in whole or in part, for acting as a petition circulator
+14 (1) "Ballot measure," an initiated amendment to the Constitution, initiated measure,
+15 or referred law that is submitted to a vote of the people and placed on a statewide
+16 ballot;
+17 (2) "Circulate," the act by which a petition circulator solicits a signature from another
+18 individual by physically presenting or otherwise making available a ballot measure
+19 petition to the other individual;
+20 (3) "Compensate," a gift, advance, distribution, deposit, payment of money or other
+21 thing of value provided as consideration or as an inducement for circulating a
+22 petition, regardless of whether the gift, advance, distribution, deposit, payment is
+23 provided prior to circulating the petition, during the time when the petition is being
+24 circulated, or deferred until after the circulation process is concluded, provided that
+25 the term does not include the reimbursement of any money expended on legitimate
+26 expenses incurred in the act of circulating a petition;
+27 (4) "Petition circulator," an individual who:
+28 (a) Is a resident of this state, as defined in § 12-1-4;
+29 (b) Is at least eighteen years of age; and
+30 (c) Solicits a signature from another individual by physically presenting or
+31 otherwise making available a ballot measure petition to the other individual;
+32 and
+33 (5) "Petition sponsor," any person who proposes the placement of a statewide ballot
+34 measure on the ballot.
+35 Section 4. That § 2-1-3.1 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.631.18 5 1087
+1 2-1-3.1. A petition sponsor shall file, in physical and electronic format, a petition
+2 to refer a law, as it is to be circulated, with the secretary of state before the petition may
+3 be circulated. The petition must:
+4 (1) Contain, in fourteen-point font, the title of the referred law;
+5 (2) Contain the effective date of the referred law in fourteen-point font;
+6 (3) Contain the date of the general election at which the referred law is to be submitted
+7 in fourteen-point font;
+8 (4) Be accompanied by a notarized form signed by each person who is a petition
+9 sponsor, which includes the names and addresses of each petition sponsor; and
+10 (5) Be accompanied by a statement of organization as provided in § 12-27-6.
+11 The title required to be contained on a petition to refer a law, pursuant to
+12 subdivision (1), must be included on both sides of the sheet of paper on which the petition
+13 is printed. The title printed on the back side of the petition must be printed in at least
+14 sixteen-point font.
+15 Only an individual who is registered as a voter of this state, pursuant to chapter
+16 12-4, may be a petition sponsor for a petition to refer a law.
+17 The petition circulator shall provide to each person who signs the petition a
+18 circulator handout containing the title of the referred law; the name, phone number, and
+19 email address of each petition sponsor; a statement whether the petition circulator is a
+20 volunteer or paid circulator and, if a paid circulator, the amount the circulator is being
+21 paid indicating that the circulator is not being compensated for circulating the petition.
+22 The secretary of state must approve the circulator handout for each referred law before
+23 the petition is circulated.
+24 The signatures on a petition to refer a law must be filed with the secretary of state
+25 within ninety days after the Legislature that passed the referred law adjourned sine die.
+26 A sworn affidavit, stating that the documents filed constitute the entire petition and, to
+27 the best knowledge of the sponsors, contain at least the number of valid signatures
+28 required by S.D. Const., Art. III § 1, must be signed by at least two-thirds of the petition
+29 sponsors and filed with the secretary of state, along with the petition signatures.
+30 The State Board of Elections shall prescribe the form of the petition and affidavit.
+31 Section 5. That a NEW SECTION be added to chapter 2-1:
+32 No person may compensate any other person as consideration or as an inducement
+33 for circulating a petition to initiate a measure or an amendment to the constitution, or to
+34 refer a law to a vote of the electors of this state.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.631.18 6 1087
+1 Upon a judicial finding of any violation of this section, the petition must be deemed
+2 void ab initio.
+3 Section 6. That § 12-1-3 be AMENDED:
+4 12-1-3. Terms used in this title mean:
+5 (1) "Ballot question committee," as defined by § 12-27-1;
+6 (2) "Candidate," a person whose name is on the ballot or who is entitled to be on the
+7 ballot to be voted upon for nomination or election at any election;
+8 (3) "Election," any election held under the laws of this state;
+9 (4) "Election officials," state and local officials charged with the duty of conducting
+10 elections and the canvass of returns;
+11 (5) "Elector," a person qualified to register as a voter, whether or not the person is
+12 registered;
+13 (6) "Electronic pollbook," an electronic system containing both the registration list and
+14 pollbook;
+15 (7) "General election," the vote required to be taken in each voting precinct of the
+16 state on the first Tuesday after the first Monday in November of each even-
+17 numbered year;
+18 (8) "Paid circulator," any person who receives money or anything of value for collecting
+19 signatures for a petition;
+20 (9) "Party office," an office of a political party organization as distinct from a public
+21 office;
+22 (10)(9) "Person in charge of an election," or "person charged with the conduct of an
+23 election," the county auditor in all cases except local elections for a municipality,
+24 school district, township, or other political subdivision, in which case it is the officer
+25 having the position comparable to the auditor in that unit of government if not
+26 specifically designated by law;
+27 (11)(10) "Petition," a form prescribed by the State Board of Elections, which contains
+28 the question or candidacy being petitioned, the declaration of candidacy if required
+29 and the verification of the circulator. If multiple sheets of paper are necessary to
+30 obtain the required number of signatures, each sheet shall be self-contained and
+31 separately verified by the circulator;
+32 (12)(11) "Petition circulator," a resident of the State of South Dakota as defined under
+33 § 12-1-4, who is at least eighteen years of age who circulates nominating petitions
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.631.18 7 1087
+1 or other petitions for the purpose of placing candidates or issues on any election
+2 ballot;
+3 (13)(12) "Political party," beginning with the 2014 general election and each general
+4 election thereafter, a party whose candidate for any statewide office received at
+5 least two and one-half percent of the total votes cast for that statewide office in
+6 either of the two previous general election cycles;
+7 (14)(13) "Pollbook" or "poll list," a list containing in numerical order the names of all
+8 persons voting at the election and type of ballot voted;
+9 (15)(14) "Polling place," a designated place voters may go to vote;
+10 (16)(15) "Poll watcher," a person chosen to observe the conduct of an election by a
+11 candidate, political party, or ballot question committee;
+12 (17)(16) "Primary" or "primary election," an election held at which candidates are
+13 nominated for public office;
+14 (18)(17) "Public office," an elected position in government;
+15 (19)(18) "Registration list," a list of eligible voters;
+16 (20)(19) "Registered mail," does not include certified mail;
+17 (21)(20) "Registration officials," the county auditor and deputies and other persons
+18 authorized to assist in registration pursuant to chapter 12-4;
+19 (22)(21) "Vote center," a polling place when the precinct has been defined as the entire
+20 jurisdiction and an electronic pollbook is utilized;
+21 (23)(22) "Voter," a person duly registered to vote or one who is performing the act of
+22 voting;
+23 (24)(23) "Independent (IND)" or "no party affiliation (NPA)," any currently registered
+24 voter who writes independent, I, Ind, no party affiliation, no party, no choice,
+25 nonpartisan, or line crossed off in the choice of party field on the voter registration
+26 form and any individual who is not currently registered to vote who leaves the
+27 choice of party field blank on the voter registration form;
+28 (25) "Independent candidate," notwithstanding the definition of independent as stated
+29 in this chapter, any registered voter regardless of party affiliation who declares to
+30 be an independent candidate for public office pursuant to this chapter; and
+31 (26) "Other," any voter who writes a political party not recognized in South Dakota in
+32 the choice of party field on the voter registration form.
+33 Section 7. That § 49-35-9 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.631.18 8 1087
+1 49-35-9. Every sheet of every petition for the organization of a consumers power
+2 district containing signatures shall have upon it and below the signatures a circulator's
+3 verification as required by subdivision 12-1-3(8) 12-1-3-(10).
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,18 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.110.13 101st Legislative Session 1172
+2026 South Dakota Legislature
+House Bill 1172
+Introduced by: Representative Novstrup
+1 An Act to terminate certain school district excess tax levies.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. An excess tax levy approved by a school district pursuant to § 10-12-43 or 10-
+4 12-43.1, prior to July 1, 2002, may not be imposed in 2026 or any year thereafter.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

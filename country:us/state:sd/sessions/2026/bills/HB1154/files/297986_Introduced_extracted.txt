@@ -1,0 +1,218 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.598.17 101st Legislative Session 1154
+2026 South Dakota Legislature
+House Bill 1154
+Introduced by: Representative Muckey
+1 An Act to establish public benefit corporations in South Dakota.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to a NEW CHAPTER in title 47:
+4 This chapter, together with chapter 47-1A, applies to any public benefit
+5 corporation, as defined in section 2 of this Act. If a corporation elects to become a public
+6 benefit corporation under this chapter, the corporation is subject in all respects to the
+7 requirements of chapter 47-1A, except to the extent this chapter imposes conflicting
+8 requirements, in which case the requirements of this chapter supersede.
+9 Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 47:
+10 Terms used in this chapter mean:
+11 (1) "General benefit corporation," a public benefit corporation with articles of
+12 incorporation that expressly provide for a general public benefit purpose;
+13 (2) "General public benefit," a public benefit that is:
+14 (a) Intended to impact society, the environment, or the well-being of present
+15 and future generations; and
+16 (b) Not directed to any specific community, interest, or person;
+17 (3) "Independent," having no material relationship with a public benefit corporation or
+18 a parent, subsidiary, or other affiliate of a public benefit corporation;
+19 (4) "Minimum status vote," a shareholder election in which a corporation takes action
+20 by the affirmative vote of the holders of at least two-thirds of the corporation's
+21 issued and outstanding shares;
+22 (5) "Organization," a domestic or foreign business or nonprofit corporation, limited
+23 liability company, partnership, limited partnership, joint venture, association, trust,
+24 estate, enterprise, or other legal or commercial entity;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.598.17 2 1154
+1 (6) "Public benefit," a positive effect, or reduction of a negative effect, on one or more
+2 categories of communities, interests, or persons, other than stockholders in their
+3 capacities as stockholders, of an artistic, charitable, cultural, economic,
+4 educational, environmental, literary, medical, religious, scientific, or technological
+5 nature;
+6 (7) "Public benefit corporation," a for-profit corporation that is organized under chapter
+7 47-1A, subject to the requirements of chapter 47-1A to the extent described in
+8 section 1 of this Act, and intended to produce a public benefit;
+9 (8) "Specific benefit corporation," a public benefit corporation with articles of
+10 incorporation that expressly provide for only a specific public benefit purpose;
+11 (9) "Specific public benefit," a public benefit directed to a specific community, interest,
+12 or person; and
+13 (10) "Third-party standard," a guideline that is:
+14 (a) Publicly available;
+15 (b) Used for assessing, defining, and reporting the performance of a business
+16 enterprise as a public benefit corporation; and
+17 (c) Promulgated by a neutral person operating independently of the
+18 corporation.
+19 Section 3. That a NEW SECTION be added to a NEW CHAPTER in title 47:
+20 A public benefit corporation's articles of incorporation must state that the
+21 corporation has made one of the following elections:
+22 (1) To pursue only a general public benefit purpose;
+23 (2) To pursue only a specific public benefit purpose; or
+24 (3) To pursue both a general public benefit purpose and a specific public benefit
+25 purpose.
+26 The name of a general benefit corporation must contain the words "general benefit
+27 corporation" or the abbreviation "GBC," and the name of a specific benefit corporation
+28 must contain the words "specific benefit corporation" or the abbreviation "SBC."
+29 Section 4. That a NEW SECTION be added to a NEW CHAPTER in title 47:
+30 An existing corporation formed and acting under the requirements of chapter 47-
+31 1A may elect to become a public benefit corporation under this chapter upon approval by
+32 a minimum status vote and the amendment of the corporation's articles of incorporation
+33 to ensure compliance with section 3 of this Act.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.598.17 3 1154
+1 If an organization, other than a nonprofit corporation or domestic nonprofit
+2 corporation as defined in § 47-1A-140, which is not a public benefit corporation, is a party
+3 to a merger, exchange, conversion, or transfer pursuant to the requirements of chapter
+4 47-1A, and the surviving organization in the merger, the acquiring organization in the
+5 exchange, the converted organization in the conversion, or the transferee in the transfer
+6 is to be a public benefit corporation, the transfer or the plan of merger, exchange, or
+7 conversion must be adopted pursuant to the requirements of chapter 47-1A upon approval
+8 by a minimum status vote.
+9 Any shareholder of the merging, exchanging, converting, or transferring
+10 corporation, or member of a similarly situated limited liability company, may dissent from
+11 the merger, exchange, conversion, or transfer and obtain payment for the fair value of
+12 the shareholder's shares or the member's membership interest pursuant to §§ 47-1A-
+13 1301 to 47-1A-1331.2, inclusive, in the event of an election of public benefit corporation
+14 status pursuant to this section.
+15 Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 47:
+16 An existing corporation formed and acting under the requirements of chapter 47-
+17 1A may elect to terminate the corporation's status as a public benefit corporation and
+18 cease being subject to this chapter upon approval by a minimum status vote and the
+19 amendment of the corporation's articles of incorporation to change the name of the
+20 corporation and remove the statement of election required by section 3 of this Act.
+21 Any shareholder of the corporation may dissent from and obtain payment for the
+22 fair value of the shareholder's shares pursuant to §§ 47-1A-1301 to 47-1A-1331.2,
+23 inclusive, in the event of a termination of public benefit corporation status pursuant to this
+24 section.
+25 Any corporation that terminates the public benefit corporation status, or has the
+26 status revoked more than once pursuant to section 8 or 9 of this Act, may not elect to
+27 become a public benefit corporation under this chapter until three years have passed since
+28 the effective date of the termination or revocation.
+29 Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 47:
+30 The board of directors shall manage or direct the business and affairs of the public
+31 benefit corporation in a manner that balances the pecuniary interests of the stockholders,
+32 the best interests of those materially affected by the corporation's conduct, and the public
+33 benefit identified in the corporation's articles of incorporation.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.598.17 4 1154
+1 The conduct and liability of a director of a public benefit corporation is subject to
+2 §§ 47-1A-830 and 47-1A-831. The director does not, by virtue of the public benefit
+3 requirements of this chapter, owe any duty to any person solely by reason of the person's
+4 interest in a public benefit identified in the corporation's articles of incorporation or any
+5 interest materially affected by the corporation's conduct. With respect to a decision
+6 implicating the balance requirement in this section, the director is deemed to satisfy the
+7 director’s fiduciary duties to stockholders and the corporation if the director’s decision is
+8 disinterested, informed, and made objectively.
+9 The director's ownership of or other interest in the stock of the corporation does
+10 not by itself create a conflict of interest on the part of the director, unless the interest
+11 would create a conflict of interest if the corporation were not a public benefit corporation.
+12 In the absence of a conflict of interest or action prohibited by § 47-1A-830 or 47-1A-831,
+13 any act, conduct, or omission of the director does not constitute bad faith or a breach of
+14 the director's duty of loyalty, unless otherwise provided in the articles of incorporation.
+15 Section 7. That a NEW SECTION be added to a NEW CHAPTER in title 47:
+16 Any shareholder of a public benefit corporation may assert a claim, under this
+17 chapter or chapter 47-1A, against the corporation or the corporation's directors or officers,
+18 based upon the failure of the directors or officers to create or pursue a general public
+19 benefit or a specific public benefit, as applicable. The corporation is not liable for monetary
+20 damages under this chapter for any failure to create or pursue a general public benefit or
+21 a specific public benefit.
+22 In addition to the grounds for relief provided by § 47-1A-1430, a court may grant
+23 relief under this chapter if:
+24 (1) Any director or other person in control of the corporation has breached the duties
+25 set forth in section 6 of this Act; or
+26 (2) The corporation has, for a period of at least one year, failed to pursue:
+27 (a) In the case of a general benefit corporation, a general public benefit purpose
+28 or any specific public benefit purpose stated in the corporation's articles of
+29 incorporation; or
+30 (b) In the case of a specific benefit corporation, any specific public benefit
+31 purpose stated in the corporation's articles of incorporation.
+32 Section 8. That a NEW SECTION be added to a NEW CHAPTER in title 47:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.598.17 5 1154
+1 In an action under section 7 of this Act, a court may, in addition to granting any
+2 other equitable relief the court deems just and reasonable under the circumstances:
+3 (1) Order the termination of the corporation's status as a public benefit corporation;
+4 (2) Remove one or more directors from the corporation's board of directors and
+5 determine whether the vacancy is to be filled pursuant to § 47-1A-810 or by court
+6 appointment, with a court appointee to serve only until a qualified successor is
+7 elected by the shareholders at the next regular or special meeting of the
+8 shareholders; or
+9 (3) Appoint a receiver to the corporation to:
+10 (a) Carry on the business and activities of the corporation in a manner
+11 consistent with this chapter; or
+12 (b) Conclude business operations, liquidate assets, pay creditors, and distribute
+13 any remaining moneys to shareholders.
+14 Section 9. That a NEW SECTION be added to a NEW CHAPTER in title 47:
+15 Before April first of each year, a public benefit corporation shall deliver to the
+16 secretary of state for filing, in the form and manner determined by the secretary, a benefit
+17 report covering the prior calendar year and pay a fee of fifty dollars to the secretary.
+18 If the corporation fails to file the report required by this section before April first of
+19 any calendar year, the secretary must revoke the corporation's status as a public benefit
+20 corporation under this chapter and must notify the corporation of the revocation.
+21 If a corporation's status is revoked under this section, the corporation is not
+22 entitled to any of the benefits afforded to a public benefit corporation under this chapter,
+23 as of the date of the revocation, and must amend the articles of incorporation to reflect a
+24 name compliant with § 47-1A-401, which does not include any of the public benefit
+25 corporation designations provided for in section 3 of this Act.
+26 Within thirty days of the revocation, the corporation may file an application for
+27 reinstatement and pay a reinstatement fee of three hundred dollars. Upon receipt of the
+28 completed application and fee, the secretary shall reinstate the corporation's status as a
+29 public benefit corporation, as of the date of the revocation.
+30 If the corporation's public benefit status is revoked:
+31 (1) Due to the intentional failure to file an annual benefit report, any shareholder of
+32 the corporation may obtain payment from the corporation for the fair value of the
+33 shareholder's shares; and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.598.17 6 1154
+1 (2) If the corporation fails to change the corporate name as required in this section,
+2 the corporation is subject to administrative dissolution pursuant to § 47-1A-1421.
+3 Section 10. That a NEW SECTION be added to a NEW CHAPTER in title 47:
+4 An annual benefit report, as required by section 9 of this Act, must:
+5 (1) State the name of the corporation and the corporation's statement of election
+6 pursuant to section 3 of this Act;
+7 (2) Identify the third-party standard adopted and applied by the corporation;
+8 (3) Describe, with reference to the third-party standard, the extent to which the
+9 corporation created or pursued:
+10 (a) A general public benefit, if applicable; and
+11 (b) Any specific public benefit identified in the articles of incorporation, if
+12 applicable;
+13 (4) Describe any circumstances that hindered the corporation's creation or pursuit of
+14 any applicable public benefit;
+15 (5) If the corporation adopted and applied a third-party standard that is different from
+16 the standard identified in the corporation's most recent prior report, explain the
+17 change;
+18 (6) If the third-party standard is the same standard identified in the corporation's most
+19 recent prior report:
+20 (a) State whether the third-party standard is being applied in the same manner
+21 as described in the prior report; or
+22 (b) If the third-party standard is being applied in a different manner than
+23 described in the prior report, explain the differing application;
+24 (7) Confirm that the corporation's board of directors has approved the report;
+25 (8) Contain a certification by the corporation's chief executive officer stating that the
+26 report is accurate and complete as of the date of certification; and
+27 (9) Be signed by the chief executive officer no more than thirty days before the report
+28 is delivered to the secretary of state for filing.
+29 Section 11. This Act is effective beginning July 1, 2027.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

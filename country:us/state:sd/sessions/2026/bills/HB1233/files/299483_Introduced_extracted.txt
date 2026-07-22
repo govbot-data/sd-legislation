@@ -1,0 +1,37 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.906.13 101st Legislative Session 1233
+2026 South Dakota Legislature
+House Bill 1233
+Introduced by: Representative Pourier
+1 An Act to modify provisions for a tax collection agreement with an Indian tribe.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 10-12A-4 be AMENDED:
+4 10-12A-4. The department may enter into tax collection agreements with any
+5 Indian tribe under the provisions of this chapter and chapter 1-24. These agreements may
+6 provide for the collection of any of the following state taxes and any tribal taxes imposed
+7 by a tribe that are identical to the following state taxes:
+8 (1) The retail sales and service tax imposed by chapter 10-45;
+9 (2) The use tax imposed by chapter 10-46;
+10 (3) The contractors' excise tax imposed by chapter 10-46A;
+11 (4) The alternate contractors' excise tax imposed by chapter 10-46B;
+12 (5) The cigarette tax imposed by chapter 10-50;
+13 (6) The motor vehicle excise tax imposed by chapter 32-5B;
+14 (7) The fuel excise tax imposed by chapter 10-47B;
+15 (8) The wholesale tax on tobacco products imposed by chapter 10-50;
+16 (9) The amusement device tax imposed by chapter 10-58;
+17 (10) The gross receipts tax on visitor related businesses imposed by chapter 10-45D;
+18 (11) The excise tax on farm machinery, attachment units, and irrigation equipment
+19 imposed by chapter 10-46E;
+20 (12) The sales tax on remote sellers imposed by chapter 10-64; and
+21 (13) The tax on marketplace providers imposed by chapter 10-65.
+22 The agreement may provide for the retention by the department of an agreed-
+23 upon percentage of the gross revenue as an administrative fee.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,54 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.635.11 101st Legislative Session HJR5002
+2026 South Dakota Legislature
+House Joint Resolution 5002
+Introduced by: Representative Aylward
+1 A JOINT RESOLUTION proposing and submitting to the voters at the next general
+2 election an amendment to the Constitution of the State of South Dakota,
+3 repealing the requirement to provide expanded medicaid.
+4 BE IT RESOLVED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That at the next general election held in the state, the following amendment to
+6 Article XXI of the Constitution of the State of South Dakota, as set forth in section 2 of this
+7 Joint Resolution, which is hereby agreed to, be submitted to the electors of the state for
+8 approval.
+9 Section 2. That Article XXI, § 10 of the Constitution of the State of South Dakota, be
+10 REPEALED.
+11 Beginning July 1, 2023, the State of South Dakota shall provide Medicaid benefits
+12 to any person over eighteen and under sixty-five whose income is at or below one hundred
+13 thirty-three percent of the federal poverty level plus five percent of the federal poverty
+14 level for the applicable family size, as authorized by federal law as of January 1, 2021.
+15 Such person shall receive coverage that meets or exceeds the benchmark or benchmark-
+16 equivalent coverage requirements, as such terms are defined by federal law as of January
+17 1, 2021.
+18 The State of South Dakota may not impose greater or additional burdens or
+19 restrictions on eligibility or enrollment standards, methodologies, or practices on any
+20 person eligible under this section than on any person otherwise eligible for Medicaid under
+21 South Dakota law, except that the State of South Dakota may, to the extent permitted by
+22 the United States Department of Health and Human Services, Centers for Medicare and
+23 Medicaid Services, impose a work requirement on any person, eligible under this section,
+24 who has not been diagnosed as being physically or mentally disabled.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.635.11 2 HJR5002
+1 No later than March 1, 2023, the Department of Social Services shall submit all
+2 state plan amendments necessary to implement this section to the United States
+3 Department of Health and Human Services, Centers for Medicare and Medicaid Services.
+4 The State of South Dakota shall take all actions necessary to maximize the federal
+5 financial medical assistance percentage in funding medical assistance pursuant to this
+6 section.
+7 This section shall be broadly construed to accomplish its purposes and intents. If
+8 any provision in this section or the application thereof to any person or circumstance is
+9 held invalid or unconstitutional, such invalidity or unconstitutionality shall not affect other
+10 provisions or applications of the section that can be given effect without the invalid or
+11 unconstitutional provision or application, and to this end the provisions of this section are
+12 severable.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

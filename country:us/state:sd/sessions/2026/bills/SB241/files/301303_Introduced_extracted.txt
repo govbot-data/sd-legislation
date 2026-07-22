@@ -1,0 +1,66 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.975.13 101st Legislative Session 241
+2026 South Dakota Legislature
+Senate Bill 241
+Introduced by: Senator Grove
+1 An Act to require that the Department of Revenue provide an annual report to Indian
+2 tribes regarding certain tax collections.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 10-12A:
+5 Prior to December first of each year, the department shall provide a report to each
+6 Indian tribe that has entered into a tax collection agreement under the provisions of this
+7 chapter and chapter 1-24, estimating the amount of tax collected under a tax collection
+8 agreement from January first through December thirty-first of the prior year for each tax
+9 included in § 10-12A-4, within the area covered by the tax collection agreement.
+10 The annual report must distinguish between tax revenue collected from remote
+11 sellers and nonremote sellers.
+12 Prior to December 1, 2026, the department shall provide the report required by
+13 this section for the years 2020, 2021, 2022, 2023, 2024, and 2025.
+14 Section 2. That a NEW SECTION be added to chapter 10-12A:
+15 Prior to December first of each year, the department shall provide a report to each
+16 Indian tribe estimating, based on the proportion of a county's population that consists of
+17 members of an Indian tribe according to the latest federal census, the amount of tax
+18 collected under a tax collection agreement from January first through December thirty-
+19 first of the prior year from tribal members for each tax included in § 10-12A-4 within the
+20 boundaries of the following counties:
+21 (1) Bennett County;
+22 (2) Buffalo County;
+23 (3) Charles Mix County;
+24 (4) Corson County;
+25 (5) Dewey County;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.975.13 2 241
+1 (6) Hughes County;
+2 (7) Hyde County;
+3 (8) Grant County;
+4 (9) Gregory County;
+5 (10) Jackson County;
+6 (11) Lyman County;
+7 (12) Marshall County;
+8 (13) Mellette County;
+9 (14) Moody County;
+10 (15) Oglala Lakota County;
+11 (16) Roberts County;
+12 (17) Stanley County;
+13 (18) Todd County;
+14 (19) Tripp County; and
+15 (20) Ziebach County.
+16 The annual report must distinguish between tax revenue collected from remote
+17 sellers and nonremote sellers.
+18 Prior to December 1, 2026, the department shall provide the reports required by
+19 this section for the years 2020, 2021, 2022, 2023, 2024, and 2025.
+20 Section 3. That a NEW SECTION be added to chapter 10-12A:
+21 If the department does not have the information necessary to furnish a report to
+22 an Indian tribe pursuant to sections 1 and 2 of this Act, the department must develop and
+23 maintain a methodology to collect and report the information.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

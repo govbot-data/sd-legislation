@@ -1,0 +1,39 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.853.9 101st Legislative Session 1300
+2026 South Dakota Legislature
+House Bill 1300
+Introduced by: Representative Uhre‑Balk
+1 An Act to except victims of human trafficking or domestic abuse from certain
+2 clemency notice requirements.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 24-14:
+5 The provisions of § 24-14-4 do not apply to an applicant who is a victim of human
+6 trafficking or domestic abuse. To be recognized as a victim of human trafficking or
+7 domestic abuse, the individual shall submit to the Board of Pardons and Paroles:
+8 (1) An affidavit of the individual stating that the individual is a victim of:
+9 (a) Human trafficking under chapter 22-49;
+10 (b) Domestic abuse, as defined in § 25-10-1; or
+11 (c) A similar crime in another state that, if committed in this state, would be
+12 considered human trafficking or domestic abuse; and
+13 (2) The affidavit of two professionals stating that, based on the professional's work
+14 with the individual, the professional believes the individual is a victim of human
+15 trafficking or domestic abuse as set forth in subdivision (1). The professionals, who
+16 may be from the same profession but may not be from the same agency, must be
+17 any two of the following:
+18 (a) A law enforcement officer;
+19 (b) A prosecutor;
+20 (c) A parole agent;
+21 (d) A qualified mental health professional;
+22 (e) A licensed health care provider;
+23 (f) An addiction counseling or prevention services practitioner; or
+24 (g) A social worker, crisis counselor, or other advocate acting on behalf of an
+25 agency that assists victims of human trafficking or domestic abuse.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

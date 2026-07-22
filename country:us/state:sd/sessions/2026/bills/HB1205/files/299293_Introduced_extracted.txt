@@ -1,0 +1,278 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.246.9 101st Legislative Session 1205
+2026 South Dakota Legislature
+House Bill 1205
+Introduced by: Representative Uhre‑Balk
+1 An Act to amend the manner of calculating state aid to general and special education
+2 funding.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 13-13-10.1 be AMENDED:
+5 13-13-10.1. The education funding terms and procedures referenced in this
+6 chapter are defined as follows:
+7 (1) Nonresident students who are in the care and custody of the Department of Social
+8 Services, the Unified Judicial System, the Department of Corrections, or other state
+9 agencies and are attending a public school may be included in the fall enrollment
+10 of the receiving district when enrolled in the receiving district;
+11 (2) "Fall enrollment," is calculated as follows:
+12 (a) Determine the number of kindergarten through twelfth grade students
+13 enrolled in all schools operated by the school district on the last Friday of
+14 September of the current school year;
+15 (b) Subtract the number of students for whom the district receives tuition
+16 except for:
+17 (i) Nonresident students who are in the care and custody of a state
+18 agency and are attending a public school district; and
+19 (ii) Students who are being provided an education pursuant to § 13-28-
+20 11; and
+21 (c) Add the number of students for whom the district pays tuition.
+22 When computing state aid to education for a school district pursuant to § 13-13-
+23 73, the secretary of the Department of Education shall use the school district's fall
+24 enrollment;
+25 (3) "Target teacher ratio factor," is:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.246.9 2 1205
+1 (a) For school districts with a fall enrollment of two hundred or less, the target
+2 teacher ratio factor is 12;
+3 (b) For districts with a fall enrollment of greater than two hundred, but less
+4 than six hundred, the target teacher ratio factor is calculated as follows:
+5 (i) Multiplying the fall enrollment by .00750; and
+6 (ii) Adding 10.50 to the resulting product; and
+7 (c) For districts with a fall enrollment of six hundred or greater, the target
+8 teacher ratio factor is 15.
+9 The fall enrollment used for the determination of the target teacher ratio for a
+10 school district may not include any students residing in a residential treatment
+11 facility when the education program is operated by the school district;
+12 (4) "English learner (EL) adjustment," is calculated by multiplying 0.25 times the
+13 number of kindergarten-through-twelfth-grade students who, in the prior school
+14 year, scored below level four on the state-administered language proficiency
+15 assessment as required in the state's consolidated state application pursuant to
+16 § 1111(b)(2)(G) of the Every Student Succeeds Act of 2015;
+17 (5) "Index factor," is the annual percentage change in the consumer price index for
+18 urban wage earners and clerical workers as computed by the Bureau of Labor
+19 Statistics of the United States Department of Labor for the year before the year
+20 immediately preceding the year of adjustment or three percent, whichever is less
+21 greater;
+22 (6) "Target teacher salary," for the school fiscal year beginning July 1, 2025, is
+23 $62,821.19. Each school fiscal year thereafter, the target teacher salary is the
+24 previous fiscal year's target teacher salary increased by the index factor;
+25 (7) "Target teacher benefits," is the target teacher salary multiplied by twenty-nine
+26 percent;
+27 (8) "Target teacher compensation," is the sum of the target teacher salary and the
+28 target teacher benefits;
+29 (9) "Overhead rate," is thirty-eight and seventy-eight-hundredths percent. Beginning
+30 in school fiscal year 2018, the overhead rate must be adjusted to take into account
+31 the sum of the amounts that districts exceed the other revenue base amount;
+32 (10) "Local need," is calculated as follows:
+33 (a) Divide the fall enrollment by the target teacher ratio factor;
+34 (b) If applicable, divide the English Learner adjustment pursuant to subdivision
+35 (4) by the target teacher ratio factor;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.246.9 3 1205
+1 (c) Add the results of subsections (a) and (b);
+2 (d) Multiply the result of subsection (c) by the target teacher compensation;
+3 (e) Multiply the product of subsection (d) by the overhead rate;
+4 (f) Add the products of subsections (d) and (e) and subdivision (20); and
+5 (g) When calculating local need at the statewide level, include the amounts set
+6 aside for costs related to technology in schools and statewide student
+7 assessments;
+8 (h) When calculating local need at the statewide level, include the amounts set
+9 aside for sparse school district benefits, calculated pursuant to §§ 13-13-
+10 78 and 13-13-79; and
+11 (i) When calculating local need at the statewide level, include the amounts set
+12 aside for career and technical education calculated pursuant to §§ 13-13-
+13 81 and 13-13-82;
+14 (11) "Alternative per student need," is calculated as follows:
+15 (a) Add the total need for each school district for school fiscal year 2016,
+16 including the small school adjustment and the English learner adjustment,
+17 to the lesser of the amount of funds apportioned to each school district in
+18 the year preceding the most recently completed school fiscal year or school
+19 fiscal year 2015 pursuant to §§ 10-33-24, 10-35-21, 10-36-10, 10-43-77,
+20 11-7-73, 13-13-4, and 23A-27-25; and
+21 (b) Divide the result of (a) by the September 2015 fall enrollment, excluding
+22 any adjustments based on prior year student counts;
+23 (12) "Alternative local need," may only be used by a school district created or
+24 reorganized before July 1, 2016, and is the alternative per student need multiplied
+25 by the fall enrollment, excluding any adjustments based on prior year student
+26 counts;
+27 (13) "Local effort," the amount of ad valorem taxes generated in a school fiscal year by
+28 applying the levies established pursuant to § 10-12-42. Beginning on July 1, 2017,
+29 local effort includes the amount of funds apportioned to each school district in the
+30 year preceding the most recently completed school fiscal year pursuant to §§ 10-
+31 33-24, 10-35-21 as provided by subdivision (15), 10-36-10, 10-43-77, 11-7-73,
+32 13-13-4, and 23A-27-25 and that exceeds the other revenue base amount;
+33 (14) "Other revenue base amount," is zero;
+34 (15) "Wind energy tax revenue," any wind energy tax revenue apportioned to school
+35 districts pursuant to § 10-35-21 from a wind farm producing power for the first
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.246.9 4 1205
+1 time before July 1, 2016, is considered local effort pursuant to subdivision (13) and
+2 other revenue base amount pursuant to subdivision (14). However, for, provided
+3 that any wind energy tax revenue apportioned to a school district from a wind farm
+4 producing power for the first time after June 30, 2016, one is apportioned to a
+5 school district as follows:
+6 (a) One hundred percent must be is retained by the school district to which the
+7 tax revenue is apportioned for the first five years of producing power,
+8 eighty;
+9 (b) Eighty percent for the sixth year, sixty;
+10 (c) Sixty percent for the seventh year, forty;
+11 (d) Forty percent for the eighth year, twenty;
+12 (e) Twenty percent for the ninth year, and zero; and
+13 (f) Zero percent thereafter.
+14 If a wind farm begins producing power for the first time between October first and
+15 December thirty-first in a calendar year, any revenues generated for that time
+16 period must be are retained by the school district and that time period may not be
+17 counted against the first five-year period;
+18 (16) "Per student equivalent," for funding calculations that are determined on a per
+19 student basis, the per student equivalent is calculated as follows:
+20 (a) Multiply the target teacher compensation times the sum of one plus the
+21 overhead rate; and
+22 (b) Divide subsection (a) by 15;
+23 (17) "Monthly cash balance," the total amount of money for each month in the school
+24 district's general fund, calculated by adding all deposits made during the month to
+25 the beginning cash balance and deducting all disbursements or payments made
+26 during the month;
+27 (18) "General fund base percentage," is determined as follows:
+28 (a) Forty percent for a school district with a fall enrollment as defined in
+29 subdivision (2) of two hundred or less;
+30 (b) Thirty percent for a school district with fall enrollment as defined in
+31 subdivision (2) of more than two hundred but less than six hundred; and
+32 (c) Twenty-five percent for a school district with fall enrollment as defined in
+33 subdivision (2) greater than or equal to six hundred.
+34 When determining the general fund base percentage, the secretary of the
+35 Department of Education shall use the lesser of the school district's fall enrollment
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.246.9 5 1205
+1 as defined in subdivision (2) for the current school year or the school district's fall
+2 enrollment from the previous two years;
+3 (19) "Allowable general fund cash balance," the general fund base percentage multiplied
+4 by the district's general fund expenditures in the previous school year; and
+5 (20) "Alternative instruction participation adjustment," is calculated by multiplying 0.10
+6 times the number of children who participated in the prior school year in high
+7 school interscholastic activities sanctioned or sponsored by the South Dakota High
+8 School Activities Association, as permitted by § 13-36-7, while receiving
+9 alternative instruction pursuant to § 13-27-3, multiplied by the per student
+10 equivalent defined in this section.
+11 Section 2. That § 13-37-35.1 be AMENDED:
+12 13-37-35.1. Terms used in chapter 13-37 mean:
+13 (1) "Level one disability," a mild disability;
+14 (2) "Level two disability," cognitive disability or emotional disorder;
+15 (3) "Level three disability," hearing impairment, deafness, visual impairment, deaf-
+16 blindness, orthopedic impairment, or traumatic brain injury;
+17 (4) "Level four disability," autism;
+18 (5) "Level five disability," multiple disabilities;
+19 (5A) "Level six disability," prolonged assistance;
+20 (6) "Index factor," is the annual percentage change in the consumer price index for
+21 urban wage earners and clerical workers as computed by the Bureau of Labor
+22 Statistics of the United States Department of Labor for the year before the year
+23 immediately preceding the year of adjustment, or three percent, whichever is less
+24 greater;
+25 (7) "Local effort," must be calculated for taxes payable in 2026 and thereafter using a
+26 special education levy of one dollar and twenty-six and two-tenths cents per one
+27 thousand dollars of valuation;
+28 (8) "Allocation for a student with a level one disability," for the school fiscal year
+29 beginning July 1, 2025, is $7,650.45. For each school year thereafter, the allocation
+30 for a student with a level one disability must be the previous fiscal year's allocation
+31 for the child increased by the index factor;
+32 (9) "Allocation for a student with a level two disability," for the school fiscal year
+33 beginning July 1, 2025, is $16,759.91. For each school year thereafter, the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.246.9 6 1205
+1 allocation for a student with a level two disability must be the previous fiscal year's
+2 allocation for the child increased by the index factor;
+3 (10) "Allocation for a student with a level three disability," for the school fiscal year
+4 beginning July 1, 2025, is $23,139.68. For each school year thereafter, the
+5 allocation for a student with a level three disability must be the previous fiscal
+6 year's allocation for the child increased by the index factor;
+7 (11) "Allocation for a student with a level four disability," for the school fiscal year
+8 beginning July 1, 2025, is $18,053.89. For each school year thereafter, the
+9 allocation for a student with a level four disability must be the previous fiscal year's
+10 allocation for the child increased by the index factor;
+11 (12) "Allocation for a student with a level five disability," for the school fiscal year
+12 beginning July 1, 2025, is $37,039.28. For each school year thereafter, the
+13 allocation for a student with a level five disability must be the previous fiscal year's
+14 allocation for the child increased by the index factor;
+15 (12A) "Allocation for a student with a level six disability," for the school fiscal year
+16 beginning July 1, 2025, is $11,838.15. For each school year thereafter, the
+17 allocation for a student with a level six disability must be the previous fiscal year's
+18 allocation for the child increased by the index factor;
+19 (13) "Child count," is the number of students in need of special education or special
+20 education and related services according to criteria set forth in rules promulgated
+21 pursuant to §§ 13-37-1.1 and 13-37-46 submitted to the Department of Education;
+22 (14) "Fall enrollment," the number of kindergarten-through-twelfth-grade students
+23 enrolled in all schools operated by the school district on the last Friday of
+24 September of the previous school year minus the number of students for whom
+25 the district receives tuition, except any nonresident student who is in the care and
+26 custody of a state agency and is attending a public school and any student for
+27 whom tuition is being paid pursuant to § 13-28-42.1, plus the number of students
+28 for whom the district pays tuition;
+29 (15) "Nonpublic school," a sectarian organization or entity accredited by the secretary of
+30 education for the purpose of instructing children of compulsory school age. This
+31 definition excludes any school that receives a majority of its revenues from public
+32 funds;
+33 (16) "Nonpublic fall enrollment," the number of children under age eighteen, who are
+34 approved for alternative instruction pursuant to § 13-27-3 on the last Friday of
+35 September of the previous school year plus:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.246.9 7 1205
+1 (a) For nonpublic schools located within the boundaries of a public school
+2 district with a fall enrollment of six hundred or more on the last Friday of
+3 September of the previous school year, the number of kindergarten-
+4 through-twelfth-grade students enrolled on the last Friday of September of
+5 the previous regular school year in all nonpublic schools located within the
+6 boundaries of the public school district;
+7 (b) For nonpublic schools located within the boundaries of a public school
+8 district with a fall enrollment of less than six hundred on the last Friday of
+9 September of the previous school year, the number of resident
+10 kindergarten-through-twelfth-grade students enrolled on the last Friday of
+11 September of the previous school year in all nonpublic schools located
+12 within this state;
+13 (17) "Special education fall enrollment," fall enrollment plus nonpublic fall enrollment;
+14 (18) "Local need," an amount to be determined as follows:
+15 (a) Multiply the special education fall enrollment by 0.1062 and multiply the
+16 result by the allocation for a student with a level one disability;
+17 (b) Multiply the number of students having a level two disability as reported on
+18 the child count for the previous school fiscal year by the allocation for a
+19 student with a level two disability;
+20 (c) Multiply the number of students having a level three disability as reported
+21 on the child count for the previous school fiscal year by the allocation for a
+22 student with a level three disability;
+23 (d) Multiply the number of students having a level four disability as reported on
+24 the child count for the previous school fiscal year by the allocation for a
+25 student with a level four disability;
+26 (e) Multiply the number of students having a level five disability as reported on
+27 the child count for the previous school fiscal year by the allocation for a
+28 student with a level five disability;
+29 (f) Multiply the number of students having a level six disability as reported on
+30 the child count for the previous school fiscal year by the allocation for a
+31 student with a level six disability;
+32 (g) When calculating local need at the statewide level, include the amount set
+33 aside for extraordinary expenses defined in § 13-37-40;
+34 (h) When calculating local need at the statewide level, include the amount set
+35 aside for the South Dakota School for the Blind and Visually Impaired; and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.246.9 8 1205
+1 (i) Sum the results of subdivisions (18)(a) to (h), inclusive; and
+2 (19) "Effort factor," the school district's special education tax levy in dollars per thousand
+3 divided by $1.262. The maximum effort factor is 1.0.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

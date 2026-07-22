@@ -1,0 +1,152 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.912.23 101st Legislative Session 1252
+2026 South Dakota Legislature
+House Bill 1252
+Introduced by: Representative Jamison
+1 An Act to provide for indigent legal services by the Commission on Indigent Legal
+2 Services, and to provide an appropriation therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 23A-40-7 be AMENDED:
+5 23A-40-7. The board of county commissioners of each county and the governing
+6 body of any municipality Commission on Indigent Legal Services shall provide for the
+7 representation of indigent persons described in § 23A-40-6. The board or body
+8 commission shall provide this representation by any or all of the following:
+9 (1) Establishing and maintaining an office of a public defender;
+10 (2) Arranging with the courts in the county to appoint attorneys on an equitable basis
+11 through a systematic, coordinated plan; or
+12 (3) Contracting with any attorney licensed to practice law in this state.
+13 In those counties which have established an office of public defender, any
+14 proceedings after judgment may be assigned to the public defender. The provisions of
+15 chapter 5-18A do not apply to this section.
+16 Section 2. That § 23A-40-8 be AMENDED:
+17 23A-40-8. Except as provided below, counsel assigned pursuant to § 23A-40-6
+18 and subdivision 23A-40-7(2) shall must, after the disposition of the cause, be paid by the
+19 county in which the action is brought, or, in case of a parole revocation, by the county
+20 from which the inmate was sentenced Commission on Indigent Legal Services, a
+21 reasonable and just compensation for the services and for necessary expenses and costs
+22 incident to the proceedings in an amount to be fixed by a judge of the circuit court or a
+23 magistrate judge within guidelines established by the presiding judge of the circuit court.
+24 If the cause originated from a criminal offense committed by an inmate under
+25 confinement in a facility operated by the Department of Corrections, the Department of
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.912.23 2 1252
+1 Corrections must, after the disposition of the cause, pay counsel assigned pursuant to
+2 § 23A-40-6, a reasonable and just compensation for the services and for necessary
+3 expenses and costs incident to the proceedings in an amount to be fixed by a judge of the
+4 circuit court or a magistrate judge within guidelines established by the presiding judge of
+5 the circuit court.
+6 Section 3. That § 23A-40-10 be AMENDED:
+7 23A-40-10. If the court finds that funds moneys are available for payment from
+8 or on behalf of a defendant to carry out, in whole or in part, the provisions of this chapter,
+9 the court may order that the funds be paid, as court costs or as a condition of probation,
+10 to the court for deposit with the state, county, or municipal treasurer, to be placed in the
+11 state, county, or municipal general fund or in the public defender fund in those counties
+12 establishing the office pursuant to subdivision 23A-40-7(1) as a reimbursement to the
+13 county or municipality to carry out the provisions of this section. The court may also order
+14 payment to be made in the form of installments or wage assignments, in amounts set by
+15 a judge of the circuit court or a magistrate judge, either during the time a charge is
+16 pending or after the disposition of the charge, regardless of whether the defendant has
+17 been acquitted or the case has been dismissed by the prosecution or by order of the court.
+18 The provisions of this section also apply to persons who have had counsel appointed under
+19 chapters 26-7A, 26-8A, 26-8B, and 26-8C. The reimbursement is a credit against any lien
+20 created by the provisions of this chapter against the property of the defendant.
+21 Section 4. That § 23A-40-11 be AMENDED:
+22 23A-40-11. A lien, enforceable as provided by this chapter, upon all the property,
+23 both real and personal, of any person, including the parents of a minor child, for whom
+24 legal counsel or a public defender has been appointed under the provisions of § 23A-40-
+25 6, subdivisions 23A-40-7(2) and (3), or § 26-7A-31 may be filed. The services rendered
+26 and expenses incurred are a claim against the person and that person's estate, enforceable
+27 according to law in an amount to be determined by a judge of the circuit court or a
+28 magistrate judge and paid by the county or municipality chargeable for them Commission
+29 on Indigent Legal Services. A lien on the parents of a minor child pursuant to this section
+30 may not exceed one thousand five hundred dollars plus an amount equal to any taxable
+31 court costs.
+32 Section 5. That § 23A-40-13 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.912.23 3 1252
+1 23A-40-13. Immediately upon payment by the chargeable county or municipality
+2 Commission on Indigent Legal Services, or upon the setting of the public defender's lien
+3 by a circuit court judge or magistrate judge, a statement of claim showing the name and
+4 residence of the recipient shall must be filed by the county auditor or municipal, finance
+5 officer in the office of the register of deeds in the county where the recipient resides. A
+6 certified copy of the lien may be filed in any other county in which the recipient may have
+7 or may acquire an interest in real or personal property. The lien is enforceable, until
+8 satisfied or compromised.
+9 Section 6. That § 23A-40-20 be AMENDED:
+10 23A-40-20. All moneys in the court appointed attorney and public defender
+11 payment fund shall must be annually distributed by the state treasurer to the counties on
+12 a pro rata basis. The state treasurer shall, within sixty days of the end of the fiscal year,
+13 determine and verify from receipts and expenditure records the total expenditures by all
+14 counties in the state for court appointed attorneys and public defender offices. He shall
+15 then establish a percentage ratio between moneys collected in the fund for the past fiscal
+16 year and the total expenditures by counties for court appointed attorneys and public
+17 defender offices. That percentage ratio shall then be applied to each county's gross
+18 expenditure for court appointed attorneys and public defender offices to determine its
+19 respective payment from the fund general fund.
+20 Section 7. That § 23A-51-8 be AMENDED:
+21 23A-51-8. The Office of Indigent Legal Services shall provide statewide indigent
+22 representation services in direct appeals in criminal cases, habeas corpus appeals, and
+23 abuse or neglect of a child appeal cases, or cases provided in chapter 26-7A, 26-8A, 26-
+24 8B, or 26-8C. The office may expand its scope of indigent representation services to
+25 include additional case types as approved by the commission. The office shall determine
+26 the method of delivering indigent representation services by utilizing public defenders,
+27 private appointed attorneys, or a combination of both. The office may contract with private
+28 appointed attorneys to deliver indigent representation and shall provide oversight and
+29 review of any contracted attorneys.
+30 Section 8. That § 26-7A-31 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.912.23 4 1252
+1 26-7A-31. If the child or the child's parents, guardian, or other custodian requests
+2 an attorney in proceedings under this chapter or chapter 26-8A, 26-8B, or 26-8C and if
+3 the court finds the party to be without sufficient financial means to employ an attorney,
+4 the court shall must appoint an attorney for the party. The court may appoint an attorney
+5 for any child or any party to the proceedings without request of the party if the court
+6 deems representation by an attorney necessary to protect the interests of the party.
+7 Reasonable and just compensation for services of a court-appointed attorney and
+8 for necessary expenses and costs incident to the proceedings shall must be determined
+9 by the court within guidelines established by the presiding judge of the circuit court and
+10 shall must be paid by the county in which the action is being conducted Commission on
+11 Indigent Legal Services according to the manner prescribed by the court. If the court-
+12 appointed attorney is a party to a contract with the county to provide indigent counsel
+13 pursuant to subdivision 23A-40-7(3), the compensation for that attorney shall must be
+14 that which the attorney would receive under the contract. This section does not preclude
+15 the court from appointment of an attorney for a child as required by provisions of chapter
+16 26-8A.
+17 Section 9. There is appropriated $27,573,984 from the general fund, to the Commission on
+18 Indigent Legal Services, to reimburse the cost of indigent legal services incurred by counties.
+19 Section 10. The Commission on Indigent Legal Services shall distribute the moneys described
+20 in section 9 of this Act to the counties based on the formula provided in this section. The
+21 commission shall, within sixty days of the end of the fiscal year, determine and verify from
+22 receipts and expenditure records the total expenditures by all counties for court appointed
+23 attorneys and public defender offices. The commission shall then establish a percentage ratio
+24 of the total expenditures by counties for court appointed attorneys and public defender offices.
+25 The commission shall apply that percentage ratio to each county's gross expenditure for court
+26 appointed attorneys and public defender offices to determine its respective payment.
+27 Section 11. The chief defender of the Office of Indigent Services shall approve vouchers and
+28 the state auditor shall draw warrants to pay expenditures authorized in this Act.
+29 Section 12. Any amounts appropriated in this Act not lawfully expended or obligated shall
+30 revert in accordance with the procedures prescribed in chapter 4-8.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.912.23 5 1252
+1 Section 13. Whereas, this Act is necessary for the support of the state government and its
+2 existing public institutions, an emergency is hereby declared to exist, and sections 7 to 10,
+3 inclusive, of this Act shall be in full force and effect from and after its passage and approval.
+4 Section 14. Sections 1 to 8, inclusive, of this Act are effective July 1, 2028.
+5 Section 15. Sections 9 to 13, inclusive, of this Act are effective June 30, 2026.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

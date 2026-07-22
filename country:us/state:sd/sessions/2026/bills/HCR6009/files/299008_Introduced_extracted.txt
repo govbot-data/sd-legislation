@@ -1,0 +1,30 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.105.11 101st Legislative Session HCR6009
+2026 South Dakota Legislature
+House Concurrent Resolution
+6009
+Introduced by: Representative Jordan
+1 A CONCURRENT RESOLUTION urging Congress to repeal the estate tax.
+2 WHEREAS, the money a person leaves behind at death usually has been taxed by the
+3 federal government at least once; and
+4 WHEREAS, the estate tax can be especially difficult for farm and ranch families to
+5 paybecause assets are often in the form of land and agricultural equipment, but not in cash;
+6 and
+7 WHEREAS, heirs of farm and ranch operations, or other generational family businesses,
+8 sometimes have to downsize or sell out entirely in order to pay the estate tax; and
+9 WHEREAS, economic growth and job creation would arguably be greater if the estate tax
+10 were eliminated, thus creating more societal wealth and more revenue for government; and
+11 WHEREAS, Senator John Thune is sponsoring a bill in Congress to eliminate the estate
+12 tax;
+13 NOW, THEREFORE, BE IT RESOLVED, by the Senate of the One Hundred First Legislature
+14 of the State of South Dakota, the House of Representatives concurring therein, that Congress
+15 be urged to repeal the estate tax.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

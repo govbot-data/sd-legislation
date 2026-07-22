@@ -1,0 +1,61 @@
+Title: 
+Official Title: 
+Source: versions - House State Affairs Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.729.46 101st Legislative Session 135
+2026 South Dakota Legislature
+Senate Bill 135
+HOUSE STATE AFFAIRS ENGROSSED
+Introduced by: Senator Karr
+1 An Act to protect residents from increased utility costs and utility shortages caused
+2 by data centers and clarify authority to regulate data centers.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. This Act is known as the "Data Center Bill of Rights for Citizens."
+5 Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+6 For purposes of this chapter, "data center" means a centralized repository for the
+7 dissemination, management, processing, and storage of electronic data and information,
+8 with a peak demand of ten megawatts or greater.
+9 Section 3. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+10 A provider of electricity shall establish and maintain separate terms and conditions
+11 for electric service applicable to a data center. The terms and conditions must require that
+12 the data center reimburse any provider of electricity for all costs fairly attributed to the
+13 data center for service demand and utility consumption, including costs incurred to serve
+14 the data center if the data center departs the system or materially reduces its load.
+15 Section 4. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+16 The state may not preempt or otherwise limit the authority of the governing body
+17 of a county, municipality, or other political subdivision to adopt ordinances and resolutions
+18 limiting, prohibiting, or otherwise regulating the construction, development, or operation
+19 of data centers.
+20 Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+21 Prior to commencing operation in this state, the operator of a data center shall
+22 provide notice of projected water consumption to each local water provider in the area in
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.729.46 2 135
+1 which the data center is proposed to be located. Each water provider receiving notice
+2 pursuant to this section shall determine whether the data center's projected water
+3 consumption is compatible with the local water supply and issue that determination in
+4 writing to the operator. The operator shall present a copy of each notice and determination
+5 to the Board of Water Management.
+6 If the board receives a determination from each applicable water provider that the
+7 data center's projected water consumption is compatible with the local water supply, the
+8 board must issue, to the operator and the general public, a written statement that the
+9 operator has satisfied the requirements of this section.
+10 Notwithstanding the board's issuance of a written statement pursuant to this
+11 section, the data center may not consume an amount of the local water supply exceeding
+12 limits established by order of the board, after allocation to residential and essential public
+13 services. In establishing allocation limits under this section, the board shall seek to ensure
+14 water availability and prevent disproportionate use of water by data centers.
+15 Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+16 The operator of a data center that is authorized to operate in this state pursuant
+17 to this chapter, shall, at the time and in the manner prescribed by the Board of Water
+18 Management, submit to the board a semi-annual report regarding the data center's water
+19 use. The report must contain average usage data and certify compliance with this section.
+20 The board shall make the usage data contained in the report available to the public.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
