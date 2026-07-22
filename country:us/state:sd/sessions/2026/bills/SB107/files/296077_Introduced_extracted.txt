@@ -1,0 +1,70 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.701.10 101st Legislative Session 107
+2026 South Dakota Legislature
+Senate Bill 107
+Introduced by: Senator Nelson
+1 An Act to add licensed and registered child care programs to the definition of
+2 community safety zone.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 22-24B-22 be AMENDED:
+5 22-24B-22. Terms used in §§ 22-24B-22 to 22-24B-28, inclusive, mean:
+6 (1) "Community safety zone," the measurement of a straight line that creates an area
+7 that lies within five hundred feet from the facilities and grounds of any school,
+8 public park, public playground, domestic abuse shelter, sexual assault shelter, or
+9 public pool, including of the following sites:
+10 (a) A domestic abuse shelter;
+11 (b) A licensed day care center, as described in subdivision 26-6-14(3);
+12 (c) A licensed group family day care home, as described in subdivision 26-6-
+13 14(5);
+14 (d) A public park, playground, or pool;
+15 (e) A registered family day care, as defined by § 26-6-14.1;
+16 (f) A school; or
+17 (g) A sexual assault shelter.
+18 The area includes the facilities and grounds of the site itself;
+19 (2) "Loiter," to remain for a period of time and under circumstances that a reasonable
+20 person would determine is for the primary purpose of observing or contacting
+21 minors;
+22 (3) "School," any public, private, denominational, or parochial school offering
+23 preschool, kindergarten, or any grade from one through twelve accredited through
+24 the Department of Education. This term does not apply to any facility where the
+25 education of students might occur incidentally to the primary purpose of the
+26 facility; and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.701.10 2 107
+1 (4) "Residence," the address a person lists for purposes of the sex offender registry
+2 under subdivision 22-24B-8(3) and § 22-24B-12.
+3 Section 2. That § 22-24B-23 be AMENDED:
+4 22-24B-23. No person who is required to register as a sex offender pursuant to
+5 this chapter may establish a residence or reside within a community safety zone unless:
+6 (1) The person is incarcerated in a jail or prison or other correctional placement which
+7 is located within a community safety zone;
+8 (2) The person is on parole or probation and has been assigned to a halfway house or
+9 supervised living center within a community safety zone;
+10 (3) The person is homeless and has been admitted to a community homeless shelter
+11 within a community safety zone by an appropriate community official;
+12 (4) The person is placed in a health care facility licensed pursuant to chapter 34-12,
+13 or certified under Title XVIII or XIX of the Social Security Act as amended to
+14 December 31, 2001, or receiving services from a community service provider
+15 accredited or certified by the Department of Human Services or the Department of
+16 Social Services, which is located within a community safety zone;
+17 (5) The person was under age eighteen at the time of the offense and the offender
+18 was not tried and convicted of the offense as an adult;
+19 (6) The person established and inhabited the residence as of July 1, 2024;
+20 (7) The school, public park, public pool, domestic abuse shelter, sexual assault shelter,
+21 or public playground site listed in subdivision 22-24B-22(1) was built or established
+22 subsequent to the person's establishing residence at the location; or
+23 (8) The circuit court has entered an order pursuant to § 22-24B-28 exempting the
+24 offender from the provisions of §§ 22-24B-22 to 22-24B-28, inclusive.
+25 A violation of this section is a Class 6 felony. Any subsequent violation is a Class 5
+26 felony.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

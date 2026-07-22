@@ -1,0 +1,48 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.738.29 101st Legislative Session 1177
+2026 South Dakota Legislature
+House Bill 1177
+Introduced by: Representative Novstrup
+1 An Act to replace the index used to calculate the salaries of members of the
+2 Legislature.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 2-4-2 be AMENDED:
+5 2-4-2. The salary of each member of the Legislature is equal to one-fifth twenty-
+6 two percent of the South Dakota median household income for the most recent year for
+7 which data is available, as reported by the United States Census Current Population
+8 American Community Survey, as conducted by the United States Census Bureau, and
+9 ascertained and adjusted each year by the State Board of Finance to take effect on the
+10 first day of January of each year for every regular legislative session. In addition, each
+11 legislator member shall receive:
+12 (1) Reimbursement to be paid after the regular legislative session for actual mileage
+13 or its the equivalent traveled to and from home, not more than once each weekend
+14 or between days of recess during the regular legislative session, at the rate set
+15 pursuant to § 3-9-1;
+16 (2) Expenses of one hundred twenty-three dollars per day for each day of a regular or
+17 special legislative session as prepaid reimbursement for living expenses, including
+18 meals and lodging, laundry, cleaning and pressing of clothing, and all other
+19 uncompensated expenses, as defined in § 2-4-2.1, incident to the performance of
+20 legislative services, or at the amount fixed for the per diem allowance that is
+21 authorized by the United States Internal Revenue Service to be excluded from the
+22 gross income without itemization as of October first each year, whichever of the
+23 two is greater; and
+24 (3) Five cents once each regular or special legislative session for every mile of
+25 necessary travel in going to and returning from the place of meeting of the
+26 Legislature by the most usual route.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.738.29 2 1177
+1 For each day's attendance at special sessions, each member, in addition to mileage
+2 and expenses, shall receive a per diem calculated by the director of the Legislative
+3 Research Council equal to the normal daily compensation for the regular session
+4 immediately preceding the special session.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

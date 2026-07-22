@@ -1,0 +1,33 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.787.17 101st Legislative Session 136
+2026 South Dakota Legislature
+Senate Bill 136
+Introduced by: Senator Jensen (Kevin)
+1 An Act to make an appropriation for grants to support the purchase of personal
+2 protective equipment by volunteer fire departments and to declare an
+3 emergency.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. There is appropriated from the general fund $5,000,000 to the Department of
+6 Public Safety, for the purpose of providing grants for the purchase of personal protective
+7 equipment worn or used by firefighters in the performance of their duties with fire
+8 departments in this state that have at least seventy percent of their firefighters serving in a
+9 volunteer status.
+10 Section 2. The Department of Public Safety shall consider completed applications
+11 chronologically, and shall prioritize grants to those departments indicating the greatest need
+12 for equipment to support the safety and well-being of the firefighters.
+13 Section 3. The secretary of the Department of Public Safety shall approve vouchers and the
+14 state auditor shall draw warrants to pay expenditures authorized by this Act.
+15 Section 4. Any amounts appropriated in this Act not lawfully expended or obligated by June
+16 30, 2030, shall revert in accordance with the procedures prescribed in chapter 4-8.
+17 Section 5. Whereas, this Act is necessary for the support of the state government and its
+18 existing public institutions, an emergency is hereby declared to exist, and this Act shall be in
+19 full force and effect from and after its passage and approval.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

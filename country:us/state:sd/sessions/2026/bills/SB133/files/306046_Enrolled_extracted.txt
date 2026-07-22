@@ -1,0 +1,310 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.586.13 101st Legislative Session 133
+2026 South Dakota Legislature
+Senate Bill 133
+ENROLLED
+AN ACT
+ENTITLED An Act to provide additional legislative oversight of rulemaking.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+Section 1. That § 1-26-1 be AMENDED:
+1-26-1. Terms used in this chapter mean:
+(1) "Agency," each association, authority, board, commission, committee, council,
+department, division, office, officer, task force, or other agent of the state vested
+with the authority to exercise any portion of the state's sovereignty. The term
+includes a home-rule municipality that has adopted its own administrative appeals
+process, whose final decisions, rulings, or actions rendered by that process are
+subject to judicial review pursuant to this chapter. The term does not include the
+Legislature, the Unified Judicial System, any unit of local government, or any
+agency under the jurisdiction of these exempt departments and units unless the
+department, unit, or agency is specifically made subject to this chapter by statute;
+(2) "Contested case," a proceeding, including rate-making and licensing, in which the
+legal rights, duties, or privileges of a party are required by law to be determined
+by an agency after an opportunity for hearing but the term does not include the
+proceedings relating to rule making other than rate-making, proceedings related
+to inmate disciplinary matters as defined in § 1-15-20, or student academic
+proceedings under the jurisdiction of the Board of Regents;
+(3) "License," the whole or part of any agency permit, certificate, approval,
+registration, charter, or similar form of permission required by law;
+(4) "Licensing," the agency process respecting the grant, denial, renewal, revocation,
+suspension, annulment, withdrawal, or amendment of a license;
+(5) "Major rule," any proposed rule that is to have or is likely to have more than
+$3,000,000 in implementation and compliance costs incurred by or passed along
+to businesses, individuals, other nongovernmental entities, and units of local
+
+26.586.13 2 133
+government as a result of the rule, over the two-year period following adoption of
+the rule;
+(6) "Party," each person or agency named or admitted as a party, or properly seeking
+and entitled as of right to be admitted as a party;
+(7) "Person," all political subdivisions and agencies of the state;
+(8) "Rule," each agency statement of general applicability that implements, interprets,
+or prescribes law, policy, procedure, or practice requirements of any agency. The
+term includes the amendment or repeal of a prior rule, but does not include:
+(a) Statements concerning only the internal management of an agency;
+(b) Statements not affecting private rights or procedure available to the public;
+(c) Declaratory rules issued pursuant to § 1-26-15;
+(d) Official opinions issued by the attorney general pursuant to § 1-11-1;
+(e) Executive orders issued by the Governor;
+(f) Student matters under the jurisdiction of the Board of Regents;
+(g) Actions of the Department of Transportation pursuant to § 1-44-28;
+(h) Inmate disciplinary matters as defined in § 1-15-20;
+(i) Internal control procedures adopted by the Gaming Commission pursuant
+to § 42-7B-25.1;
+(j) Policies governing specific state fair premiums, awards, entry, and exhibit
+requirements adopted by the Department of Agriculture and Natural
+Resources pursuant to § 1-21-10; and
+(k) Lending procedures and programs of the South Dakota Housing
+Development Authority; and
+(9) "Substantial evidence," such relevant and competent evidence as a reasonable
+mind might accept as being sufficiently adequate to support a conclusion.
+Section 2. That § 1-26-1.2 be AMENDED:
+1-26-1.2. The Interim Rules Review Committee shall choose a chair and a vice
+chair from its members and prescribe its rules of procedure. Meetings of the committee
+are at the call of the chair or a majority of the committee.
+On or before the first Monday following the last day of the legislative session, the
+committee and the agencies shall determine a schedule of dates for meetings to be held
+during the following twelve months. However, the committee is not required to hold a
+meeting if no submission has been made to committee members in accordance with
+SB133 ENROLLED
+
+26.586.13 3 133
+subdivision 1-26-4(8). All meetings are open to the public and any interested person may
+be heard and present evidence.
+The committee shall review all proposed agency rules and make recommendations
+to the agencies regarding rules and legislation authorizing rules, and to the Legislature
+regarding administrative law. In its review of agency rules, the committee shall consider
+the regulatory impact analysis provided pursuant to section 5 of this Act and the resulting
+review of code counsel and Legislative Research Council personnel.
+Members of the committee are compensated for their attendance at meetings and
+for time spent in the conduct of committee business, at rates established by the Executive
+Board of the Legislative Research Council. Code counsel, and one or more personnel from
+the Legislative Research Council with the consent of the council's director, shall staff the
+committee.
+Section 3. That § 1-26-4 be AMENDED:
+1-26-4. The following notice, service, and public hearing procedure must be used
+to adopt, amend, or repeal a permanent rule:
+(1) An agency shall serve a copy of a proposed rule, the regulatory impact analysis
+required by section 5 of this Act, and any publication described in § 1-26-6.6, upon
+the departmental secretary, bureau commissioner, public utilities commissioner,
+or constitutional officer to which it is attached for the secretary's, commissioner's,
+or officer's written approval to proceed;
+(2) After receiving the written approval of the secretary, commissioner, or officer to
+proceed, and at least twenty days before the public hearing, the agency shall:
+(a) Serve code counsel with a copy of the proposed rule; any publication
+described in § 1-26-6.6; the fiscal note required by § 1-26-4.2; any housing
+cost impact statement required by § 1-26-2.3; the notice of hearing
+required by § 1-26-4.1; and the regulatory impact analysis required by
+section 5 of this Act. Any publication described in § 1-26-6.6 must be
+returned to the agency upon completion of the code counsel's review and
+retained by the agency; and
+(b) Serve the commissioner of the Bureau of Finance and Management with a
+copy of the proposed rule; the fiscal note required by § 1-26-4.2; any
+housing cost impact statement required by § 1-26-2.3; the notice of hearing
+required by § 1-26-4.1, and the regulatory impact analysis required by
+section 5 of this Act;
+SB133 ENROLLED
+
+26.586.13 4 133
+(3) At least twenty days before the public hearing, the agency shall:
+(a) Publish the notice of hearing in the manner prescribed by § 1-26-4.1; and
+(b) Publish, on a single website designated by the Governor and maintained by
+the executive department, a copy of the proposed rule, any housing cost
+impact statement required by § 1-26-2.3, the notice of hearing required by
+§ 1-26-4.1, the fiscal note required by § 1-26-4.2, and the regulatory
+impact analysis required by section 5 of this Act;
+(4) After reviewing the proposed rule pursuant to § 1-26-6.5, code counsel shall advise
+the agency of any recommended corrections to the proposed rule and whether the
+proposed rule is a major rule. If the agency does not concur with any
+recommendation of code counsel, the agency may appeal the recommended
+correction to the Interim Rules Review Committee for appropriate action;
+(5) The agency shall afford all interested persons reasonable opportunity to submit
+amendments, data, opinions, or arguments at a public hearing held to adopt the
+rule. The hearing may be continued from time to time. The agency shall keep
+minutes of the hearing. A majority of the members of any board or commission
+authorized to pass rules must be present during the course of the public hearing;
+(6) If the authority promulgating the rule is a secretary, commissioner, or officer, the
+agency shall accept written comments regarding the proposed rule for a period of
+ten days after the public hearing. If the authority promulgating the rule is a board,
+commission, committee, or task force, each interested person shall submit written
+comments at least seventy-two hours before the public hearing. The seventy-two
+hours does not include the day of the public hearing. The written comments may
+be submitted by mail or email. The record of written comments may be closed at
+the conclusion of the public hearing. The hearing may be continued for the purpose
+of taking additional comments;
+(7) After the written comment period, the agency shall consider all amendments, data,
+opinions, or arguments regarding the proposed rule. A proposed rule may be
+modified or amended at this time to include or exclude matters that were described
+in the notice of hearing; and
+(8) The agency shall, at least seven days before the agency appears before the Interim
+Rules Review Committee to present the rules:
+(a) Serve the minutes of the hearing, a complete record of written comments,
+any housing cost impact statement, the fiscal note, the information required
+by § 1-26-4.8, the regulatory impact analysis required by section 5 of this
+SB133 ENROLLED
+
+26.586.13 5 133
+Act, and a corrected copy of the rule on the members of the Interim Rules
+Review Committee and on code counsel; and
+(b) Publish, to the website referenced in subsection (3)(b) of this section, code
+counsel's advisement referenced in subdivision (4), the agency financial
+resource information required by § 1-26-4.8, the corrected copy of the rule
+referenced in subsection (8)(a), and any update to the regulatory impact
+analysis required by section 5 of this Act.
+The time periods specified in this section may be extended by the agency. The
+requirement to serve the committee and code counsel within the time limit specified in
+subdivision (8) may be waived by the committee chair, if the agency presents sufficient
+reasons to the committee chair that the agency is unable to comply with the time limit.
+The waiver may not be granted solely for the convenience of the agency.
+Section 4. That § 1-26-4.2 be AMENDED:
+1-26-4.2. An agency shall, when submitting any proposed rule, except an
+emergency rule, include a fiscal note. The fiscal note must provide what effect, if any, the
+proposed rule will have on the revenues, expenditures, or fiscal liability of the state or its
+agencies. The fiscal note must include an explanation of how such effect, if any, was
+computed.
+The Bureau of Finance and Management shall prepare its own fiscal note and serve
+it on the agency, code counsel, and the co-chairs of the Joint Appropriations Committee
+prior to the hearing.
+Section 5. That a NEW SECTION be added to chapter 1-26:
+For all proposed permanent rules, the agency seeking to promulgate the rule shall,
+prior to proceeding under § 1-26-4, prepare a regulatory impact analysis.
+The regulatory impact analysis must contain:
+(1) A statement of whether the proposed permanent rule is a major rule;
+(2) A statement detailing the need for the rule;
+(3) The legal basis for the rule;
+(4) An examination of alternative options;
+(5) A cost-benefit evaluation that contains the proposed rule's:
+(a) Estimated primary or direct benefits;
+(b) Estimated cost savings or financial benefits to businesses, individuals, other
+nongovernmental entities, and units of local government;
+SB133 ENROLLED
+
+26.586.13 6 133
+(c) Estimated compliance costs for businesses, individuals, other
+nongovernmental entities, and units of local government;
+(d) Estimated secondary or indirect costs for businesses, individuals, other
+nongovernmental entities, and units of local government;
+(e) Estimated opportunity cost. The analysis must identify the opportunity cost
+of compliance as a result of the removal of private capital from the market;
+and
+(f) Impact on small business, with an identification of the type and the
+estimation of the number of small businesses subject to the proposed rule,
+and projected reporting and recordkeeping required for compliance with the
+proposed rule;
+(6) Sources consulted; and
+(7) Key assumptions and sources of uncertainty.
+The chief officer of the agency shall sign the analysis upon verifying its contents.
+For purposes of this section, "small business" means a nongovernmental entity
+that employs twenty-five or fewer full-time employees.
+Section 6. That a NEW SECTION be added to chapter 1-26:
+For a major rule, the Interim Rules Review Committee may:
+(1) Revert the rule to an earlier step in the rule adoption procedure to permit
+consideration of an amendment to the proposed rule that would no longer make it
+a major rule;
+(2) Determine there is sufficient legislative authority for the agency to implement the
+proposed rule and declare the rulemaking process complete; or
+(3) Recommend that the rule be brought as future legislation, and that the Legislature
+vote to enact or not to enact the legislation.
+If the agency proposing the major rule seeks to amend the rule for the Interim
+Rules Review Committee's reconsideration, the agency must submit an updated regulatory
+impact analysis to the commissioner of the Bureau of Finance and Management, code
+counsel, and the Interim Rules Review Committee, at least twenty days prior to the
+committee hearing at which the rule is to be reconsidered.
+Any proposed rule addressed pursuant to this section must be reported to the
+Executive Board of the Legislative Research Council annually prior to the regular session.
+Any legislation seeking to enact the substance of any proposed rule addressed
+pursuant to this section, whether in statute or as directed via the permanent rulemaking
+SB133 ENROLLED
+
+26.586.13 7 133
+process, must be denoted as having substance that was previously brought before the
+Interim Rules Review Committee as a major rule, and whether or not the Interim Rules
+Review Committee recommended enactment of that substance.
+Section 7. That § 1-26-6 be AMENDED:
+1-26-6. The adoption, amendment, or repeal of a rule is complete when:
+(1) The requirements of § 1-26-4 have been completed or, if the rule is an emergency
+rule, three days have passed since the requirements of § 1-26-5 have been met;
+(2) It has been signed by a majority of the members of the multi-member body or by
+the officer having the authority to adopt it;
+(3) It has been signed by code counsel;
+(4) A copy has been filed with code counsel, in a form prescribed by code counsel to
+show amendments, deletions, and other changes to existing rules, for use in
+preparation of copy for the Administrative Rules of South Dakota;
+(5) The rule and a certificate have been filed with the secretary of state. The certificate
+must affirm that the rule filed is a true and correct copy of the rule as adopted and
+that the agency has complied with § 1-26-4 or 1-26-5, and with this section;
+(6) For a permanent rule, the agency has appeared and presented the proposed rule
+to the Interim Rules Review Committee; and
+(7) For a permanent major rule on which the Interim Rules Review Committee does
+not make a determination of sufficient legislative authority pursuant to subdivision
+(2) of section 6 of this Act, statute specifically directs the enactment of the
+adoption, amendment, or repeal of the rule.
+A certificate required by this section must be an affidavit executed, under oath, by
+the officer authorized by statute to promulgate the rule. If a rule is promulgated by a
+multi-member body, the body's presiding officer must sign the certificate.
+An emergency rule is provisionally effective immediately after being filed.
+Notwithstanding § 15-6-6(a), all other rules are provisionally effective on the twentieth
+day after being filed, not counting the day of filing. In either case a later effective date
+may be specified as part of the rules being filed. A rule that is not yet effective or a
+provisionally effective rule may be suspended in the manner specified by § 1-26-38 any
+time prior to the first day of July of the year following the year in which it became, or
+would have become, effective. The rule's provisional status ends at that time, and the rule
+may not thereafter be suspended by the rules committee. Unless suspended, a
+SB133 ENROLLED
+
+26.586.13 8 133
+provisionally effective rule must be enforced by the agency and the courts as if it were not
+so conditioned.
+No rule promulgated after June 30, 1975, is valid unless adopted in compliance
+with § 1-26-4 or 1-26-5, and this section and copies of the rule are made available to the
+public upon request, by the agency.
+Section 8. That § 1-26-14 be AMENDED:
+1-26-14. The validity or applicability of a rule may be determined in an action for
+declaratory judgment in the circuit court for the county of the plaintiff's residence, if it is
+alleged that the rule, or its threatened application, interferes with or impairs, or threatens
+to interfere with or impair, the legal rights or privileges of the plaintiff. The agency must
+be made a party to the action. A declaratory judgment may be rendered whether or not
+the plaintiff has requested the agency to pass upon the validity or applicability of the rule
+in question.
+The court shall review de novo whether a rule is a major rule.
+Section 9. That a NEW SECTION be added to chapter 1-26:
+Legislation directing the promulgation of a major rule may not:
+(1) Be interpreted as a grant or modification of statutory authority by the Legislature
+for the promulgation of a rule; or
+(2) Extinguish or affect any claim, whether substantive or procedural, against any
+alleged defect in a rule.
+Section 10. That § 1-26-2.1 be REPEALED.
+SB133 ENROLLED
+
+26.586.13 9 133
+An Act to provide additional legislative oversight of rulemaking.
+Received at this Executive Office
+I certify that the attached Act originated in this _____ day of _____________,
+the:
+2026 at ____________M.
+Senate as Bill No. 133
+By
+Secretary of the Senate for the Governor
+The attached Act is hereby
+approved this ________ day of
+President of the Senate ______________, A.D., 2026
+Attest:
+Governor
+Secretary of the Senate
+STATE OF SOUTH DAKOTA,
+ss.
+Office of the Secretary of State
+Speaker of the House
+Filed ____________, 2026
+Attest: at _________ o'clock __M.
+Chief Clerk of the House Secretary of State
+Senate Bill No. 133 By
+File No. ____ Asst. Secretary of State
+Chapter No. ______
+SB133 ENROLLED

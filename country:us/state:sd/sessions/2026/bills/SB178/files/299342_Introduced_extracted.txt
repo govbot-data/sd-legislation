@@ -1,0 +1,31 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.797.12 101st Legislative Session 178
+2026 South Dakota Legislature
+Senate Bill 178
+Introduced by: Senator Voight
+1 An Act to lower a maximum limit on the tax increment base value.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 11-9-5 be AMENDED:
+4 11-9-5. To establish create a district, the governing body must adopt a resolution
+5 that:
+6 (1) Describes the boundaries of a the district with sufficient definiteness to identify
+7 with ordinary and reasonable certainty the territory included. The boundaries may
+8 not split a whole unit of property that is being used for a single purpose;
+9 (2) Creates the district on a given date;
+10 (3) Includes a finding that the assessed value of the taxable property in the district,
+11 plus the tax increment base of all other existing districts, does not exceed ten two
+12 and one-half percent of the total assessed value of all taxable property in the
+13 political subdivision; and
+14 (4) Assigns a name to the district for identification purposes. The first district created
+15 in each political subdivision must be known as "Tax Increment Financing District
+16 Number One, City (or Town, or County) of __________." Each subsequently
+17 created district must be assigned the next consecutive number.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

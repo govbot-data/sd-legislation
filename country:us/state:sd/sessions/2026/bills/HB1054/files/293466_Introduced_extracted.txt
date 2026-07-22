@@ -1,0 +1,85 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.671.9 101st Legislative Session 1054
+2026 South Dakota Legislature
+House Bill 1054
+Introduced by: The Chair of the Committee on Commerce and Energy at the request of the Bureau of Information
+and Telecommunications
+1 An Act to repeal the creation and budgeting for the Digital Dakota Network.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 1-26D-5 be AMENDED:
+4 1-26D-5. The chief hearing examiner shall adopt promulgate rules, pursuant to
+5 chapter 1-26, for the operation of the Office of Hearing Examiners and for the procedures
+6 to be used with regard to hearing contested cases and may specifically adopt rules
+7 pertaining to the use of the Digital Dakota Network.
+8 Section 2. That § 1-33-38 be AMENDED:
+9 1-33-38. The head of the Bureau of Information and Telecommunications is the
+10 commissioner of information and telecommunications.
+11 The Bureau of Information and Telecommunications shall be bureau is
+12 administered by the commissioner of information and telecommunications, who shall:
+13 (1) Provide such assistance, under the rules and regulations as hereinafter provided in
+14 this section, as shall be necessary for the efficient performance of the official duties
+15 imposed upon the various departments and divisions by this code;
+16 (2) Employ such staff and maintain facilities as necessary to operate a local
+17 government services program which shall provide or arrange for that arranges or
+18 provides services for public corporations pursuant to the provisions of § 1-33-45;
+19 (3) Create a telecommunications network that:
+20 (a) Provides cost effective services for business, education, government, and
+21 rural economic development; and
+22 (b) Ensures network uses are consistent with the best interests of the state and
+23 telecommunications network users; and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.671.9 2 1054
+1 (4) Administer policies and promulgate rules, pursuant to chapter 1-26, related to the
+2 management, programming, and use of the state information network.
+3 Section 3. That § 1-33-26 be REPEALED.
+4 There is hereby created within the Bureau of Information and Telecommunications
+5 an Office of Digital Dakota Network for the purposes of advising the commissioner of
+6 information and telecommunications in identifying statewide video telecommunications
+7 network options, creating a telecommunications network, providing cost-effective services
+8 for education, government, business, and rural economic development, ensuring network
+9 uses are consistent with the best interests of the state and network users. The Bureau of
+10 Information and Telecommunications shall establish policies and rules to implement the
+11 Digital Dakota Network.
+12 Section 4. That § 1-33-30 be REPEALED.
+13 The commissioner of information and telecommunications shall be responsible for
+14 administration of policies and administrative rules, and shall be responsible for network
+15 use and programming.
+16 The functions provided in chapter 1-33 and the rule-making authority of § 1-33-
+17 38, as it regards the determination of issues related to use, programming, policies, and
+18 management of the network are hereby transferred to the Bureau of Information and
+19 Telecommunications.
+20 Section 5. That § 1-33-32 be REPEALED.
+21 The Bureau of Information and Telecommunications shall prepare and submit
+22 budgets and proposals for management of the Digital Dakota Network to the commissioner
+23 of information and telecommunications.
+24 Section 6. That § 1-33-35 be REPEALED.
+25 Operation of the Digital Dakota Network including design of a video network
+26 structure compatible with the existing telecommunications infrastructure, the
+27 administration of a billing service system for users of the network and issues related to
+28 operation of the network shall continue to be the responsibility of the Bureau of
+29 Information and Telecommunications pursuant to chapter 1-33.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.671.9 3 1054
+1 Section 7. That § 1-33-36 be REPEALED.
+2 The Bureau of Information and Telecommunications may adopt, pursuant to
+3 chapter 1-26, administrative rules regarding Digital Dakota Network operations, practices,
+4 procedures, billings, fees, sites, program sources, program content, program distribution,
+5 terminal sites, and any other need identified for successful operation of the Digital Dakota
+6 Network.
+7 Section 8. That § 1-33-59 be REPEALED.
+8 The functions, authorities, and positions of the Office of Digital Dakota Network,
+9 pursuant to chapter 1-33 are hereby transferred to the Bureau of Information and
+10 Telecommunications.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

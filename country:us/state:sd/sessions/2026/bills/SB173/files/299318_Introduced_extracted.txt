@@ -1,0 +1,24 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.902.9 101st Legislative Session 173
+2026 South Dakota Legislature
+Senate Bill 173
+Introduced by: Senator Hohn
+1 An Act to extend the motor vehicle and motorcycle licensing fee available to a
+2 veteran with a disability to the spouse of a veteran with a disability.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 32-5-157.1 be AMENDED:
+5 32-5-157.1. A disabled veteran with a disability, or the spouse of a veteran with
+6 a disability, may obtain standard issue county motor vehicle or motorcycle license plates
+7 in lieu of disabled veteran plates if the disabled veteran by paying the fees according to
+8 § 32-5-160, if the veteran with the disability meets the requirements listed in §§ 32-5-
+9 156 and 32-5-157. A disabled veteran who obtains plates pursuant to this section shall
+10 pay fees according to § 32-5-160.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

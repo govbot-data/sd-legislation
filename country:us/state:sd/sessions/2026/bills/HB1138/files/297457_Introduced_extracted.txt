@@ -1,0 +1,161 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.607.25 101st Legislative Session 1138
+2026 South Dakota Legislature
+House Bill 1138
+Introduced by: Representative Heermann
+1 An Act to require the licensure of non-medical home care agencies, and to provide
+2 a penalty therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+5 Terms defined in this chapter mean:
+6 (1) "Client," an individual who receives non-medical home care services from a home
+7 care aide;
+8 (2) "Department," the Department of Health;
+9 (3) "Home care aide," an individual employed by or under contract with a non-medical
+10 home care agency to provide non-medical home care services;
+11 (4) "Non-medical home care agency," a person that, for consideration, employs or
+12 contracts with home care aides to provide non-medical home care services
+13 intended to enable a client to remain safely in the client's personal residence; and
+14 (5) "Non-medical home care services," the following, when provided by a home care
+15 aide to a client in the client's personal residence:
+16 (a) Assistance with bathing, dressing, eating, personal grooming, or toileting;
+17 (b) Assistance with the self-administration of medications;
+18 (c) Companionship;
+19 (d) Housekeeping or assistance with household chores;
+20 (e) Meal preparation; or
+21 (f) Other routine activities of daily living that are not required to be performed
+22 by a licensed health care professional.
+23 Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+24 A non-medical home care agency may not operate in this state unless the agency
+25 is licensed by the department.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.607.25 2 1138
+1 Any person who operates, claims to operate, or advertises as operating, a non-
+2 medical home care agency without a license is guilty of a Class 1 misdemeanor.
+3 Section 3. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+4 To obtain or renew a license to operate a non-medical home care agency, a person
+5 shall submit to the department:
+6 (1) An application, developed by the department;
+7 (2) A fee, established by the department in rules promulgated in accordance with
+8 chapter 1-26, but not exceeding one hundred dollars;
+9 (3) The name and contact information of the agency's owner; and
+10 (4) An attestation that:
+11 (a) Any home care aides employed by or under contract with the agency have
+12 completed training in accordance with section 4 of this Act; and
+13 (b) The owner of the agency and any home care aides employed by or under
+14 contract with the agency have submitted to and passed a criminal history
+15 background check, in accordance with section 5 of this Act.
+16 A license issued in accordance with this section is valid for one year from the date
+17 of issuance.
+18 Any fee submitted under this section is nonrefundable.
+19 Section 4. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+20 A non-medical home care agency must ensure that any home care aide employed
+21 by or under contract with the agency has completed at least ten hours of training on the
+22 provision of non-medical home care services. The training must comprise of:
+23 (1) At least two hours on basic care for individuals living with Alzheimer's and
+24 dementia; and
+25 (2) At least eight hours on:
+26 (a) The maintenance of a clean and safe environment;
+27 (b) Safe techniques for assisting with bathing, dressing, personal grooming,
+28 and toileting;
+29 (c) Basic nutrition, meal preparation, food safety, and eating assistance;
+30 (d) Client confidentiality, privacy, and documentation and record requirements;
+31 and
+32 (e) Elder abuse, neglect, and exploitation reporting and prevention.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.607.25 3 1138
+1 The agency shall maintain, for each home care aide, documentation of the
+2 completion of the training, and shall provide the documentation to the department, upon
+3 request.
+4 A home care aide who is licensed, certified, or registered as a health care
+5 professional, in accordance with title 36, satisfies the training requirements of this section
+6 if the professional provides documentation to the agency demonstrating training in the
+7 topics set forth above, as part of the process for obtaining or renewing licensure,
+8 certification, or registration.
+9 Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+10 Before employing or contracting with a home care aide, the non-medical home care
+11 agency shall require the prospective employee or contractor to submit to a criminal history
+12 background check in accordance with procedures established by the department.
+13 Neither the owner of an agency, nor any home care aides employed by or
+14 contracted with the agency, may have been convicted of, or pled guilty or nolo contendere
+15 to, the following crimes in this state or a comparable crime in another state:
+16 (1) A crime of violence, as defined by § 22-1-2;
+17 (2) A sex crime listed in § 22-24B-1, or another crime under chapters 22-22, 22-22A,
+18 or 22-24A; or
+19 (3) A Class A or B felony.
+20 The agency may not disseminate any information obtained under this section to a
+21 person not employed by the agency.
+22 Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+23 A non-medical home care agency shall maintain records documenting the type and
+24 frequency of services provided to each client and shall provide client records to the
+25 department upon request.
+26 Client records and any personally identifiable information regarding a client are
+27 confidential and may be disclosed only as permitted by law or as authorized by the client
+28 or the client's designee.
+29 Section 7. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+30 The department may inspect a non-medical home care agency, during business
+31 hours, for compliance with this chapter. The department may audit an agency.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.607.25 4 1138
+1 The department shall investigate any complaint alleging a violation of this chapter
+2 or rules promulgated thereunder in the same manner as chapter 36-1C.
+3 Section 8. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+4 The department may, in accordance with chapter 1-26, deny the issuance or
+5 renewal of, or may suspend or revoke, a license issued under this chapter, for a violation
+6 of any provision of this chapter or rules promulgated thereunder.
+7 Any party aggrieved by any act, ruling, or decision of the department may appeal
+8 the act, ruling, or decision under the provisions of chapter 1-26.
+9 Section 9. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+10 The department shall promulgate rules, in accordance with chapter 1-26, to
+11 establish:
+12 (1) The application process for licensure as a non-medical home care agency;
+13 (2) Home care aide training program standards necessary to protect the health and
+14 safety of clients;
+15 (3) Record keeping requirements for agencies; and
+16 (4) Procedures for the completion of criminal history background checks for
+17 prospective agency employees or contractors.
+18 Section 10. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+19 There is created in the state treasury the non-medical home care agency regulatory
+20 fund. The fund consists of all fees imposed pursuant to this chapter.
+21 The department shall administer the fund. The purpose of the fund is to defray
+22 expenses associated with administering this chapter. Interest on moneys credited to the
+23 fund must be deposited into the fund. Expenditures from the fund must be budgeted
+24 through the general appropriation bill.
+25 Section 11. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+26 This chapter does not apply to:
+27 (1) A home health agency certified by the Centers for Medicare and Medicaid Services;
+28 (2) A health care facility licensed in accordance with chapter 34-12;
+29 (3) A residential care facility registered in accordance with chapter 34-12;
+30 (4) A community services provider or a community support provider;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.607.25 5 1138
+1 (5) Any person who provides services under a medicaid waiver program administered
+2 by the Department of Human Services;
+3 (6) A health care professional, licensed in accordance with title 36, who provides non-
+4 medical home cares services in conjunction with health care services in an
+5 individual's personal residence;
+6 (7) A person who coordinates, refers, or matches a non-medical home care agency to
+7 a potential client, but who does not employ or contract with any home care aides;
+8 or
+9 (8) An individual who provides care to another family member.
+10 Section 12. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+11 Nothing in this chapter authorizes a non-medical home care agency to provide or
+12 coordinate services that are required to be provided by a licensed health care professional.
+13 Section 13. This Act is effective beginning January 1, 2027.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

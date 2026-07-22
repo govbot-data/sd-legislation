@@ -1,0 +1,146 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.520.9 101st Legislative Session 16
+2026 South Dakota Legislature
+Senate Bill 16
+Introduced by: Senator Voight
+1 An Act to provide for the licensure of fishing and hunting guides, and to provide a
+2 penalty therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 41-6-10 be AMENDED:
+5 41-6-10. Licenses, and permits, and stamps issued under this title are classified
+6 as follows:
+7 (1) Breeding and raising birds license;
+8 (2) Disabled hunter permit;
+9 (3) Export bait dealer license;
+10 (4) Fishing guide license;
+11 (5) Fur dealer's license;
+12 (5)(6) Hoop net, trap, or setline license;
+13 (6)(7) Hunting guide license;
+14 (8) Mentored youth hunting license;
+15 (7)(9) Nonresident big game license;
+16 (8)(10) Nonresident fishing license;
+17 (9)(11) Nonresident and resident migratory bird certification permit;
+18 (10)(12) Nonresident predator/varmint license;
+19 (11)(13) Nonresident retail bait dealer license;
+20 (12)(14) Nonresident shooting preserve license;
+21 (13)(15) Nonresident small game license;
+22 (14)(16) Nonresident wholesale bait dealer license;
+23 (15)(17) Nonresident wild turkey license;
+24 (16)(18) Nursing facility group fishing license;
+25 (17)(19) Park user's license;
+26 (18)(20) Permit for transportation of big game animal;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.520.9 2 16
+1 (19)(21) Private fish hatchery license;
+2 (20)(22) Reciprocal nonresident license to take fur-bearing animals;
+3 (21)(23) Resident license to take fur-bearing animals;
+4 (22)(24) Resident big game license;
+5 (23)(25) Resident elk license;
+6 (24)(26) Resident fishing license and resident senior fishing license;
+7 (25)(27) Resident retail bait dealer license;
+8 (26)(28) Resident small game license and resident youth small game license;
+9 (27)(29) Resident predator/varmint license;
+10 (28)(30) Resident wholesale bait dealer license;
+11 (29)(31) Resident wild turkey license;
+12 (30)(32) Scientific collector's license;
+13 (31)(33) Special nonresident waterfowl license;
+14 (32)(34) Taxidermist's license;
+15 (33)(35) Temporary fishing and hunting licenses;
+16 (34)(36) Temporary nonresident early fall Canada goose license;
+17 (35)(37) Temporary nonresident fall three-day waterfowl license; and
+18 (36)(38) Temporary nonresident spring snow goose license.
+19 The rights and privileges of such the licensees are set forth in §§ 41-6-12 to 41-6-
+20 45.1, inclusive, and in § 41-17-13.
+21 The Game, Fish and Parks Commission shall promulgate rules pursuant to chapter
+22 1-26 to set the fees, eligibility, and duration for such the licenses.
+23 Section 2. That a NEW SECTION be added to chapter 41-6:
+24 Beginning July 1, 2027, an individual may not, for consideration, act as a fishing
+25 guide or a hunting guide or represent to the public that the individual is a fishing guide or
+26 a hunting guide, without first obtaining an annual guide license from the Department of
+27 Game, Fish and Parks.
+28 Any individual who provides fishing or hunting guide services without a license, or
+29 while under a suspended license, is guilty of a Class 1 misdemeanor. Each client who
+30 receives service under these conditions constitutes a distinct and separate offense.
+31 Section 3. That a NEW SECTION be added to chapter 41-6:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.520.9 3 16
+1 An individual seeking licensure as a fishing or hunting guide must submit an
+2 application to the Department of Game, Fish and Parks. The department shall make the
+3 application available on its website and in printed form upon request.
+4 To be eligible for licensure as a fishing guide or a hunting guide, an individual must:
+5 (1) Be at least twenty-one years of age;
+6 (2) Maintain, in an amount of one million dollars per occurrence, general liability
+7 insurance against claims of damage or injury resulting from the guiding activity;
+8 (3) Be certified in first aid and cardiopulmonary resuscitation, through a nationally
+9 recognized program approved by the department; and
+10 (4) Pay the licensure fee established under section 5 of this Act.
+11 Section 4. That a NEW SECTION be added to chapter 41-6:
+12 The Department of Game, Fish and Parks may, in accordance with chapter 1-26,
+13 deny an application for licensure as a fishing guide or a hunting guide, or suspend or
+14 revoke a guide license, upon a determination that:
+15 (1) The applicant or licensee materially misrepresented any information required on
+16 the application for a license;
+17 (2) During the five-year period preceding the date of the application, the applicant or
+18 licensee willfully and substantially misrepresented:
+19 (a) The price of guide services;
+20 (b) The nature and type of guide services provided to clients;
+21 (c) The nature and type of equipment used in providing guide services to
+22 clients; or
+23 (d) The nature, type, or location of fishing or hunting opportunities provided to
+24 clients;
+25 (3) During the five-year period preceding the date of the application, the applicant or
+26 licensee knowingly provided guide services to an individual who was not
+27 appropriately licensed to engage in the activity, as required in chapter 41-6;
+28 (4) During the five-year period preceding the date of the application, the applicant or
+29 licensee, while acting as a guide, engaged in conduct detrimental to the image and
+30 integrity of the guide industry;
+31 (5) During the five-year period preceding the date of the application, the applicant or
+32 licensee was convicted of an offense that has a direct bearing on the ability to serve
+33 clients as a guide;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.520.9 4 16
+1 (6) During the five-year period preceding the date of the application, the applicant or
+2 licensee violated any statute or rule related to fishing, hunting, or guiding, in any
+3 jurisdiction;
+4 (7) During the five-year period preceding the date of the application, the applicant or
+5 licensee had a guide license denied, suspended, or revoked in any jurisdiction; or
+6 (8) The applicant or licensee pled guilty to, nolo contendere to, or was convicted of, a
+7 felony.
+8 Section 5. That a NEW SECTION be added to chapter 41-6:
+9 The Department of Game, Fish and Parks shall charge a fee of:
+10 (1) Five hundred dollars for a resident fishing or hunting guide license; and
+11 (2) One thousand dollars for a nonresident fishing or hunting guide license.
+12 Each fishing or hunting guide license issued by the department expires on March
+13 thirty-first.
+14 Any fee submitted for licensure as a fishing guide or a hunting guide, in accordance
+15 with this section, is nonrefundable.
+16 The department shall forward any fee collected for licensure as a fishing guide to
+17 the state treasurer for deposit into the game, fish and parks fund, and shall use the
+18 amount to enhance aquatic habitat on public waters.
+19 The department shall forward any fee collected for licensure as a hunting guide to
+20 the state treasurer for deposit into the game, fish and parks fund, and shall use the
+21 amount to enhance terrestrial habitat and support public access programs.
+22 Section 6. That a NEW SECTION be added to chapter 41-6:
+23 The Game, Fish and Parks Commission shall promulgate rules, in accordance with
+24 chapter 1-26 to:
+25 (1) Establish the application process for licensure as a fishing guide or hunting guide,
+26 including:
+27 (a) The development and availability of the application; and
+28 (b) The verification of information contained in the application; and
+29 (2) Establish a code of conduct pertaining to interactions between the licensed guide
+30 and a client or a prospective client.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

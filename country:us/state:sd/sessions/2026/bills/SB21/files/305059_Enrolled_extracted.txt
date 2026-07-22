@@ -1,0 +1,130 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.375.20 101st Legislative Session 21
+2026 South Dakota Legislature
+Senate Bill 21
+ENROLLED
+AN ACT
+ENTITLED An Act to modify tax refunds for elderly persons and persons with a
+disability.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+Section 1. That § 9-43-101 be AMENDED:
+9-43-101. A municipality may waive or reduce special assessments levied against
+owner-occupied single family dwellings, if the head of household is sixty-five years of age
+or older, or is disabled, or if the annual household income does not exceed the federal
+poverty level as updated annually on the Department of Social Services website. The terms
+used in this section are defined in § 10-6B-1.
+Section 2. That § 10-1-47 be AMENDED:
+10-1-47. The terms "United States Internal Revenue Code" and "Internal Revenue
+Code" mean the United States Internal Revenue Code as amended and in effect on January
+1, 2025. This section applies to §§ 10-4-9.1, 10-4-9.2, 10-4-9.3, 10-4-9.4, 10-4-39, 10-
+6-157, and 10-43-10.1, and subdivisions 10-6A-1(7), 10-6B-1(5), 10-43-10.3(6), and 10-
+45A-1(5).
+Section 3. That § 10-4-24.11 be AMENDED:
+10-4-24.11. To the extent that a dwelling or a portion thereof is owned and
+occupied by a paraplegic or an individual with the loss or loss of use of both lower
+extremities, the individual's tax liability must be reduced as provided in §§ 10-4-24.12
+and 10-4-24.13 on that portion of the dwelling, provided the dwelling was owned and
+occupied for the full calendar year prior to the year in which the taxes are due and
+receivable. The term "household income" as used in §§ 10-4-24.12 and 10-4-24.13 is the
+same as defined in subdivision 10-6B-1.
+
+26.375.20 2 21
+Section 4. That § 10-6A-11 be AMENDED:
+10-6A-11. Property tax relief granted through the provisions of this chapter does
+not affect a person's eligibility for a retail sales and service tax refund under the provisions
+of chapter 10-45A.
+Section 5. That § 10-6B-15 be AMENDED:
+10-6B-15. A person who receives a retail sales and service tax refund under
+chapter 10-45A or a real property tax assessment freeze under chapter 10-6A may not be
+denied a property tax reduction under this chapter because of the refund or freeze.
+Section 6. That § 10-13-20 be AMENDED:
+10-13-20. The provisions of this chapter may not be construed to deny a tax
+refund pursuant to chapter 10-45A.
+Section 7. That § 10-45A-5 be AMENDED:
+10-45A-5. The amount of any claim made pursuant to this chapter by a claimant
+from a household consisting solely of one person is determined as follows:
+(1) If the claimant's income is seventeen thousand two hundred fifteen dollars or less,
+a sum equal to the pro rata share of each eligible claimant determined pursuant to
+§ 10-45A-13, not to exceed five hundred dollars; and
+(2) If the claimant's income is more than seventeen thousand two hundred fifteen
+dollars, no refund.
+Section 8. That § 10-45A-6 be AMENDED:
+10-45A-6. The amount of any claim made pursuant to this chapter by a claimant
+from a household consisting of more than one person is determined as follows:
+(1) If household income is twenty-three thousand two hundred sixty-five dollars or
+less, a sum equal to two times the pro rata share of each eligible claimant
+determined pursuant to § 10-45A-13, not to exceed one thousand dollars; and
+(2) If household income is more than twenty-three thousand two hundred sixty-five
+dollars, no refund.
+Section 9. That § 10-45A-7 be AMENDED:
+SB21 ENROLLED
+
+26.375.20 3 21
+10-45A-7. The secretary of revenue shall determine claim disbursements
+pursuant to this chapter, with each claim computed to the nearest dollar.
+Section 10. That § 10-45A-13 be AMENDED:
+10-45A-13. In determining the pro rata share of each eligible claimant, the
+department shall divide the total amount appropriated to pay all claims authorized by this
+chapter, by the number of claimants who have timely filed.
+For purposes of this section, the department shall consider a claimant from a
+household consisting solely of one person as one claimant, and the department shall
+consider a claimant from a household consisting of more than one person as two
+claimants.
+Section 11. That § 10-6C-7 be REPEALED.
+Section 12. That § 10-18A-1 be REPEALED.
+Section 13. That § 10-18A-1.1 be REPEALED.
+Section 14. That § 10-18A-2 be REPEALED.
+Section 15. That § 10-18A-3 be REPEALED.
+Section 16. That § 10-18A-4 be REPEALED.
+Section 17. That § 10-18A-5 be REPEALED.
+Section 18. That § 10-18A-6 be REPEALED.
+Section 19. That § 10-18A-6.1 be REPEALED.
+Section 20. That § 10-18A-7 be REPEALED.
+Section 21. That § 10-18A-8 be REPEALED.
+Section 22. That § 10-18A-9 be REPEALED.
+Section 23. That § 10-18A-10 be REPEALED.
+Section 24. That § 10-18A-11 be REPEALED.
+SB21 ENROLLED
+
+26.375.20 4 21
+Section 25. That § 10-18A-12 be REPEALED.
+Section 26. That § 10-18A-13 be REPEALED.
+Section 27. That § 10-18A-14 be REPEALED.
+Section 28. That § 10-18A-15 be REPEALED.
+Section 29. That § 10-18A-16 be REPEALED.
+Section 30. That § 10-45A-2.1 be REPEALED.
+SB21 ENROLLED
+
+26.375.20 5 21
+An Act to modify tax refunds for elderly persons and persons with a disability.
+Received at this Executive Office
+I certify that the attached Act originated in this _____ day of _____________,
+the:
+2026 at ____________M.
+Senate as Bill No. 21
+By
+Secretary of the Senate for the Governor
+The attached Act is hereby
+approved this ________ day of
+President of the Senate ______________, A.D., 2026
+Attest:
+Governor
+Secretary of the Senate
+STATE OF SOUTH DAKOTA,
+ss.
+Office of the Secretary of State
+Speaker of the House
+Filed ____________, 2026
+Attest: at _________ o'clock __M.
+Chief Clerk of the House Secretary of State
+Senate Bill No. 21 By
+File No. ____ Asst. Secretary of State
+Chapter No. ______
+SB21 ENROLLED

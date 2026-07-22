@@ -1,0 +1,60 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.874.9 101st Legislative Session 201
+2026 South Dakota Legislature
+Senate Bill 201
+Introduced by: Senator Mehlhaff
+1 An Act to authorize the use of a drone for the location and recovery of mortally
+2 wounded deer and elk and to provide a penalty therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 41-8-39 be AMENDED:
+5 41-8-39. It is a Class 1 misdemeanor for any person to:
+6 (1) Kill or attempt to kill any wild bird or animal from an aircraft, except as otherwise
+7 provided for in § 41-8-39.1; or
+8 (2) Use an aircraft for the purpose of hunting, taking, concentrating, driving, rallying,
+9 stirring up, locating, or spotting any wild bird or animal, except that the prohibition
+10 in this subdivision does not apply to a person who uses a drone for location and
+11 recovery purposes, in accordance with the provisions of sections 2 and 3 of this
+12 Act, or to a person who uses a drone for the purpose of locating or spotting a
+13 predator or varmint, if:
+14 (a) The activity occurs only on or over land that is privately owned;
+15 (b) The person operating the drone is the landowner or has permission from
+16 the landowner or a lessee;
+17 (c) The activity does not occur during the months of September, October, or
+18 November; and
+19 (d) The operation of the drone is in full compliance with all applicable Federal
+20 Aviation Administration regulations.
+21 Section 2. That a NEW SECTION be added to chapter 41-8:
+22 A hunter may engage a pilot to use a drone for the purpose of locating and
+23 recovering a deer or an elk if:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.874.9 2 201
+1 (1) The deer or elk was mortally wounded by the hunter or the hunter reasonably
+2 believes that the deer or elk was mortally wounded, while the hunter was lawfully
+3 engaged in the hunt; and
+4 (2) The hunter reasonably believes that the deer or elk cannot be located by commonly
+5 used tracking methods.
+6 Section 3. That a NEW SECTION be added to chapter 41-8:
+7 The Game, Fish and Parks Commission shall, by rules promulgated in accordance
+8 with chapter 1-26:
+9 (1) Establish the hours during which a drone may be used for the purposes set forth
+10 in section 2 of this Act;
+11 (2) Establish technological capabilities and equipment that each drone must have and
+12 may not have while being used for the purposes set forth in section 2 of this Act;
+13 (3) Establish the time and manner in which the drone pilot may provide information
+14 regarding the condition of the deer or elk and coordinates to the hunter; and
+15 (4) Set forth the contact and location information that each drone pilot must provide
+16 to the Department of Game, Fish and Parks electronically, before commencing an
+17 operation for the purposes set forth in section 2 of this Act.
+18 Any person who violates any rule promulgated under this section is guilty of a Class
+19 1 misdemeanor.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

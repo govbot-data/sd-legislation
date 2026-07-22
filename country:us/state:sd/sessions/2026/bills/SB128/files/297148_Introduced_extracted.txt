@@ -1,0 +1,219 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.250.24 101st Legislative Session 128
+2026 South Dakota Legislature
+Senate Bill 128
+Introduced by: Senator Howard
+1 An Act to update provisions related to certain large-use customers of utilities.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to chapter 46-1:
+4 A large-use customer, as defined in section 2 of this Act, which is operating as a
+5 data center, shall provide notice to and cooperate with each local water provider to ensure
+6 that projected water consumption is compatible with the water supply in the area in which
+7 the customer is located. In addition, the customer:
+8 (1) Must implement closed-loop cooling technology that limits net water withdrawal to
+9 a daily amount, established by the Water Management Board for each source of
+10 water currently used in the state, by rule promulgated pursuant to chapter 1-26;
+11 (2) May not consume an amount of the available water supply in the local service area
+12 exceeding limits established in rule by the board, after allocation to residential and
+13 essential public services; and
+14 (3) In a water shortage, as declared by the Governor or determined by the board,
+15 must reduce water use until all residential and essential public service allocations
+16 are met.
+17 In establishing limits under this section, the board shall seek to ensure water
+18 availability and prevent disproportionate use of water by the customer.
+19 The customer shall submit to the board a quarterly report, in the form and manner
+20 prescribed by the board, of the customer's water use. The report must contain average
+21 usage data and certification of compliance with this section. The board shall make the
+22 usage data contained in the report available to the public.
+23 For purposes of this section, "closed-loop cooling technology" means a sealed
+24 system that continuously cycles a set volume of liquid through a closed circuit in which
+25 the liquid, after absorbing heat, is chilled and recirculated.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.250.24 2 128
+1 For purposes of this section, "data center" means a centralized repository for the
+2 dissemination, management, processing, and storage of electronic data and information.
+3 Section 2. That § 49-1A-3 be AMENDED:
+4 49-1A-3. There is hereby levied on each public utility, as defined in subdivision
+5 49-34A-1(12) § 49-34A-1, which is subject to the rate regulation of the commission, and
+6 all each telecommunications companies company, as defined in subdivision 49-31-1(26)
+7 § 49-31-1, a tax of not more than .0015 or two hundred fifty dollars, whichever is greater,
+8 upon the annual intrastate gross receipts derived by the public utility or
+9 telecommunications company from its customers within the State of South Dakota this
+10 state during the preceding calendar year. The two hundred fifty dollar minimum gross
+11 receipt tax does not apply to telecommunications companies providing local exchange
+12 service, as defined in subdivision 49-31-1(13) § 49-31-1, or to radio common carriers.
+13 Section 3. That § 49-34A-1 be AMENDED:
+14 49-34A-1. Terms used in this chapter mean:
+15 (1) "Assigned service area," the geographical area in which the boundaries are
+16 established as provided in §§ 49-34A-42 to 49-34A-44, inclusive, and 49-34A-48
+17 to 49-34A-59, inclusive;
+18 (2) "Commission," the South Dakota Public Utilities Commission of the State of South
+19 Dakota;
+20 (3) "Customer," any person contracting for or purchasing gas or electric service from
+21 a utility;
+22 (4) "Depreciated original cost," the cost of property to the person first devoting it to
+23 public service, less the depreciation reserve, which includes accumulated
+24 depreciation charges calculated on a straight-line method and based upon the
+25 estimated service life of the property, together with other items normally
+26 accounted for in the depreciation reserve, and but does not include any good will
+27 or, going concern value, nor does it include or certificate value in excess of
+28 payments made or costs incurred in the initial acquisition thereof;
+29 (5) "Electric line," any line for conducting electric energy at a design voltage of twenty-
+30 five thousand volts phase to phase or less and used for distributing electric energy
+31 directly to customers;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.250.24 3 128
+1 (6) "Electric service," electric service furnished to a customer for ultimate
+2 consumption, but not including wholesale electric service furnished by an electric
+3 utility to another electric utility for resale;
+4 (7) "Electric utility," any person operating, maintaining, or controlling, maintaining, or
+5 operating, in this state, equipment or facilities for providing electric service to or
+6 for the public, including facilities owned by a municipality;
+7 (8) "Gas service," retail sale of natural gas or manufactured gas distributed through a
+8 pipeline to fifty or more customers or the sale of transportation services by an
+9 intrastate natural gas pipeline;
+10 (9) "Gas utility," any person operating, maintaining, or controlling, maintaining, or
+11 operating, in this state, equipment or facilities for providing gas service to or for
+12 the public;
+13 (9A)(10) "Incremental costs," all costs incurred by a public utility, which are directly
+14 attributable to a large-use customer and incurred in addition to the normal costs
+15 of providing service to other existing customers;
+16 (11) "Intrastate natural gas pipeline," any natural gas pipeline located entirely within
+17 the state that, which transports gas from a receipt point to one or more locations
+18 for customers other than the pipeline operator. However, provided that the term
+19 does not apply if:
+20 (a) If there is only one customer and the customer is a wholly-owned wholly
+21 owned subsidiary of the pipeline operator,;
+22 (b) If the customer is the parent company of the pipeline operator, or;
+23 (c) If the customer and the pipeline operator are wholly-owned wholly owned
+24 subsidiaries of the same parent company. Further, the term does not apply
+25 to; or
+26 (d) To natural gas lines and appurtenant facilities used to gather gas from
+27 natural gas production facilities or sites and move the gas to an
+28 interconnecting transportation pipeline system;
+29 (10)(12) "Large-use customer," a customer, established after July 1, 2026, which
+30 requires electric service with a contracted demand of two thousand kilowatts or
+31 more;
+32 (13) "Municipality," any incorporated town or city in South Dakota this state;
+33 (11)(14) "Person," a natural person, a partnership, a private corporation, a public
+34 corporation, a limited liability company, a municipality, an association, a
+35 cooperative whether incorporated or not, a joint stock association, a business trust,
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.250.24 4 128
+1 any of the federal, state and local governments, including any of their political
+2 subdivisions, agencies and instrumentalities, an association; business trust;
+3 cooperative, whether or not incorporated; federal, state, or local government or
+4 any agency, instrumentality, or political subdivision thereof; joint stock
+5 association; limited liability company; natural person; partnership; private or
+6 public corporation; or two or more persons having joint or common interest;
+7 (12)(15) "Public utility," any person operating, maintaining, or controlling, maintaining,
+8 or operating, in this state, equipment or facilities for the purpose of providing gas
+9 or electric service to or for the public, in whole or in part, in this state. However,
+10 provided that the term does not apply to an:
+11 (a) An electric or gas utility owned by a municipality, political subdivision, or
+12 agency of the State of South Dakota this or any other state or a;
+13 (b) A rural electric cooperative as defined in § 47-21-1 for the purposes of
+14 §§ 49-34A-2 to 49-34A-4, inclusive, §§ 49-34A-6 to 49-34A-41, inclusive,
+15 and § 49-34A-62. The term, public utility, does apply to a; or
+16 (c) A rural electric cooperative which that provides gas service;
+17 (13)(16) "Rate," any charge, classification, or compensation, charge and classification,
+18 or any of them demanded, observed, charged, or collected, demanded, imposed,
+19 or observed by any public utility for any service and any rules, regulations,
+20 practices, or contracts contract, practice, regulation, or rule affecting any such
+21 compensation, the charge or, classification, or compensation; and
+22 (14)(17) "Securities," stock and stock certificates or other evidence of interest or
+23 ownership, and bonds, notes, or other evidence of indebtedness.
+24 Section 4. That a NEW SECTION be added to chapter 49-34A:
+25 Each public utility shall establish a classification of service, with its own tariff and
+26 schedules, for large-use customers, which must be separate and distinct from
+27 classifications of service for other customers.
+28 A tariff established pursuant to this section:
+29 (1) Must allocate incremental costs in a manner that:
+30 (a) Is proportional to each large-use customer's share of the aggregated
+31 incremental costs of all large-use customers served by the utility; and
+32 (b) Does not include the incremental costs of a large-use customer with a
+33 contracted rate established pursuant to section 6 of this Act;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.250.24 5 128
+1 (2) May not impose on other customers any rate increase or surcharge that is directly
+2 attributable to the utility usage of a large-use customer; and
+3 (3) Together with related schedules, is subject to commission approval and public
+4 inspection pursuant to § 49-34A-10.
+5 Pursuant to chapter 1-26, the commission shall promulgate rules for determining
+6 incremental costs on a cost-causation basis and may require a large-use customer to
+7 submit periodic reports of the large-use customer's actual and projected utility
+8 consumption, which may be used by the commission to verify the large-use customer's
+9 share of the total incremental costs. The commission may require the large-use customer
+10 to reimburse the commission for the retention of experts and any other costs incurred by
+11 the commission to determine cost impacts and review proposed tariffs pursuant to this
+12 section.
+13 Section 5. That § 49-34A-56 be AMENDED:
+14 49-34A-56. Notwithstanding the establishment of assigned service areas for
+15 electric utilities provided for in §§ 49-34A-43 and 49-34A-44, new customers at new
+16 locations which develop after March 21, 1975, located outside municipalities as the
+17 boundaries thereof existed on March 21, 1975, and who require electric service with a
+18 contracted minimum demand of two thousand kilowatts or more shall not be a new large-
+19 use customer at a new location outside the existing boundary of a municipality is not
+20 obligated to take electric service from the electric utility having the assigned service area
+21 where the customer is located if, after notice and hearing, the Public Utilities Commission
+22 the commission so determines, after notice, hearing, and consideration of the following
+23 factors:
+24 (1) The electric service requirements of the load to be served;
+25 (2) The availability of an adequate power supply;
+26 (3) The development or improvement of the electric system of the utility seeking to
+27 provide the electric service, including the economic factors relating thereto;
+28 (4) The proximity of adequate facilities from which electric service of the type required
+29 may be delivered;
+30 (5) The preference of the large-use customer; and
+31 (6) Any and all pertinent factors affecting the ability of the utility to furnish adequate
+32 electric service to fulfill customers' the requirements of all customers.
+33 Section 6. That a NEW SECTION be added to chapter 49-34A:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.250.24 6 128
+1 Notwithstanding the requirements of section 4 of this Act, any large-use customer
+2 may negotiate with an electric utility provider a rate for electric service and enter into a
+3 written contract that:
+4 (1) Specifies the duration of the contract and the estimated start date of the electric
+5 service;
+6 (2) Obligates the large-use customer to pay a minimum amount or a percentage based
+7 on the large-use customer's projected usage of the electric service that the electric
+8 utility is contracted to provide for the duration of the contract;
+9 (3) Does not shift incremental costs to other customers;
+10 (4) Does not result in any subsidization by other customers; and
+11 (5) Requires the large-use customer to report to the commission and the electric
+12 utility, at least annually, the following information:
+13 (a) The large-use customer's total electric usage during the reporting period;
+14 and
+15 (b) The large-use customer's projected electric usage for twelve consecutive
+16 months following the reporting period.
+17 Any report submitted pursuant to this section is available for public inspection,
+18 except that the large-use customer's proprietary information and trade secrets, as defined
+19 in § 1-27-28, and other sensitive information or data, as described in § 1-27-1.6, are
+20 confidential.
+21 A contracted rate established pursuant to this section does not violate § 49-34A-3
+22 if, after consideration of the factors in § 49-34A-56, the commission approves the contract
+23 and determines the contract is in the public interest.
+24 Section 7. That a NEW SECTION be added to chapter 49-34A:
+25 If an electric utility declares an energy shortage or forecasts that peak demand is
+26 projected to exceed supply, each large-use customer of the utility must curtail electric
+27 usage until the electric utility determines the total demand for residential customers and
+28 essential public services is met.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

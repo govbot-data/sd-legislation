@@ -1,0 +1,158 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.960.17 101st Legislative Session 215
+2026 South Dakota Legislature
+Senate Bill 215
+Introduced by: Senator Peterson (Sue)
+1 An Act to provide for a pilot program for the implementation of a secured
+2 cryptographically end-to-end verifiable voting system in certain jurisdictions.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. There is established the cryptographically end-to-end verifiable election pilot
+5 program for the purposes of testing and validating a secured cryptographically end-to-end
+6 verifiable voting system for absentee voters and voters under the Uniformed and Overseas
+7 Citizens Absentee Voting Act, 52 U.S.C. §§ 20301 to 20311, inclusive (January 1, 2023). No
+8 more than three election jurisdictions in this state may participate in the pilot program.
+9 Section 2. Before a jurisdiction may participate in the pilot program, the person in charge of
+10 the jurisdiction's elections must receive the approval of the governing body of the jurisdiction.
+11 If the governing body approves of the jurisdiction's participation in the pilot program, the
+12 person in charge of a jurisdiction's elections must notify the secretary of state:
+13 (1) That the jurisdiction will be implementing a secured cryptographically end-to-end
+14 verifiable voting system;
+15 (2) Which system the jurisdiction has selected to implement; and
+16 (3) Which laws may be incompatible with the implementation of the system.
+17 If more than two jurisdictions notify the secretary of state of an intention to participate in
+18 the pilot program, the secretary shall determine which jurisdictions are to participate in the
+19 pilot program by the order in which the notifications were received.
+20 Section 3. Upon receipt of the notice from the person in charge of the election, the secretary
+21 of state and the attorney general shall review the list of laws the person in charge of the
+22 elections has indicated may be incompatible with the implementation of the system. If the
+23 secretary of state and the attorney general determine that the person in charge of the
+24 jurisdiction's elections requests the waiver of a law that is not incompatible with the
+25 implementation of the system, the secretary of state and the attorney general must remove
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.960.17 2 215
+1 the law from the list of laws to be waived. The secretary of state shall waive the laws that the
+2 secretary of state and the attorney general have identified as being incompatible with the
+3 implementation of the system within seven days of receiving the notice from the person in
+4 charge of the election.
+5 Nothing in this section may be construed to permit the secretary of state the ability to
+6 void any of the provisions of this Act. Nothing in this Act may be construed to permit the
+7 secretary of state, the person in charge of a jurisdiction's election, or any other person the
+8 ability to void, waive, or otherwise suspend any provision of law pertaining to an individual's
+9 eligibility to vote, voter registration, citizenship requirements, the requirements for applying
+10 to vote by absentee ballot, or the requirements pertaining to the conducting of an election on
+11 election day.
+12 Section 4. The secretary of state shall report to the Government Operations and Audit
+13 Committee the jurisdictions participating in the pilot program and the laws that have been
+14 waived. The secretary's report to the committee is open to public inspection and may not
+15 contain any confidential information.
+16 Section 5. Any secured cryptographically end-to-end verifiable voting system must enable a
+17 voter to cast a vote for all offices and on all measures on which the voter is entitled to vote.
+18 Section 6. Except for routine testing conducted prior to voting, the neither the person in
+19 charge of the jurisdiction's elections nor any other individual may decrypt the election results
+20 or ballot tabulation until after the polls have closed for the election conducted as part of the
+21 pilot program. A violation of this section is a Class 2 Misdemeanor.
+22 Section 7. If a jurisdiction participates in the pilot program, pursuant to this act, the
+23 jurisdiction is not required to provide a paper ballot to any registered voter who applies to
+24 vote by absentee ballot.
+25 Section 8. The person in charge of the jurisdiction's elections may not implement or test any
+26 system other than a secured cryptographically end-to-end verifiable voting system that uses
+27 a single, integrated, and cryptographically end-to-end verified digital system to:
+28 (1) Accurately identify and authenticate each voter;
+29 (2) Generate a voter's ballot;
+30 (3) Encrypt each ballot when the ballot is generated;
+31 (4) Deliver the generated and encrypted ballot to the voter;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.960.17 3 215
+1 (5) Accurately mark the voter's ballot;
+2 (6) Transmit the voter's ballot to the person in charge of the election in a way that is
+3 secured and maintains the ballot's encryption;
+4 (7) Provide to a voter a unique, verifiable record that allows the voter to independently
+5 confirm that the voter's ballot was received, recorded, and tabulated by the person
+6 in charge of the election, without disclosing the voter's selections;
+7 (8) Decrypt each ballot only:
+8 (a) For tabulating the ballot; and
+9 (b) When authorized by the person in charge of the election and a member of
+10 the governing body of the jurisdiction in which the election is being
+11 conducted, as appointed by the governing body of the jurisdiction;
+12 (9) Provide encryption and tabulation keys as part of the system's multi-party
+13 cryptographic security;
+14 (10) Store all ballots transmitted to the person in charge of the election in a manner
+15 that maintains each ballot's encryption;
+16 (11) Tabulate the ballots transmitted to the person in charge of the election;
+17 (12) Produce a physical copy of every ballot that may be:
+18 (a) Tabulated by the jurisdiction's automatic tabulating equipment; and
+19 (b) Reviewed as part of the jurisdiction's post-election audit;
+20 (13) Provide, without vendor representation, to the person in charge of the election, a
+21 candidate, and any authorized observer, the ability to independently verify the
+22 integrity of the election through direct technical and procedural evidence that
+23 demonstrates:
+24 (a) That each ballot was not altered;
+25 (b) That all ballots tabulated were generated by a registered voter whose
+26 identity was verified and matched to the voter's registration before the
+27 ballot was generated;
+28 (c) That no additional ballots were added to the tabulation; and
+29 (d) A complete and immutable chain of custody for each ballot from when the
+30 ballot was generated through the tabulation of the ballot; and
+31 (14) Detect and report to the person in charge of the election any attempt by a
+32 registered voter to cast multiple ballots.
+33 Section 9. Any entity that applies to have a secured cryptographically end-to-end verifiable
+34 voting system used in the cryptographically end-to-end verifiable election pilot program shall
+35 agree to:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.960.17 4 215
+1 (1) Host the system on the server infrastructure designated by the person in charge
+2 of the election;
+3 (2) Relinquish to the person in charge of the election, ownership of all data and logs
+4 associated with the development of the system or generated by the system after
+5 the system's implementation and use;
+6 (3) Allow the person in charge of the election the ability to review and audit the
+7 system's software source code;
+8 (4) Provide, to the individuals authorized by the person in charge of the election,
+9 custody of all encryption and tabulation keys created as part of the system's multi-
+10 party cryptographic security; and
+11 (5) Give the person in charge of the election control over the system configuration and
+12 activation, and all processes required to:
+13 (a) Tabulate ballots;
+14 (b) Certify the election results produced by the system; and
+15 (c) Audit any election conducted through the system.
+16 Section 10. The person in charge of the jurisdiction's elections may access a system's
+17 software source code only to inspect, verify, or conduct a forensic review of the source code,
+18 provided that the inspection, verification, or review:
+19 (1) Does not require the ownership of the source code to transfer to the state;
+20 (2) Takes place under controlled and confidential conditions; and
+21 (3) Does not require public disclosure or other notification.
+22 The person in charge of the jurisdiction's elections may not use any access to the
+23 system's software source code to develop, modify, or reverse engineer the system's
+24 software source code, to authorize any entity other than the owner of the system's
+25 software source code to analyze the system's software source code, or to use the system's
+26 software source code in any other way that may be construed as commercial exploitation.
+27 The person in charge of the jurisdiction's elections may not copy any portion of the
+28 system's software source code unless the copy is necessary to conduct an approved audit
+29 or forensic review of the system's software source code.
+30 Section 11. The State Board of Elections shall promulgate rules, pursuant to chapter 1-26,
+31 to establish the process by which a jurisdiction participating in the pilot program, conducts
+32 absentee voting using a cryptographically end-to-end verifiable election system.
+33
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.960.17 5 215
+1 Section 12. Any waiver approved pursuant to section 3 of this Act applies only to the
+2 jurisdiction named on the waiver application and expires on December 31, 2028.
+3 Section 13. This Act is effective beginning January 1, 2027.
+4 Section 14. The provisions of this Act expire on December 31, 2028.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

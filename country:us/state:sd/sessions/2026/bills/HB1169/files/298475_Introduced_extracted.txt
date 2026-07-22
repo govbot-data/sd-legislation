@@ -1,0 +1,34 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.708.9 101st Legislative Session 1169
+2026 South Dakota Legislature
+House Bill 1169
+Introduced by: Representative Garcia
+1 An Act to classify medetomidine as a Schedule III controlled substance and
+2 establish permissible uses.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 34-20B:
+5 Any material, compound, mixture, or preparation that contains medetomidine is a
+6 Schedule III controlled drug or substance, except in the following cases:
+7 (1) Dispensing, prescribing, or administering, to an animal, a drug that contains
+8 medetomidine and has been approved by the United States secretary of health and
+9 human services under 21 U.S.C. § 360b (January 1, 2026);
+10 (2) Dispensing, prescribing, or administering medetomidine to an animal, as
+11 permissible under 21 U.S.C. § 360b(a)(4) (January 1, 2026);
+12 (3) Manufacturing, distributing, or using medetomidine as an active pharmaceutical
+13 ingredient for manufacturing an animal drug:
+14 (a) Approved under 21 U.S.C. § 360b (January 1, 2026); or
+15 (b) Issued an investigational use exemption under 21 U.S.C. § 360b(j)
+16 (January 1, 2026);
+17 (4) Manufacturing, distributing, or using a medetomidine bulk chemical for
+18 pharmaceutical compounding by a licensed pharmacist or veterinarian; or
+19 (5) Any other use approved or permissible under 21 U.S.C. §§ 301 to 399i, inclusive
+20 (January 1, 2026).
+Underscores indicate new language.
+Overstrikes indicate deleted language.

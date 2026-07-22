@@ -1,0 +1,132 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.128.12 101st Legislative Session 1237
+2026 South Dakota Legislature
+House Bill 1237
+Introduced by: Representative Weems
+1 An Act to require age verification before an individual may access an application
+2 from an online application store, publicly available website, electronic
+3 service, or other online platform.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That a NEW SECTION be added to a NEW CHAPTER in title 26:
+6 Terms used in this chapter mean:
+7 (1) "Affirmatively linked," subscribing to or following a social media account;
+8 (2) "Application," an electronic service or software that may be run or directed by a
+9 user on any general-purpose computing device;
+10 (3) "Application store," a publicly available website, electronic service, or platform that
+11 facilitates the procurement and distribution of an application;
+12 (4) "Child," an individual who is less than sixteen years old;
+13 (5) "Developer," any person, entity, or organization that creates, owns, or controls an
+14 application and is responsible for the design, development, maintenance, and
+15 distribution of the application to end users; and
+16 (6) "Manufacturer," any person, entity, or organization that creates, owns, or controls
+17 an application store.
+18 Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 26:
+19 A manufacturer shall take commercially reasonable and technologically feasible
+20 steps to:
+21 (1) Determine or estimate the age of the individual attempting to procure an
+22 application from the application store;
+23 (2) Obtain the consent of a parent, guardian, or other custodian of an individual
+24 determined or estimated to be a child before allowing the individual to procure an
+25 application from the application store;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.128.12 2 1237
+1 (3) Provide a signal to the developer of an application available on the application store
+2 indicating whether a parent, guardian, or other custodian of an individual
+3 determined or estimated to be a child has consented to the procurement of the
+4 application by the individual;
+5 (4) Provide the parent, guardian, or other custodian of an individual determined or
+6 estimated to be a child with the option to be connected with a developer for the
+7 purpose of facilitating parental supervision tools; and
+8 (5) Provide an application or website with a digital signal, via a real-time application
+9 programming interface, indicating that an individual is:
+10 (a) Less than thirteen years old;
+11 (b) At least thirteen years old but less than sixteen years old;
+12 (c) At least sixteen years old but less than eighteen years old; or
+13 (d) At least eighteen years old.
+14 Section 3. That a NEW SECTION be added to a NEW CHAPTER in title 26:
+15 In the course of complying with this chapter, a manufacturer may not use data
+16 collected from any third party to:
+17 (1) Compete with any third party;
+18 (2) Give any application developed by the manufacturer service preference relative to
+19 an application developed by any third party; or
+20 (3) Otherwise use the data or consent mechanism in an anticompetitive manner.
+21 Section 4. That a NEW SECTION be added to a NEW CHAPTER in title 26:
+22 A manufacturer must impose at least the same age verification requirements on
+23 an application developed by the manufacturer as the manufacturer imposes on an
+24 application developed by any developer other than the manufacturer.
+25 Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 26:
+26 To the extent applicable and technologically feasible, a developer shall provide
+27 readily available features for a parent, guardian, or other custodian to oversee a child's
+28 use of the application. The developer shall ensure the application allows the parent,
+29 guardian, or other custodian to:
+30 (1) Restrict the amount of time per day the child is able to access the application;
+31 (2) Restrict when the child is able to access an application each day;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.128.12 3 1237
+1 (3) Review metrics that show the amount of time each day that the child is using the
+2 application;
+3 (4) Review the accounts that are affirmatively linked to the child's account;
+4 (5) Determine whether the visibility of the child's account is limited to accounts that
+5 are affirmatively linked to the child's account;
+6 (6) Review the accounts the child has blocked; and
+7 (7) Be notified when a child submits a report to the developer concerning a potential
+8 violation of the application's terms of service or other policies.
+9 An application or website may rely on age signals and parental consent provided
+10 by a manufacturer, pursuant to section 2 of this Act, for the purposes of complying with
+11 this section.
+12 Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 26:
+13 Any manufacturer found in violation of section 2, 3, or 4 of this Act is subject to an
+14 injunction and liable for a civil penalty in an amount not exceeding five thousand dollars
+15 per incident, per affected child. The civil penalty may be assessed and recovered only in
+16 a civil action by the attorney general or the state's attorney of the county in which the
+17 violation occurred. The attorney general or the state's attorney shall forward any civil
+18 penalty collected under this section to the state treasurer for deposit in the general fund.
+19 Nothing in this section may be construed to serve as the basis for a new private
+20 right of action for any violation of section 2, 3, or 4 of this Act.
+21 Section 7. That a NEW SECTION be added to a NEW CHAPTER in title 26:
+22 Any developer found in violation of section 5 of this Act is subject to an injunction
+23 and liable for a civil penalty in an amount not exceeding five thousand dollars per incident,
+24 per affected child. The civil penalty may be assessed and recovered only in a civil action
+25 by the attorney general or the state's attorney of the county in which the violation
+26 occurred. The attorney general or the state's attorney shall forward any civil penalty
+27 collected under this section to the state treasurer for deposit in the general fund.
+28 Nothing in this section may be construed to serve as the basis for a new private
+29 right of action for any violation of section 5 of this Act.
+30 Section 8. That a NEW SECTION be added to a NEW CHAPTER in title 26:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.128.12 4 1237
+1 If a manufacturer is not in substantial compliance with the requirements of section
+2 2, 3, or 4 of this Act, the attorney general or state's attorney of the county in which the
+3 affected child resides must provide written notice to the manufacturer before initiating an
+4 action pursuant to section 6 of this Act.
+5 If a developer is not in substantial compliance with the requirements of section 5
+6 of this Act, the attorney general or state's attorney of the county in which the affected
+7 child resides must provide written notice to the developer before initiating an action
+8 pursuant to section 7 of this Act.
+9 The attorney general or state's attorney shall identify in the notice the specific
+10 provision that is alleged to have been violated, and the measures that must be
+11 implemented by the platform to prevent future violations.
+12 If the manufacturer or developer cures any noticed violation to the satisfaction of
+13 the attorney general or notifying state's attorney, and provides the attorney general or
+14 notifying state's attorney a written statement under oath that the alleged violation has
+15 been cured within ninety days of the notice provided under this section, the manufacturer
+16 or developer is not liable for a civil penalty for any cured violation of section 2, 3, 4, or 5
+17 of this Act.
+18 Section 9. That a NEW SECTION be added to a NEW CHAPTER in title 26:
+19 Except as otherwise provided, nothing in this chapter may be construed to modify,
+20 impair, or supersede the operation of any antitrust law.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,29 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.2.9 101st Legislative Session 81
+2026 South Dakota Legislature
+Senate Bill 81
+Introduced by: Senator Howard
+1 An Act to clarify the prohibition on injuring or harassing a service animal.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 40-1-38 be AMENDED:
+4 40-1-38. No person may maliciously beat, injure, attempt to injure, harass,
+5 intimidate, entice, distract, or otherwise interfere with any service animal accompanying
+6 a person with a disability if the service animal is being controlled by the person and the
+7 service animal is wearing a harness or other control device normally used for service
+8 animals accompanying or leading persons with disabilities. A violation of this section is a
+9 Class 2 1 misdemeanor.
+10 For purposes of this section, "service animal" means a dog that is trained to do
+11 work or perform tasks for the benefit of an individual with a disability, as set forth in 28
+12 C.F.R. § 36.104 (January 1, 2026), provided the work or tasks performed by the dog are
+13 directly related to the individual's disability. The crime deterrent effects of a dog's
+14 presence and the provision of emotional support, well-being, comfort, or companionship
+15 do not constitute work or tasks.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

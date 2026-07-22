@@ -1,0 +1,62 @@
+Title: 
+Official Title: 
+Source: versions - House State Affairs Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.162.54 101st Legislative Session 1257
+2026 South Dakota Legislature
+House Bill 1257
+HOUSE STATE AFFAIRS ENGROSSED
+Introduced by: Representative Soye
+1 An Act to amend the definition of an abortion.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 22-17-5.1 be AMENDED:
+4 22-17-5.1. Any person who administers to any pregnant female or who prescribes
+5 or procures for any pregnant female any medicine, drug, or substance or uses or employs
+6 any instrument or other means with intent thereby to procure an abortion, as defined in
+7 § 34-23A-1, unless there is appropriate and reasonable medical judgment that
+8 performance of an abortion is necessary to preserve the life of the pregnant female, is
+9 guilty of a Class 6 felony.
+10 Section 2. That § 34-23A-1 be AMENDED:
+11 34-23A-1. Terms used in this chapter mean:
+12 (1) "Abortion," the intentional termination of the life of a human being in the uterus,
+13 provided the term does not include:
+14 (a) Medical treatment that is provided to a pregnant female and results in the
+15 accidental or unintentional death of the unborn child;
+16 (b) Treatment to resolve a miscarriage;
+17 (c) The treatment or removal of an ectopic pregnancy;
+18 (d) The removal from the uterus of a deceased unborn child; or
+19 (e) Any medical procedure performed for the purpose of saving the life or
+20 preserving the health of the unborn child;
+21 (1A) "Abortion facility," a place where abortions are performed;
+22 (1B) "Department," the South Dakota Department of Health;
+23 (2) "Fetus," the biological offspring, including the implanted embryo or unborn child,
+24 of human parents;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.162.54 2 1257
+1 (3) "Fertilization," that point in time when a male human sperm penetrates the zona
+2 pellucida of a female human ovum;
+3 (4) "Human being," an individual living member of the species of Homo sapiens,
+4 including the unborn human being during the entire embryonic and fetal ages from
+5 fertilization to full gestation;
+6 (5) "Medical emergency," any condition which, on the basis of the physician's good
+7 faith clinical judgment, so complicates the medical condition of a pregnant woman
+8 as to necessitate the immediate abortion of her pregnancy to avert her death or
+9 for which a delay will create serious risk of substantial and irreversible impairment
+10 of a major bodily function;
+11 (6) "Miscarriage," the spontaneous loss of a pregnancy;
+12 (7) "Parent," one parent or guardian of the pregnant minor or the guardian or
+13 conservator of the pregnant woman;
+14 (7)(8) "Physician," a person licensed under the provisions of chapter 36-4 or a physician
+15 practicing medicine or osteopathy in the employ of the government of the United
+16 States or of this state; and
+17 (8)(9) "Probable gestational age of the unborn child," what, that which in the judgment
+18 of the physician, will, with reasonable probability, be the gestational age of the
+19 unborn child at the time the abortion is planned to be performed.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

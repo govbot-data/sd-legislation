@@ -1,0 +1,87 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.462.9 101st Legislative Session 47
+2026 South Dakota Legislature
+Senate Bill 47
+Introduced by: The Chair of the Committee on Local Government at the request of the Attorney General
+1 An Act to revise the requirements for executive sessions and closed meetings.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 1-25-2 be AMENDED:
+4 1-25-2. Executive or closed meetings An executive session or closed meeting may
+5 be held only for the sole purposes of:
+6 (1) Discussing the qualifications character, competence, fitness, performance,
+7 character or fitness or qualifications of any current or prospective public officer or
+8 employee or prospective public officer or employee. The term, employee, does not
+9 include any, not including an independent contractor;
+10 (2) Discussing the a student's:
+11 (a) Discipline, expulsion, or suspension, discipline, assignment of or the;
+12 (b) Assignment or educational program of a student or the eligibility of a
+13 student; or
+14 (c) Eligibility to participate in interscholastic activities provided by the South
+15 Dakota High School Activities Association;
+16 (3) Consulting with legal counsel, or reviewing communications from legal counsel,
+17 about proposed or pending litigation or contractual matters;
+18 (4) Preparing for contract negotiations or negotiating with employees or employee
+19 representatives;
+20 (5) Discussing marketing or pricing strategies by a board or commission of a business
+21 that is owned by the state or any of its political subdivisions, when if public
+22 discussion may be harmful to the competitive position of the business; or
+23 (6) Discussing the following information pertaining to the protection of public or private
+24 property and any person on or within public or private the property specific to:
+25 (a) Any vulnerability assessment or response plan intended to prevent or
+26 mitigate criminal acts;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.462.9 2 47
+1 (b) Emergency management or response;
+2 (c) Public safety information that would create a substantial likelihood of
+3 endangering public safety or property, if disclosed;
+4 (d) Cyber security plans, computer, communications Communications network
+5 schema, computer systems, cyber security plans, passwords, or user
+6 identification names;
+7 (e) Guard schedules;
+8 (f) Lock combinations; and
+9 (g) Any blueprint, building plan, or infrastructure record regarding any building
+10 or facility that, which would expose or create vulnerability through
+11 disclosure of the location, configuration, location, or security of critical
+12 systems of the building or facility; and
+13 (h) Any
+14 (7) Discussing any emergency or disaster response plans or protocols, safety or
+15 security audits or reviews, or lists of emergency or disaster response personnel or
+16 material; any and
+17 (8) Discussing the location of or listing of weapons or ammunition; nuclear, chemical,
+18 or biological any:
+19 (a) Ammunition or weapons;
+20 (b) Biological, chemical, or nuclear agents; or other
+21 (c) Other military or law enforcement equipment or personnel.
+22 However, any official action concerning the matters pursuant to this section shall
+23 be made at an open official meeting. An executive or closed meeting must be held only
+24 upon a majority vote of the members of the public body present and voting, and discussion
+25 during the closed meeting is restricted to the purpose specified in the closure motion.
+26 An executive session or closed meeting may be held only upon a majority vote of
+27 the members of the public body present and voting at an otherwise open official meeting.
+28 In the absence of a unanimous vote, any vote to enter executive session must be
+29 taken by roll call. A motion to enter executive session must state the applicable subdivision
+30 in this section, or any other applicable law, pursuant to which the executive session is to
+31 be held. The motion and vote to enter executive session must be reported in the minutes
+32 of the proceedings. Discussion during executive session is restricted to the purpose
+33 specified in the motion to enter executive session.
+34 Any official action concerning the matters considered pursuant to this section must
+35 be taken at an open official meeting.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.462.9 3 47
+1 Nothing in § 1-25-1 or this section prevents an executive session or closed meeting
+2 if the federal or state Constitution or the any federal or state statutes require or permit it
+3 statute permits or requires the session or meeting.
+4 A violation of this section is a Class 2 misdemeanor.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

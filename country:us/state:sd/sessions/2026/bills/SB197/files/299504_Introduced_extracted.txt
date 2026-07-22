@@ -1,0 +1,29 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.382.13 101st Legislative Session 197
+2026 South Dakota Legislature
+Senate Bill 197
+Introduced by: Senator Karr
+1 An Act to modify the administration of the South Dakota-Ireland trade fund.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 1-57-4 be AMENDED:
+4 1-57-4. There is established in the state treasury the South Dakota-Ireland trade
+5 fund. The Department of Agriculture and Natural Resources for the purposes of defraying
+6 the administrative expenses of the commission and supporting the commission's work in
+7 accordance with § 1-57-1. The Executive Board of the Legislative Research Council shall
+8 administer the fund. The purpose of the fund is to defray the administrative expenses of
+9 the commission and support the commission's efforts to carry out its purposes, as set
+10 forth in § 1-57-1.
+11 The fund consists of all moneys raised by or on behalf of the commission, together
+12 with any gifts, grants, or other donations. Interest on moneys credited to the fund must
+13 remain in the fund.
+14 The South Dakota-Ireland trade fund is continuously appropriated to the South
+15 Dakota-Ireland Trade Commission.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

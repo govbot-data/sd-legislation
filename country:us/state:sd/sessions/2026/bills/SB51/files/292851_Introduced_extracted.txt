@@ -1,0 +1,53 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.551.9 101st Legislative Session 51
+2026 South Dakota Legislature
+Senate Bill 51
+Introduced by: The Chair of the Committee on Retirement Laws at the request of the South Dakota Retirement
+System
+1 An Act to revise certain requirements for contesting actions of the South Dakota
+2 Retirement System.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 3-12C-213 be AMENDED:
+5 3-12C-213. Any person aggrieved by a final determination made by the system's
+6 staff may request review of the final determination and a decision by the executive director
+7 if the request is made in writing within thirty days after receiving the final determination.
+8 The person, if then aggrieved by the executive director's decision, may appeal the
+9 decision, if the person files a written notice of appeal with the executive director within
+10 thirty days of the date of the decision. The notice shall identify the person appealing and
+11 the decision appealed. The appeal shall be conducted by a hearing examiner in accordance
+12 with chapter 1-26. The hearing examiner, after hearing the evidence in the matter, shall
+13 make proposed findings of fact and conclusions of law, and a proposed decision. The
+14 executive director shall accept, reject, or modify the findings, conclusions, and decision of
+15 the hearing examiner and such action constitutes the final agency decision. Alternatively,
+16 the executive director may appoint the hearing examiner to make the final agency
+17 decision. The final agency decision may be appealed to circuit court pursuant to chapter
+18 1-26. The executive director may arrange for the assistance of private counsel throughout
+19 the appeal process.Any individual aggrieved by an order of the executive director issued
+20 pursuant to this chapter and chapters 3-13 and 3-13A may, in writing, request a contested
+21 case hearing before the executive director, if that individual believes that the order is
+22 based upon a mistake of fact or error of law.
+23 The written hearing request must be received by the executive director within sixty
+24 days from the date the order was mailed to the individual by certified mail and must
+25 contain a statement indicating the portion of the order being contested and the mistake
+26 of fact or error of law that the individual believes resulted in an invalid order. If a written
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.551.9 2 51
+1 request for hearing is not received by the executive director within sixty days from the
+2 date the order was mailed by certified mail to the individual, then no court has jurisdiction
+3 over a suit to contest the order.
+4 For purposes of this section, if a written request for hearing is sent by United States
+5 mail, the date of the postmark placed by the United States postal service is the date
+6 received by the executive director.
+7 A hearing under this section and any subsequent appeal must occur in accordance
+8 with chapters 1-26 and 1-26D.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

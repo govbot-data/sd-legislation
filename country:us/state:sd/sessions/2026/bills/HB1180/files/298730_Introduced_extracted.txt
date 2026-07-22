@@ -1,0 +1,24 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.732.21 101st Legislative Session 1180
+2026 South Dakota Legislature
+House Bill 1180
+Introduced by: Representative Mortenson
+1 An Act to ensure the validity of non-compete agreements in the context of jointly
+2 owned business entities.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 53-9:
+5 In any governing document of a business entity, or as part of a contract for the
+6 purchase, sale, or transfer of an ownership interest in the entity, the parties may agree
+7 that an owner, after the transfer of the interest in the entity, may not engage, directly or
+8 indirectly, in the same or similar type of business conducted by the entity during the
+9 owner's period of ownership, within the specified geographic area in which the entity
+10 conducts business, for a period not exceeding three years from the date of transfer.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

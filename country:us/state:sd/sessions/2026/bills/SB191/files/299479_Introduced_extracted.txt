@@ -1,0 +1,104 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.794.13 101st Legislative Session 191
+2026 South Dakota Legislature
+Senate Bill 191
+Introduced by: Senator Howard
+1 An Act to remove the authorization to issue grants as part of a tax increment
+2 financing district.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 11-9-1 be AMENDED:
+5 11-9-1. Terms used in this chapter mean:
+6 (1) "Department," the Department of Revenue;
+7 (2) "District," a tax increment financing district;
+8 (3) "Governing body," the board of trustees, the board of commissioners, the board of
+9 county commissioners, or the common council of a municipality;
+10 (4) "Grant," the transfer of money or property to a transferee for a governmental
+11 purpose that is not a related party to or an agent of the political subdivision;
+12 (5) "Planning commission," a planning commission created under chapters chapter 11-
+13 2 or 11-6, a planning committee of a governing body of a political subdivision that
+14 does not have a planning commission, or the governing body of a political
+15 subdivision that does not have a planning commission or planning committee;
+16 (6)(5) "Political subdivision," a municipality, as defined in § 11-6-1, or county of this
+17 state;
+18 (7)(6) "Project plan," the properly approved plan for the development or redevelopment
+19 of a tax increment financing district including and all properly approved
+20 amendments to the plan;
+21 (8)(7) "Tax increment financing district," a contiguous geographic area within a political
+22 subdivision defined and created by resolution of the governing body;
+23 (9)(8) "Taxable property," all real and personal taxable property located in a tax
+24 increment financing district; and
+25 (10)(9) "Tax increment valuation," the total value of the tax increment financing district
+26 minus the tax increment base as determined pursuant to § 11-9-19.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.794.13 2 191
+1 Section 2. That § 11-9-14 be AMENDED:
+2 11-9-14. For the purposes of this chapter, the term "project costs" are mean any
+3 expenditures made or estimated to be made, or monetary obligations incurred or
+4 estimated to be incurred, by a political subdivision that, which are listed in a project plan
+5 as grants or costs of public works or improvements within a district, plus any incidental
+6 costs diminished by any income, special assessments, or other revenues, other than tax
+7 increments, received, or reasonably expected to be received, by the political subdivision
+8 in connection with the implementation of the plan.
+9 Section 3. That § 11-9-15 be AMENDED:
+10 11-9-15. For the purposes of this chapter, the term "project costs" means:
+11 (1) Capital costs, including the actual costs of the construction of public works or
+12 improvements, buildings, structures, and permanent fixtures; the demolition,
+13 alteration, remodeling, repair, or reconstruction of existing buildings, structures,
+14 and permanent fixtures; the acquisition of equipment; the clearing, over-
+15 excavation, and grading of land, including use of engineered fill and soil
+16 compaction; and the amount of interest payable on tax increment bonds issued
+17 pursuant to this chapter until the positive tax increments to be received from the
+18 district, as estimated by the project plan, are sufficient to pay the principal of and
+19 interest on the tax increment bonds when due;
+20 (2) Financing costs, including all interest paid to holders of evidences of indebtedness
+21 issued to pay for project costs, any premium paid over the principal amount thereof
+22 because of the redemption of obligations prior to maturity, and a reserve for the
+23 payment of principal and interest on obligations in an amount determined by the
+24 governing body to be reasonably required for the marketability of obligations;
+25 (3) Real property assembly costs, including the actual cost of the acquisition by a
+26 political subdivision of real or personal property within a district, less any proceeds
+27 to be received by the political subdivision from the sale, lease, or other disposition
+28 of property pursuant to a project plan;
+29 (4) Professional service costs, including those costs incurred for architectural,
+30 planning, engineering, and legal advice and services;
+31 (5) Imputed administrative costs, including reasonable charges for the time spent by
+32 a municipal or county employee in connection with the implementation of a project
+33 plan;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.794.13 3 191
+1 (6) Relocation costs;
+2 (7) Organizational costs, including the costs of conducting environmental impact and
+3 other studies and the costs of informing the public of the creation of a district and
+4 the implementation of project plans; and
+5 (8) Payments and grants made, at the discretion of the governing body, that are found
+6 to be necessary or convenient to the creation of a district, the implementation of
+7 project plans, or to stimulate and develop the general economic welfare and
+8 prosperity of the state. No payment or grant may be used for any residential
+9 structure pursuant to § 11-9-42Incidental costs diminished by any income, special
+10 assessments, or other revenues, other than tax increments, received, or
+11 reasonably expected to be received, by the political subdivision, in connection with
+12 the implementation of the plan.
+13 Section 4. That § 11-9-32 be AMENDED:
+14 11-9-32. Moneys may only be paid out of the special fund only for the district
+15 created under § 11-9-31 to pay project costs or grants of the district, to reimburse the
+16 political subdivision for the payment of project costs or grants of the district, or to satisfy
+17 claims of holders of tax increment bonds issued for the district.
+18 Section 5. That § 11-9-46 be AMENDED:
+19 11-9-46. The existence of a district shall terminate must be terminated when:
+20 (1) Positive tax increments are no longer allocable to a district under § 11-9-25; or
+21 (2) The governing body, by resolution, dissolves the district, after payment or
+22 provision for payment of all project costs, grants, and all tax increment bonds of
+23 the district.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

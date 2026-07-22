@@ -1,0 +1,149 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.903.21 101st Legislative Session 1238
+2026 South Dakota Legislature
+House Bill 1238
+Introduced by: Representative Heermann
+1 An Act to protect financial institutions taking action to prevent the financial
+2 exploitation of consenting, senior, or vulnerable adults.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+5 Terms used in this chapter mean:
+6 (1) "Account," a contract for the deposit of funds between the depositor and a financial
+7 institution, provided:
+8 (a) The account is owned by a consenting, senior, or vulnerable adult, whether
+9 individually or with one or more other individuals; or
+10 (b) A consenting, senior, or vulnerable adult is a beneficiary of the account;
+11 (2) "Consenting adult," any account holder who consents, in writing, to the financial
+12 institution and its employees responding to any reasonable concern regarding
+13 financial exploitation;
+14 (3) "Financial exploitation," the wrongful or unauthorized taking, withholding,
+15 appropriation, or use of money, assets, or other property, or the identifying
+16 information of a consenting, senior, or vulnerable adult, by any individual or an act
+17 or omission by an individual, including through the use of a power of attorney on
+18 behalf of, or as the conservator or guardian of, a consenting, senior, or vulnerable
+19 adult, to:
+20 (a) Obtain control, through deception, intimidation, fraud, or undue influence
+21 over the consenting, senior, or vulnerable adult's money, assets, or other
+22 property, to deprive the consenting, senior, or vulnerable adult of the
+23 ownership, use, benefit, or possession of the property; or
+24 (b) Convert the money, assets, or other property of a consenting, senior, or
+25 vulnerable adult to deprive the adult of the ownership, use, benefit, or
+26 possession of the property;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.903.21 2 1238
+1 (4) "Financial institution," a bank, savings bank, building and loan association, savings
+2 and loan association, or credit union; any other similar organization that is covered
+3 by federal deposit insurance; a subsidiary or affiliate of any entity listed in this
+4 subdivision; or a trust company;
+5 (5) "Senior adult," an individual age sixty-five or older;
+6 (6) "Transaction," any of the following as applicable to services provided by a financial
+7 institution:
+8 (a) A transfer or request to transfer or disburse funds or assets in an account;
+9 (b) A request to initiate a wire transfer, initiate an automated clearinghouse
+10 transfer, or issue a money order, cashier's check, or official check;
+11 (c) A request to negotiate a check or other negotiable instrument;
+12 (d) A request to change the ownership of, or access to, an account;
+13 (e) A request for a loan, guarantee of a loan, extension of credit, or draw on a
+14 line of credit;
+15 (f) A request to encumber any movable or immovable property, including real
+16 property, personal property, or fixtures; and
+17 (g) A request to designate or change the designation of beneficiaries to receive
+18 any property, benefit, or contract right for a consenting, senior, or
+19 vulnerable adult at death; and
+20 (7) "Vulnerable adult," an individual age eighteen or older who has a substantial
+21 mental or functional impairment or for whom a guardian or conservator has been
+22 appointed.
+23 Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+24 If a financial institution, or an employee of a financial institution, reasonably
+25 believes, or has received information from a state agency or a law enforcement agency
+26 demonstrating that it is reasonable to believe financial exploitation of a consenting, senior,
+27 or vulnerable adult may have occurred, may have been attempted, is occurring, or is being
+28 attempted, the financial institution may:
+29 (1) Delay or refuse a transaction with or involving the consenting, senior, or vulnerable
+30 adult;
+31 (2) Delay or refuse to permit the withdrawal or disbursement of funds contained in the
+32 account of the consenting, senior, or vulnerable adult;
+33 (3) Prevent a change in ownership of the account of a consenting, senior, or vulnerable
+34 adult;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.903.21 3 1238
+1 (4) Prevent a transfer of funds from the account of the consenting, senior, or
+2 vulnerable adult to an account owned wholly or partially by another person;
+3 (5) Refuse to comply with instructions given to the financial institution by an agent or
+4 a person acting for or with an agent under a power of attorney signed or purported
+5 to have been signed by the consenting, senior, or vulnerable adult; or
+6 (6) Prevent the designation or change the designation of beneficiaries to receive any
+7 property, benefit, or contract rights for a consenting, senior, or vulnerable adult at
+8 death.
+9 Section 3. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+10 Neither a financial institution, nor an employee of the institution is required to act
+11 under section 2 of this Act when provided with information alleging that financial
+12 exploitation may have occurred, may have been attempted, is occurring, or is being
+13 attempted, but may use discretion to determine whether or not to act, based on the
+14 information available to the institution or the employee at the time.
+15 Section 4. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+16 A financial institution or an employee of a financial institution may notify any third
+17 party reasonably associated with a consenting, senior, or vulnerable adult, if the institution
+18 or employee reasonably believes that financial exploitation of the adult may have
+19 occurred, may have been attempted, is occurring, or is being attempted.
+20 A financial institution or an employee of a financial institution may choose not to
+21 notify any third party reasonably associated with a consenting, senior, or vulnerable adult
+22 of suspected financial exploitation of the adult, if the institution or employee reasonably
+23 believes the third party is, may be, or may have been engaged in the financial exploitation
+24 of the adult, or if requested to refrain from making a notification by a law enforcement
+25 agency on the grounds that the notification could interfere with a law enforcement
+26 investigation.
+27 For purposes of this section, a third party reasonably associated with a consenting,
+28 senior, or vulnerable adult means:
+29 (1) A parent, spouse, adult child, sibling, or other known family member or close
+30 associate of the adult;
+31 (2) An authorized contact provided by the adult to the financial institution;
+32 (3) A co-owner, additional authorized signatory, or beneficiary on an adult's account;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.903.21 4 1238
+1 (4) An attorney in fact, trustee, conservator, guardian, or other fiduciary who has been
+2 selected by the adult, a court, or a third party, to manage some or all of the
+3 financial affairs of the adult; and
+4 (5) An attorney known to represent or have represented the adult.
+5 Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+6 Except as otherwise provided in this section, the authority granted the financial
+7 institution under section 2 of this Act expires upon the earliest of:
+8 (1) Thirty business days after the date on which the financial institution first acted
+9 under section 2;
+10 (2) When the financial institution is satisfied that the transaction or act will not result
+11 in financial exploitation of the consenting, senior, or vulnerable adult; or
+12 (3) Termination by an order of a court of competent jurisdiction.
+13 Unless otherwise directed by order of a court, a financial institution may extend
+14 the duration of authority under this section based on a reasonable belief that the financial
+15 exploitation of a consenting, senior, or vulnerable adult may continue to occur or continue
+16 to be attempted.
+17 Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+18 A financial institution and its bank holding company, if any, and any employees,
+19 agents, officers, and directors of the financial institution and its bank holding company, if
+20 any, are immune from any civil, criminal, or administrative liability that may otherwise
+21 exist:
+22 (1) For delaying or refusing to execute a transaction, withdrawal, or disbursement, in
+23 accordance with this chapter;
+24 (2) For not delaying or refusing to execute a transaction, withdrawal, or disbursement
+25 in accordance with this chapter; and
+26 (3) For actions taken in furtherance of determinations made in accordance with this
+27 chapter.
+28 Section 7. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+29 Notwithstanding any other law, the refusal by a financial institution to engage in a
+30 transaction in accordance with this chapter does not constitute the wrongful dishonor of
+31 an item under § 57A-4-402.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

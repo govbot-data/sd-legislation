@@ -1,0 +1,32 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.47.18 101st Legislative Session 238
+2026 South Dakota Legislature
+Senate Bill 238
+Introduced by: Senator Rohl
+1 An Act to authorize the removal of occupants from certain short-term lodging
+2 accommodations, and to provide a penalty therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 43-32:
+5 A hotel, campground, or RV park may eject an individual from the premises if the
+6 individual fails to check out of the accommodation or fails to pay for the accommodation
+7 by the scheduled check-out time.
+8 Prior to ejecting an individual from the premises, the hotel, campground, or RV
+9 park shall, by electronic mail, text message, or printed paper, request the individual depart
+10 from the premises. If an individual fails to depart from the premises within twenty-four
+11 hours of receiving the request, the hotel, campground, or RV park may request a law
+12 enforcement officer to remove the individual from the premises.
+13 An individual who refuses to depart from premises within twenty-four hours after
+14 receiving the request after failing to check out of the accommodation or failing to pay for
+15 the accommodation by the scheduled check-out time, in accordance with this section, is
+16 guilty of a Class 1 misdemeanor.
+17 An individual wrongly ejected from an establishment premises may bring a civil
+18 action for equitable relief, damages sustained, and reasonable attorney's fees.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

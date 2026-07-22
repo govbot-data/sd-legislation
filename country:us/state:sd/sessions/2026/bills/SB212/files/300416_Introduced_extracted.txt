@@ -1,0 +1,23 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.702.20 101st Legislative Session 212
+2026 South Dakota Legislature
+Senate Bill 212
+Introduced by: Senator Deibert
+1 An Act to establish the homeowner tax reduction fund.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to chapter 10-13:
+4 There is created in the state treasury the homeowner tax reduction fund.
+5 The Department of Revenue shall administer the fund. The purpose of the fund is
+6 to provide a property tax rebate for owner-occupied single-family dwellings. Interest on
+7 moneys credited to the fund must remain in the fund. Expenditures from the fund must
+8 be budgeted through the general appropriation bill.
+9 Moneys in the fund may not be transferred to the general fund.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

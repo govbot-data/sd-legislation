@@ -1,0 +1,26 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.655.10 101st Legislative Session 1115
+2026 South Dakota Legislature
+House Bill 1115
+Introduced by: Representative Auch
+1 An Act to revise a provision related to unauthorized possession of a controlled drug
+2 or substance.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 22-42-5 be AMENDED:
+5 22-42-5. No person may knowingly possess a controlled drug or substance unless
+6 the substance was obtained directly or pursuant to a valid prescription or order from a
+7 practitioner, while acting in the course of the practitioner's professional practice or except
+8 as otherwise authorized by chapter 34-20B. A charge for unauthorized possession of
+9 controlled substance when absorbed into the human body as set forth in subdivision 22-
+10 42-1(1) shall only be charged under the provisions of § 22-42-5.1. A violation of this
+11 section for a substance in Schedules I or II is a Class 5 felony. A violation of this section
+12 for a substance in Schedule III and IV is a Class 6 felony.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

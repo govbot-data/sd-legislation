@@ -1,0 +1,25 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.999.20 101st Legislative Session 217
+2026 South Dakota Legislature
+Senate Bill 217
+Introduced by: Senator Otten
+1 An Act to make an appropriation for a fire management officer position within the
+2 Department of Public Safety.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. There is appropriated $750,000 from the general fund, to the Department of Public
+5 Safety, for a fire management officer position to support Division of Wildland Fire operations
+6 east of the Missouri River.
+7 Section 2. The secretary of the Department of Public Safety shall approve vouchers and the
+8 state auditor shall draw warrants to pay expenditures authorized in this Act.
+9 Section 3. Any amounts appropriated in this Act not lawfully expended or obligated shall
+10 revert in accordance with the procedures prescribed in chapter 4-8.
+11 Section 4. This Act is effective beginning June 30, 2026.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

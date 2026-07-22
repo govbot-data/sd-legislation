@@ -1,0 +1,291 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.464.16 101st Legislative Session 100
+2026 South Dakota Legislature
+Senate Bill 100
+ENROLLED
+AN ACT
+ENTITLED An Act to revise provisions related to trusts.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+Section 1. That a NEW SECTION be added to chapter 55-1:
+Unless the terms of the governing instrument expressly provide that a trustor may
+not be reimbursed by a trust for the trustor's personal income tax liability, if the trustor
+is treated under 26 U.S.C. §§ 671 to 678, inclusive (January 1, 2026), as the owner of all
+or part of the trust, the trustee, other than a trustee who is the trustor or a person who
+is a related or subordinate party with respect to the trustor within the meaning of 26
+U.S.C. § 672(c) (January 1, 2026), may, in the trustee's sole discretion, or at the direction
+or with the consent of a trust advisor or trust protector, who, in either case, is not the
+trustor or a person who is a related or subordinate party with respect to the trustor, pay
+directly to any taxing authority, or reimburse the person liable for, any tax imposed by a
+taxing authority on the person by reason of the person being treated as the owner of all
+or any portion of the trust property pursuant to 26 U.S.C. §§ 671 to 678, inclusive
+(January 1, 2026).
+If there is a policy of insurance on the trustor's life held in the trust, the cash value
+of the policy, or the proceeds of any loan secured by an interest in the policy may not be
+used to reimburse the trustor or to pay an appropriate taxing authority on the trustor's
+behalf.
+The power to make payments to, or for the benefit of, the trustor under this
+section, or the trustee's, trust advisor's, or trust protector's decision to exercise or direct
+the exercise of the power in favor of the trustor, may not cause the trustor to be treated
+as a beneficiary of the trust for purposes of § 55-1-36.1 or any other law of this state.
+The provisions of this section do not apply if the application of this section would
+disqualify a trust for, or reduce the amount of, a marital or charitable deduction otherwise
+available to any person for state or federal income, gift, or estate tax purposes.
+
+26.464.16 2 100
+A trustee, trust advisor, or trust protector is not liable to any person for the exercise
+of, or the direction or consent to exercise, the power to reimburse or not reimburse a
+trustor for tax payable by the trustor pursuant to this section. The exercise of, or the
+direction or consent to exercise, the power to reimburse or not reimburse a trustor for tax
+payable by the trustor pursuant to this section is not a breach of fiduciary duty to any
+person.
+This section applies only to trusts created on or after July 1, 2026, and to any trust
+for which the principal place of administration is moved to this state on or after July 1,
+2026.
+For purposes of this section, the term "trustor" includes a trustor, settlor,
+trustmaker, or any person treated under 26 U.S.C. §§ 671 to 678, inclusive (January 1,
+2026), as the owner of all or part of the trust.
+Section 2. That § 55-2-15 be AMENDED:
+55-2-15. Unless the terms of the governing instrument expressly provide
+otherwise, if a trustee has discretion under the terms of a governing instrument to make
+a distribution of income or principal to or for the benefit of one or more beneficiaries of a
+trust (the "first trust"), whether or not restricted by any standard, then the trustee,
+independently or with court approval, may exercise discretion by appointing part or all of
+the income or principal subject to the discretion in favor of a trustee of a second trust (the
+"second trust") under a governing instrument separate from the governing instrument of
+the first trust. Before exercising the discretion to appoint and distribute assets to the
+second trust, the trustee of the first trust shall determine whether the appointment is
+necessary or desirable after taking into account the purposes of the first trust, the terms
+and conditions of the second trust, and the consequences of the distribution.
+For the purposes of this section, a trustee of the first trust is a restricted trustee if
+either the trustee is a beneficiary of the first trust or if a beneficiary of the first trust has
+a power to change the trustees within the meaning of § 55-2-17.
+In addition, the following apply to all appointments made under this section:
+(1) The second trust may only have as beneficiaries one or more of the beneficiaries
+of the first trust:
+(a) To or for whom a discretionary distribution of income or principal may be
+made from the first trust;
+SB100 ENROLLED
+
+26.464.16 3 100
+(b) To or for whom a distribution of income or principal may be made in the
+future from the first trust at a time or upon the happening of an event
+specified under the first trust; or
+(c) Both subsections (a) and (b);
+(2) A restricted trustee of the first trust may not exercise authority over the first trust
+to the extent that doing so could have the effect of:
+(a) Benefiting the restricted trustee as a beneficiary of the first trust, unless
+the exercise of authority is limited by an ascertainable standard based on
+or related to health, education, maintenance, or support; or
+(b) Removing restrictions on discretionary distributions to a beneficiary
+imposed by the governing instrument under which the first trust was
+created, except that a provision in the second trust, which limits
+distributions by an ascertainable standard based on or related to the health,
+education, maintenance, or support of any beneficiary, is permitted, or to a
+trust pursuant to 42 U.S.C. § 1396p(d)(4) (January 1, 2025);
+(3) A restricted trustee of the first trust may not exercise authority over the first trust
+to the extent that doing so would have the effect of increasing the distributions
+that can be made from the second trust to the restricted trustees of the first trust
+or to a beneficiary who may change the trustees of the first trust within the
+meaning of § 55-2-17 compared to the distributions that can be made to the
+trustee or beneficiary, as the case may be, under the first trust, unless the exercise
+of authority is limited by an ascertainable standard based on or related to health,
+education, maintenance, or support;
+(4) The provisions of subdivisions (2) and (3) only apply to restrict the authority of a
+trustee if either a trustee, or a beneficiary who may change the trustee, is a United
+States citizen or domiciliary under the Internal Revenue Code, or the trust owns
+property that would be subject to United States estate or gift taxes if owned directly
+by the person;
+(5) In the case of any trust contributions that have been treated as gifts qualifying for
+the exclusion from gift tax described in 26 U.S.C. § 2503(b) (January 1, 2026), by
+reason of the application of 26 U.S.C. § 2503(c) (January 1, 2026), the governing
+instrument for the second trust must provide that the beneficiary's remainder
+interest vests no later than the date upon which the interest would have vested
+under the terms of the governing instrument for the first trust;
+SB100 ENROLLED
+
+26.464.16 4 100
+(6) The exercise of authority may not reduce any income interest of any income
+beneficiary of any of the following trusts:
+(a) A trust for which a marital deduction has been taken for federal tax purposes
+under 26 U.S.C. § 2056 or 2523 (January 1, 2026) or for state tax purposes
+under any comparable provision of applicable state law;
+(b) A charitable remainder trust under 26 U.S.C. § 664 (January 1, 2026); or
+(c) A grantor retained annuity or unitrust trust under 26 U.S.C. § 2702
+(January 1, 2026);
+(7) The exercise of authority does not apply to trust property subject to a presently
+exercisable power of withdrawal held by a trust beneficiary to whom, or for the
+benefit of whom, the trustee has authority to make distributions, unless after the
+exercise of authority, the beneficiary's power of withdrawal is unchanged with
+respect to the trust property;
+(8) The exercise of authority is not prohibited by a spendthrift clause or by a provision
+in the governing instrument, which prohibits amendment or revocation of the trust;
+(9) Any appointment made by a trustee is considered a distribution by the trustee
+pursuant to the trustee's distribution powers and authority; and
+(10) If the trustee's distribution discretion is not subject to a standard, or if the trustee's
+distribution discretion is subject to a standard that does not create a support
+interest, then the court may review the trustee's determination or any related
+appointment only pursuant to § 55-1-43. Any other court review of the trustee's
+determination or any related appointment may be made only pursuant to § 55-1-
+42.
+Notwithstanding the foregoing provisions of this section, the governing instrument
+of the second trust may grant a power of appointment to one or more of the beneficiaries
+of the second trust who are beneficiaries of the first trust. The power of appointment may
+include the power to appoint trust property to the holder of the power of appointment, the
+holder's creditors, the holder's estate, the creditors of the holder's estate, or any other
+person, whether or not the person is a trust beneficiary.
+A trustee’s power described in this section may be exercised by either an actual
+distribution of property to one or more second trusts or by modifying the terms of the first
+trust to create the second trust with or without an actual distribution. If the power is
+exercised by modifying the terms of the first trust, the trustee may treat the second trust
+created by the modification as a new trust, in which case property of the first trust would
+be transferred to the second trust, or treat the second trust as a continuation of the first
+SB100 ENROLLED
+
+26.464.16 5 100
+trust, for titling purposes, in which case property of the first trust would not need to be
+retitled.
+In the case of an exercise of the power that is structured as a trustee's modification
+of the first trust, notwithstanding § 55-2-18, the trustee shall provide at least twenty days'
+advance written notice to the qualified beneficiaries, applying chapter 55-18, unless the
+trustee receives written waivers of the notice from the qualified beneficiaries.
+The trustee's power, which is described in and constrained by this section, remains
+separate and distinct from trust reformation or termination under §§ 55-3-24 to 55-3-26,
+inclusive, 55-3-28, and other provisions of law allowing trust modifications.
+This section applies to any trust administered under the laws of this state, including
+a trust for which the governing jurisdiction is transferred to this state.
+Section 3. That a NEW SECTION be added to chapter 55-3:
+Property given from a revocable trust during the trustor's lifetime to a trust
+beneficiary other than the trustor, whether the beneficiary holds a vested or contingent
+interest, is not treated as an advancement against the beneficiary's share, unless the
+trustor declared in a writing, or the beneficiary acknowledged in writing, that the gift is an
+advancement; or the trustor's writing or the beneficiary's written acknowledgment
+otherwise indicates that the gift is to be considered when computing the division and
+distribution of the trust estate following the death of the trustor.
+A distribution from an irrevocable trust at the discretion of a trustee, or as directed
+by a distribution trust advisor, is not treated as an advancement against the beneficiary's
+share unless the trustee or distribution trust advisor declares in writing, or the beneficiary
+acknowledged in writing, that the distribution is an advancement; or the governing
+instrument indicates that discretionary distributions are equalized within or between
+classes of beneficiaries and are considered when computing the division or distributions
+from the trust.
+Regardless of whether the recipient of the property survives the trust division or
+distribution, the property treated as an advancement herein is considered in computing
+the division and distribution of the trust estate, unless otherwise provided by the
+governing instrument or in writing by the trustee, distribution trust advisor or beneficiary,
+in accordance with this section.
+For purposes of this section, property advanced is valued as of the time the
+beneficiary came into possession or enjoyment of the property.
+SB100 ENROLLED
+
+26.464.16 6 100
+Section 4. That § 55-4-33 be AMENDED:
+55-4-33. If a trustee violates any of the provisions of this chapter, the trustee
+may be removed and denied compensation in whole or in part, and any beneficiary,
+cotrustee, or successor trustee may treat the violation as a breach of trust. Until the
+cessation of compensation is ordered by a court, a trustee is entitled to fees and expenses.
+Section 5. That a NEW SECTION be added to chapter 55-4:
+Unless expressly provided otherwise in a written agreement, the creation of an
+attorney-client relationship between an attorney and a person serving as a fiduciary does
+not impose upon the attorney any duties or obligations to other persons interested in the
+estate, trust estate, or other fiduciary property, even though fiduciary moneys may be
+used to compensate the attorney for legal services rendered to the fiduciary, or even if a
+beneficiary is entitled to accountings or other information regarding the estate, trust
+estate, or fiduciary property.
+Section 6. That a NEW SECTION be added to chapter 55-4:
+If an attorney-client relationship exists between an attorney and a fiduciary,
+communications between the attorney and the fiduciary are subject to the attorney-client
+privilege, unless waived by the fiduciary, even though fiduciary moneys may be used to
+compensate the attorney for legal services rendered to the fiduciary, or even if a
+beneficiary is entitled to accountings or other information regarding the estate, trust
+estate, or fiduciary property. The existence of a fiduciary relationship between a fiduciary
+and a beneficiary does not constitute or give rise to any waiver of the privilege for
+communications between the attorney and the fiduciary.
+Section 7. That § 55-16-10 be AMENDED:
+55-16-10. A cause of action or claim for relief with respect to a fraudulent transfer
+of a settlor's assets under § 55-16-9 is extinguished unless the action under § 55-16-9 is
+brought by a creditor of the settlor who:
+(1) Is a creditor of the settlor before the settlor's assets are transferred to the trust,
+and the action under § 55-16-9 is brought within the later of:
+(a) Two years after the transfer is made; or
+(b) Six months after the transfer is or reasonably could have been discovered
+by the creditor if the creditor:
+SB100 ENROLLED
+
+26.464.16 7 100
+(i) Can demonstrate that the creditor asserted a specific claim against
+the settlor before the transfer; or
+(ii) Files another action, other than an action under § 55-16-9, against
+the settlor that asserts a claim based on an act or omission of the
+settlor that occurred before the transfer, and the action described in
+this sub-subsection is filed within two years after the transfer; or
+(2) Becomes a creditor subsequent to the transfer into trust, and the action under
+§ 55-16-9 is brought within two years after the transfer is made.
+In any action described in § 55-16-9, the burden to prove the matter by clear and
+convincing evidence is upon the creditor.
+A person is deemed to have discovered a transfer at the time a public record of the
+transfer is made, including the conveyance of an interest in real property, which is
+recorded in the appropriate public filing office where the property is located, the filing of
+a financing statement pursuant to chapter 57A-9, or the filing of a bill of sale or other
+transfer instrument regarding personal property.
+The filing of a bill of sale or other transfer instrument that conveys personal
+property to a trust governed by this chapter must be filed in an applicable public filing
+office.
+If the transferor is a natural person and is a resident of this state, the personal
+property transfer instrument must be recorded in the county in this state where the
+transferor maintains the transferor's principal residence.
+In all other cases, the personal property transfer instrument must be recorded in
+the county in this state where the trustee of the trust maintains a principal residence or
+principal place of business.
+This section, §§ 55-16-9, and 55-16-11 to 55-16-13, inclusive, are inseparably
+interwoven with substantive rights, and a deprivation of legal rights would result if another
+jurisdiction's contrary laws and regulations are applied to a claim or cause of action
+described therein.
+Section 8. That § 55-17-5 be AMENDED:
+55-17-5. For purposes of the application of 26 U.S.C. § 1014(b)(6) (January 1,
+2026), a South Dakota special spousal trust is a trust established under the community
+property laws of this state, as set forth in this chapter.
+For purposes of this chapter, "special spousal property" means community
+property. Community property that is classified by a jurisdiction other than this state and
+SB100 ENROLLED
+
+26.464.16 8 100
+transferred to a South Dakota special spousal trust retains its character as community
+property while in the trust. If the trust is revoked and property is transferred on revocation
+of the trust, the community property that is classified by a jurisdiction other than South
+Dakota retains its character as community property to the extent otherwise provided by
+the laws of this state.
+SB100 ENROLLED
+
+26.464.16 9 100
+An Act to revise provisions related to trusts.
+Received at this Executive Office
+I certify that the attached Act originated in this _____ day of _____________,
+the:
+2026 at ____________M.
+Senate as Bill No. 100
+By
+Secretary of the Senate for the Governor
+The attached Act is hereby
+approved this ________ day of
+President of the Senate ______________, A.D., 2026
+Attest:
+Governor
+Secretary of the Senate
+STATE OF SOUTH DAKOTA,
+ss.
+Office of the Secretary of State
+Speaker of the House
+Filed ____________, 2026
+Attest: at _________ o'clock __M.
+Chief Clerk of the House Secretary of State
+Senate Bill No. 100 By
+File No. ____ Asst. Secretary of State
+Chapter No. ______
+SB100 ENROLLED

@@ -1,0 +1,28 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.821.17 101st Legislative Session 219
+2026 South Dakota Legislature
+Senate Bill 219
+Introduced by: Senator Hohn
+1 An Act to require that a state agency consult with the Aeronautics Commission when
+2 purchasing, transferring, or disposing of a state owned and operated aircraft.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 50-2-1.1 be AMENDED:
+5 50-2-1.1. The commission shall continue within the department, and all its
+6 functions shall be performed by the department as provided by § 1-44-11.
+7 The commission shall provide advice and expertise to a state agencies agency
+8 regarding the purchase, transfer and disposition of state owned and operated aircraft,
+9 including those owned or operated by any state institution. A state agency shall consult
+10 the commission when purchasing, transferring, or disposing of state owned and operated
+11 aircraft, including any unmanned aircraft, small unmanned aircraft, and small unmanned
+12 aircraft system as defined in § 50-1-1.
+13 The commission shall provide advice and expertise in the form of a written report
+14 to the Governor and the agency requesting the information.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

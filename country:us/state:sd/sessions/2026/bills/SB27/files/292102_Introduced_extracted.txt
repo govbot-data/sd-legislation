@@ -1,0 +1,49 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.480.9 101st Legislative Session 27
+2026 South Dakota Legislature
+Senate Bill 27
+Introduced by: The Chair of the Committee on Transportation at the request of the Department of Transportation
+1 An Act to revise the description of certain highways included in the state trunk
+2 highway system.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 31-4-156 be AMENDED:
+5 31-4-156. The state trunk highway system includes the following in Butte,
+6 Lawrence, Meade, Ziebach, Haakon, Stanley, Hughes, Hyde, Buffalo, Jerauld, Sanborn,
+7 Miner, Lake, and Moody counties:
+8 (1) From a point on the Wyoming state line southeasterly to Interstate Highway 90;
+9 (2) From a point on Interstate Highway 90 easterly via Sturgis to U.S. Highway 14;
+10 (3) From a point on U.S. Highway 14B 14 in Pierre, thence easterly via Pierre,
+11 Wessington Springs, Lane, Woonsocket, Artesian, Roswell, Vilas and Howard to
+12 U.S. Highway 81; and
+13 (4) From a point on U.S. Highway 81 at Madison easterly via Madison, Colman, and
+14 Egan to the Minnesota state line.
+15 Section 2. That § 31-4-235 be AMENDED:
+16 31-4-235. The state trunk highway system includes the following in Fall River,
+17 Custer, Pennington, and Lawrence counties:
+18 (1) From a point on the Nebraska state line in section eighteen, township twelve south,
+19 range eight east, thence north via Oelrichs to U.S. Highway 18 west of the
+20 northeast corner of section thirteen, township ten south, range seven east;
+21 (2) From a point on U.S. Highway 18 in Hot Springs in section twenty-four, township
+22 seven south, range five east, thence north via Hot Springs to the south boundary
+23 of Wind Cave National Park on the north near the east-west sixteenth line in the
+24 north half of section twenty-four, township six south, range five east;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.480.9 2 27
+1 (3) From a point on the west boundary of Wind Cave National Park near the northwest
+2 corner of section thirty-five, township five south, range five east, thence
+3 northwesterly via Pringle and Custer to U.S. Highway 16 in Custer in section
+4 twenty-six, township three south, range four east; and
+5 (4) From U.S. Highway 16 in the northwest quarter of section twenty-two, township
+6 one south, range five east, thence northwesterly to U.S. Highway 85 near the north
+7 section line of section thirty-four, township five north, range three east.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

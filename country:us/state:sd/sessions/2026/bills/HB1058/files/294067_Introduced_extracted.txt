@@ -1,0 +1,55 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.50.33 101st Legislative Session 1058
+2026 South Dakota Legislature
+House Bill 1058
+Introduced by: Representative Weisgram
+1 An Act to require licensure for online pari-mutuel wagering pools for horse and dog
+2 races, and clarify the application of tax therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 42-7-58.5 be AMENDED:
+5 42-7-58.5. In addition to all state laws and applicable rules of the commission,
+6 simulcast wagering and interstate combined wagering pools shall be in compliance must
+7 comply with the United States Code, Title 15, Section 3001, et seq., as in effect on
+8 December 31, 1990 15 U.S.C §§ 3001 to 3007, inclusive (January 1, 2026).
+9 Section 2. That § 42-7-102 be AMENDED:
+10 42-7-102. Notwithstanding any other provision of this chapter, the commission
+11 may authorize any licensee to participate in an interstate combined wagering pool with
+12 one or more other racing jurisdictions. If a licensee participates in an interstate combined
+13 wagering pool, the licensee may adopt the take-out of the host jurisdiction or facility.
+14 The State of South Dakota shall receive receives one and one-half percent of the
+15 total contributed in this state, and the special racing revolving fund and the South Dakota-
+16 bred racing fund shall must each receive one and one-half percent of the total contributed
+17 in this state. However, Subject to the provisions of section 3 of this Act, if the licensee
+18 participating in the interstate combined wagering pool is a multi-jurisdictional totalizator
+19 hub, the total portion to be received by the state shall be is one-fourth of one percent of
+20 the total contributed through the hub, of which the special racing revolving fund shall
+21 receive receives one-fifth of one percent of the total contributed through the hub and the
+22 South Dakota-bred racing fund shall receive receives one-twentieth of one percent of the
+23 total contributed through the hub. Any such interstate combined wagering pool may only
+24 apply to horse and dog racing authorized by this chapter.
+25
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.50.33 2 1058
+1 Section 3. That a NEW SECTION be added to chapter 42-7:
+2 Only a person licensed as a multi-jurisdictional totalizator hub in this state may
+3 operate an online betting platform or electronic application to offer online pari-mutuel
+4 wagering on a horse or dog race.
+5 A person with a physical presence in this state operating an online betting platform
+6 or electronic application to offer online pari-mutuel wagering on a horse or dog race is
+7 subject to the tax imposed pursuant to § 42-7-102 on multi-jurisdictional totalizator hubs.
+8 A person without a physical presence in this state operating an online betting
+9 platform or electronic application to offer online pari-mutuel wagering on a horse or dog
+10 race is subject to the tax imposed pursuant to § 42-7-102 on multi-jurisdictional
+11 totalizator hubs, except that the tax rate applies to the total contributed through the hub
+12 by individuals in this state on online pari-mutuel wagering pools for horse or dog races.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

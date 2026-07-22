@@ -1,0 +1,35 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.617.17 101st Legislative Session 208
+2026 South Dakota Legislature
+Senate Bill 208
+Introduced by: Senator Hulse
+1 An Act to require the award of certain disbursements to prevailing owners and
+2 taxpayers in appeals of property assessments.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 10-11-45.1 be AMENDED:
+5 10-11-45.1. The circuit court may award disbursements, including reasonable
+6 attorneys' attorney fees, in an action brought to circuit court pursuant to this chapter by
+7 any appellant relative to the assessment of property, if the appellant does not prevail in
+8 its the appeal of the property assessment.
+9 If an aggrieved owner or taxpayer prevails in the appeal, the court must award
+10 disbursements and reasonable attorney fees to the owner or taxpayer.
+11 Section 2. That § 10-11-78 be AMENDED:
+12 10-11-78. On motion, the Supreme Court may award reasonable attorneys' fees
+13 in In an action brought to the Supreme Court of South Dakota, pursuant to this chapter,
+14 against any appellant relative to the assessment of property, the court, upon motion:
+15 (1) May award reasonable attorney fees, if the appellant does not prevail in its the
+16 appeal of the property assessment. The motion shall be accompanied by counsel's;
+17 or
+18 (2) Must award reasonable attorney fees to any aggrieved owner or taxpayer that
+19 prevails in the appeal.
+20 The attorney for the moving party shall file a verified, itemized statement of costs
+21 incurred, and legal services rendered, with the motion under this section.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

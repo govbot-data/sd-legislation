@@ -1,0 +1,51 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.156.9 101st Legislative Session 1219
+2026 South Dakota Legislature
+House Bill 1219
+Introduced by: Representative Muckey
+1 An Act to require the provision of interpreter or translator services for parties to an
+2 administrative contested case.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 1-26-18 be AMENDED:
+5 1-26-18. Opportunity shall must be afforded all parties to respond and present
+6 evidence on issues of fact and argument on issues of law or policy. However, each agency,
+7 upon the motion of any party, may dispose of any defense or claim:
+8 (1) If the pleadings, depositions, answers to interrogatories, and admissions on file,
+9 together with the affidavits, if any, show that there is no genuine issue as to any
+10 material fact and a party is entitled to a judgment as a matter of law; or
+11 (2) At the close of the evidence offered by the proponent of the defense or claim, if it
+12 the agency determines that the evidence offered by the proponent of the defense
+13 or claim is legally insufficient to sustain the defense or claim.
+14 A party to a contested case proceeding may appear in person or by counsel, or
+15 both,; may be present during the giving of all evidence,; may obtain the services of a
+16 translator or interpreter as provided in chapter 19-3, with the translator or interpreter's
+17 compensation fixed, paid, and collected as provided in sections 2 and 3 of this Act; may
+18 have reasonable opportunity to inspect all documentary evidence,; may examine and
+19 cross-examine witnesses,; may present evidence in support of the party's interest,; and
+20 may have subpoenas issued to compel attendance of witnesses and production of evidence
+21 in the party's behalf.
+22 Section 2. That a NEW SECTION be added to chapter 1-26:
+23 When a witness or party needs a language interpreter or translator in a contested
+24 case proceeding, the agency required by law to determine the matter, as referenced in
+25 subdivision 1-26-1(2), shall procure and appoint a disinterested interpreter or translator.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.156.9 2 1219
+1 The agency shall compensate the interpreter or translator for reasonable and just services
+2 provided in the proceeding. The payment for the services of the interpreter or translator
+3 must be made from moneys appropriated for the operation of the agency.
+4 Section 3. That a NEW SECTION be added to chapter 1-26:
+5 The prevailing party in a contested case proceeding may recover expenditures, for
+6 interpreter or translator services necessarily incurred in gathering and procuring evidence
+7 or bringing the contested case, which are not otherwise covered pursuant to section 2 of
+8 this Act.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

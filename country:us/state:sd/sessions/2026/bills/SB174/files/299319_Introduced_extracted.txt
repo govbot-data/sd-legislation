@@ -1,0 +1,28 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.839.10 101st Legislative Session 174
+2026 South Dakota Legislature
+Senate Bill 174
+Introduced by: Senator Deibert
+1 An Act to make an appropriation to defray the operational costs of school districts.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. There is appropriated $5,000,000 from the general fund, to the Department of
+4 Education, for the purpose of defraying the operational costs of school districts.
+5 Section 2. The Department of Education shall grant the moneys appropriated in section 1 of
+6 this Act directly to school districts. Each district must be granted a pro rata share of the
+7 moneys appropriated in section 1 of this Act, based on the district's 2026 fall enrollment in
+8 relation to the statewide 2026 fall enrollment, as determined under subdivision 13-13-
+9 10.1(2).
+10 Section 3. The secretary of the Department of Education shall approve vouchers and the
+11 state auditor shall draw warrants to pay expenditures authorized in this Act.
+12 Section 4. Any amounts appropriated in this Act not lawfully expended or obligated by June
+13 30, 2027, shall revert in accordance with the procedures prescribed in chapter 4-8.
+14 Section 5. This Act is effective beginning June 30, 2026.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

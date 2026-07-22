@@ -1,0 +1,32 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.509.12 101st Legislative Session 1072
+2026 South Dakota Legislature
+House Bill 1072
+Introduced by: Representative Weisgram
+1 An Act to provide an appropriation for a payment for state employee salaries.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. There is appropriated $8,454,195 from the general fund, $3,524,321 in federal
+4 fund expenditure authority, and $8,678,462 in other fund expenditure authority, to the
+5 Bureau of Finance and Management, for a payment to each state employee of one and a half
+6 percent of the employee's current salary.
+7 Section 2. The Bureau of Finance and Management shall distribute the amounts appropriated
+8 in section 1 of this Act to each state agency and other state governmental entity, having at
+9 least one state employee, to cover the requirements of section 3 of this Act.
+10 Section 3. Starting July 1, 2026, each state employee employed as of January 1, 2026, shall
+11 be paid at the beginning of each month one twelfth of one and a half percent of the employee's
+12 annualized January 1, 2026 salary. If a state employee is no longer employed with the state
+13 as of the payment date, no payment may be made to the employee.
+14 Section 4. The commissioner of the Bureau of Finance and Management shall approve
+15 vouchers and the state auditor shall draw warrants to pay expenditures authorized in this Act.
+16 Section 5. Any amounts appropriated in this Act not lawfully expended or obligated by June
+17 30, 2027, shall revert in accordance with the procedures prescribed in chapter 4-8.
+18 Section 6. This Act is effective beginning June 30, 2026.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

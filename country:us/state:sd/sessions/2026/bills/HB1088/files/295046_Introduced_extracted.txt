@@ -1,0 +1,95 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.182.9 101st Legislative Session 1088
+2026 South Dakota Legislature
+House Bill 1088
+Introduced by: Representative Moore
+1 An Act to remove the requirement that counties remit to municipalities an amount
+2 equal to the road levy for calendar years 1984, 1985, and 1986.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 10-12-9 be AMENDED:
+5 10-12-9. The levy of county County taxes must be levied, pursuant to § 10-12-8
+6 shall include the following purposes, for:
+7 (1) For general General county purposes;
+8 (2) For the The support of the mentally ill individuals with mental illnesses pursuant to
+9 § 27A-13-15 and developmentally disabled individuals with developmental
+10 disabilities pursuant to chapter 27B-4;
+11 (3) For salariesSalaries;
+12 (4) For county County roads, in addition to the road taxes levied by townships and
+13 municipalities, and it shall have together with the entire supervision of the
+14 expenditure of such the taxes. In all municipalities an amount equal to the average
+15 road levy distributed to the municipalities within the county for calendar years
+16 1984, 1985, and 1986 shall be paid by the county treasurer to the municipal
+17 finance officer of the municipality. If a municipality is incorporated after January 1,
+18 1984, the amount paid to the municipality shall be determined pursuant to § 10-
+19 12-32.1. Such money shall be expended by the governing body of the municipality
+20 only for bridge and street purposes within the municipality;
+21 (5) For fire Fire guards in territory not organized into civil townships, to be levied
+22 against the taxable property of such the unorganized territory;
+23 (6) For county County bridges;
+24 (7) For county County parks pursuant to chapter 41-18;
+25 (8) For support Support of the poor pursuant to chapter 28-13;
+26 (9) For a A public defender pursuant to chapter 7-16A;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.182.9 2 1088
+1 (10) For recreationRecreation, tourism, and industrial development pursuant to § 7-18-
+2 12;
+3 (11) For contingency Contingency appropriations pursuant to §§ 7-21-6.1 and 7-21-
+4 32.2;
+5 (12) For county County monuments pursuant to § 7-26-1;
+6 (13) For historical Historical sites pursuant to § 7-26-3;
+7 (14) For historical Historical museums pursuant to § 7-26-5;
+8 (15) For abandoned Abandoned cemeteries pursuant to § 7-26-7;
+9 (16) For a A county fair pursuant to chapter 7-27;
+10 (17) For real Real estate classification pursuant to § 10-10-2;
+11 (18) Repealed by SL 2014, ch 55, § 2;
+12 (19) For operation Operation of a public library pursuant to § 14-2-47;
+13 (20)(19) For the The judicial system pursuant to chapter 16-2;
+14 (21)(20) For day Day care centers pursuant to § 26-6-18.3;
+15 (22)(21) For mental Mental health centers pursuant to § 27A-5-9;
+16 (23)(22) For senior Senior citizens pursuant to § 28-18-6;
+17 (24)(23) For emergency Emergency welfare pursuant to § 28-13-19;
+18 (25)(24) For roads Roads in national forests pursuant to § 31-9-4;
+19 (26)(25) For health Health departments pursuant to § 34-3-22;
+20 (27)(26) For drug Drug abuse prevention and rehabilitation pursuant to chapter 34-3B;
+21 (28)(27) For hospital Hospital operation and maintenance pursuant to §§ 34-8-19 and
+22 34-8-20;
+23 (29)(28) For hospital Hospital wards pursuant to § 34-8-23;
+24 (30)(29) For aid Aid to city hospitals pursuant to chapter 34-9;
+25 (31)(30) For ambulance Ambulance service pursuant to § 34-11-1;
+26 (32)(31) For fire Fire protection pursuant to chapter 34-31;
+27 (33)(32) For conservation Conservation districts pursuant to §§ 38-8-49.1, 38-8-55, 38-
+28 8-56, and 38-8-57;
+29 (34)(33) For weed Weed and pest control pursuant to §§ 38-22-24 and 38-22-26;
+30 (35)(34) For animal Animal damage control pursuant to § 40-36-11;
+31 (36)(35) For cooperative Cooperative parks pursuant to §§ 42-2-10 and 42-2-11;
+32 (37)(36) For recreation Recreation systems pursuant to chapter 42-2;
+33 (38)(37) For activities Activities of the elderly pursuant to §§ 42-2-6 and 42-2-7;
+34 (39)(38) For geological Geological survey pursuant to § 45-2-3;
+35 (40)(39) For flood Flood control pursuant to §§ 7-18-14, 7-18-15, and 46A-14-71;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.182.9 3 1088
+1 (41)(40) For safety Safety programs pursuant to § 7-18-13;
+2 (42)(41) For airports Airports pursuant to chapter 50-7;
+3 (43)(42) For emergencies Emergencies and disasters pursuant to chapter 34-48A;
+4 (44)(43) For Memorial Day expense pursuant to § 7-8-24;
+5 (45)(44) For the The fiscal and managerial affairs of the county pursuant to § 7-8-20;
+6 and
+7 (46)(45) For extension Extension services pursuant to §§ 13-54-8 to 13-54-13,
+8 inclusive.
+9 Section 2. That § 10-12-32.1 be REPEALED.
+10 If a municipality was incorporated after January 1, 1984, the municipality shall
+11 receive twenty-five percent of the money raised for county roads for calendar years 1984,
+12 1985, and 1986, within the area that is now incorporated as a municipality.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

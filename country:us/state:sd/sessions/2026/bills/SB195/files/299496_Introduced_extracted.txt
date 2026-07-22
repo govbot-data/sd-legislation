@@ -1,0 +1,21 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.711.10 101st Legislative Session 195
+2026 South Dakota Legislature
+Senate Bill 195
+Introduced by: Senator Karr
+1 An Act to repeal the expiration of a reduction in certain gross receipts and use tax
+2 rates.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That 2023 Session Laws, chapter 32, § 19, be REPEALED:
+5 Section 19. The amendments to the Code sections in sections 1 to 17, inclusive, of
+6 this Act are repealed on June 30, 2027, and those Code sections will revert in word and
+7 substance to that which existed immediately prior to the effective date of this Act.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,84 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.116.26 101st Legislative Session 12
+2026 South Dakota Legislature
+Senate Bill 12
+Introduced by: Senator Otten
+1 An Act to provide for a refund of property taxes in previous years for qualifying
+2 veterans and surviving spouses.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 10-4-24.10 be AMENDED:
+5 10-4-24.10. A dwelling or part of a dwelling designed as provided in § 10-4-24.9
+6 that is owned and occupied for the full calendar year in which a tax is to be levied by a
+7 paraplegic veteran, a veteran with the loss or loss of use of both lower extremities, or the
+8 unremarried widow or widower of the veteran is exempt from taxation. Notwithstanding
+9 any other provision of law, if If the director of equalization determines that a veteran or
+10 the veteran's unremarried widow or widower is entitled to the exemption provided in this
+11 section, the veteran or the veteran's unremarried widow or widower retains that
+12 exemption until the property ownership is transferred, the veteran or the veteran's
+13 unremarried widow or widower ceases to occupy the dwelling, or the property has a
+14 change in use. If the legal description of the property is changed, the exemption remains
+15 in place as long as the veteran or the veteran's unremarried widow or widower continues
+16 to reside in the dwelling.
+17 Any veteran who would otherwise qualify for this exemption but fails to comply
+18 with the application deadline for the owner-occupied classification or the deadline for
+19 application for this exemption may petition the board of county commissioners to refund
+20 the taxes paid in any of the previous four years on the property that would otherwise
+21 qualify for the exemption. The board of county commissioners may, in its discretion, reject
+22 or approve the application for a refund. The petition for, and the consideration and
+23 issuance of, a property tax refund under this section must be in the manner set forth in
+24 chapter 10-18.
+25 Section 2. That § 10-18-2 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.116.26 2 12
+1 10-18-2. The board of county commissioners may compromise, abate or rebate
+2 taxes in the following cases:
+3 (1) The board may abate any or all of the delinquent taxes and penalty on real property
+4 if taxes remain unpaid and the property has been offered for sale as required by
+5 the code for two successive years and not sold because of depreciation in the value
+6 of the property or otherwise, or if any property has been bid in by the county and
+7 one year has elapsed since the bid;
+8 (2) If the board determines that the full amount of any taxes extended and charged
+9 against any real property platted into lots and blocks cannot be realized by a sale
+10 of the property or otherwise, it may settle or compromise any of the taxes for any
+11 year or years as in its judgment is in the best interest of the county;
+12 (3) The board may compromise, abate, or cancel any taxes extended against any real
+13 property conveyed to the State of South Dakota for the benefit of any of its
+14 educational institutions, or when the county has acquired lands through foreclosure
+15 of permanent school fund mortgage loans, courthouse building fund loans, jail
+16 building fund loans, courthouse and jail building fund loans, or through foreclosure
+17 of mortgages pledged to the county to secure county deposits or lands taken in
+18 satisfaction thereof;
+19 (4) The board may, as a means of relief, abate in an equitable manner the taxes
+20 assessed or extended against real property for the year in which a loss occurred
+21 because of flood, fire, storm, or other unavoidable casualty;
+22 (5) Repealed by SL 1992, ch 80, § 148;
+23 (6) If the board determines that the full amount of any taxes extended and charged
+24 against a centrally assessed railroad company cannot be realized by a sale of the
+25 property or otherwise, and the railroad is in bankruptcy or receivership, the board
+26 may settle or compromise any of the taxes for any year or years as in its judgment
+27 is in the best interest of the county;
+28 (7) The board may abate or refund the taxes assessed or extended on any real
+29 property from which structures have been removed after the assessment date upon
+30 verification by the director of equalization;
+31 (8) The board may abate or refund the taxes pursuant to § 10-6A-4;
+32 (9) The board may abate or refund the taxes pursuant to § 10-13-40.4;
+33 (10) The board may abate or refund the taxes pursuant to § 10-4-40; and
+34 (11) The board may abate or refund the taxes pursuant to § 10-4-24.10.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.116.26 3 12
+1 The amount of any such taxes so compromised, abated, or refunded shall be
+2 apportioned pro rata among the several funds and taxing districts affected thereby.
+3
+Underscores indicate new language.
+Overstrikes indicate deleted language.

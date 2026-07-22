@@ -1,0 +1,46 @@
+Title: 
+Official Title: 
+Source: versions - Senate Judiciary Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.617.18 101st Legislative Session 208
+2026 South Dakota Legislature
+Senate Bill 208
+SENATE JUDICIARY ENGROSSED
+Introduced by: Senator Hulse
+1 An Act to require the award of certain disbursements to prevailing owners and
+2 taxpayers in appeals of property classifications or assessments.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 10-11-45.1 be AMENDED:
+5 10-11-45.1. The circuit court may award disbursements, including reasonable
+6 attorneys' attorney fees, in an action brought to circuit court pursuant to this chapter by
+7 any appellant relative to the classification or amount of assessment of property, if the
+8 appellant does not prevail in its the appeal of the property classification or amount of
+9 assessment.
+10 If an aggrieved owner or taxpayer prevails in the reclassification of the property or
+11 obtains an assessment resulting in a reduction of the appealed assessment by at least
+12 twenty percent, the court must award disbursements and reasonable attorney fees to the
+13 owner or taxpayer.
+14 Section 2. That § 10-11-78 be AMENDED:
+15 10-11-78. On motion, the Supreme Court may award reasonable attorneys' fees
+16 in In an action brought to the Supreme Court of South Dakota, pursuant to this chapter,
+17 against any appellant relative to the classification or amount of assessment of property,
+18 the court, upon motion:
+19 (1) May award disbursements, including reasonable attorney fees, if the appellant does
+20 not prevail in its appeal of the reclassification of the property or obtain an
+21 assessment. The motion shall be accompanied by counsel's that is lower than the
+22 appealed assessment; or
+23 (2) Must award disbursements, including reasonable attorney fees, to an appellant that
+24 prevails in the reclassification of the property or obtains an assessment resulting
+25 in a reduction of the appealed assessment by at least twenty percent.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.617.18 2 208
+1 The attorney for the moving party shall file a verified, itemized statement of costs
+2 incurred, and legal services rendered, with the motion under this section.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

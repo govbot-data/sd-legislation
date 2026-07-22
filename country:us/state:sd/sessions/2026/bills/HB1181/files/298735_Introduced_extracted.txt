@@ -1,0 +1,114 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.192.23 101st Legislative Session 1181
+2026 South Dakota Legislature
+House Bill 1181
+Introduced by: Representative Andera
+1 An Act to prohibit weather and climate modification activities and provide a penalty
+2 therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 34A-1:
+5 There is created in the state treasury the weather and climate modification
+6 monitoring fund. This fund consists of fines received pursuant to section 2 of this Act and
+7 all other moneys designated for deposit in the fund.
+8 The Department of Agriculture and Natural Resources shall administer the fund.
+9 The purpose of the fund is to defray expenses associated with monitoring for prohibited
+10 weather modification activities, investigating complaints, assessing civil penalties, and
+11 monitoring for compliance. The department may use one-half of the moneys received
+12 pursuant to section 2 of this Act to defray the expenses of activities associated with
+13 administering sections 1 to 4, inclusive, of this Act. The department shall provide one-half
+14 of the moneys received pursuant to section 2 of this Act to the Department of
+15 Transportation to defray any expenses associated with administering sections 5 to 8,
+16 inclusive, of this Act.
+17 Interest on moneys credited to the fund must remain in the fund.
+18 Expenditures from the fund must be budgeted through the general appropriation
+19 bill.
+20 Section 2. That a NEW SECTION be added to chapter 34A-1:
+21 No person may inject, release, or disperse, by any means, any amount of a
+22 chemical, a chemical compound, or a substance, which is known to cause negative health
+23 impacts in toxic amounts, into the atmosphere, for the express purpose of modifying
+24 atmosphere, intensity of sunlight, temperature, or weather.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.192.23 2 1181
+1 No person may inject, release, or disperse, by any means, any amount of aluminum
+2 barium, chaff containing perfluoroalkyl and polyfluoroalkyl substances, strontium, or sulfur
+3 dioxide, into the atmosphere for the express purpose of modifying atmosphere, intensity
+4 of sunlight, temperature, or weather.
+5 The department must assess a civil penalty of not less than one hundred thousand
+6 dollars for a violation of this section, plus ten thousand dollars per day for each day the
+7 violation continues.
+8 The department shall deposit any moneys collected pursuant to this section in the
+9 weather and climate modification monitoring fund created in section 1 of this Act.
+10 Section 3. That a NEW SECTION be added to chapter 34A-1:
+11 The department shall establish an online form for persons to use in reporting
+12 suspected violations of section 2 of this Act. The form must allow persons to report the
+13 following, if known:
+14 (1) A business name;
+15 (2) The address of the alleged perpetrator;
+16 (3) Operating hours of the company;
+17 (4) The name of the majority owner of the company; and
+18 (5) A list of chemicals, chemical compounds, or substances dispersed by the company
+19 into the atmosphere.
+20 Section 4. That a NEW SECTION be added to chapter 34A-1:
+21 The department shall promulgate rules, in accordance with chapter 1-26, to:
+22 (1) Establish criteria for investigating possible violations of section 2 of this Act
+23 observed directly by department personnel;
+24 (2) Establish criteria for investigating reports of possible violations of section 2 of this
+25 Act received:
+26 (a) From individuals; or
+27 (b) From airports that are required to file quarterly reports pursuant to section
+28 5 of this Act; and
+29 (3) Establish criteria for on-going compliance monitoring efforts.
+30 Section 5. That a NEW SECTION be added to chapter 34A-1:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.192.23 3 1181
+1 The operator of any public airport approved under § 50-5-1, and the operator of
+2 any private airport, shall report quarterly to the Department of Transportation, in the
+3 manner directed by the department, the presence of any aircraft equipped with any
+4 component, device, or part that is commonly used to support the dispersion, injection,
+5 intentional emission, or release of air contaminants into the atmosphere for the express
+6 purpose of modifying atmosphere, intensity of sunlight, temperature, or weather.
+7 Aircraft equipped with aerial applicator equipment for use in applying herbicides or
+8 pesticides are exempt from the reporting requirement in this section.
+9 Section 6. That a NEW SECTION be added to chapter 34A-1:
+10 The Department of Transportation shall forward any reports received in accordance
+11 with section 5 of this Act to the Department of Agriculture and Natural Resources. The
+12 Department of Agriculture and Natural Resources shall refer possible violations of section
+13 2 of this Act to the law enforcement agency having jurisdiction over the area in which the
+14 violations allegedly occurred.
+15 Section 7. That a NEW SECTION be added to chapter 34A-1:
+16 Beginning on July 1, 2026, the department shall incorporate the reporting
+17 requirements required in section 5 of this Act in all grant agreements with public airports
+18 in this state, in a manner that conforms to federal regulations for the state block grant
+19 program for airports, as set forth in 49 U.S.C. § 47128 (January 1, 2026).
+20 Section 8. That a NEW SECTION be added to chapter 34A-1:
+21 The South Dakota Aeronautics Commission shall promulgate rules, in accordance
+22 with chapter 1-26, to:
+23 (1) Develop a reporting form for use in accordance with section 5 of this Act;
+24 (2) Provide for the processing of reports received in accordance with section 5 of this
+25 Act and the referral of reports to the Department of Agriculture and Natural
+26 Resources; and
+27 (3) Create a template for use in grant agreements with public airports, which includes
+28 the reporting requirements set forth in section 5 of this Act.
+29 Section 9. That a NEW SECTION be added to chapter 34A-1:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.192.23 4 1181
+1 Any business that has a facility or office in this state and intends to inject, release,
+2 or disperse, from outside the borders of this state, any chemical, chemical compound, or
+3 substance, to modify the atmosphere, intensity of sunlight, temperature, or weather, must
+4 provide the Secretary of State with a list of any chemicals, chemical compounds, or
+5 substances to be dispersed into the atmosphere.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

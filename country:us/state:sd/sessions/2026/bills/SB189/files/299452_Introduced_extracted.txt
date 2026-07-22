@@ -1,0 +1,130 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.120.24 101st Legislative Session 189
+2026 South Dakota Legislature
+Senate Bill 189
+Introduced by: Senator Howard
+1 An Act to provide for an automatic refund of an assessment on crops, livestock, and
+2 milk.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 38-10-34 be AMENDED:
+5 38-10-34. Any Except as otherwise provided in section 2 of this Act, any person,
+6 firm, or corporation subject to the fee provided in this chapter that objects to the collection
+7 of the fee may, within sixty days following the collection, apply to the wheat commission
+8 for a refund of the fee. Upon the return of the refund application, accompanied by a true,
+9 legible record of the invoices delivered by the purchaser to the grower, the commission
+10 shall, within thirty days, refund the net amount of the fee collected to the grower. If no
+11 request for refund has been made within sixty days after the collection of the fee, the
+12 grower shall be is conclusively presumed to have agreed to the deduction.
+13 The commission shall make the refund application available online and provide for
+14 the electronic submission of the application and all required documentation.
+15 Section 2. That a NEW SECTION be added to chapter 38-10:
+16 The commission shall develop and implement an alternative refund process by
+17 which a grower may, before December thirty-first, file with the commission a single
+18 electronic request for an automatic refund of all assessments imposed upon and paid by
+19 the grower in accordance with this chapter during the ensuing calendar year. The
+20 commission shall provide for the electronic submission of all documentation necessary to
+21 obtain the refund.
+22 Section 3. That § 38-27-16 be AMENDED:
+23 38-27-16. Any Except as otherwise provided in section 4 of this Act, any grower
+24 subject to the assessment provided in this chapter, within sixty days following the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.120.24 2 189
+1 assessment, may make application to the oilseeds council for a refund of the assessment.
+2 Upon return of the refund application accompanied by a record of the assessment by the
+3 first purchaser, the grower shall, within sixty days, be refunded the net amount of the
+4 assessment collected. However, a grower, for any reason, having paid the assessment
+5 more than once on the same sunflowers, safflowers, canola, or flax, upon furnishing proof
+6 of this to the council, is entitled to a refund of the overpayment.
+7 The council shall make the refund application available online and provide for the
+8 electronic submission of the application and all required documentation.
+9 Section 4. That a NEW SECTION be added to chapter 38-27:
+10 The council shall develop and implement an alternative refund process by which a
+11 grower may, before December thirty-first, file with the council a single electronic request
+12 for an automatic refund of all assessments imposed upon and paid by the grower in
+13 accordance with this chapter during the ensuing calendar year. The council shall provide
+14 for the electronic submission of all documentation necessary to obtain the refund.
+15 Section 5. That § 38-32-20 be AMENDED:
+16 38-32-20. Any Except as otherwise provided in section 6 of this Act, any grower
+17 subject to the assessment provided in this chapter may, within sixty days following such
+18 assessment, make application to the council for a refund of the assessment. Upon the
+19 return of the refund application, accompanied by a record of the assessment by the first
+20 purchaser, the grower shall, within sixty days, be refunded the net amount of the
+21 assessment collected. However, a grower who has paid the assessment more than once
+22 on the same corn is entitled to a refund of the overpayment.
+23 The council shall make the refund application available online and provide for the
+24 electronic submission of the application and all required documentation.
+25 Section 6. That a NEW SECTION be added to chapter 38-32:
+26 The council shall develop and implement an alternative refund process by which a
+27 grower may, before December thirty-first, file with the council a single electronic request
+28 for an automatic refund of all assessments imposed upon and paid by the grower in
+29 accordance with this chapter during the ensuing calendar year. The council shall provide
+30 for the electronic submission of all documentation necessary to obtain the refund.
+31 Section 7. That § 38-33-10 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.120.24 3 189
+1 38-33-10. Within ninety days following the assessment, Except as otherwise
+2 provided in section 8 of this Act, any seller subject to the assessment provided in §§ 38-
+3 33-1 to 38-33-12, inclusive, may, within sixty days following the assessment, apply to the
+4 commission for a refund of the assessment. The refund application shall must be
+5 accompanied by a copy of the record of the assessment on the sale. The commission shall
+6 refund the amount of the assessment collected within sixty days of receiving a valid refund
+7 application.
+8 The commission shall make the refund application available online and provide for
+9 the electronic submission of the application and all required documentation.
+10 Section 8. That a NEW SECTION be added to chapter 38-33:
+11 The commission shall develop and implement an alternative refund process by
+12 which a seller may, before December thirty-first, file with the commission a single
+13 electronic request for an automatic refund of all assessments imposed upon and paid by
+14 the seller in accordance with this chapter during the ensuing calendar year. The
+15 commission shall provide for the electronic submission of all documentation necessary to
+16 obtain the refund.
+17 Section 9. That § 38-34-18 be AMENDED:
+18 38-34-18. Any Except as otherwise provided in section 10 of this Act, any grower
+19 subject to the assessment provided in this chapter, within sixty days following the
+20 assessment, may apply to the council for a refund of the assessment. Upon return of the
+21 refund application accompanied by a record of the assessment by the first purchaser, the
+22 grower shall, within sixty days, be refunded the net amount of the assessment collected.
+23 Additionally, a grower, who for any reason, pays the assessment more than once on the
+24 same pulse crops, upon furnishing proof of this to the council, is entitled to a refund of
+25 the overpayment.
+26 The council shall make the refund application available online and provide for the
+27 electronic submission of the application and all required documentation.
+28
+29 Section 10. That a NEW SECTION be added to chapter 38-34:
+30 The council shall develop and implement an alternative refund process by which a
+31 grower may, before December thirty-first, file with the council a single electronic request
+32 for an automatic refund of all assessments imposed upon and paid by the grower in
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.120.24 4 189
+1 accordance with this chapter during the ensuing calendar year. The council shall provide
+2 for the electronic submission of all documentation necessary to obtain the refund.
+3 Section 11. That § 40-31-17 be AMENDED:
+4 40-31-17. Any producer desiring a refund of an assessment paid under this
+5 chapter must himself make written shall file an application to with the secretary of the
+6 American Dairy Association of South Dakota therefor. Such application may only be made
+7 on an annual basis and may only be made within thirty days after July first, of each year
+8 on forms provided by the association. Upon receipt of such completed refund application
+9 upon such forms, the association. The application must be filed on or before September
+10 first for the period beginning July first of the previous year through June thirtieth of the
+11 year of filing.
+12 The secretary of the association shall, within thirty sixty days of receiving the
+13 application, approve the voucher for payment of the net refund due such the producer and
+14 transmit such the voucher to the state auditor. The association shall make the application
+15 available in printed form upon request and electronically online.
+16 The association shall provide for the electronic submission of the application and
+17 all required documentation.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

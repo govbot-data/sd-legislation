@@ -1,0 +1,25 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.904.9 101st Legislative Session 1197
+2026 South Dakota Legislature
+House Bill 1197
+Introduced by: Representative Hughes
+1 An Act to revise a provision related to the venue of adoption proceedings.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 25-6-7 be AMENDED:
+4 25-6-7. The circuit court for the county of the child's legal residence or of the
+5 adopting parent's legal residence according to where petition is first filed shall have the
+6 original jurisdictionA petition for adoption may be filed in the circuit court for any of the
+7 following counties:
+8 (1) The county in which the adopting parent resides;
+9 (2) The county in which the authorized agency having care, custody, or control,
+10 whether legal or physical, of the child involved is located; or
+11 (3) The county in which the child involved was born or resides.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

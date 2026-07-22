@@ -1,0 +1,20 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.189.11 101st Legislative Session 1094
+2026 South Dakota Legislature
+House Bill 1094
+Introduced by: Representative Garcia
+1 An Act to clarify that consent for the donation of ovum or sperm must be explicit.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to chapter 34-26:
+4 An individual's consent to be an organ donor does not constitute consent for the
+5 donation or retrieval of the individual's ovum or sperm, unless the individual explicitly
+6 consents to the donation or retrieval of ovum or sperm.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

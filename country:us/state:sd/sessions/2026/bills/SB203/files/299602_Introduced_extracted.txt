@@ -1,0 +1,70 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.791.12 101st Legislative Session 203
+2026 South Dakota Legislature
+Senate Bill 203
+Introduced by: Senator Marty
+1 An Act to require the review of a financing plan to establish a tax increment
+2 financing district.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 11-9-1 be AMENDED:
+5 11-9-1. Terms used in this chapter mean:
+6 (1) "Department," the Department of Revenue;
+7 (2) "District," a tax increment financing district;
+8 (3) "Financing plan," the intended methods and revenue sources by which the political
+9 subdivision is to pay for the project costs;
+10 (4) "Governing body," the board of trustees, the board of commissioners, the board of
+11 county commissioners, or the common council of a municipality;
+12 (4)(5) "Grant," the transfer of money or property to a transferee for a governmental
+13 purpose that is not a related party to or an agent of the political subdivision;
+14 (5)(6) "Planning commission," a planning commission created under chapters 11-2 or 11-
+15 6, a planning committee of a governing body of a political subdivision that does
+16 not have a planning commission, or the governing body of a political subdivision
+17 that does not have a planning commission or planning committee;
+18 (6)(7) "Political subdivision," a municipality, as defined in § 11-6-1, or county of this
+19 state;
+20 (7)(8) "Project plan," the properly approved plan for the development or redevelopment
+21 of a tax increment financing district including and all properly approved
+22 amendments to the plan;
+23 (8)(9) "Tax increment financing district," a contiguous geographic area within a political
+24 subdivision defined and created by resolution of the governing body;
+25 (9)(10) "Taxable property," all real and personal taxable property located in a tax
+26 increment financing district; and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.791.12 2 203
+1 (10)11 "Tax increment valuation," the total value of the tax increment financing district
+2 minus the tax increment base as determined pursuant to § 11-9-19.
+3 Section 2. That § 11-9-8 be AMENDED:
+4 11-9-8. The resolution required by § 11-9-5 shall must contain the following
+5 findings:
+6 (1) Not less than twenty-five percent, by area, of the real property within the district
+7 is a blighted area or not less than fifty percent, by area, of the real property within
+8 the district will stimulate and develop the general economic welfare and prosperity
+9 of the state through the promotion and advancement of industrial, commercial,
+10 manufacturing, agricultural, or natural resources development; and
+11 (2) The improvement of the area is likely to significantly enhance the value of
+12 substantially all other real property in the district; and
+13 (3) The review required by section 3 of this Act indicates that the social or economic
+14 benefits of the project exceed its costs to property owners and political subdivisions
+15 authorized to impose a property tax within the boundaries of the district.
+16 It is not necessary to identify the specific parcels meeting the criteria. No county
+17 may create a district located, in whole or in part, within a municipality, unless the
+18 governing body of the municipality has consented to creation of a district by resolution.
+19 Section 3. That a NEW SECTION be added to chapter 11-9:
+20 The governing body shall submit the project plan and financing plan for the district
+21 to an independent, third party to provide:
+22 (1) A cost-benefit analysis of the project;
+23 (2) An estimate for the expected change in the distribution of property taxes over time
+24 resulting from the project; and
+25 (3) An estimate for the expected effects on employment, housing, and economic
+26 output resulting from the project.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

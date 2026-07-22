@@ -1,0 +1,24 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.212.15 101st Legislative Session 1034
+2026 South Dakota Legislature
+House Bill 1034
+Introduced by: Representative Weisgram
+1 An Act to increase fees for decals and license plates mailed to motor vehicle owners.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 32-5-127 be AMENDED:
+4 32-5-127. In addition to the registration fees required by this chapter, the
+5 department or county treasurer shall collect from charge the owner one dollar and fifty,
+6 when sent to the owner through the mail:
+7 (1) Two dollars and fifty cents per decal or set of decals; and seven dollars and fifty
+8 cents
+9 (2) Twelve dollars per license plate or set of plates when plates are sent to the owner
+10 through the mail.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

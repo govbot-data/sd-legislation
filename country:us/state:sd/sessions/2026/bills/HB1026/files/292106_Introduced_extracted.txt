@@ -1,0 +1,258 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.264.26 101st Legislative Session 1026
+2026 South Dakota Legislature
+House Bill 1026
+Introduced by: Representative Roe
+1 An Act to provide for the licensing of property data collectors and the registration
+2 of property data collection companies and to provide a penalty therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to a NEW CHAPTER in title 36:
+5 Terms used in this chapter mean:
+6 (1) "Department," the Department of Labor and Regulation;
+7 (2) "Property data collection," the:
+8 (a) Physical or virtual visual observation of a specified parcel of real estate and
+9 the improvements located thereon, for use as part of a real estate-related
+10 financial transaction; and
+11 (b) Preparation of a property data collection report that is transmitted to a
+12 property data collection company, and does not involve the practice of real
+13 estate appraisal, as defined in § 36-21B-2;
+14 (3) "Property data collection company," an entity that employs, contracts, retains, or
+15 otherwise engages one or more property data collectors to perform a property data
+16 collection and which is retained by a client to manage the process of having a
+17 property data collection performed;
+18 (4) "Property data collector," an individual licensed by the department to perform a
+19 property data collection; and
+20 (5) "Real estate-related financial transaction," any agreement involving:
+21 (a) The sale, lease, purchase, auction, finance, exchange of, or investment in,
+22 real estate, including interests in real estate and the financing thereof;
+23 (b) The refinancing of real estate or interests in real estate; and
+24 (c) The use of real estate or interests in real estate as security for a loan or
+25 investment, including mortgage-backed securities.
+26 Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 36:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.264.26 2 1026
+1 Except as provided in sections 4 and 5 of this Act, an individual must be licensed
+2 by the department, in accordance with this chapter, to engage in the practice of property
+3 data collection or to use the title "property data collector" or any other title to indicate the
+4 individual is a property data collector.
+5 A violation of this section is a Class 1 misdemeanor.
+6 Section 3. That a NEW SECTION be added to a NEW CHAPTER in title 36:
+7 To apply for licensure as a property data collector, an individual shall:
+8 (1) Submit an application provided by the department;
+9 (2) Pay the licensure fee established by the department in accordance with section 19
+10 of this Act;
+11 (3) Provide to the department documentation of having:
+12 (a) Completed a course of instruction approved by the department, which
+13 covers all aspects of property data collection and consists of at least thirty
+14 hours; and
+15 (b) Passed a department-approved examination indicating proficiency in
+16 property data collection;
+17 (4) Provide to the department documentation of having participated in five property
+18 data collections, as follows:
+19 (a) During the period beginning July 1, 2026, and ending December 31, 2027,
+20 the property data collection must be performed under the supervision of an
+21 individual who has performed at least five property data collections; and
+22 (b) Beginning January 1, 2028, the property data collection must be under the
+23 supervision of a property data collector;
+24 (5) Provide to the department all documentation required by section 9 of this Act:
+25 (a) A business services bond;
+26 (b) General liability insurance; and
+27 (c) Errors and omissions insurance; and
+28 (6) Submit to and pass a state and federal fingerprint-based criminal background
+29 check at the individual's expense.
+30 Section 4. That a NEW SECTION be added to a NEW CHAPTER in title 36:
+31 The following individuals are not required to be licensed in accordance with this
+32 chapter in order to engage in property data collection:
+33 (1) An architect, licensed in accordance with chapter 36-18A;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.264.26 3 1026
+1 (2) An engineer, licensed in accordance with chapter 36-18A;
+2 (3) A real estate appraiser, licensed in accordance with chapter 36-21B; or
+3 (4) A real estate broker, licensed in accordance with chapter 36-21A.
+4 The individuals are subject to all other provisions of this chapter regarding property
+5 data collection.
+6 Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 36:
+7 This chapter does not apply to:
+8 (1) A bank, trust company, savings and loan association, land mortgage, or farm loan
+9 association, if engaged in the transaction of business within the scope of its
+10 corporate powers, as provided by law; or
+11 (2) Any of the following, when acting within the scope of their practice or employment:
+12 (a) An employee of a political subdivision;
+13 (b) An insurance adjuster;
+14 (c) A land surveyor, licensed in accordance with chapter 36-18A;
+15 (d) A landscape architect, licensed in accordance with chapter 36-18A; or
+16 (e) Any employee of any individual or entity enumerated in this section.
+17 An individual or entity enumerated in this section is otherwise subject to the
+18 provisions of this chapter when engaging in property data collection.
+19 Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 36:
+20 The department may not issue a property data collection license to a partnership,
+21 association, corporation, firm, or group.
+22 A property data collector may perform property data collection services for, or on
+23 behalf of, a partnership, an association, a corporation, a firm, or a group; may conduct
+24 business as one of these entities; and may enter into and enforce contracts as one of
+25 these entities.
+26 Section 7. That a NEW SECTION be added to a NEW CHAPTER in title 36:
+27 A license issued by the department pursuant to this chapter expires on December
+28 thirty-first of each year.
+29 To renew a license, a licensee must:
+30 (1) Submit a renewal application provided by the department;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.264.26 4 1026
+1 (2) Pay the renewal fee established by the department, as provided in section 19 of
+2 this Act; and
+3 (3) Provide proof to the department of the completion of seven classroom hours of
+4 department-approved continuing education, consisting of topics designed to
+5 maintain or increase a property data collector’s competency.
+6 The department may reinstate an expired license if a renewal application and fee
+7 are received within thirty days after the expiration of the license. The department shall
+8 assess a fifty-dollar late fee.
+9 Section 8. That a NEW SECTION be added to a NEW CHAPTER in title 36:
+10 No person may influence, or attempt to influence, a property data collection
+11 through any means that impairs, or attempts to impair, the independence of a property
+12 data collector.
+13 A violation of this section is a Class 1 misdemeanor.
+14 Section 9. That a NEW SECTION be added to a NEW CHAPTER in title 36:
+15 Property data collectors, in order to protect the public without unduly burdening
+16 the company, shall possess:
+17 (1) Errors and omissions insurance in the amount of two hundred fifty thousand
+18 dollars, whether as individual coverage or as coverage under an employer policy,
+19 with coverage parameters established by the department in rules promulgated
+20 pursuant to chapter 1-26;
+21 (2) General liability insurance in the amount of two hundred fifty thousand dollars,
+22 whether as individual coverage or as coverage under an employer policy, with
+23 coverage parameters established by the department in rules promulgated pursuant
+24 to chapter 1-26; and
+25 (3) A business services bond in the amount of twenty-five thousand dollars, with
+26 parameters established by the department in rules promulgated pursuant to
+27 chapter 1-26.
+28 Section 10. That a NEW SECTION be added to a NEW CHAPTER in title 36:
+29 Upon first interaction with a property owner or agent of the property owner, or the
+30 primary person present at the property during a property data collection, a property data
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.264.26 5 1026
+1 collector shall provide a document, in a form and manner prescribed by the department,
+2 that:
+3 (1) Includes the property data collector's name, contact information, and state license
+4 number;
+5 (2) Describes the process of property data collection;
+6 (3) States that:
+7 (a) The property data collector is not a licensed real estate appraiser;
+8 (b) Data collected as part of the property data collection may be provided to a
+9 lender or the lender's agent; and
+10 (c) The information collected may be provided to a real estate appraiser to aid
+11 in the determination of the value of the property; and
+12 (4) Provides the information necessary to file a complaint with the department.
+13 Section 11. That a NEW SECTION be added to a NEW CHAPTER in title 36:
+14 The department may, in compliance with chapter 1-26 and §§ 36-1C-17 through
+15 36-1C-19, inclusive, deny the issuance of a license or suspend or revoke a license if the
+16 applicant or licensee:
+17 (1) Is convicted of, or pleads guilty or nolo contendere to, a crime of moral turpitude,
+18 as defined in § 22-1-2, or a felony;
+19 (2) Obtains a license by false or fraudulent representation; or
+20 (3) Engages in conduct that demonstrates the licensee or applicant's inability to
+21 perform a data property collection in accordance with standards established by the
+22 department, pursuant to section 19 of this Act.
+23 Section 12. That a NEW SECTION be added to a NEW CHAPTER in title 36:
+24 An entity may not engage in business, either directly or indirectly, as a property
+25 data collection company, without first registering with the department in accordance with
+26 sections 13, 14, and 19 of this Act.
+27 A property data collection company may not hire, employ, retain, contract or
+28 otherwise engage an individual to perform property data collection unless the individual:
+29 (1) Is licensed as a property data collector in accordance with this chapter; or
+30 (2) Is exempt from the licensing requirement, pursuant to sections 4 and 5 of this Act.
+31 The department may deny registration or revoke an entity's registration, if the
+32 department finds that the entity is in violation of this chapter, or rules adopted under this
+33 chapter.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.264.26 6 1026
+1 Section 13. That a NEW SECTION be added to a NEW CHAPTER in title 36:
+2 To register as a property data collection company, an entity must:
+3 (1) Submit an application provided by the department that contains:
+4 (a) The entity's contact information; and
+5 (b) The name and contact information of the entity’s agent for service of
+6 process in this state, if the entity is not a corporation domiciled in this state;
+7 (2) Certify that the entity has a system for:
+8 (a) Verifying that individuals are licensed according to this chapter;
+9 (b) Reviewing the work of property data collectors for the entity; and
+10 (c) Maintaining a detailed record of each property data collection service
+11 request that it receives and the property data collector who performs the
+12 property data collection service;
+13 (3) Submit an irrevocable uniform consent to service of process form; and
+14 (4) Pay the registration fee established by the department in accordance with section
+15 19 of this Act.
+16 Section 14. That a NEW SECTION be added to a NEW CHAPTER in title 36:
+17 A registration issued by the department pursuant to sections 12 and 13 of this Act
+18 expires on December thirty-first of each year.
+19 To renew a registration, an entity must:
+20 (1) Submit a renewal application provided by the department; and
+21 (2) Pay the renewal fee established by the department in accordance with section 19
+22 of this Act.
+23 The department may reinstate an expired registration if a renewal application and
+24 fee are received within thirty days after the expiration of the registration. The department
+25 shall assess a fifty-dollar late fee for reinstatement.
+26 Section 15. That a NEW SECTION be added to a NEW CHAPTER in title 36:
+27 An entity registered as an appraisal management company pursuant to chapter
+28 36-21D may act as a property data collection company without registering in accordance
+29 with this chapter, but is otherwise subject to the provisions of this chapter when acting as
+30 a property data collection company.
+31 Section 16. That a NEW SECTION be added to a NEW CHAPTER in title 36:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.264.26 7 1026
+1 A property data collection company must possess:
+2 (1) General liability insurance in the amount of five hundred thousand dollars, with
+3 coverage parameters established by the department to protect the public, in rules
+4 promulgated pursuant to chapter 1-26; and
+5 (2) A business services bond in the amount of twenty-five thousand dollars, with
+6 parameters established by the department to protect the public, in rules
+7 promulgated pursuant to chapter 1-26.
+8 Section 17. That a NEW SECTION be added to a NEW CHAPTER in title 36:
+9 If a property data collection report is provided by a property data collection
+10 company to a real estate appraiser for use in an appraisal, the report must include the
+11 name and contact information of the property data collector who performed the property
+12 data collection.
+13 Section 18. That a NEW SECTION be added to a NEW CHAPTER in title 36:
+14 There is created in the state treasury the property data collection fund. The fund
+15 consists of all fees imposed pursuant to this chapter and any other moneys designated for
+16 deposit in the fund.
+17 The department shall administer the fund. The purpose of the fund is to defray
+18 expenses associated with the administration of the licensure and registration of property
+19 data collectors and property data collection companies, as provided in this chapter.
+20 Interest on moneys credited to the fund must remain in the fund.
+21 Section 19. That a NEW SECTION be added to a NEW CHAPTER in title 36:
+22 The department shall promulgate rules, in accordance with chapter 1-26, to
+23 establish:
+24 (1) Criteria governing the initial licensure and renewal application processes;
+25 (2) Criteria for registering property data collection companies;
+26 (3) Education standards for licensing and criteria for verifying compliance;
+27 (4) Continuing education standards for licensing renewal and criteria for verifying
+28 compliance;
+29 (5) Standards governing the practice of property data collection;
+30 (6) The initial licensure fee, not to exceed six hundred dollars;
+31 (7) The licensure renewal fee, not to exceed three hundred dollars;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.264.26 8 1026
+1 (8) The registration fee, not to exceed one thousand dollars; and
+2 (9) The registration renewal fee, not to exceed five hundred dollars.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

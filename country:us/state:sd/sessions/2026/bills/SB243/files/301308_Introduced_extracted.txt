@@ -1,0 +1,133 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.694.20 101st Legislative Session 243
+2026 South Dakota Legislature
+Senate Bill 243
+Introduced by: Senator Carley
+1 An Act to impose a transaction tax and dedicate revenues collected to supplant
+2 certain property taxes, and to provide a penalty therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 10-13:
+5 Within twenty days of applying the taxes imposed on real property by all taxing
+6 districts in a county, the county auditor shall certify to the secretary of the Department of
+7 Revenue the total amount of taxes imposed within the county on:
+8 (1) Owner-occupied single-family dwellings;
+9 (2) Agricultural property; and
+10 (3) Nonagricultural property.
+11 Section 2. That a NEW SECTION be added to chapter 10-13:
+12 Within twenty days of receiving the certifications of all county auditors pursuant to
+13 section 1 of this Act, the secretary of the Department of Revenue shall determine the
+14 amount of moneys distributed to each county for purposes of reducing property tax levies
+15 in the following manner:
+16 (1) Reduce all levies on owner-occupied single-family dwellings in all counties in an
+17 equal proportion, until the taxes imposed on owner-occupied property are zero or
+18 until no moneys remain in the property tax replacement fund;
+19 (2) If moneys remain in the property relief fund after the reduction in subdivision (1),
+20 reduce all levies on agricultural property in all counties in an equal proportion, until
+21 the taxes imposed on agricultural property are zero or until no moneys remain in
+22 the property tax replacement fund; and
+23 (3) If moneys remain in the property tax relief fund after the reduction in subdivisions
+24 (1) and (2), reduce all levies on nonagricultural property in all counties in an equal
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.694.20 2 243
+1 proportion, until the taxes imposed on nonagricultural property are zero or until no
+2 moneys remain in the property tax replacement fund.
+3 Section 3. That a NEW SECTION be added to chapter 10-13:
+4 The secretary of the Department of Revenue shall notify the county auditor of the
+5 distributions calculated pursuant to section 2 of this Act, and the county auditor shall
+6 reduce the taxes imposed on property in accordance with the reductions provided for by
+7 the Department of Revenue for the upcoming tax year.
+8 Section 4. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+9 Terms used in this chapter mean:
+10 (1) "Final purchase price," the gross receipts taxable under chapter 10-45;
+11 (2) "Retail transaction," the sale, lease, or rental of tangible personal property,
+12 services, or products transferred electronically, other than for resale, sublease, or
+13 subrent; and
+14 (3) "Sale item", tangible personal property, services, or products transferred
+15 electronically as defined and used in chapter 10-45.
+16 Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+17 There is created in the state treasury the property tax replacement fund. The fund
+18 consists of all moneys collected under this chapter and deposited into the fund. The
+19 Department of Revenue shall administer the fund. The only purpose of the fund is to
+20 distribute moneys to political subdivisions in this state to be used for their ordinary and
+21 capital expenses, and to defray the cost of administering the tax imposed in section 5 of
+22 this Act.
+23 The property tax replacement fund is continuously appropriated to the Department
+24 of Revenue.
+25 Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+26 There is imposed a tax on each retail transaction that generates gross receipts
+27 subject to the tax imposed pursuant to chapter 10-45.
+28 For each retail transaction with a final purchase price of fifteen dollars or more, the
+29 tax imposed is one dollar and fifty cents. For each retail transaction with a final purchase
+30 price of less than fifteen dollars, the tax imposed is ten percent of the final purchase price.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.694.20 3 243
+1 Section 7. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+2 A transaction where more than one sale item is being purchased at the same time
+3 and by the same person, and where the final purchase price of the transaction includes all
+4 sale items, constitutes a single retail transaction.
+5 Section 8. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+6 Except as otherwise provided in this section, a person licensed pursuant to chapter
+7 10-45, or a person whose receipts are subject to the tax imposed by chapter 10-45, shall
+8 file a return and pay the tax due to the Department of Revenue on or before the twentieth
+9 day of the month following each monthly period, in the same manner in which the person
+10 files a return and remits the tax under chapter 10-45. The return must be filed on forms
+11 prescribed and furnished by the department.
+12 If the person remits the tax by electronic transfer to the state, the person must file
+13 the return by electronic means on or before the twentieth day of the month following each
+14 period and remit the tax on or before the twenty-fifth day of the month following each
+15 period.
+16 The secretary of the Department of Revenue may require or allow a person to file
+17 a return, and pay any tax due, on a basis other than monthly. The return and remittance
+18 is due the twentieth day of the month following the reporting period or at a time otherwise
+19 determined by the secretary.
+20 The secretary may grant an extension of not more than five days for filing a return
+21 and remittance.
+22 Unless an extension is granted, penalty or interest under § 10-59-6 must be paid
+23 if a return or remittance is not made on time.
+24 Section 9. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+25 A person who fails to pay the tax due under this chapter within sixty days from the
+26 date the tax becomes due is guilty of a Class 1 misdemeanor.
+27 A person who files a false return in an attempt to evade the tax imposed by this
+28 chapter is guilty of a Class 6 felony.
+29 Section 10. That § 10-46A-12 be AMENDED:
+30 10-46A-12. A contractor may list the contractor's excise tax and any use tax
+31 imposed under chapter 10-45, 10-46, or 10-52, or sections 4 to 9, inclusive, of this Act,
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.694.20 4 243
+1 as a separate line item on all contracts and bills, both for public and private entities. The
+2 line item for excise and use taxes is a part of the contractor's total bill and is collectible
+3 from all entities, both public and private.
+4 Section 11. That § 10-46B-10 be AMENDED:
+5 10-46B-10. A contractor may list the contractor's excise tax and any use tax
+6 imposed under chapter 10-45, 10-46, or 10-52, or sections 4 to 9, inclusive, of this Act,
+7 as a separate line item on all contracts and bills, both for public and private entities. The
+8 line item for excise and use taxes is a part of the contractor's total bill and is collectible
+9 from all entities, both public and private.
+10 Section 12. That § 10-52-1.1 be AMENDED:
+11 10-52-1.1. Notwithstanding any other provision of law, gross receipts as defined
+12 in this chapter do not include any tax imposed by this chapter and chapters 10-45, 10-
+13 45D, and 10-52A that, and sections 4 to 9, inclusive, of this Act, which is separately stated
+14 on the invoice, bill of sale, or similar document given to the purchaser.
+15 Section 13. That § 10-59-1 be AMENDED:
+16 10-59-1. The provisions of this chapter may only apply to proceedings commenced
+17 under this chapter concerning the taxes, the fees, the surcharges, or the persons subject
+18 to the taxes, fees, or surcharges imposed by, or any civil or criminal investigation
+19 authorized by, chapters 10-33A, 10-39, 10-39A, 10-39B, 10-43, 10-45, 10-45D, 10-46,
+20 10-46A, 10-46B, 10-46E, 10-47B, 10-50C, 10-52, 10-52A, 10-62, 32-3, 32-3A, 32-5, 32-
+21 5B, 32-6B, 32-9, 32-10, 34-45, and 34A-13, and §§ 10-50-61, 49-31-51, and 50-4-13 to
+22 50-4-17, inclusive, and sections 4 to 9, inclusive, of this Act.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

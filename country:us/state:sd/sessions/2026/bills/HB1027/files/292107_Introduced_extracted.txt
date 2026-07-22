@@ -1,0 +1,162 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.81.18 101st Legislative Session 1027
+2026 South Dakota Legislature
+House Bill 1027
+Introduced by: The Chair of the Committee on Commerce and Energy at the request of the Public Utilities Commission
+of the State of South Dakota
+1 An Act to update certain citations to federal regulations regarding pipeline safety
+2 inspections.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 49-34B-1 be AMENDED:
+5 49-34B-1. Terms used in this chapter mean:
+6 (1) "Commission," the Public Utilities Commission of the State of South Dakota;
+7 (2) "Emergency release," a release of a quantity of gas that is great enough to pose:
+8 (a) Pose a clear and immediate danger to life, health, or the environment,;
+9 orthat threatens
+10 (b) Threaten a significant loss of property;
+11 (3) "Gas," natural gas, liquefied natural gas, flammable gas, gas which that is toxic or
+12 corrosive, or liquefied petroleum gas in a distribution systems system;
+13 (4) "Gas pipeline," all parts of those the physical facilities through which gas moves in
+14 transportation, including pipe compressor units, delivery stations, fabricated
+15 assemblies, holders, metering stations, pipes, regulator stations, valves, and other
+16 appurtenances attached to pipe, compressor units, metering stations, regulator
+17 stations, delivery stations, holders, and fabricated assemblies the facilities;
+18 (5) "Gas pipeline facilities," new and existing pipelines, and rights-of-way, master
+19 meter systems, pipeline facilities within this state, which transport gas from an
+20 interstate gas pipeline to a direct sales customer, within this state, purchasing gas
+21 for its the customer's own consumption, and any building, equipment, or facility,
+22 or building used in the transportation of gas, or in the treatment of gas during the
+23 course of transportation, within this state;
+24 (6) "Inspection fee," any fee assessed to pipeline operators based on the expenses
+25 and obligations incurred by the commission in implementing and administering this
+26 chapter;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.81.18 2 1027
+1 (7) "Intrastate pipeline," any pipeline or that part of a pipeline to which this part applies
+2 that is not an interstate pipeline;
+3 (8) "Interstate pipeline," pipeline facilities used in the transportation of gas, which are
+4 subject to the jurisdiction of the Federal Energy Regulatory Commission under the
+5 Natural Gas Act, United States Code, Title 15, sections 717 to 717z, inclusive, as
+6 amended to January 1, 2023, except that it does not include 15 U.S.C. §§ 717 to
+7 717z, inclusive (January 1, 2026), except any pipeline facilities facility, within this
+8 state which transport, transporting gas from an interstate gas pipeline to a direct
+9 sales customer, within this state, purchasing gas for its the customer's own
+10 consumption;
+11 (8) "Intrastate pipeline," any pipeline or part of a pipeline to which this chapter applies,
+12 but which is not an interstate pipeline;
+13 (9) "Liquefied natural gas," natural gas or synthetic gas having methane (CH4) as its
+14 major constituent that, which has been changed to a liquid or semisolid;
+15 (10) "Master meter system," any pipeline system for distributing gas within a definable
+16 area, such as a mobile home park, housing project, or an apartment complex,
+17 housing project, mobile home park, or other definable area, where the operator
+18 purchases metered gas from an outside source for resale through a gas distribution
+19 pipeline system and the gas distribution pipeline system supplies the ultimate
+20 consumer who either purchases the gas directly through a meter or by rents or
+21 other means, such as by rents;
+22 (11) "Pipeline operator," any person who owns or operates a pipeline;
+23 (12) "Release," a spilling, leaking, pumping, pouring, emitting, emptying, any
+24 discharging, injecting, leaching, dumping, disposing, dumping, emitting, emptying,
+25 flowing, injecting, leaching, leaking, pouring, pumping, spilling, or any uncontrolled
+26 escape escaping of a gas from a pipeline; and
+27 (13) "Transportation of gas," the distribution, gathering, or transmission, or distribution
+28 of gas by pipeline, or the storage of gas.
+29 Section 2. That § 49-34B-3 be AMENDED:
+30 49-34B-3. There is created a pipeline safety inspection program. The federal
+31 safety standards adopted as Code of Federal Regulations, title 49 appendix, parts 191,
+32 192, 193, and 199 as amended to January 1, 2023 as set forth in 49 C.F.R. parts 191 to
+33 193, inclusive, 199, and appendices to parts 191 and 192 (January 1, 2026), are adopted
+34 as minimum safety standards for this chapter. The commission shall establish and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.81.18 3 1027
+1 implement a compliance pipeline safety inspection program to enforce these safety
+2 standards. The program shall be established and implemented in a manner that fully
+3 complies with requirements for state certification under the United States Code, title 49,
+4 section 60105, as amended to January 1, 2023 pursuant to 49 U.S.C. § 60105 (January
+5 1, 2026).
+6 Section 3. That § 49-34B-4 be AMENDED:
+7 49-34B-4. The commission may, by rules promulgated pursuant to chapter 1-26,
+8 establish safety standards, but that are not more stringent than federal safety standards,
+9 as provided by set forth in § 49-34B-3, for the intrastate transportation of gas and gas
+10 pipeline facilities. The standards may apply to the construction, design, installation
+11 extension, inspection, installation, maintenance, operation, replacement, and testing,
+12 construction, extension, operation, replacement, and maintenance of gas pipeline
+13 facilities. Standards affecting the design, installation, construction, design, initial
+14 inspection, and initial testing, and installation do not apply to pipeline facilities in existence
+15 on the date the standards are adopted by either this state or the federal government. The
+16 safety standards shall must be practicable and designed to meet the need for pipeline
+17 safety. In prescribing the standards, the commission shall consider:
+18 (1) Relevant available pipeline safety data;
+19 (2) Whether the standards are appropriate for the particular type of pipeline
+20 transportation of gas;
+21 (3) The reasonableness of any proposed standards;
+22 (4) The extent to which the each standard will contribute to public safety; and
+23 (5) The existing standards established by the secretary of the United States
+24 Department of Transportation pursuant to the United States Code, title 49, section
+25 60101 et seq. as amended to January 1, 2023 49 U.S.C. §§ 60101 to 60143,
+26 inclusive (January 1, 2026).
+27 Section 4. That § 49-34B-13 be AMENDED:
+28 49-34B-13. No A person is not subject to civil penalties under this chapter if prior
+29 civil penalties have been imposed under the United States Code, title 49, section 60101
+30 et seq. as amended to January 1, 2023 pursuant to 49 U.S.C. §§ 60101 to 60143, inclusive
+31 (January 1, 2026), for conduct that may give rise to a violation of both acts. Nothing in
+32 this chapter limits the powers of the commission, or precludes the pursuit of any other
+33 administrative, civil, criminal, or injunctive, or criminal remedies remedy by the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.81.18 4 1027
+1 commission or any other person. Administrative remedies need not be exhausted in order
+2 to proceed under this chapter. The remedies provided by this chapter are in addition to
+3 those provided under existing statutory or common law.
+4 Section 5. That § 49-34B-14 be AMENDED:
+5 49-34B-14. The commission may, to the extent authorized by agreement with the
+6 secretary of the United States Department of Transportation, act as agent for the secretary
+7 of transportation to implement the United States Code, title 49, section 60101 et seq. as
+8 amended to January 1, 2023 provisions of 49 U.S.C. §§ 60101 to 60143, inclusive
+9 (January 1, 2026), and any federal pipeline safety regulations promulgated thereto with
+10 respect to interstate gas pipelines located within this state, as necessary to obtain annual
+11 federal certification. The If the commission agrees to serve as an agent for the Department
+12 of Transportation, the commission shall must, to the extent authorized by federal law,
+13 inspect pipelines in the state as authorized by the § 49-34B-3 and other applicable
+14 provisions of this chapter.
+15 Section 6. That § 49-34B-15 be AMENDED:
+16 49-34B-15. The commission may seek and accept federal designation of the
+17 commission's pipeline inspectors as federal agents for the purposes of inspection pursuant
+18 to the United States Code, title 49, section 60101 et seq. as amended to January 1, 2023
+19 49 U.S.C. §§ 60101 to 60143, inclusive (January 1, 2026), and federal rules adopted to
+20 implement those acts statutes. If the Department of Transportation delegates inspection
+21 authority to the state as provided in this section, the commission shall do what is
+22 necessary to must carry out its delegated federal authority.
+23 Section 7. That § 49-34B-19 be AMENDED:
+24 49-34B-19. The commission may promulgate pipeline inspection and safety rules,
+25 pursuant to chapter 1-26, to the extent necessary to enable the state to qualify for annual
+26 federal certification to operate the federal pipeline inspection program of intrastate and
+27 interstate gas pipelines as authorized by the United States Code, title 49, section 60101
+28 et seq. as amended to January 1, 2023 49 U.S.C. §§ 60101 to 60143, inclusive (January
+29 1, 2026).
+30 Section 8. That § 49-34B-22 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.81.18 5 1027
+1 49-34B-22. All information granted to, reported to, or obtained by the commission
+2 under this chapter that contains or relates to, which is a trade secret referred to in United
+3 States Code, title 18, section 1905, as amended to January 1, 2023, or that is granted by
+4 chapter 37-29, as defined in § 37-29-1, is confidential for the purpose of that section,
+5 except that the information may be disclosed to the commission or commission employee
+6 or its agent concerned with responsible for enforcing this chapter. Nothing in this section
+7 authorizes the withholding of information by the commission from a committee of the
+8 Legislature.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

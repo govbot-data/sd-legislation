@@ -1,0 +1,29 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.898.9 101st Legislative Session 1176
+2026 South Dakota Legislature
+House Bill 1176
+Introduced by: Representative Pourier
+1 An Act to clarify bond or pre-trial release upon sobriety program participation.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 1-11-20 be AMENDED:
+4 1-11-20. The court may condition any bond or pre-trial release upon participation
+5 in the 24/7 sobriety program and payment of associated costs and expenses. No defendant
+6 may be jailed, nor a defendant's bond or pre-trial release revoked, for failure to pay the
+7 costs and expenses of the program, unless the court finds the defendant has the present
+8 and continued ability to pay the costs and expenses of the program. The defendant has
+9 the burden of proof to establish to the reasonable satisfaction of the court that the
+10 defendant did not willfully fail to pay, or did make a bona fide effort to pay, the costs and
+11 expenses of the program.
+12 Any costs and expenses of the program not paid by the defendant prior to the
+13 disposition of the defendant's criminal case may be imposed upon disposition of the case,
+14 if the court finds the defendant has the ability to pay the costs and expenses of the
+15 program.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

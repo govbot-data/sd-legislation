@@ -1,0 +1,54 @@
+Title: 
+Official Title: 
+Source: versions - Senate Taxation Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.616.22 101st Legislative Session 183
+2026 South Dakota Legislature
+Senate Bill 183
+SENATE TAXATION ENGROSSED
+Introduced by: Senator Hulse
+1 An Act to modify requirements for public notice of a hearing prior to a vote to impose
+2 an excess tax levy.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 10-12:
+5 At least twenty-one days prior to a vote by the board of a school district to impose
+6 an excess tax levy pursuant to § 10-12-43 or 10-12-43.1, the board shall publish, in the
+7 legal newspaper designated pursuant to § 13-8-10 and on the district’s website, notice of
+8 its intent to vote on the imposition of an excess tax levy, and shall mail or electronically
+9 transmit the notice to all property owners in the district. The notice must include:
+10 (1) The maximum amount under consideration in excess of the limitations applicable
+11 to the school district;
+12 (2) The amount allowed to be imposed without an excess tax levy;
+13 (3) The date, time, and location of the public hearing at which the board will vote to
+14 impose an excess tax levy;
+15 (4) The estimated increase in property taxes, in the district per one hundred thousand
+16 dollars of taxable value, as a result of the excess tax levy; and
+17 (5) The intended use of moneys collected from the excess tax levy being considered.
+18 The board of the school district shall, at the public hearing, provide taxpayers with
+19 an opportunity to comment on the excess tax levy.
+20 Section 2. That a NEW SECTION be added to chapter 10-13:
+21 At least twenty-one days prior to a vote to impose an excess tax levy pursuant to
+22 § 10-13-36, the governing body of a taxing district shall publish, in the legal newspaper
+23 designated pursuant to § 13-8-10 and on the district’s website, notice of its intent to vote
+24 on the imposition of an excess tax levy, and shall mail or electronically transmit the notice
+25 to all property owners in the district. The notice must include:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.616.22 2 183
+1 (1) The maximum amount under consideration in excess of the limitations applicable
+2 to the taxing district;
+3 (2) The amount allowed to be imposed without an excess tax levy;
+4 (3) The date, time, and location of the public hearing at which the governing body will
+5 vote to impose an excess tax levy;
+6 (4) The estimated increase in property taxes in the district, per one hundred thousand
+7 dollars of taxable value, as a result of the excess tax levy; and
+8 (5) The intended use of moneys collected from the excess tax levy being considered.
+9 The governing body of the district shall, at the public hearing, provide taxpayers
+10 with an opportunity to comment on the excess tax levy.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

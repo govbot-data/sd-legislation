@@ -1,0 +1,33 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.993.11 101st Legislative Session 1307
+2026 South Dakota Legislature
+House Bill 1307
+Introduced by: Representative Ladner
+1 An Act to limit the annual increase in assessed value of each owner-occupied single-
+2 family dwelling.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 10-6-158 be AMENDED:
+5 10-6-158. For taxes payable in 2027, 2028, 2029, 2030, and 2031, the total The
+6 assessed value of all property in a county with an owner-occupied single-family dwelling
+7 classification, as defined in § 10-13-39, may not increase more than three percent over
+8 the total assessed value of all property in the county with an the owner-occupied single-
+9 family dwelling classification in the prior year, except as otherwise provided in this section.
+10 A county may further increase the total The assessed value of all property with an
+11 owner-occupied single-family dwelling classification may be further increased by an
+12 amount equal to the assessed value of all new improvements of a new improvement made
+13 to the owner-occupied single-family dwellings or property reclassified to the owner-
+14 occupied single-family dwelling classification in the county in the prior dwelling in that
+15 year.
+16 Notwithstanding the provisions of this section, a county must adjust the total
+17 assessed value of all property with an owner-occupied single-family dwelling classification
+18 pursuant to § 10-6-121.
+19 Section 2. This Act is effective beginning July 1, 2027.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

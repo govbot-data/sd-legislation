@@ -1,0 +1,47 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.337.9 101st Legislative Session 1091
+2026 South Dakota Legislature
+House Bill 1091
+Introduced by: Representative Fitzgerald
+1 An Act to require that corrected information be posted at least twenty-four hours
+2 prior to a meeting of a political subdivision.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 1-25-1.1 be AMENDED:
+5 1-25-1.1. Each political subdivision shall provide public notice, with proposed
+6 agenda, that is visible, readable, and accessible of a scheduled meeting by posting, for at
+7 least an entire, continuous twenty-four hours immediately preceding any official meeting,
+8 by posting a copy of the notice, visible to the public, a visible, readable, and accessible
+9 copy of the proposed agenda, and any financial report to be voted upon, at the principal
+10 office of the political subdivision holding the meeting and on the political subdivision's
+11 website, if a website exists. The proposed agenda shall must include the date, time, and
+12 location of the meeting. The notice shall also be posted on the political subdivision's
+13 website upon dissemination of the notice, if a website exists.
+14 If the posted proposed agenda, any attachment to the proposed agenda, or any
+15 financial report to be voted upon contains a material error, an updated document
+16 containing corrected information must be posted at the principal office and on any existing
+17 website of the political subdivision at least twenty-four hours prior to the start of the
+18 meeting.
+19 For any special or rescheduled meeting, the information in the notice shall must be
+20 delivered in person, or by mail, by email, or by telephone, to members of the local news
+21 media who have requested notice. For any special or rescheduled meeting If
+22 circumstances permit for a special or rescheduled meeting, each political subdivision shall
+23 must also comply with the public notice provisions of this section for a regular meeting to
+24 the extent that circumstances permit.
+25 A violation of this section is a Class 2 misdemeanor.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.337.9 2 1091
+1 For purposes of this section, "material error" means an error that is reasonably
+2 likely to mislead the public as to the date, time, location, subject matter, or intended
+3 action of the meeting or the content of any attachment or financial report to be voted
+4 upon.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

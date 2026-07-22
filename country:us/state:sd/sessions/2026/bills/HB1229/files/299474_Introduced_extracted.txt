@@ -1,0 +1,79 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.745.13 101st Legislative Session 1229
+2026 South Dakota Legislature
+House Bill 1229
+Introduced by: Representative Weems
+1 An Act to require the inclusion of certain features within a manufacturer's
+2 application store or on a developer's application.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to a NEW CHAPTER in title 37:
+5 Terms used in this chapter mean:
+6 (1) "Application," an electronic service or software that may be run or directed by a
+7 user on any general-purpose computing device;
+8 (2) "Application store," a publicly available website, electronic service, or other
+9 platform that facilitates the procurement and distribution of an application;
+10 (3) "Developer," any person that creates, owns, or controls an application and is
+11 responsible for the design, development, maintenance, and distribution of the
+12 application to end users; or
+13 (4) "Manufacturer," any person that creates, owns, or controls an application store.
+14 Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 37:
+15 A manufacturer shall take commercially reasonable and technologically feasible
+16 steps to provide a list on an application's page within the application store, of all goods or
+17 services that are available to be purchased by a user through an application, and the cost
+18 of each good or service.
+19 Section 3. That a NEW SECTION be added to a NEW CHAPTER in title 37:
+20 To the extent applicable and technologically feasible, a developer shall provide a
+21 readily available feature for any user of the developer's application, to review a list of all
+22 goods or services that are available to be purchased by a user through the application,
+23 and the cost of each good or service.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.745.13 2 1229
+1 To the extent applicable and technologically feasible, a developer shall provide a
+2 readily available feature for any user of the developer's application, by which the user is
+3 able to cancel or otherwise modify the user's subscription to any goods or services
+4 provided by the application.
+5 Section 4. That a NEW SECTION be added to a NEW CHAPTER in title 37:
+6 If a manufacturer is not in substantial compliance with the requirement of section
+7 2 of this Act, the attorney general must provide written notice to the manufacturer before
+8 initiating an action pursuant to section 5 of this Act.
+9 If a developer is not in substantial compliance with the requirement of section 3 of
+10 this Act, the attorney general must provide written notice to the developer before initiating
+11 an action pursuant to section 6 of this Act.
+12 If the manufacturer or developer cures any noticed violation to the satisfaction of
+13 the attorney general, and provides to the attorney general a written statement under oath
+14 that the alleged violation has been cured, within ninety days of the notice provided under
+15 this section, the manufacturer or developer is not liable for a civil penalty for any cured
+16 violation of section 2 or 3 of this Act.
+17 Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 37:
+18 Any manufacturer found in violation of section 2 of this Act, to whom notice was
+19 provided pursuant to section 4 of this Act, is liable for a civil penalty in an amount not
+20 exceeding one thousand dollars per incident. The civil penalty may be assessed and
+21 recovered only in a civil action by the attorney general. The attorney general shall forward
+22 any civil penalty collected under this section to the state treasurer for deposit in the
+23 general fund.
+24 Nothing in this section may be construed to serve as the basis for a new private
+25 right of action for any violation of section 2 of this Act.
+26 Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 37:
+27 Any developer found in violation of section 3 of this Act, to whom notice was
+28 provided pursuant to section 4 of this Act, is liable for a civil penalty in an amount not
+29 exceeding one thousand dollars per incident. The civil penalty may be assessed and
+30 recovered only in a civil action by the attorney general. The attorney general shall forward
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.745.13 3 1229
+1 any civil penalty collected under this section to the state treasurer for deposit in the
+2 general fund.
+3 Nothing in this section may be construed to serve as the basis for a new private
+4 right of action for any violation of section 3 of this Act.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

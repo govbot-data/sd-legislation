@@ -1,0 +1,26 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.970.13 101st Legislative Session 232
+2026 South Dakota Legislature
+Senate Bill 232
+Introduced by: Senator Howard
+1 An Act to impose a one-year moratorium on the construction or expansion of
+2 hyperscale data centers.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. Notwithstanding any other provision of law, a moratorium is imposed
+5 on any new construction or expansion of a hyperscale data center in this state. The
+6 moratorium includes the expansion of any data center that is not currently a hyperscale
+7 data center but, if expanded, would become a hyperscale data center.
+8 The moratorium is in effect through June 30, 2027.
+9 For purposes of this Act, "hyperscale data center" means a centralized repository:
+10 (1) For the storage, management, dissemination, and processing of electronic data
+11 and information; and
+12 (2) Having a peak electrical demand of fifty megawatts or greater.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

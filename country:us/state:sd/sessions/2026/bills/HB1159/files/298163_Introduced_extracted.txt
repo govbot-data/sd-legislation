@@ -1,0 +1,46 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.756.9 101st Legislative Session 1159
+2026 South Dakota Legislature
+House Bill 1159
+Introduced by: Representative Goodwin
+1 An Act to impose a moratorium on industrial dairy operations.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. Notwithstanding any other provision of law, a moratorium is imposed
+4 on any new or expanding industrial dairy operation that is permitted as a concentrated
+5 animal feeding operation under chapter 34A-2 and granted a conditional use permit by
+6 any county in this state, if the number of animal units at the new or expanding operation
+7 is to exceed seven thousand four hundred ninety-nine dairy cows.
+8 Currently permitted and operating dairy operations may continue to operate at the
+9 scale identified in any permit approved prior to July 1, 2026.
+10 The purpose of the moratorium is to:
+11 (1) Allow the Department of Agriculture and Natural Resources to undertake an
+12 interdisciplinary process of data collection, review, consideration, and analysis of
+13 the potential economic and environmental impacts of industrial dairy operations in
+14 this state, and to make results available to the public; and
+15 (2) Allow county governments time to update comprehensive land use plans and
+16 ordinances to match the scale of industrial dairy operations by:
+17 (a) Requiring road agreements between townships and industrial dairy
+18 operations as part of conditional use permit approvals; and
+19 (b) Implementing incremental, increasing setbacks proportional to the size of
+20 an industrial dairy operation; and
+21 (3) Allow the Department of Agriculture and Natural Resources to determine whether
+22 it has adequate resources to determine the impact of industrial dairy operations on
+23 the watersheds of this state.
+24 For purposes of this section, "industrial dairy operation" means a dairy with more
+25 than seven thousand four hundred ninety-nine head of dairy cows.
+26 The moratorium is in effect through June 30, 2028.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.756.9 2 1159
+1
+2
+Underscores indicate new language.
+Overstrikes indicate deleted language.

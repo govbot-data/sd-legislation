@@ -1,0 +1,96 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.751.9 101st Legislative Session 129
+2026 South Dakota Legislature
+Senate Bill 129
+Introduced by: Senator Reed
+1 An Act to update references in certain statutes to the 2024 standard building codes.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 11-10-5 be AMENDED:
+4 11-10-5. If the governing body of any local unit of government adopts any
+5 ordinance prescribing standards for construction, alteration, movement, enlargement,
+6 replacement, repair, equipment, use and occupancy, location, removal, and demolition of
+7 any building other than a residential structure as defined in § 11-10-12, the ordinance
+8 shall must comply with the 2021 2024 edition of the International Building Code, as
+9 published by the International Code Council, Incorporated. The governing body may
+10 amend, modify, or delete any portion of the International Building Code before enacting
+11 such an the ordinance. Additional deletions, modifications, and amendments to the
+12 municipal ordinance may be made by the governing body and are effective upon their
+13 adoption and filing with the municipal finance officer. Additional deletions, modifications,
+14 and amendments to the county ordinance may be made by the governing body, and are
+15 effective upon their adoption and filing with the county auditor.
+16 NoAn ordinance may not apply to mobile or manufactured homes, as defined in
+17 chapter 32-7A that, which are constructed in compliance with the applicable prevailing
+18 standards of the United States Department of Housing and Urban Development at the
+19 time of construction. No An ordinance may not require that any fire sprinkler be installed
+20 in a single family dwelling. No An ordinance may not apply to any specialty resort or
+21 vacation home establishment as defined in chapter 34-18 that is constructed in compliance
+22 with the requirements of Group R-3 of the 2021 2024 edition of the International Building
+23 Code.
+24 Section 2. That § 11-10-6 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.751.9 2 129
+1 11-10-6. The design standard for construction, alteration, movement,
+2 enlargement, replacement, repair, equipment, use and occupancy, location, removal, and
+3 demolition of any building commenced after July 1, 2021 2026, within the boundaries of
+4 any local unit of government that has not adopted an ordinance prescribing such the
+5 standards pursuant to § 11-10-5 shall, must be based on the 2021 2024 edition of the
+6 International Building Code as published by the International Code Council, Incorporated.
+7 Each local unit of government may adopt an ordinance allowing local administration and
+8 enforcement of the design standard.
+9 The provisions of this section do not apply to any residential structure as defined
+10 in § 11-10-12, mobile or manufactured home, or farmstead and any accessory structure
+11 or building thereto.
+12 For purposes of this section the term, "farmstead," means a farm or ranch,
+13 including any structure or building located on the land.
+14 The provisions of this section do not apply to any mobile or manufactured home,
+15 as defined in chapter 32-7A that, which is used for purposes other than residential and
+16 that which is constructed in compliance with the applicable prevailing standards of the
+17 United States Department of Housing and Urban Development at the time of construction,
+18 if the structure complies with applicable accessibility standards for the occupancy
+19 intended. The provisions of this section do not apply to any specialty resort or vacation
+20 home establishment as defined in chapter 34-18 that is constructed in compliance with
+21 the requirements of Group R-3 of the 2021 2024 edition of the International Building Code.
+22 Section 3. That § 11-10-11 be AMENDED:
+23 11-10-11. If the governing body of any local unit of government adopts any
+24 ordinance prescribing standards for maintenance of existing structures and premises, the
+25 ordinance shall must comply with the 2021 2024 edition of the International Property
+26 Maintenance Code, as published by the International Code Council, Incorporated. The
+27 governing body may amend, modify, or delete any portion of the International Property
+28 Maintenance Code before enacting such an the ordinance. Additional deletions,
+29 modifications, and amendments to the municipal ordinance may be made by the governing
+30 body and are effective upon their adoption and filing with the municipal finance officer.
+31 Additional deletions, modifications, and amendments to the county ordinance may be
+32 made by the governing body, and are effective upon their adoption and filing with the
+33 county auditor. However, no An ordinance may not impose standards that conflict with
+34 the applicable prevailing standards of the United States Department of Housing and Urban
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.751.9 3 129
+1 Development at the time of construction for manufactured homes as defined in chapter
+2 32-7A.
+3 Section 4. That § 11-10-12 be AMENDED:
+4 11-10-12. The governing body of a municipality may enact requirements for
+5 construction, alteration, movement, enlargement, replacement, repair, equipment, use
+6 and occupancy, location, removal, and demolition of a residential structure by adopting
+7 the 2021 2024 edition of the International Residential Code, as published by the
+8 International Code Council, Incorporated. The governing body may, at any time, amend
+9 any provision of the International Residential Code. The governing body may not require
+10 the installation of a sprinkler system in a residential structure or impose any requirements
+11 that are more stringent than the requirements in the 2021 2024 edition of the
+12 International Residential Code.
+13 For purposes of this section, the term, residential structure, "residential structure"
+14 means a detached one-family or two-family dwelling, and townhouses not more than three
+15 stories in height, with a separate means of egress and their accessory structures any
+16 accessory structure of the dwelling or townhouse.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

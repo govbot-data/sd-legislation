@@ -1,0 +1,177 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.162.53 101st Legislative Session 1257
+2026 South Dakota Legislature
+House Bill 1257
+Introduced by: Representative Soye
+1 An Act to regulate the performance and reporting of abortions necessary to preserve
+2 the life of a pregnant female and to provide a penalty therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That chapter 22-17 be amended with a NEW SECTION:
+5 Terms used in this chapter mean:
+6 (1) "Abortion," the act of administering, prescribing, providing, selling, or using any
+7 drug, medicine, or other substance, or providing, selling, or using any device or
+8 instrument, with the intent to terminate a clinically diagnosable pregnancy,
+9 including the elimination of one or more unborn children in a multifetal pregnancy,
+10 with knowledge that the termination by those means will, with reasonable
+11 likelihood, cause the death of the unborn child, provided the term does not include:
+12 (a) Medical treatment that is provided to a pregnant female and results in the
+13 accidental or unintentional death of the unborn child;
+14 (b) Treatment to resolve a miscarriage;
+15 (c) The treatment or removal of an ectopic pregnancy;
+16 (d) The removal from the uterus of a deceased unborn child; or
+17 (e) Any medical procedure performed for the purpose of saving the life or
+18 preserving the health of the unborn child;
+19 (2) "Ectopic pregnancy," the implantation of an embryo outside the uterus, in an
+20 abnormal location in the uterus, or in a scarred portion of the uterus;
+21 (3) "Miscarriage," the spontaneous loss of a pregnancy, including the circumstances of
+22 an inevitable miscarriage, an incomplete miscarriage, a missed miscarriage, and a
+23 septic miscarriage;
+24 (4) "Pregnant", the human female reproductive condition of having a living unborn
+25 child within the female's body, throughout every stage of the unborn child's life
+26 and development, from fertilization to full gestation and childbirth;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.162.53 2 1257
+1 (5) "Reasonable medical judgment," a medical judgment that would be made by a
+2 reasonably prudent physician, knowledgeable about the case and the treatment
+3 possibilities with respect to the medical condition involved; and
+4 (6) "Unborn child," an individual organism of the species homo sapiens from
+5 fertilization until live birth.
+6 Section 2. That § 22-17-5.1 be AMENDED:
+7 22-17-5.1. Any person who administers to any pregnant female or who prescribes
+8 or procures for any pregnant female any medicine, drug, or substance or uses or employs
+9 any instrument or other means with intent thereby to procure commits an abortion is
+10 guilty of a Class 6 felony, unless there is appropriate and in the reasonable medical
+11 judgment that performance of an attending physician an abortion is necessary to preserve
+12 the life of the pregnant female, is guilty of a Class 6 felony.
+13 Section 3. That a NEW SECTION be added to chapter 22-17:
+14 For an abortion to be justified as necessary to preserve the life of a pregnant
+15 female, as set forth in § 22-17-5.1, the attending physician, exercising reasonable medical
+16 judgment, must determine that the female suffers from a physical disorder, physical
+17 illness, or physical injury, including a life-endangering physical condition arising from the
+18 pregnancy itself, and that the disorder, illness, or injury places the pregnant female at a
+19 reasonably foreseeable risk of death, unless an abortion is performed. Nothing in this
+20 section requires that the risk of death be imminent.
+21 The attending physician, exercising reasonable medical judgement, shall make
+22 reasonable efforts, under the circumstances, to preserve both the life of the pregnant
+23 female and the life of her unborn child, unless in reasonable medical judgment, the
+24 termination of the pregnancy in that manner would pose a greater risk of death of the
+25 pregnant female.
+26 An abortion justified under this section must take place at a hospital licensed
+27 pursuant to chapter 34-12, unless, due to a medical emergency, it is necessary to perform
+28 the abortion in another location. The person performing or inducing the abortion must be
+29 a licensed physician.
+30 The physician performing or inducing the abortion shall report the abortion to the
+31 Department of Health in accordance with the requirements set forth in chapter 34-23A.
+32 An abortion may not be construed as necessary to preserve the life of the pregnant
+33 female if:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.162.53 3 1257
+1 (1) The abortion is based on the physician's belief that the female may or will take
+2 action to harm herself; or
+3 (2) The abortion is based on a claim or diagnosis that relates to a psychological or
+4 emotional condition of the pregnant female.
+5 Section 4. That § 22-17-6 be AMENDED:
+6 22-17-6. Any person who intentionally kills a human fetus an unborn child by
+7 causing an injury to its the child's mother, which is not authorized by chapter 34-23A, is
+8 guilty of a Class 4 felony.
+9 Section 5. That § 22-17-13 be AMENDED:
+10 22-17-13. A person is guilty of a Class B felony if, with the intent to cause a
+11 pregnant mother to undergo an abortion against her will, the person:
+12 (1) Threatens With the intent to cause a pregnant mother to undergo an abortion
+13 against her will, the person threatens to commit, against the pregnant mother or
+14 any other person within the pregnant mother's presence:
+15 (a) Homicide, murder, or manslaughter, under chapter 22-16;
+16 (b) Aggravated assault, under § 22-18-1.1; or
+17 (c) Kidnapping, under chapter 22-19; and
+18 (2) The threat, as described in subdivision (1) of this section, results in the death of
+19 the unborn human being, as defined under § 34-23A-1 child.
+20 A charge brought under this section may be commenced at any time prior to the
+21 time the victim attains age twenty-five or within seven years of the commission of the
+22 crime, whichever is longer.
+23 Section 6. That § 34-23A-1 be AMENDED:
+24 34-23A-1. Terms used in this chapter mean:
+25 (1) "Abortion," the intentional termination of the life of a human being in the uterus
+26 act of administering, prescribing, providing, selling, or using any drug, medicine,
+27 or other substance, or providing, selling, or using any device or instrument, with
+28 the intent to terminate the clinically diagnosable pregnancy, including the
+29 elimination of one or more unborn children in a multifetal pregnancy, with
+30 knowledge that the termination by those means will, with reasonable likelihood,
+31 cause the death of the unborn child, provided the term does not include:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.162.53 4 1257
+1 (a) Medical treatment that is provided to a pregnant female and results in the
+2 accidental or unintentional death of the unborn child;
+3 (b) Treatment to resolve a miscarriage;
+4 (c) The treatment or removal of an ectopic pregnancy;
+5 (d) The removal from the uterus of a deceased unborn child; or
+6 (e) Any medical procedure performed for the purpose of saving the life or
+7 preserving the health of the unborn child;
+8 (1A) "Abortion facility," a place where abortions are performed;
+9 (1B) "Department," the South Dakota Department of Health;
+10 (1C) "Ectopic pregnancy," the implantation of an embryo outside the uterus, in an
+11 abnormal location in the uterus, or in a scarred portion of the uterus;
+12 (2) "Fetus," the biological offspring, including the implanted embryo or unborn child,
+13 of human parents;
+14 (3) "Fertilization," that point in time when a male human sperm penetrates the zona
+15 pellucida of a female human ovum;
+16 (4) "Human being," an individual living member of the species of Homo sapiens,
+17 including the unborn human being during the entire embryonic and fetal ages from
+18 fertilization to full gestation;
+19 (5) "Medical emergency," any condition which, on the basis of the physician's good
+20 faith clinical judgment, so complicates the medical condition of a pregnant woman
+21 as to necessitate the immediate abortion of her pregnancy to avert her death or
+22 for which a delay will create serious risk of substantial and irreversible impairment
+23 of a major bodily function;
+24 (6) "Miscarriage," the spontaneous loss of a pregnancy, including the circumstances of
+25 an inevitable miscarriage, an incomplete miscarriage, a missed miscarriage, and a
+26 septic miscarriage;
+27 (7) "Parent," one parent or guardian of the pregnant minor or the guardian or
+28 conservator of the pregnant woman;
+29 (7)(8) "Physician," a person licensed under the provisions of chapter 36-4 or a physician
+30 practicing medicine or osteopathy in the employ of the government of the United
+31 States or of this state;
+32 (8)(9) "Pregnant", the human female reproductive condition of having a living unborn
+33 child within the female's body, throughout every stage of the unborn child's life
+34 and development, from fertilization to full gestation and childbirth;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.162.53 5 1257
+1 (10) "Probable gestational age of the unborn child," what,that which in the judgment of
+2 the physician, will, with reasonable probability, be the gestational age of the
+3 unborn child at the time the abortion is planned to be performed;
+4 (11) "Reasonable medical judgment," a medical judgment that would be made by a
+5 reasonably prudent physician, knowledgeable about the case and the treatment
+6 possibilities with respect to the medical condition involved; and
+7 (12) "Unborn child," an individual organism of the species homo sapiens from
+8 fertilization until live birth.
+9 Section 7. That a NEW SECTION be added to chapter 34-23A:
+10 A physician who performs or induces an abortion for the purpose of preserving the
+11 life of a pregnant female, as set forth in § 22-17-5.1 and section 3 of this Act, shall prepare
+12 a document:
+13 (1) Attesting that the abortion was necessitated by the pregnant female's medical
+14 condition;
+15 (2) Setting forth the data supporting the determination that the procedure was
+16 necessary; and
+17 (3) Attesting that all reasonable efforts were made to preserve both the life of the
+18 pregnant female and the life of her unborn child, as set forth in section 3 of this
+19 Act.
+20 The document required under this section must be placed in the medical record of
+21 the female patient no later than thirty days after the date of the procedure or after the
+22 date on which the abortion-inducing drug, medicine, or substance was prescribed for or
+23 provided to the pregnant female.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

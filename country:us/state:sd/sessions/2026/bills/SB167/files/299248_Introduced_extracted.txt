@@ -1,0 +1,74 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.609.11 101st Legislative Session 167
+2026 South Dakota Legislature
+Senate Bill 167
+Introduced by: Senator Nelson
+1 An Act to amend provisions pertaining to the administration of an academic
+2 achievement assessment to students in grade eleven.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 13-3-55 be AMENDED:
+5 13-3-55. Every public Each school district shall annually administer the same
+6 academic achievement assessment to all students in grades three to eight, inclusive, and
+7 in grade eleven. The assessment shall measure the academic progress of each student.
+8 Every public school district shall annually administer to all students in at least two grade
+9 levels an achievement test to assess writing skills. The assessment instruments shall be
+10 provided by the Department of Education, and the department shall determine the two
+11 grade levels to be tested. The tests shall be administered within timelines established by
+12 the Department of Education by rules promulgated pursuant to chapter 1-26 starting in
+13 the spring of the 2002-2003 school year. Each state-designed test shall be correlated with
+14 the state's content standards. The assessments must measure the academic progress of
+15 each student and must correspond to the state's content standards promulgated pursuant
+16 to § 13-3-48.
+17 The secretary of the Department of Education shall annually designate at least two
+18 of these grade levels to take the writing skills achievement assessment provided by the
+19 department.
+20 A student must take any assessment administered by a school district if the student
+21 is at least partially enrolled in the school district pursuant to § 13-28-51. For purposes of
+22 this section, a student is partially enrolled in a school district if the student is enrolled in
+23 a number of courses through the school district, the time for which, when averaged over
+24 the whole school year, equals at least fifty percent of the number of hours in the school
+25 term, as established by the board of the school district, pursuant to § 13-26-1.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.609.11 2 167
+1 The South Dakota Board of Education Standards may shall promulgate rules
+2 pursuant to chapter 1-26, to provide for administration of all the assessments and
+3 establish the timeline for the administration of the assessments each year.
+4 Section 2. That a NEW SECTION be added to chapter 13-3:
+5 Each school district shall administer an academic achievement assessment to each
+6 student in grade eleven.
+7 On or before May first of each year, the South Dakota Board of Education Standards
+8 shall review and approve a list of academic achievement assessments for students enrolled
+9 in grade eleven. The assessments approved by the board must:
+10 (1) Measure the academic progress of each student;
+11 (2) Correspond to the state's content standards; and
+12 (3) Allow for the variety of prospective academic or career pathways that a student
+13 may follow upon high school graduation.
+14 The Department of Education shall provide to each school district the list of
+15 approved assessments.
+16 Each student in grade eleven shall, in consultation with the school's guidance
+17 counselor or other administrator, select the assessment that the student is to take to meet
+18 the requirements of this section, from the list of approved courses provided by the
+19 Department of Education.
+20 The South Dakota Board of Education Standards shall promulgate rules, pursuant
+21 to chapter 1-26, to establish the criteria by which the board determines whether an
+22 assessment measures the academic progress of each student and corresponds to the
+23 state's content standards, to establish the timeline for the administration of the
+24 assessments each year, and to provide for the administration of the assessments.
+25 Section 3. That § 13-3-84 be REPEALED.
+26 If a student is partially enrolled in a school district pursuant to § 13-28-41 or 13-
+27 28-51, and the student's enrollment is equal to or greater than fifty percent, that student
+28 is required to take any academic achievement test administered by the school district
+29 pursuant to § 13-3-55. If a student's partial enrollment in a school district is less than fifty
+30 percent, the student is not required to take any academic achievement test administered
+31 by the school district pursuant to § 13-3-55.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

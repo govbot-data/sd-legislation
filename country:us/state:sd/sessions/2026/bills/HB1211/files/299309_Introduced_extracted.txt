@@ -1,0 +1,232 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.350.18 101st Legislative Session 1211
+2026 South Dakota Legislature
+House Bill 1211
+Introduced by: Representative Garcia
+1 An Act to create a digital registry identification card for medical cannabis patients.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 34-20G-1 be AMENDED:
+4 34-20G-1. Terms used in this chapter mean:
+5 (1) "Allowable amount of cannabis,":
+6 (a) Three ounces of cannabis or less;
+7 (b) The quantity of cannabis products as established by rules promulgated by
+8 the department under § 34-20G-72;
+9 (c) If the cardholder has a registry identification card allowing cultivation, two
+10 flowering cannabis plants and two cannabis plants that are not flowering;
+11 and
+12 (d) If the cardholder has a registry identification card allowing cultivation, the
+13 amount of cannabis and cannabis products that were produced from the
+14 cardholder's allowable plants, if the cannabis and cannabis products are
+15 possessed at the same property where the plants were cultivated;
+16 (2) "Bona fide practitioner-patient relationship," a treatment or consulting relationship
+17 between a practitioner and patient, during which:
+18 (a) The practitioner completes, at the initial visit, an assessment of the patient's
+19 medical history and current medical condition, including an appropriate in-
+20 person physical examination;
+21 (b) The patient is under the practitioner's care for the debilitating medical
+22 condition that qualifies the patient for the medical use of cannabis or has
+23 been referred by the practitioner caring for the patient's debilitating medical
+24 condition that qualifies the patient for the medical use of cannabis to
+25 another practitioner;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.350.18 2 1211
+1 (c) The patient has a reasonable expectation that the practitioner providing the
+2 written certification will continue to provide follow-up care to the patient to
+3 monitor the medical use of cannabis; and
+4 (d) The relationship is not for the sole purpose of providing a written
+5 certification for the medical use of cannabis unless the patient has been
+6 referred by a practitioner providing care for the debilitating medical
+7 condition that qualifies the patient for the medical use of cannabis;
+8 (3) "Cannabis products," any concentrated cannabis, cannabis extracts, and products
+9 that are infused with cannabis or an extract thereof, and are intended for use or
+10 consumption by humans. The term includes edible cannabis products, beverages,
+11 topical products, ointments, oils, and tinctures;
+12 (4) "Cannabis product manufacturing facility," an entity registered with the
+13 department pursuant to this chapter that acquires, possesses, manufactures,
+14 delivers, transfers, transports, supplies, or sells cannabis products to a medical
+15 cannabis dispensary;
+16 (5) "Cannabis testing facility" or "testing facility," an independent entity registered
+17 with the department pursuant to this chapter to analyze the safety and potency of
+18 cannabis;
+19 (6) "Cardholder," a qualifying patient or a designated caregiver who has been issued
+20 and possesses a valid registry identification card;
+21 (7) "Cultivation facility," an entity registered with the department pursuant to this
+22 chapter that acquires, possesses, cultivates, delivers, transfers, transports,
+23 supplies, or sells cannabis and related supplies to a medical cannabis
+24 establishment;
+25 (8) "Debilitating medical condition,":
+26 (a) A chronic or debilitating disease or medical condition or its treatment that
+27 produces one or more of the following: cachexia or wasting syndrome;
+28 severe, debilitating pain; severe nausea, except nausea associated with
+29 pregnancy; seizures; or severe and persistent muscle spasms;
+30 (b) Acquired immune deficiency syndrome or positive status for human
+31 immunodeficiency virus;
+32 (c) Amyotrophic lateral sclerosis;
+33 (d) Multiple sclerosis;
+34 (e) Cancer or its treatment, if associated with severe or chronic pain, nausea
+35 or severe vomiting, or cachexia or severe wasting;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.350.18 3 1211
+1 (f) Crohn's disease;
+2 (g) Epilepsy and seizures; or
+3 (h) Post-traumatic stress disorder;
+4 (9) "Department," the Department of Health;
+5 (10) "Designated caregiver," an individual who:
+6 (a) Is at least twenty-one years of age;
+7 (b) Has agreed to assist with a qualifying patient's medical use of cannabis;
+8 (c) Has not been convicted of a disqualifying felony offense; and
+9 (d) Assists no more than five qualifying patients with the medical use of
+10 cannabis, unless the designated caregiver's qualifying patients each reside
+11 in or are admitted to a health care facility, as defined in § 34-12-1.1, an
+12 accredited prevention or treatment facility, as defined in § 34-20A-2, a
+13 mental health center, as defined in § 27A-1-1, a child welfare agency, as
+14 defined in § 26-6-1, or a community support provider or community
+15 services provider, as defined in § 27B-1-17, where the designated caregiver
+16 is employed;
+17 (11) "Disqualifying felony offense," a violent crime that was classified as a felony in the
+18 jurisdiction where the person was convicted;
+19 (12) "Edible cannabis products," any product that:
+20 (a) Contains or is infused with cannabis or an extract thereof;
+21 (b) Is intended for human consumption by oral ingestion; and
+22 (c) Is presented in the form of foodstuffs, beverages, oils, tinctures, or other
+23 similar products;
+24 (13) "Enclosed, locked facility," any closet, room, greenhouse, building, or other
+25 enclosed area that is equipped with locks or other security devices that permit
+26 access only by a cardholder or a person allowed to cultivate the plants. Two or
+27 more cardholders who reside in the same dwelling may share one enclosed, locked
+28 facility for cultivation;
+29 (14) "Flowering cannabis plant," the reproductive state of the cannabis plant in which
+30 the plant shows physical signs of flower budding out of the nodes of the stem;
+31 (15) "Medical cannabis" or "cannabis," marijuana as defined in § 22-42-1;
+32 (16) "Medical cannabis dispensary" or "dispensary," an entity registered with the
+33 department pursuant to this chapter that acquires, possesses, stores, delivers,
+34 transfers, transports, sells, supplies, or dispenses cannabis, cannabis products,
+35 paraphernalia, or related supplies and educational materials to cardholders;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.350.18 4 1211
+1 (17) "Medical cannabis establishment," a cultivation facility, a cannabis testing facility,
+2 a cannabis product manufacturing facility, or a dispensary;
+3 (18) "Medical cannabis establishment agent," an owner, officer, board member,
+4 employee, or volunteer at a medical cannabis establishment;
+5 (19) "Medical use," includes the acquisition, administration, cultivation, manufacture,
+6 delivery, harvest, possession, preparation, transfer, transportation, or use of
+7 cannabis or paraphernalia relating to the administration of cannabis to treat or
+8 alleviate a registered qualifying patient's debilitating medical condition or symptom
+9 associated with the patient's debilitating medical condition. The term does not
+10 include:
+11 (a) The cultivation of cannabis by a nonresident cardholder;
+12 (b) The cultivation of cannabis by a cardholder who is not designated as being
+13 allowed to cultivate on the cardholder's registry identification card; or
+14 (c) The extraction of resin from cannabis by solvent extraction unless the
+15 extraction is done by a cannabis product manufacturing facility;
+16 (20) "Nonresident cardholder," a person who:
+17 (a) Has been diagnosed with a debilitating medical condition, or is the parent,
+18 guardian, conservator, or other person with authority to consent to the
+19 medical treatment of a person who has been diagnosed with a debilitating
+20 medical condition;
+21 (b) Is not a resident of this state or who has been a resident of this state for
+22 fewer than forty-five days;
+23 (c) Was issued a currently valid registry identification card or its equivalent by
+24 another state, district, territory, commonwealth, insular possession of the
+25 United States, or country recognized by the United States that allows the
+26 person to use cannabis for medical purposes in the jurisdiction of issuance;
+27 and
+28 (d) Has submitted any documentation required by the department, and has
+29 received confirmation of registration;
+30 (21) "Practitioner," a physician, physician assistant, or advanced practice registered
+31 nurse, who is licensed with authority to prescribe drugs to humans. In relation to
+32 a nonresident cardholder, the term means a person who is licensed with authority
+33 to prescribe drugs to humans in the state of the patient's residence;
+34 (22) "Qualifying patient," a person who has been diagnosed by a practitioner as having
+35 a debilitating medical condition;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.350.18 5 1211
+1 (23) "Registry identification card," a document issued by the department that identifies
+2 a person as a registered qualifying patient or registered designated caregiver, or
+3 documentation that is deemed a registry identification card pursuant to §§ 34-20G-
+4 29 to 34-20G-42, inclusive. A registry identification card may be physical or digital;
+5 (24) "Safety-sensitive job," any position with tasks or duties that an employer
+6 reasonably believes could:
+7 (a) Cause the illness, injury, or death of an individual; or
+8 (b) Result in serious property damage;
+9 (25) "Under the influence of cannabis," any abnormal mental or physical condition that
+10 tends to deprive a person of clearness of intellect and control that the person would
+11 otherwise possess, as the result of consuming any degree of cannabis or cannabis
+12 products; and
+13 (26) "Written certification," a document dated and signed by a practitioner:
+14 (a) Stating that the patient has a qualifying debilitating medical condition or
+15 symptom associated with the debilitating medical condition;
+16 (b) Affirming that the document is made in the course of a bona fide
+17 practitioner-patient relationship;
+18 (c) Specifying the qualifying patient's debilitating medical condition; and
+19 (d) Specifying the expiration date of the qualifying patient's written
+20 certification, pursuant to § 34-20G-43; and
+21 (e) Specifying whether the practitioner has previously issued the patient a
+22 written certification and the date of that written certification.
+23 Section 2. That § 34-20G-31 be AMENDED:
+24 34-20G-31. Except as provided in § 34-20G-32, the department shall:
+25 (1) Verify the information contained in an application or renewal submitted pursuant
+26 to this chapter and approve or deny an application or renewal within fifteen days
+27 of receiving a completed application or renewal application;
+28 (2) Issue registry identification cards in a physical form and a digital form, as provided
+29 in section 3 of this Act, to a qualifying patient and to a qualifying patient's
+30 designated caregivers, if any, within five days of approving the application or
+31 renewal. A designated caregiver shall have a registry identification card, in physical
+32 and digital form, for each of the qualifying patients; and
+33 (3) Enter the registry identification number of any dispensary the patient designates
+34 into the verification system.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.350.18 6 1211
+1 Section 3. That a NEW SECTION be added to chapter 34-20G:
+2 The department shall produce a digital registry identification card with features to
+3 ensure that:
+4 (1) Use of the digital registry identification card does not require handing over one's
+5 electronic device to any other person;
+6 (2) Any remote access to the digital registry identification card requires the express,
+7 affirmative, real-time consent of the cardholder for each piece of information being
+8 requested and is limited to information that is provided on a printed, hard copy
+9 registry identification card;
+10 (3) The digital registry identification card, as well as any mobile application required
+11 for the digital registry identification card, does not contain or collect any
+12 information that is not necessary for the functioning of the digital registry
+13 identification card or mobile application;
+14 (4) No part of the system or technology involved in a digital registry identification card
+15 and utilized by the department will disclose any data regarding a cardholder's
+16 presentation of the digital registry identification card to law enforcement or to a
+17 dispensary;
+18 (5) A digital registry identification card, as well as any mobile application required for
+19 the digital registry identification card, is encrypted and protected to the highest
+20 reasonable security standards that are broadly available, such that information
+21 cannot be intercepted while being transmitted from the department;
+22 (6) Any data exchanged between the department and the provider of any electronic
+23 device, and between any electronic device and the provider of that electronic
+24 device, is limited to the data necessary for a digital registry identification card;
+25 (7) A digital registry identification card provides for selective disclosure and allows
+26 attribute authentication, including proof of certification status; and
+27 (8) Any contract between the department and another entity concerning digital registry
+28 identification cards prohibits the use, sharing, sale, and disclosure of any
+29 information obtained and provides that, upon the termination or expiration of the
+30 contract, the entity shall delete any data collected or generated in the activities of
+31 the contract.
+32 The department shall provide for the issuance of digital registry identification cards
+33 in such a manner as to detect and prevent the alteration, duplication, counterfeiting,
+34 photographing, forging, or other modification of the digital registry identification card.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

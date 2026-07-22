@@ -1,0 +1,29 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.374.17 101st Legislative Session 20
+2026 South Dakota Legislature
+Senate Bill 20
+Introduced by: The Chair of the Senate Committee on Appropriations at the request of the Department of Revenue
+1 An Act to make an appropriation for tax refunds for elderly persons and persons
+2 with a disability, and to declare an emergency.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. There is hereby appropriated $425,000 from the general fund to the Department
+5 of Revenue for providing refunds to elderly persons and persons with a disability for real
+6 property tax and sales tax, pursuant to chapters 10-18A and 10-45A. A portion of the
+7 appropriated sum, not exceeding $20,000, may be used by the department for the
+8 administration of this Act.
+9 Section 2. The secretary of the Department of Revenue shall approve vouchers and the state
+10 auditor shall draw warrants to pay expenditures authorized in this Act.
+11 Section 3. Any amounts appropriated in this Act not lawfully expended or obligated by June
+12 30, 2027, shall revert in accordance with the procedures prescribed in chapter 4-8.
+13 Section 4. Whereas, this Act is necessary for the support of the state government and its
+14 existing public institutions, an emergency is hereby declared to exist, and this Act shall be in
+15 full force and effect from and after its passage and approval.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

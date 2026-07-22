@@ -1,0 +1,39 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.398.10 101st Legislative Session 1022
+2026 South Dakota Legislature
+House Bill 1022
+Introduced by: The Chair of the Committee on Judiciary at the request of the Department of Public Safety
+1 An Act to revise and repeal provisions related to the crime victims' compensation
+2 program.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 23A-28B-28 be AMENDED:
+5 23A-28B-28. The department shall receive, review, and investigate, any
+6 application claim for victims' compensation which has been that is properly filed. Following
+7 such review and investigation, the department shall issue an order pursuant to § 23A-
+8 28B-31 that includes:
+9 (1) Findings of fact;
+10 (2) The amount of compensation, if any, payable under the provisions of this chapter;
+11 (3) The name of any person to whom compensation is payable;
+12 (4) A notice that the claimant may request commission review of the order in
+13 accordance with § 23A-28B-32; and
+14 (5) Any other information that the department deems necessary.
+15 The department shall file any such the order with the commission and shall serve
+16 notice of such the order by mailing, emailing, or hand-delivering a copy to the claimant.
+17 Section 2. That § 23A-28B-31 be REPEALED.
+18 For all claims submitted under the provisions of this chapter, the department shall
+19 enter an order which shall include:
+20 (1) Findings of fact;
+21 (2) The amount of compensation, if any, payable under the provisions of this chapter;
+22 (3) The name of any person to whom such compensation is payable;
+23 (4) A notice that the claimant may request commission review of the order in
+24 accordance with § 23A-28B-32; and
+25 (5) Any other information which the department deems necessary.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

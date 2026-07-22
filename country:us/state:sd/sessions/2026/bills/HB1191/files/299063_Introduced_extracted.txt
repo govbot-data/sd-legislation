@@ -1,0 +1,20 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.801.13 101st Legislative Session 1191
+2026 South Dakota Legislature
+House Bill 1191
+Introduced by: Representative Emery
+1 An Act to provide a sales tax holiday on firearms.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to chapter 10-45:
+4 The gross receipts from the sale of a firearm, as defined in § 22-1-2, occurring on
+5 or after December first of each year, are exempt from the provisions of this chapter and
+6 the tax imposed by it.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

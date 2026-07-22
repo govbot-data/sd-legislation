@@ -1,0 +1,85 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.287.9 101st Legislative Session 1011
+2026 South Dakota Legislature
+House Bill 1011
+Introduced by: The Chair of the Committee on Judiciary at the request of the Chief Justice
+1 An Act to modify fees charged by the clerk of courts for certain copies of court
+2 records.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 16-2-29 be AMENDED:
+5 16-2-29. The clerk of courts shall charge and collect the following fees:
+6 (1) For the probate of an estate, seventy-five dollars;
+7 (2) For all service connected with the preparation and transmission of a settled record
+8 to the Supreme Court, including the remittitur from the Supreme Court, fifty
+9 dollars;
+10 (3) For any of the following, twenty-five dollars:
+11 (a) Civil cases filed for jury or court trial;
+12 (b) Guardianship or conservatorship actions, adoption cases, termination or
+13 terminations of life estates;
+14 (c) Cases to determine amount of inheritance tax in estates in which real and
+15 personal property is transferred in contemplation of death;
+16 (d) Default actions to quiet title to real property;
+17 (e) Default cases involving garnishment proceedings;
+18 (f) Dissolutions of corporations;
+19 (g) Foreclosure actions;
+20 (h) Special administration proceedings;
+21 (i) Summary administration proceedings;
+22 (j) Appeals to the circuit court from an action of a political subdivision of the
+23 state or from an action of the state or its officers, boards, agencies, and
+24 commissions; or
+25 (k) All matters not otherwise provided for in this section;
+26 (4) For any of the following, fifty dollars:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.287.9 2 1011
+1 (a) Petitions and motions to modify final child support orders, except if the
+2 petitioner or moving party is a recipient of assistance benefits pursuant to
+3 Title title 28;
+4 (b) Petitions and motions to modify final child custody orders;
+5 (c) Petitions and motions to modify final visitation orders; or
+6 (d) Petitions and motions to modify final spousal support orders;
+7 (5) For any of the following, five dollars:
+8 (a) Issuing a transcript of a judgment;
+9 (b) Filing and docketing a transcript of a judgment;
+10 (c) Issuing and docketing an execution, commission, or writ;
+11 (d) Filing a special execution; or
+12 (e) Renewing a judgment according to § 15-16-33;
+13 (6) For any of the following, two dollars:
+14 (a) Reproducing an authenticated, exemplified, or double certificate of a record
+15 on file in the clerk's office;
+16 (b) Certifying a document not excepted by subdivision (7);
+17 (c) Issuing a subpoena in a civil case; or
+18 (d)(b) Safekeeping or filing of a will; and
+19 (7) For reproducing an authenticated, exemplified, or double certificate of a record on
+20 file in the clerk's office, fifteen dollars; and
+21 (8) All true and correct copies of any original record or paper furnished by the attorney
+22 of record or the personal representative qualified to act in any of the following
+23 cases, which are necessary for the completion of the case shall, must be certified
+24 at no extra charge for the certification:
+25 (a) Guardianship or conservatorship actions, adoption cases, termination of life
+26 estates, trusts, probate actions;
+27 (b) Cases to determine amount of inheritance tax in estates in which real and
+28 personal property is transferred in contemplation of death; and
+29 (c) Divorce actions.
+30 No fee for filing, docketing, issuing, recording, certifying, or searching, or other fee
+31 or commission, may be required of the state, any foreign state, or the federal government,
+32 or its officers, boards, agencies, and commissions, or its political subdivisions, in any
+33 action or proceeding commenced by the state or a political subdivision. In addition, no No
+34 fee for record searches may be required of any agency of the federal government which
+35 that is charged with law enforcement or investigatory duties under federal law.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.287.9 3 1011
+1 No filing fee may be required in any action under § 22-19A-8, 22-19A-12, 25-10-
+2 3, or 25-10-6.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

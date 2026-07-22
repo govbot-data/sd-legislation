@@ -1,0 +1,31 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.414.14 101st Legislative Session HCR6004
+2026 South Dakota Legislature
+House Concurrent Resolution
+6004
+Introduced by: Representative Sjaarda
+1 A CONCURRENT RESOLUTION encouraging the use of physical cash in transactions.
+2 WHEREAS, payment with physical cash prevents tracking and controlling purchases; and
+3 WHEREAS, payment with physical cash saves businesses money on transaction fees; and
+4 WHEREAS, payment with physical cash ensures more money stays in this state; and
+5 WHEREAS, payment with physical cash ensures the unbanked can participate in the South
+6 Dakota economy; and
+7 WHEREAS, the use of physical cash in transactions makes this state more resilient in case
+8 of a natural disaster or emergency situation;
+9 NOW, THEREFORE, BE IT RESOLVED, by the House of Representatives of the One Hundred
+10 First Legislature of the State of South Dakota, the Senate concurring therein, that the citizens
+11 of this state are strongly encouraged to pay with physical cash whenever and wherever
+12 possible; and
+13 BE IT FURTHER RESOLVED, that the citizens of this state are strongly encouraged to
+14 support businesses that offer a discount for using physical cash; and
+15 BE IT FURTHER RESOLVED, that businesses in this state are strongly encouraged to offer
+16 a discount for using physical cash in transactions.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

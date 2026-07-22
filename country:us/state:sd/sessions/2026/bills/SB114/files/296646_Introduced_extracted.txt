@@ -1,0 +1,64 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.265.20 101st Legislative Session 114
+2026 South Dakota Legislature
+Senate Bill 114
+Introduced by: Senator Pischke
+1 An Act to provide for the publication of ballot images and the cast vote record of
+2 automatic tabulating equipment.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 12-17B-13 be AMENDED:
+5 12-17B-13. The procedure for process of tabulating the votes by using the
+6 automatic tabulating equipment shall must be under the direction of the person in charge
+7 of the election, and shall must conform to the specifications and requirements of the
+8 automatic tabulating equipment.
+9 The results printed by the automatic tabulating equipment shall constitute are the
+10 immediate unofficial returns. These returns shall be open to the public and any cast vote
+11 record or ballot images collected by the automatic tabulating equipment are public records
+12 under chapter 1-27.
+13 The final returns results printed by the automatic tabulating equipment shall must
+14 be presented to the canvassing board for review and certification as the official returns.
+15 For purposes of this section, "ballot image" means a digital rendering or facsimile
+16 of a paper ballot tabulated in the election.
+17 For purposes of this section, "cast vote record" means an electronic record of how
+18 the marks on a ballot are tabulated as a vote for a candidate or other ballot question.
+19 Section 2. That a NEW SECTION be added to chapter 12-17B:
+20 Notwithstanding the provisions of § 12-17B-13, the governing body of the
+21 jurisdiction conducting the election may not release any cast vote record or collection of
+22 ballot images if the cast vote record or any ballot image:
+23 (1) Indicates the date, time, or order in which a ballot was cast;
+24 (2) Contains any unredacted personal information that may be used to identify the
+25 voter who cast the ballot;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.265.20 2 114
+1 (3) Provides the tabulating equipment's data in the order in which the data was
+2 generated;
+3 (4) Does not include all the ballots that were cast at the precinct polling place or vote
+4 center;
+5 (5) Is from a precinct polling place or vote center in which fewer than one hundred
+6 ballots were cast, and the cast vote record or ballot images have not been:
+7 (a) Redacted to exclude the ballot style name, ballot style number, and any
+8 contest that is unique to the precinct; and
+9 (b) Combined with the cast vote record or ballot images from at least one other
+10 precinct or vote center to be released as a collection that contains more
+11 than one hundred ballots; or
+12 (6) Is related to a ballot style of which fewer than one hundred ballots were cast, and
+13 the cast vote record or ballot images have not been:
+14 (a) Redacted to exclude the ballot style name, ballot style number, and any
+15 contest that is unique to the ballot style; and
+16 (b) Combined with the cast vote record or ballot images related to another
+17 ballot style to be released as a collection that contains more than one
+18 hundred ballots.
+19 The jurisdiction conducting the election is responsible for all expenses associated
+20 with producing, storing, archiving, and releasing a cast vote record or a collection of ballot
+21 images.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

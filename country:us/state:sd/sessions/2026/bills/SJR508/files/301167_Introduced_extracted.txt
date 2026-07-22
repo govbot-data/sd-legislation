@@ -1,0 +1,32 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.870.10 101st Legislative Session SJR508
+2026 South Dakota Legislature
+Senate Joint Resolution 508
+Introduced by: Senator Kolbeck (Steve)
+1 A JOINT RESOLUTION proposing and submitting to the voters at the next general
+2 election, amendments to the Constitution of the State of South Dakota,
+3 removing the lieutenant governor as presiding officer of the Senate.
+4 BE IT RESOLVED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That at the next general election held in the state, the following amendments to
+6 Article IV and Article XVI of the Constitution of the State of South Dakota, as set forth in
+7 sections 2 and 3 of this Joint Resolution, which is hereby agreed to, be submitted to the
+8 electors of the state for approval.
+9 Section 2. That Article IV, § 5 of the Constitution of the State of South Dakota, be
+10 AMENDED:
+11 § 5. The lieutenant governor shall be president of the senate but shall have no
+12 vote unless the senators be equally divided. The lieutenant governor shall perform the
+13 duties and exercise the powers that may be delegated to him the lieutenant governor by
+14 the Governor.
+15 Section 3. That Article XVI, § 6 of the Constitution of the State of South Dakota, be
+16 REPEALED:
+17 On trial of an impeachment against the Governor the lieutenant governor shall not
+18 act as a member of the court.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,52 @@
+Title: 
+Official Title: 
+Source: versions - House Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.529.10 101st Legislative Session 1065
+2026 South Dakota Legislature
+House Bill 1065
+HOUSE ENGROSSED
+Introduced by: Representative Ismay
+1 An Act to revise the medical purpose affirmative defense in cannabis prosecution.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 34-20G-51 be AMENDED:
+4 34-20G-51. Except as provided in § 34-20G-18 and this section, a person may
+5 assert the medical purpose for using cannabis as a defense to any prosecution involving
+6 cannabis, and such defense is presumed valid where the evidence shows that:
+7 (1) A practitioner has stated that, in the practitioner's professional opinion, after
+8 having completed a full assessment of the person's medical history and current
+9 medical condition made in the course of a bona fide practitioner-patient
+10 relationship, the patient has a debilitating medical condition and the potential
+11 benefits of using cannabis for medical purposes would likely outweigh the health
+12 risks for the person;
+13 (2) The person was in possession of no more than three ounces of cannabis, the
+14 amount of cannabis products allowed by department rules, two flowering cannabis
+15 plants, two cannabis plants that are not flowering, and the cannabis produced by
+16 those plants;
+17 (3) The person was engaged in the acquisition, possession, use, manufacture,
+18 cultivation, or transportation of cannabis, paraphernalia, or both, relating to the
+19 administration of cannabis to treat or alleviate the person's debilitating medical
+20 condition or symptoms associated with the person's debilitating medical condition;
+21 and
+22 (4) Any cultivation of cannabis and storage of more than three ounces of cannabis
+23 occurred in a secure location that only the person asserting the defense could
+24 access
+25 (1) If the person is a:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.529.10 2 1065
+1 (a) Qualifying patient, the person was registered with the department as a
+2 cardholder or nonresident cardholder at the time of the alleged offense; or
+3 (b) Designated caregiver, the person was registered with the department as a
+4 designated caregiver at the time of the alleged offense; and
+5 (2) The conduct underlying the alleged offense complied with this chapter.
+6 Section 2. That § 34-20G-53 be REPEALED.
+7 A person is not required to possess a registry identification card to raise the
+8 affirmative defense set forth in § 34-20G-51.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

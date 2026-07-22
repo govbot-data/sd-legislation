@@ -1,0 +1,27 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.845.9 101st Legislative Session 1156
+2026 South Dakota Legislature
+House Bill 1156
+Introduced by: Representative Manhart
+1 An Act to extend each waterfowl hunting season for veterans and active duty
+2 personnel.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 41-6:
+5 The Game, Fish and Parks Commission shall promulgate rules, in accordance with
+6 chapter 1-26, to extend by two days, each waterfowl hunting season, for the exclusive
+7 use of:
+8 (1) Individuals who are on active duty in the armed forces of the United States, as
+9 defined in § 58-33-117; and
+10 (2) Individuals who have served in the armed forces of the United States and were
+11 discharged therefrom under conditions other than dishonorable.
+12 Nothing in this section affects any licensure or permit requirements, daily and
+13 possession limits, or any other applicable statutory or regulatory requirements.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

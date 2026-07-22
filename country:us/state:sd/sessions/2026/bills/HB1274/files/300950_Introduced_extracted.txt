@@ -1,0 +1,84 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.582.28 101st Legislative Session 1274
+2026 South Dakota Legislature
+House Bill 1274
+Introduced by: Representative Soye
+1 An Act to restrict the delivery of an abortion-inducing medicine, drug, or substance
+2 into this state and provide a criminal and a civil penalty therefor, and provide
+3 a civil action for the wrongful death of an unborn child.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That a NEW SECTION be added to chapter 21-5:
+6 Except as otherwise provided in this section, the following persons may bring an
+7 action for the wrongful death of an unborn child against any person who prescribed for,
+8 procured for, or administered to any pregnant female, any abortion-inducing medicine,
+9 drug, or substance, in violation of § 22-17-5.1:
+10 (1) The pregnant female;
+11 (2) The father of the unborn child;
+12 (3) The maternal grandparent of the unborn child, if the pregnant female is under the
+13 age of eighteen;
+14 (4) Any other person harmed by the death of the unborn child; and
+15 (5) The estate of the pregnant female, if the pregnant female died as a result of taking
+16 the abortion-inducing medicine, drug, or substance.
+17 A person listed in subdivision (2), (3), or (4) of this section may not bring an action
+18 for the wrongful death of the unborn child, if the person aided or abetted in the
+19 prescription, procurement, or administration of the abortion-inducing medicine, drug or
+20 substance.
+21 A pregnant female is not liable under this section for prescribing, procuring, or
+22 administering any abortion-inducing medicine, drug, or substance for her own abortion.
+23 To maintain a cause of action under this section, the person bringing the action
+24 must prove by a preponderance of the evidence that the person suffered direct or indirect
+25 harm as a result of the violation of § 22-17-5.1. No action may be maintained if the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.582.28 2 1274
+1 female's pregnancy resulted from the criminal conduct of the individual bringing the
+2 action.
+3 A person who prevails in an action under this section is entitled to compensatory
+4 and punitive damages, costs, and reasonable attorney fees.
+5 Notwithstanding any other provision of law, an individual shall commence an action
+6 under this section no later than three years after the date on which the alleged harm
+7 occurred. An action may be maintained under this section whether or not the person
+8 alleged to have violated § 22-17-5.1 is charged or convicted of the alleged crime.
+9 Section 2. That a NEW SECTION be added to chapter 22-17:
+10 Any person who knowingly delivers or causes to be delivered into this state an
+11 abortion-inducing medicine, drug, or substance, for purposes of an unlawful abortion
+12 pursuant to § 22-17-5.1, is guilty of a Class 6 felony.
+13 This section does not apply to:
+14 (1) A pregnant female who delivers or causes to be delivered into this state an
+15 abortion-inducing medicine, drug, or substance for her own abortion; or
+16 (2) A person who delivers or causes to be delivered into this state an abortion-inducing
+17 medicine, drug, or substance, for purposes of:
+18 (a) An abortion that is, in the reasonable medical judgement of a licensed
+19 medical practitioner, necessary to preserve the life of a pregnant female;
+20 or
+21 (b) A procedure for the management of a miscarriage.
+22 Section 3. That a NEW SECTION be added to chapter 22-17:
+23 The attorney general may recover a civil penalty against a person for violating
+24 section 2 of this Act. The amount of the civil penalty may not exceed ten thousand dollars
+25 for each dose of the abortion-inducing medicine, drug, or substance the person delivers
+26 or causes to be delivered into the state. The clerk of court shall forward any civil penalty
+27 collected under this section to the state treasurer, for deposit in the life protection subfund,
+28 as established within the extraordinary litigation fund pursuant to § 1-33-8.11.
+29 Section 4. That a NEW SECTION be added to chapter 22-17:
+30 If the attorney general has reason to believe that a person is engaging in, has
+31 engaged in, or is about to engage in a violation of section 2 of this Act, the attorney
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.582.28 3 1274
+1 general may bring an action in the name of the state against the person to restrain the
+2 person by temporary or permanent injunction.
+3 An action under this section may be brought in the circuit court for the county in
+4 which the alleged violator resides or has a place of business, or in the circuit court for
+5 Hughes County, South Dakota. The court may issue a temporary or permanent injunction
+6 to restrain and prevent any violation of section 2 of this Act.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

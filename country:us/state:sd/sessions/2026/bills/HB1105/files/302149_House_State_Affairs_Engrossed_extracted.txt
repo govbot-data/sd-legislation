@@ -1,0 +1,47 @@
+Title: 
+Official Title: 
+Source: versions - House State Affairs Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.282.27 101st Legislative Session 1105
+2026 South Dakota Legislature
+House Bill 1105
+HOUSE STATE AFFAIRS ENGROSSED
+Introduced by: Representative Overweg
+1 An Act to restrict contracts and declarations that prohibit the use of commercial or
+2 residential property for any healthcare service in medically underserved
+3 areas or communities, or in areas with a medically underserved population
+4 under federal law.
+5 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+6 Section 1. That § 11-5-3 be AMENDED:
+7 11-5-3. After the execution, recording, and filing of any declaration or contract
+8 executed contract or declaration pursuant to §§ 11-5-1 and 11-5-2, the terms and
+9 conditions of the same contract or declaration may be enforced by an action at law or by
+10 a suit in equity brought by any:
+11 (1) Any person possessing any interest in the land affected by such declaration or
+12 contract or in any part of such land, or such action or suit may be maintained by
+13 the affected real property; or
+14 (2) The first or second class municipality within which such land the property is
+15 situated.
+16 A contract or declaration in violation of section 2 of this Act is not enforceable.
+17 Section 2. That a NEW SECTION be added to chapter 11-5:
+18 Notwithstanding the provisions of § 11-5-1, an owner of real property zoned for
+19 commercial or residential use may not impose, by contract or declaration as set forth in
+20 § 11-5-2, any regulation or restriction that prohibits use of the real property for a
+21 healthcare service, if the real property is located in a medically underserved area, a
+22 medically underserved community, or a county with a medically underserved population,
+23 as designated by the Department of Health in accordance with the Public Health Service
+24 Act, 42 U.S.C. ch. 6A (January 1, 2026).
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.282.27 2 1105
+1 For purposes of this section, "healthcare service" means any service provided by
+2 an accredited, certified, or licensed facility or practitioner for the purpose of curing,
+3 diagnosing, preventing, relieving, or treating any health-related condition, disease,
+4 emergency, illness, or injury.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

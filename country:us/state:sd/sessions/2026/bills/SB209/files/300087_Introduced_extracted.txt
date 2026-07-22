@@ -1,0 +1,258 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.436.9 101st Legislative Session 209
+2026 South Dakota Legislature
+Senate Bill 209
+Introduced by: Senator Smith
+1 An Act to authorize the creation of land banks.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to a NEW CHAPTER in title 11:
+4 Terms used in this chapter mean:
+5 (1) "Board," the board of directors of a land bank;
+6 (2) "District," a specific geographic area that:
+7 (a) Is established by ordinance of the governing body of a political subdivision
+8 in which the area is located; and
+9 (b) Is comprised solely of the real property held or to be held by the land bank
+10 created for the district;
+11 (3) "Land bank," a nonprofit corporate entity that:
+12 (a) Is created by ordinance of the governing body of a political subdivision; and
+13 (b) Acquires, conveys, holds, or manages real property for the purpose of
+14 returning abandoned, blighted, delinquent, or vacant property to productive
+15 use; and
+16 (4) "Political subdivision," a county, municipality, school district, or any other local
+17 governmental body having the power to levy taxes on real property located within
+18 a district.
+19 Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 11:
+20 A governing body may elect to establish a district and create a land bank for the
+21 district by an ordinance that:
+22 (1) Describes the boundaries of the district;
+23 (2) Assigns a name to the land bank;
+24 (3) Sets the number of members of the board, consisting of an odd number not less
+25 than five and not exceeding eleven members;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.436.9 2 209
+1 (4) Appoints the initial members of the board;
+2 (5) Establishes the manner of appointment or selection, qualification, and terms of
+3 members; and
+4 (6) Provides authority for incorporation of the land bank.
+5 A land bank created pursuant to this chapter must be a duly formed nonprofit
+6 corporation of this state, with permanent and perpetual duration unless terminated and
+7 dissolved in accordance with the provisions of section 10 of this Act.
+8 Section 3. That a NEW SECTION be added to a NEW CHAPTER in title 11:
+9 At the first meeting of a board, the board shall adopt bylaws for:
+10 (1) Adopting, amending, and repealing the bylaws, as necessary for conducting
+11 business and regulating the land bank's affairs;
+12 (2) The board's annual selection, from among its members, of a chairperson, vice
+13 chairperson, secretary, treasurer, and any other officer as the board may
+14 determine;
+15 (3) Establishing the duties of the board's officers;
+16 (4) The appointment, attendance, compensation, disqualification, participation,
+17 quorum, reimbursement, removal, and voting of board members;
+18 (5) Filling vacancies on the board;
+19 (6) Reporting and record-keeping requirements; and
+20 (7) Inventorying the real property of the land bank and making the inventory available
+21 for public review and inspection.
+22 A public officer is eligible to serve as a board member, and the acceptance of the
+23 appointment does not impair the public office, subject to the provisions concerning
+24 conflicts of interest set forth in chapters 3-23 and 6-1.
+25 For purposes of this section, "public officer" means an individual who is elected to
+26 an office, including the governing body of a political subdivision or an employee of a
+27 political subdivision.
+28 Section 4. That a NEW SECTION be added to a NEW CHAPTER in title 11:
+29 A land bank may:
+30 (1) Sue and be sued in its own name and plead in any civil action;
+31 (2) Employ personnel as necessary to carry out the provisions of this chapter;
+32 (3) Borrow from public or private lenders, as necessary to carry out the provisions of
+33 this chapter;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.436.9 3 209
+1 (4) Issue bonds pursuant to section 7 of this Act;
+2 (5) Procure insurance or guarantees from the state or federal government for the
+3 payment of any debt incurred by the land bank, and pay any associated premium;
+4 (6) Procure insurance against losses in connection with the assets or activities of the
+5 land bank;
+6 (7) Enter into contracts and other instruments necessary to carry out the provisions of
+7 this chapter;
+8 (8) Invest moneys, at the discretion of the board, in instruments, obligations, property,
+9 or securities;
+10 (9) Enter into agreements for the management of, the collection of rent from the lease
+11 of, or the sale of the real property of the land bank;
+12 (10) Construct, demolish, design, develop, reconstruct, rehabilitate, relocate, renovate,
+13 and otherwise improve the real property of the land bank;
+14 (11) Collect, receive, and retain payment for:
+15 (a) Services rendered;
+16 (b) Rents and lease income;
+17 (c) Disposition of real and personal property;
+18 (d) Proceeds of insurance coverage for losses incurred;
+19 (e) Income from investments; and
+20 (f) Any other asset and activity permitted to a land bank pursuant to this
+21 chapter and other applicable law;
+22 (12) Convey, demise, exchange, grant, hypothecate, pledge, release, sell, or transfer
+23 the real property of the land bank;
+24 (13) Grant or acquire an easement, lease, license, or option with respect to real property
+25 of the land bank;
+26 (14) Enter into a collaborative relationship, including a joint venture or partnership, with
+27 another political subdivision or a public or private entity for the development,
+28 disposition, management, or ownership of real property;
+29 (15) Address abandoned, blighted, delinquent, and vacant real property within the
+30 political subdivision that created the land bank by:
+31 (a) Participating in foreclosures, including bulk foreclosures, tax certificate
+32 sales, and the tax deed process; and
+33 (b) Extinguishing delinquent taxes on the property; and
+34 (16) Do all other things necessary to ensure the productive use of the real property
+35 within the district.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.436.9 4 209
+1 Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 11:
+2 A land bank may acquire real property by:
+3 (1) Auction;
+4 (2) Devise;
+5 (3) Donation;
+6 (4) Exchange;
+7 (5) Foreclosure;
+8 (6) Gift;
+9 (7) Purchase, including through lease-purchase agreements, contracts-for-deed, and
+10 other installment sales;
+11 (8) Tax sale;
+12 (9) Transfer; and
+13 (10) Any other lawful means permitted in this state.
+14 Except as otherwise provided, a district may be expanded only if the land bank
+15 acquires additional real property located within the same political subdivision that created
+16 the land bank and outside of any other district.
+17 The governing bodies of two or more political subdivisions may elect to establish a
+18 combined district and create a single land bank by entering into an intergovernmental
+19 agreement, pursuant to chapter 1-24, in addition to the requirements set forth in section
+20 2 of this Act.
+21 Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 11:
+22 A land bank may not possess or exercise the power of eminent domain.
+23 Section 7. That a NEW SECTION be added to a NEW CHAPTER in title 11:
+24 A land bank may receive moneys through grants and loans from the political
+25 subdivision that created the land bank, another political subdivision, the state, the federal
+26 government, or any other public or private source.
+27 The land bank may issue bonds to finance the acquisition and redevelopment of
+28 real property, with principal and interest payable from the land bank's general revenue.
+29 A bond issued pursuant to this section:
+30 (1) Must be authorized by a resolution of the board that:
+31 (a) Establishes the terms for the delivery, issuance, and sale of the bond;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.436.9 5 209
+1 (b) Provides for the denomination, execution, form, interest, and maturity of
+2 the bond;
+3 (c) Is published in a newspaper of general circulation within the district; and
+4 (d) Sets forth whether the bond is subject to redemption and the manner of the
+5 redemption;
+6 (2) May be secured by a pledge of any revenues, including grants or contributions from
+7 the state, the federal government, any agency or instrumentality of the state or
+8 federal government, or by a mortgage of any real property of the land bank;
+9 (3) Is a negotiable instrument under the laws of this state;
+10 (4) Together with any income from the bond, is not subject to taxation by the state or
+11 a political subdivision;
+12 (5) Is a limited obligation of the land bank, with the principal and interest, costs of
+13 issuance, and other incidental costs payable solely from the income and revenue
+14 derived from the sale, lease, or other disposition of the assets of the land bank;
+15 (6) In the discretion of the land bank, may be secured by mortgage or other security
+16 interest on the real property or assets that generate the pledged revenue;
+17 (7) May be sold at a public or private sale for a price determined by the board to be in
+18 the best interest of the land bank; and
+19 (8) Must state, on its face, that:
+20 (a) The land bank and its agents or officers are not liable for a bond by reason
+21 of the issuance thereof; and
+22 (b) The bond is not a debt of the state or any political subdivision of the state.
+23 Section 8. That a NEW SECTION be added to a NEW CHAPTER in title 11:
+24 The real property of a land bank and the land bank's income and operations are
+25 exempt from all taxation by the state and any political subdivision of the state.
+26 Section 9. That a NEW SECTION be added to a NEW CHAPTER in title 11:
+27 All real property of a land bank must be held in the name of the land bank.
+28 The board shall determine the consideration to be received by the land bank for
+29 the transfer of real property, which may take the form of moneys and secured financial
+30 obligations, covenants and conditions related to the present and future use of the
+31 property, contractual commitments of the transferee, and any other form of consideration
+32 as determined by the board to be in the best interest of the political subdivision that
+33 created the land bank.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.436.9 6 209
+1 An ordinance creating a land bank pursuant to section 2 of this Act or an
+2 intergovernmental agreement, in the case of multiple districts with a single land bank,
+3 may:
+4 (1) Establish a hierarchical ranking of priorities for the use of real property conveyed
+5 by the land bank for:
+6 (a) Public spaces;
+7 (b) Affordable housing;
+8 (c) Commercial, industrial, and retail activities; and
+9 (d) Wildlife conservation areas; and
+10 (2) Require that any disposition of real property located within a specified jurisdiction
+11 be subject to voting and approval requirements of the board.
+12 Except as otherwise provided, the board may delegate, to any agent or officer of
+13 the land bank or any other person as determined appropriate by the board, the authority
+14 to enter into and execute agreements, instruments of conveyance, and all other related
+15 documents pertaining to the conveyance of real property by the land bank.
+16 Section 10. That a NEW SECTION be added to a NEW CHAPTER in title 11:
+17 A land bank is dissolved sixty calendar days after a resolution for dissolution is
+18 approved by two-thirds of the membership of the board.
+19 The board shall provide sixty calendar days' advance written notice of consideration
+20 of a resolution of dissolution:
+21 (1) To any political subdivision in which the district is located;
+22 (2) By publication of the notice in a local newspaper of general circulation in any
+23 political subdivision in which the district is located; and
+24 (3) By certified mail to the trustee of any outstanding bonds of the land bank.
+25 Upon dissolution of the land bank, all real property, personal property, and other
+26 assets of the land bank must become the assets of the political subdivision that created
+27 the land bank.
+28 If two or more political subdivisions combine districts with a single land bank
+29 pursuant to section 5 of this Act, the withdrawal of one or more political subdivisions does
+30 not result in the dissolution of the land bank, unless the intergovernmental agreement
+31 provides otherwise and no remaining political subdivision elects to continue the existence
+32 of the land bank.
+33 Section 11. That a NEW SECTION be added to a NEW CHAPTER in title 11:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.436.9 7 209
+1 A land bank has standing to file an action, pursuant to chapter 21-41 or 21-42, as
+2 applicable, to quiet title to any real property in which the land bank has an interest.
+3 Prior to filing the action, the board must conduct an examination of title to
+4 determine the identity of any person possessing a claim to or interest in the real property.
+5 Section 12. That a NEW SECTION be added to a NEW CHAPTER in title 11:
+6 In the event of a natural disaster that causes widespread damage to or destruction
+7 of real property and improvements, and dislocation of residents, the Governor may,
+8 following issuance of a declaration of emergency, establish an emergency district and
+9 create a temporary land bank in accordance with the provisions of this section.
+10 Following consultation with the governing body of each political subdivision
+11 containing all or a portion of the geographic area that is subject to the declaration of
+12 emergency, the Governor may issue an executive order that:
+13 (1) Provides for the immediate establishment of an emergency district comprising the
+14 affected geographic area of any political subdivision; and
+15 (2) Contains the provisions required to be set forth in an ordinance for creation of a
+16 land bank pursuant to section 2 of this Act.
+17 Except as otherwise provided, a temporary land bank created pursuant to this
+18 section has all powers of a land bank created pursuant to section 2 of this Act.
+19 A governing body may convert a temporary land bank into a land bank, as though
+20 created pursuant to section 2 of this Act, by ordinance, provided that the district
+21 established in the ordinance comprises only the affected geographic area within the
+22 political subdivision controlled by the governing body.
+23 An intergovernmental agreement, pursuant to chapter 1-24, is also required if the
+24 emergency district for which the temporary land bank was created comprises a geographic
+25 area located in more than one political subdivision and the governing bodies of those
+26 political subdivisions elect to convert the emergency district into a combined district
+27 pursuant to section 5 of this Act.
+28 If a temporary land bank is not converted within twelve months of the Governor’s
+29 executive order, the temporary land bank must be dissolved as set forth in section 10 of
+30 this Act.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

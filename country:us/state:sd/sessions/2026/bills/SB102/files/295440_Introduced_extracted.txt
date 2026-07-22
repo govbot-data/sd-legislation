@@ -1,0 +1,47 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.542.16 101st Legislative Session 102
+2026 South Dakota Legislature
+Senate Bill 102
+Introduced by: Senator Deibert
+1 An Act to modify the distribution of gaming revenues.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 42-7B-48.1 be AMENDED:
+4 42-7B-48.1. Disbursements from the Gaming Commission fund shall be as set
+5 forth in § 42-7B-48 until such time as the net municipal proceeds paid to the City of
+6 Deadwood equals six million eight hundred thousand dollars for each year, and after
+7 payment of commission expenses pursuant to subdivision 42-7B-48(2), and after payment
+8 of one hundred thousand dollars to the State Historical Preservation Grant and Loan fund
+9 pursuant to subdivision 42-7B-48(3).Thereafter, all
+10 All remaining funds shall moneys must be distributed as follows:
+11 (1) Seventy percent to the state To the general fund;
+12 (a) In 2026, seventy percent;
+13 (b) In 2027, forty percent;
+14 (c) In 2028, thirty percent; and
+15 (d) In 2029, and each year thereafter, twenty percent;
+16 (2) Ten percent to be distributed to municipalities in Lawrence County, except the City
+17 of Deadwood, pro rata according to their population;
+18 (3) Ten percent to be distributed to school districts, pro rata based upon the previous
+19 year's average daily membership, located in whole or in part, in Lawrence County.
+20 For any school district located only partly in Lawrence County, only that portion of
+21 the district's average daily attendance which represents students residing in
+22 Lawrence County shall be considered in calculating the proration required by this
+23 subdivision; and
+24 (4) Ten percent to To the City of Deadwood for deposit in the historic restoration and
+25 preservation fund;
+26 (a) In 2026, ten percent;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.542.16 2 102
+1 (b) In 2027, forty percent;
+2 (c) In 2028, fifty percent; and
+3 (d) In 2029, and each year thereafter, sixty percent.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

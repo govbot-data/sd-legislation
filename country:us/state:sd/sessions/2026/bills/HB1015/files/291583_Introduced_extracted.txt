@@ -1,0 +1,33 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.291.9 101st Legislative Session 1015
+2026 South Dakota Legislature
+House Bill 1015
+Introduced by: The Chair of the Committee on Judiciary at the request of the Chief Justice
+1 An Act to create a pilot program in the Unified Judicial System to develop a pretrial
+2 release program.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. The Unified Judicial System shall conduct a pilot program to allow a committing
+5 magistrate judge or circuit court judge to place a person charged with a misdemeanor or
+6 felony offense under the supervision of a presentence court services officer. The committing
+7 magistrate judge or circuit court judge may impose conditions of release pursuant to § 23A-
+8 43-3.
+9 Section 2. The Unified Judicial System shall report to the Legislature the results of the pilot
+10 program on or before December 31, 2027. The report must include:
+11 (1) Information on any pretrial screenings and assessments completed;
+12 (2) The number of cases supervised;
+13 (3) The number of cases in which the person supervised:
+14 (a) Appeared for all scheduled court appearances;
+15 (b) Was charged with a new criminal offense;
+16 (c) Failed to appear at a court date and a warrant was issued by the court; or
+17 (d) Did not have bond revoked by the court; and
+18 (4) Costs associated with the program.
+19 Section 3. The pilot program will expire on December 31, 2027.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,63 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.747.9 101st Legislative Session 1126
+2026 South Dakota Legislature
+House Bill 1126
+Introduced by: Representative Walburg
+1 An Act to revise a provision related to driving under the influence.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 32-23-4.9 be AMENDED:
+4 32-23-4.9. If a conviction for a violation of § 32-23-1 is for a sixth or subsequent
+5 offense, and the person had at least five convictions of § 32-23-1 occurring within twenty-
+6 five years of the violation being charged, and at least two of those prior convictions
+7 occurred within ten years, the violation is an aggravated offense and the person is guilty
+8 of a Class 4 felony. If a person is convicted of an aggravated violation of § 32-23-1 offense
+9 and the person has at least six five convictions of § 32-23-1 occurring within fifteen years
+10 of the violation being charged, the court must sentence the person to at least six years in
+11 a state correctional facility, one year of which must be served on parole, unless refused
+12 pursuant to § 24-15A-15. Any term of parole must include at least one of the following:
+13 enrollment in an alcohol or drug accountability program, an ignition interlock, a breath
+14 alcohol interlock, an alcohol monitoring bracelet, or another enhanced monitoring tool.
+15 The court may suspend this sentence only if the court orders the person to participate in
+16 and complete a drug court program, DUI court program, veterans treatment court
+17 program, or mental health court program, as a condition of probation.
+18 The court must revoke the person's driver license for a period of not less than three
+19 years from the date the sentence is imposed, or three years from the date of initial release
+20 from imprisonment, whichever is later. If the person is returned to imprisonment prior to
+21 the completion of the period of driver license revocation, time spent imprisoned does not
+22 count toward fulfilling the period of revocation. If the person is convicted of driving without
+23 a license during that period, the court must sentence the person to the county jail for not
+24 less than twenty days, which sentence may not be suspended. Notwithstanding § 23A-
+25 27-19, the court retains jurisdiction to modify the conditions of the license revocation for
+26 the term of the revocation.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.747.9 2 1126
+1 Upon the person's successful completion of a court-approved chemical dependency
+2 counseling program and proof of financial responsibility pursuant to § 32-35-113, the
+3 court may permit the person to operate a vehicle for the purposes of employment, 24/7
+4 sobriety testing, attendance at school, child care delivery or pickup, health appointments,
+5 attendance at court or probation appointments, or attendance at counseling programs,
+6 treatment, or aftercare.
+7 For any person convicted under this section and placed on probation, or parole, or
+8 released from prison due to a suspended sentence, the person's supervision must include
+9 at least one of the following: enrollment in an alcohol or drug accountability program, an
+10 ignition interlock, a breath alcohol interlock, an alcohol monitoring bracelet, or another
+11 enhanced monitoring tool. The Unified Judicial System shall supervise the offender if the
+12 sentence does not include a term of imprisonment in a state correctional facility. The
+13 Department of Corrections shall supervise the offender if the sentence includes a term of
+14 imprisonment in a state correctional facility. Any offender supervised pursuant to this
+15 section is not excluded from earned discharge credit as otherwise authorized by statute.
+16 If, during the period of supervision imposed under this section, the person being
+17 supervised violates conditions, the person must be penalized according to the graduated
+18 sanctions policy as established by the Supreme Court or the Department of Corrections,
+19 respectively.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

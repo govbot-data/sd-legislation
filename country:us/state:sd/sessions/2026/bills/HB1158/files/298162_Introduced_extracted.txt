@@ -1,0 +1,101 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.449.10 101st Legislative Session 1158
+2026 South Dakota Legislature
+House Bill 1158
+Introduced by: Representative Goodwin
+1 An Act to revise provisions pertaining to requirements for students receiving
+2 alternative instruction.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 13-3-55 be AMENDED:
+5 13-3-55. Every public A school district shall annually administer the same state-
+6 designated academic achievement assessment to all students each student in grades three
+7 to eight, inclusive, and in grade eleven. The assessment shall measure the academic
+8 progress of each student. Every public school district shall annually administer to all
+9 students in at least two grade levels an achievement test to assess writing skills. The
+10 assessment instruments shall be provided by the Department of Education, and the
+11 department shall determine the two grade levels to be tested. The tests shall be
+12 administered within timelines established by the Department of Education by rules
+13 promulgated pursuant to chapter 1-26 starting in the spring of the 2002-2003 school year.
+14 Each state-designed test shall be correlated with the state's content standards.
+15 The secretary of the Department of Education shall annually designate at least two
+16 of these grade levels to take the writing skills achievement assessment provided by the
+17 department. The assessments must measure the academic progress of each student and
+18 must correspond to the state's content standards promulgated pursuant to § 13-3-48.
+19 A student must take any academic achievement assessment administered by a
+20 school district if the student:
+21 (1) Is enrolled in the school district;
+22 (2) Is at least partially enrolled in the school district pursuant to § 13-28-41; or
+23 (3) Receives alternative instruction pursuant to § 13-27-3 and resides in the school
+24 district.
+25 For purposes of this section, a student is partially enrolled in a school district if the
+26 student is enrolled in a number of courses through the school district, the time for which,
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.449.10 2 1158
+1 when averaged over the whole school year, equals at least fifty percent of the number of
+2 hours in the school term, as established by the board of the school district pursuant to
+3 § 13-26-1.
+4 The South Dakota Board of Education Standards may shall promulgate rules,
+5 pursuant to chapter 1-26, to provide for administration of all the assessments and
+6 establish the timeline for the administration of the assessments each year.
+7 Section 2. That § 13-27-7 be AMENDED:
+8 13-27-7. Each notification of alternative instruction pursuant to § 13-27-3 shall
+9 be on a standard form that declares must declare that the child will be provided with
+10 alternative instruction per § 13-27-3. The completed form notification must contain the
+11 child's name, birthdate, resident district, and open enrolled district if applicable, signature
+12 of the parent, guardian, or other person having control of the child and information:
+13 (1) The full legal name, birthdate, and resident school district of the child;
+14 (2) The school district to which the child has open enrolled, if applicable;
+15 (3) The signature of the child's parent, guardian, or other custodian; and
+16 (4) Information required for the return of the form. The
+17 The notification must be on a form prescribed by the Department of Education. The
+18 form prescribed by the department may not require more information than what is set
+19 forth in this section.
+20 The department or the local district shall provide the parent, guardian, or other
+21 person having control custodian of the child with a signed or stamped copy of the
+22 notification as proof of notification. The department or district shall keep the notification
+23 shall be kept confidential. The form shall be provided by the secretary of the Department
+24 of Education but may not require more details than set forth by this section.
+25 The notification shall be filed within thirty days from the first time the child begins
+26 an alternative instruction program while the child is of school age as defined in § 13-27-1
+27 and is not required thereafter unless one or more of the following transitions occur:
+28 (1) A child enrolls in a public or nonpublic school; or
+29 (2) A child moves to a different school district.
+30 The parent, guardian, or other person having control of the child shall provide
+31 notification of any transitions by submitting the standard notification form to the
+32 Department of Education or the local district within thirty days of the transition.
+33 Section 3. That a NEW SECTION be added to chapter 13-27:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.449.10 3 1158
+1 The parent, legal guardian, or other custodian of a child being provided with
+2 alternative instruct shall file a notification of alternative instruction, pursuant to § 13-27-
+3 7, by the following deadlines:
+4 (1) Within thirty days of:
+5 (a) The first time the child begins an alternative instruction program while the
+6 child is of school age, as defined in § 13-27-1;
+7 (b) Any change in the child's resident school district;
+8 (c) The child being excused from compulsory school attendance, as provided in
+9 this chapter; or
+10 (d) The child being enrolled in a public or nonpublic school; and
+11 (2) By September first of each school year the child is to be provided with alternative
+12 instruction, until the child has graduated, fully enrolls in a public or nonpublic
+13 school, or is otherwise excused from compulsory school attendance.
+14 Section 4. That § 13-3-84 be REPEALED.
+15 If a student is partially enrolled in a school district pursuant to § 13-28-41 or 13-
+16 28-51, and the student's enrollment is equal to or greater than fifty percent, that student
+17 is required to take any academic achievement test administered by the school district
+18 pursuant to § 13-3-55. If a student's partial enrollment in a school district is less than fifty
+19 percent, the student is not required to take any academic achievement test administered
+20 by the school district pursuant to § 13-3-55.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

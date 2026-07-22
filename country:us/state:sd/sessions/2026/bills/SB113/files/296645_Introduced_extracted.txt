@@ -1,0 +1,21 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.780.9 101st Legislative Session 113
+2026 South Dakota Legislature
+Senate Bill 113
+Introduced by: Senator Mehlhaff
+1 An Act to increase the penalty for preventing practice of religion.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 22-19B-4 be AMENDED:
+4 22-19B-4. Any person who, by threats threat or violence, intentionally prevents
+5 another person from performing any lawful act enjoined upon or recommended by the
+6 religion which such the other person professes, is guilty of a Class 1 misdemeanor Class
+7 6 felony.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

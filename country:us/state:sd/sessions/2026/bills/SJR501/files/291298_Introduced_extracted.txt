@@ -1,0 +1,46 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.33.9 101st Legislative Session
+2026 South Dakota Legislature
+Senate Joint Resolution 501
+Introduced by: Senator Rohl
+1 A JOINT RESOLUTION proposing and submitting to the voters at the next general
+2 election an amendment to the Constitution of the State of South Dakota,
+3 limiting the number of terms an individual may serve as a member of the
+4 Legislature.
+5 BE IT RESOLVED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+6 Section 1. That at the next general election held in the state, the following amendment to
+7 Article III of the Constitution of the State of South Dakota, as set forth in section 2 of this
+8 Joint Resolution, which is hereby agreed to, be submitted to the electors of the state for
+9 approval.
+10 Section 2. That Article III, § 6 of the Constitution of the State of South Dakota, be
+11 AMENDED:
+12 § 6. The terms of office of the members of the Legislature shall be two years; they
+13 shall receive for their services the salary fixed by law under the provisions of § 2 of article
+14 XXI of this Constitution, and five cents for every mile of necessary travel in going to and
+15 returning from the place of meeting of the Legislature on the most usual route.
+16 No person An individual may serve not be elected to more than four consecutive
+17 terms or a total of eight consecutive years in the senate and Senate or more than four
+18 consecutive terms or a total of eight consecutive years in the house of representatives.
+19 However, this restriction does not apply to partial terms to which a legislator may be
+20 appointed House of Representatives. An individual may not be elected to more than eight
+21 consecutive terms or a total of sixteen consecutive years as a member of the Legislature.
+22 Any partial term for which an individual is appointed, pursuant to Article IV, § 3 of this
+23 Constitution, is not counted toward the number of terms to which an individual may be
+24 elected as a member of either the Senate or the House of Representatives.
+25 A regular session of the Legislature shall be held each year and shall not exceed
+26 forty legislative days, excluding Sundays, holidays and legislative recess, except in cases
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.33.9 2
+1 of impeachment, and members of the Legislature shall receive no other pay or perquisites
+2 except salary and mileage.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

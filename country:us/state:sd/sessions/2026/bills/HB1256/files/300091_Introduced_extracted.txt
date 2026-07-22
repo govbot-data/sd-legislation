@@ -1,0 +1,36 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.910.9 101st Legislative Session 1256
+2026 South Dakota Legislature
+House Bill 1256
+Introduced by: Representative Goodwin
+1 An Act to require the promulgation of rules related to accessing the capitol complex
+2 and providing electronic card access to capitol access pass holders.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 5-15-34 be AMENDED:
+5 5-15-34. The commissioner of human resources and administration the Bureau of
+6 Human Resources and Administration may promulgate such rules, pursuant to chapter 1-
+7 26 as may be necessary to promote the, regarding the capitol complex and grounds, which
+8 are necessary to:
+9 (1) Promote health, safety, and general welfare, to prohibit;
+10 (2) Prohibit public intoxication, disturbances, and disorderly assemblies, to keep;
+11 (3) Keep the peace, and to declare what; and
+12 (4) Declare that which constitutes a nuisance within the buildings of the capitol
+13 complex and the capitol grounds.
+14 These rules may include the regulation of hours of general public accessibility to
+15 buildings within the capitol complex and the regulation of obstruction, speed limits, and
+16 parking on the streets and alleys within the capitol grounds.
+17 Section 2. That a NEW SECTION be added to chapter 5-15:
+18 The commissioner of the Bureau of Human Resources and Administration shall:
+19 (1) Promulgate rules, pursuant to chapter 1-26, regulating general public accessibility
+20 to the buildings within the capitol complex; and
+21 (2) Permit the holder of a capitol access pass to access all outside entrances into the
+22 Capitol complex, which are accessible by electronic access card.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

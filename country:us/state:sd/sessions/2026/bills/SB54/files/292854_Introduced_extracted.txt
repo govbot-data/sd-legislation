@@ -1,0 +1,36 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.554.9 101st Legislative Session 54
+2026 South Dakota Legislature
+Senate Bill 54
+Introduced by: The Chair of the Committee on Retirement Laws at the request of the South Dakota Retirement
+System
+1 An Act to revise the conditions for in-service distributions from the South Dakota
+2 deferred compensation plan.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 3-13-78 be AMENDED:
+5 3-13-78. Deferrals may be distributed only if one of the following conditions has
+6 occurred:
+7 (1) Severance from employment with a participating employer;
+8 (2) Death of the participant;
+9 (3) An unforeseeable emergency, set forth in § 3-13-82;
+10 (4) Requirements are satisfied for an in-service distribution, as set forth in § 3-13-
+11 83;or
+12 (5) AThe participant is called to perform qualified military service for a period in excess
+13 of thirty days; or
+14 (6) The participant elects to receive an in-service distribution pursuant to section 2 of
+15 this Act.
+16 Section 2. That a NEW SECTION be added to chapter 3-13:
+17 Notwithstanding § 3-13-83, a participant who is at least fifty-nine and one-half
+18 years old may elect to receive an in-service distribution from the plan in any form
+19 permitted under § 3-13-80. The receipt of an in-service distribution pursuant to this
+20 section does not preclude the participant from continuing to make deferrals of
+21 compensation into the plan.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

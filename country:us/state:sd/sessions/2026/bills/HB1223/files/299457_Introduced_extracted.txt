@@ -1,0 +1,239 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.180.22 101st Legislative Session 1223
+2026 South Dakota Legislature
+House Bill 1223
+Introduced by: Representative Heinemann
+1 An Act to revise the scope of practice for occupational therapy.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 36-31-1 be AMENDED:
+4 36-31-1. Terms used in this chapter mean:
+5 (1) "Board," the State Board of Medical and Osteopathic Examiners;
+6 (2) "Instrument-assisted modalities," modalities that produce a biophysiological
+7 response through the use of instruments or tools to target therapeutic treatment
+8 to specific tissue, fascia, or muscle;
+9 (3) "Occupational therapist," any person licensed to practice occupational therapy as
+10 defined set forth in this chapter and whose license is in good standing;
+11 (3) "Occupational therapy," the evaluation, planning and implementation of a program
+12 of purposeful activities to develop or maintain adaptive skills necessary to achieve
+13 the maximal physical and mental functioning of the individual in his or her daily
+14 pursuits. The practice of occupational therapy includes consultation, evaluation,
+15 and treatment of individuals whose abilities to cope with the tasks of living are
+16 threatened or impaired by developmental deficits, the aging process, learning
+17 disabilities, poverty and cultural differences, physical injury or disease,
+18 psychological and social disabilities, or anticipated dysfunction. Occupational
+19 therapy services include such treatment techniques as task-oriented activities to
+20 prevent or correct physical or emotional deficits or to minimize the disabling effect
+21 of these deficits in the life of the individual; such evaluation techniques as
+22 assessment of sensory integration and motor abilities, assessment of development
+23 of self-care and feeding, activities and capacity for independence, assessment of
+24 the physical capacity for prevocational and work tasks, assessment of play and
+25 leisure performance, and appraisal of living areas for the handicapped; physical
+26 agent modalities limited to the upper extremities to enhance physical functional
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.180.22 2 1223
+1 performance, if certified in accordance with § 36-31-6; and specific occupational
+2 therapy techniques such as activities of daily living skills, designing, fabricating, or
+3 applying selected orthotic devices or selecting adaptive equipment, sensory
+4 integration and motor activities, the use of specifically designed manual and
+5 creative activities, specific exercises to enhance functional performance, and
+6 treatment techniques for physical capabilities for work activities. Such techniques
+7 are applied in the treatment of individual patients or clients, in groups, or through
+8 social systems;
+9 (4) "Occupational therapy aide," any person who assists in the practice of occupational
+10 therapy under the direct supervision of an occupational therapist or occupational
+11 therapy assistant;
+12 (5) "Occupational therapy assistant," any person licensed to assist in the practice of
+13 occupational therapy, under the supervision of or with the consultation of a licensed
+14 an occupational therapist, and whose license is in good standing; and
+15 (6) "Physical agent modalities and mechanical agents," modalities that produce a
+16 biophysiological response through the use of light, water, temperature, sound, or
+17 electricity, or mechanical devices. Physical agent modalities include:
+18 (a) Superficial thermal agents such as hydrotherapy/whirlpool, cryotherapy (cold
+19 packs/ice), fluidotherapy, hot packs, paraffin, water, infrared, and other
+20 commercially available superficial heating and cooling technologies;
+21 (b) Deep thermal agents such as therapeutic ultrasound, phonophoresis, and other
+22 commercially available technologies;
+23 (c) Electrotherapeutic agents such as biofeedback, neuromuscular electrical
+24 stimulation, functional electrical stimulation, transcutaneous electrical nerve
+25 stimulation, electrical stimulation for tissue repair, high-voltage galvanic
+26 stimulation, and iontophoresis and other commercially available technologies; and
+27 (d) Mechanical devices such as vasopneumatic devices and CPM (continuous passive
+28 motion):
+29 (a) Superficial thermal, deep thermal, or electrotherapeutic agents; or
+30 (b) Mechanical devices, vasopneumatic devices, or continuous passive motion
+31 devices.
+32 Section 2. That a NEW SECTION be added to chapter 36-31:
+33 The practice of occupational therapy is the evaluation, planning, and
+34 implementation of a program of purposeful activities to develop or maintain adaptive skills
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.180.22 3 1223
+1 necessary to achieve the maximal physical and mental functioning of an individual in the
+2 individual's daily pursuits, and which involves:
+3 (1) Consultation, evaluation, and treatment of individuals whose abilities to cope with
+4 the tasks of living are threatened or impaired by developmental deficits, the aging
+5 process, learning disabilities, poverty and cultural differences, physical injury or
+6 disease, psychological and social difficulties, or anticipated dysfunction;
+7 (2) Utilization of task-oriented activities as treatment techniques to prevent or correct
+8 physical or emotional deficits, or to minimize the disabling effect of these deficits
+9 in the life of the individual;
+10 (3) Evaluation of the individual's:
+11 (a) Sensory integration and motor abilities;
+12 (b) Self-care and feeding;
+13 (c) Activities and capacity for independence;
+14 (d) Physical capacity for prevocational and work tasks;
+15 (e) Play and leisure performance; and
+16 (f) Living areas for the disabled;
+17 (4) Physical and mechanical agents, and instrument-assisted modalities, to enhance
+18 physical functional performance, if the licensee meets the requirements set forth
+19 in section 5 or 6 of this Act, respectively; and
+20 (5) The following specific occupational therapy techniques, applied in the treatment of
+21 individual patients or clients, in groups, or through social systems:
+22 (a) Using activities for daily living skills;
+23 (b) Designing, fabricating, or applying selected orthotic devices or selecting
+24 adaptive equipment;
+25 (c) Integrating sensory and motor activities;
+26 (d) Using manual and creative activities;
+27 (e) Using exercises to enhance functional performance; and
+28 (f) Addressing physical capabilities related to work activities.
+29 Section 3. That § 36-31-4 be AMENDED:
+30 36-31-4. Nothing in this chapter may be construed as preventing or restricting
+31 the practice, services, or activities of:
+32 (1) Any person licensed in this state by any other law from engaging in the profession
+33 or occupation for which he the person is licensed; or
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.180.22 4 1223
+1 (2) Any person employed as an occupational therapist or occupational therapy
+2 assistant by the government of the United States or any agency of it thereof, if
+3 such the person provides occupational therapy solely under the direction or control
+4 of the organization by which he is employed employer; or
+5 (3) Any person pursuing a supervised course of study leading to a degree or certificate
+6 in occupational therapy at an accredited or approved educational program, if the
+7 person is designated by a title which that clearly indicates his the person's status
+8 as a student or trainee; or
+9 (4) Any person fulfilling the supervised fieldwork experience requirements of
+10 subdivision § 36-31-6 (4), if the experience constitutes a part of the experience
+11 necessary to meet the requirement of that section; or
+12 (5) Any person employed as an occupational therapy aide; or
+13 (6) Any person performing occupational therapy services in the state if these services
+14 are performed for no more than ten days in a calendar year in association with an
+15 occupational therapist licensed under this chapter, if:
+16 (a) The person is licensed under the law of another state which that has
+17 licensure requirements at least as stringent as the requirements of this
+18 chapter,; or
+19 (b) The person meets the requirements for certification as an occupational
+20 therapist, or a registered or a certified occupational therapy assistant,
+21 established by the American occupational therapy association Occupational
+22 Therapy Association; or
+23 (7) Any person when providing therapy as related services as defined in a student's
+24 individualized educational plan, the therapy shall not be an activity and which
+25 supplants or duplicates does not supplant or duplicate the educational instruction
+26 program provided by the teaching profession.
+27 Section 4. That § 36-31-6 be AMENDED:
+28 36-31-6. Any applicant applying for a license as an occupational therapist or as
+29 an occupational therapy assistant shall file a written application provided by the board,
+30 showing and submit evidence, to the satisfaction of the board, that he meets the following
+31 requirements the applicant:
+32 (1) Residence: Applicant need not be a resident of this state;
+33 (2) Character: Applicant shall beIs of good moral character;
+34 (3) Education: Applicant shall present evidence satisfactory to the board of having
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.180.22 5 1223
+1 (2) Has successfully completed the academic requirements of an educational program
+2 in occupational therapy, recognized by the board:
+3 (a) The occupational therapy educational program must be accredited by the
+4 committee on allied health education and accreditation/American Medical
+5 Association in collaboration with the American Occupational Therapy Association;
+6 (b) The occupational therapy assistant educational program must be approved by the
+7 American Occupational Therapy Association.
+8 (4) Experience: Applicant shall submit to the board evidence of having, and which is
+9 accredited by the Accreditation Council for Occupational Therapy Education;
+10 (3) Has successfully completed a period of supervised fieldwork experience arranged
+11 by the recognized educational institution where he the applicant met the academic
+12 requirements or by the nationally recognized professional association, as follows:
+13 (a) For an occupational therapist, a minimum of six months of supervised
+14 fieldwork experience is required; or
+15 (b) For an occupational therapy assistant, a minimum of two months of
+16 supervised fieldwork experience is required.; and
+17 (5)(4) Examination: An applicant for licensure as an occupational therapist or as an
+18 occupational therapy assistant shall passHas passed an examination approved by
+19 the board upon recommendation by the occupational therapy committee;
+20 (6) Certification: In order to apply physical agent modalities as defined in § 36-31-1,
+21 an occupational therapist or occupational therapist assistant is qualified pursuant
+22 to this subdivision, as follows:
+23 (a) Has successfully completed twenty-five hours of American Occupational Therapy
+24 Association or American Physical Therapy Association approved education covering
+25 physical agent modalities and completed a supervised mentorship to include five
+26 case studies on each class of modality to be incorporated into patient care;
+27 (b) Is certified as a hand therapist by the Hand Therapy Certification commission or
+28 other equivalent entity recognized by the board; or
+29 (c) Has completed education during a basic occupational therapy educational program
+30 that included demonstration of competencies on each class of the physical agent
+31 modalities.
+32 A supervising therapist or mentor may be a physical therapist, a certified hand therapist,
+33 or an occupational therapist who has completed a supervised mentorship and has
+34 five years of clinical experience utilizing each class of physical agent modalities; or
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.180.22 6 1223
+1 an occupational therapist who has graduated from an occupational therapy
+2 program whose curriculum includes physical agent modality education council.
+3 Section 5. That a NEW SECTION be added to chapter 36-31:
+4 In order to apply physical and mechanical agents, an occupational therapist or
+5 occupational therapist assistant must demonstrate to the satisfaction of the board:
+6 (1) Completion of:
+7 (a) Twenty-five hours of education covering physical and mechanical agents,
+8 approved by the American Occupational Therapy Association or American
+9 Physical Therapy Association; and
+10 (b) A supervised mentorship comprised of at least five case studies on each
+11 class of agent to be incorporated into patient care;
+12 (2) Certification as a hand therapist by the Hand Therapy Certification Commission or
+13 other equivalent entity recognized by the board; or
+14 (3) Completion of education during an entry-level occupational therapy educational
+15 program that included a demonstration of competencies on each class of physical
+16 and mechanical agents.
+17 A supervising mentor may be a physical therapist, a certified hand therapist, an
+18 occupational therapist who has completed a supervised mentorship and has five years of
+19 clinical experience utilizing each class of physical and mechanical agent, or an occupational
+20 therapist who has graduated from an occupational therapy program whose curriculum
+21 included physical and mechanical agent education.
+22 Section 6. That a NEW SECTION be added to chapter 36-31:
+23 In order to apply an instrument-assisted modality, an occupational therapist or
+24 occupational therapist assistant must demonstrate, to the satisfaction of the board,
+25 completion of post-professional continuing education that included a demonstration of
+26 competency for the instrument-assisted modality to be used.
+27 Section 7. That § 36-31-7 be AMENDED:
+28 36-31-7. The education requirements of subsection 36-31-6(3)(a) for an
+29 occupational therapist, as set forth in § 36-31-6, are waived if the applicant:
+30 (1) Has practiced as an occupational therapy assistant for four years;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.180.22 7 1223
+1 (2) Has completed the supervised fieldwork experience requirements of subsection 36-
+2 31-6(4)(a) for an occupational therapist, as set forth in § 36-31-6, before January
+3 1, 1988; and
+4 (3) Has passed the examination approved by the board for occupational therapists.
+5 Section 8. That § 36-31-9 be AMENDED:
+6 36-31-9. Any foreign-trained occupational therapist or occupational therapy
+7 assistant shall satisfy the examination requirements of subdivision 36-31-6(5) § 36-31-6.
+8 The board shall require foreign-trained applicants to furnish proof of good moral character
+9 and completion of educational and supervised fieldwork requirements substantially equal
+10 to those contained in § 36-31-6 before taking the examination.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

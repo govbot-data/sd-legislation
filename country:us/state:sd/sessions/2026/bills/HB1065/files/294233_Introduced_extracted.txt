@@ -1,0 +1,20 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.529.9 101st Legislative Session 1065
+2026 South Dakota Legislature
+House Bill 1065
+Introduced by: Representative Ismay
+1 An Act to require the possession of a registry identification card to raise an
+2 affirmative defense in cannabis prosecution.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 34-20G-53 be AMENDED:
+5 34-20G-53. A person is not required to possess a registry identification card to
+6 raise the affirmative defense set forth in § 34-20G-51.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

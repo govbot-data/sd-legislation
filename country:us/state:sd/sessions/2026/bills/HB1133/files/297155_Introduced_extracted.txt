@@ -1,0 +1,51 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.501.9 101st Legislative Session 1133
+2026 South Dakota Legislature
+House Bill 1133
+Introduced by: Representative Jordan
+1 An Act to remove an enhanced permit as a condition of carrying a concealed pistol
+2 while on the campus of a public institution of higher education.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 13-39A-43 be AMENDED:
+5 13-39A-43. Except as otherwise provided in § 13-39A-44, neither the South
+6 Dakota Board of Technical Education nor any institution under the control of the board
+7 may restrict or limit the lawful carrying, possession, storage, or transportation of:
+8 (1) A concealed pistol, as defined in § 22-1-2, and compatible ammunition, by any
+9 individual holding an enhanced permit, a restricted enhanced permit, or a
+10 reciprocal permit in accordance with chapter 23-7, within the boundaries of the
+11 institution, or while in any building or structure owned or leased by the board or
+12 the institution;
+13 (2) A stun gun, as defined in § 22-1-2, by any individual within the boundaries of the
+14 institution, or while in any building or structure owned or leased by the board or
+15 the institution; or
+16 (3) Mace, pepper spray, or other chemical irritant by any individual within the
+17 boundaries of the institution, or while in any building or structure owned or leased
+18 by the board or the institution.
+19 Section 2. That § 13-53-56 be AMENDED:
+20 13-53-56. Except as otherwise provided in § 13-53-57, neither the Board of
+21 Regents nor any institution under the control of the board may restrict or limit the lawful
+22 carrying, possession, storage, or transportation of:
+23 (1) A concealed pistol, as defined in § 22-1-2, and compatible ammunition, by any
+24 individual holding an enhanced permit, a restricted enhanced permit, or a
+25 reciprocal permit in accordance with chapter 23-7, within the boundaries of the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.501.9 2 1133
+1 institution, or while in any building or structure owned or leased by the board or
+2 the institution;
+3 (2) A stun gun, as defined in § 22-1-2, by any individual within the boundaries of the
+4 institution, or while in any building or structure owned or leased by the board or
+5 the institution; or
+6 (3) Mace, pepper spray, or other chemical irritant by any individual within the
+7 boundaries of the institution, or while in any building or structure owned or leased
+8 by the board or the institution.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

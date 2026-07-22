@@ -1,0 +1,92 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.423.10 101st Legislative Session 1004
+2026 South Dakota Legislature
+House Bill 1004
+Introduced by: Representative Ismay
+1 An Act to authorize the recall of county commissioners.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to a NEW CHAPTER in title 7:
+4 As provided in this Act, a county commissioner may be removed from office at any
+5 time by voters eligible to elect a commissioner pursuant to § 7-8-2.
+6 Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 7:
+7 A petition for the removal of a county commissioner and election of a successor
+8 must be signed by:
+9 (1) Fifteen percent of the registered voters of the district that the commissioner
+10 represents; or
+11 (2) Five percent of the registered voters of the county, if the commissioner serves the
+12 entire county.
+13 The percentage and number of signatures required in this section are based upon
+14 the total number of registered voters at the last preceding general election. A signature
+15 on the petition is not valid if signed more than sixty days before the petition is filed with
+16 the county auditor.
+17 Section 3. That a NEW SECTION be added to a NEW CHAPTER in title 7:
+18 A petition pursuant to this Act must contain:
+19 (1) The place of residence of the petition's signer;
+20 (2) The date of signing the petition; and
+21 (3) A statement alleging at least one of the allowable grounds on which the removal
+22 of a county commissioner may be sought, which are:
+23 (a) Corruption;
+24 (b) Crimes in office;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.423.10 2 1004
+1 (c) Drunkenness;
+2 (d) Gross incompetency;
+3 (e) Gross partiality;
+4 (f) Malfeasance;
+5 (g) Misconduct;
+6 (h) Nonfeasance;
+7 (i) Oppression; and
+8 (j) Theft.
+9 The State Board of Elections shall, by rule promulgated pursuant to chapter 1-26,
+10 prescribe the form of the petition.
+11 Section 4. That a NEW SECTION be added to a NEW CHAPTER in title 7:
+12 If a petition is filed with the county auditor and meets the requirements of sections
+13 2 and 3 of this Act, the county auditor must present the petition at the next meeting of
+14 the board of commissioners of which the commissioner sought to be removed is a member.
+15 Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 7:
+16 A special election on the question of the removal of a county commissioner and
+17 election of a successor must be held within sixty days after the a petition is submitted to
+18 the board of commissioners pursuant to section 4 of this Act, except if the petition is filed
+19 within ninety days prior to a primary, general, or statewide special election, in which case
+20 the question must be submitted at that election.
+21 The commissioner sought to be removed may be a candidate and, unless the
+22 commissioner requests otherwise in writing, the county auditor shall place the
+23 commissioner's name on the official ballot without nomination. The auditor shall place on
+24 the official ballot the name of any other candidate nominated, as provided in chapter 7-8.
+25 The candidate having the highest number of votes must be declared elected. If no other
+26 candidate is nominated for the position, a recall election may not be held, and the
+27 commissioner must remain in office.
+28 Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 7:
+29 The procedure for challenging a petition established in §§ 12-1-13 to 12-1-16,
+30 inclusive, is applicable to a petition pursuant to this Act, but only the petition signatures
+31 may be so challenged. A failure to challenge petition signatures pursuant to §§ 12-1-13
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.423.10 3 1004
+1 to 12-1-16, inclusive, does not prohibit an interested person from challenging the filing of
+2 the petition or the sufficiency of the specific statement of the grounds of the petition.
+3 A challenge to the petition regarding the specific statement of the grounds required
+4 in section 3 of this Act must be filed in circuit court within five business days after the
+5 petition is presented to the board of commissioners pursuant to section 4 of this Act. The
+6 circuit court shall conduct an expedited declaratory judgment hearing with no right to trial
+7 by jury.
+8 Section 7. That a NEW SECTION be added to a NEW CHAPTER in title 7:
+9 If a county commissioner sought to be removed is elected in a special election
+10 pursuant to section 5 of this Act, the commissioner must continue in office. If a successor
+11 is elected, the commissioner is deemed removed from office upon or at the expiration of
+12 the time for qualification of the successor. The successor shall qualify within ten days after
+13 receiving notification of election, and in case of a failure to qualify, the office is deemed
+14 vacant. The qualified successor of any removed commissioner shall hold office during the
+15 remainder of the removed commissioner's unexpired term.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

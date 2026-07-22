@@ -1,0 +1,30 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.952.13 101st Legislative Session 1317
+2026 South Dakota Legislature
+House Bill 1317
+Introduced by: Representative Ismay
+1 An Act to eliminate a limit on the accumulation of the unused index factor for
+2 property taxation.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 10-13-35.4 be AMENDED:
+5 10-13-35.4. For taxes payable in the year 2003 and each year thereafter, the The
+6 county auditor shall calculate what the maximum amount of revenue payable that the
+7 county or municipality may request, based on growth and the index factor pursuant to
+8 § 10-13-35. The calculation shall must also show any accumulative percent of the unused
+9 index factor not used accumulated since 2024 by the county or municipality. This
+10 calculation shall exclude excludes the levy pursuant to § 10-13-36.
+11 Section 2. That § 10-13-35.5 be AMENDED:
+12 10-13-35.5. The A county or municipality may increase the total amount of
+13 revenue payable from taxes on real property in any year up to the maximum amount
+14 calculated in accordance with § 10-13-35.4 utilizing any accumulated unused index factor
+15 from the prior three years. However, such an amount may not exceed the prior three year
+16 index factor total or ten percent, whichever is less.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

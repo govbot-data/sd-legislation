@@ -1,0 +1,62 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.749.15 101st Legislative Session 1142
+2026 South Dakota Legislature
+House Bill 1142
+Introduced by: Representative Roby
+1 An Act to provide for the disclosure of any third party that has a right to receive a
+2 payment contingent upon the outcome of a civil action.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 15-6:
+5 Except as provided in section 2 of this Act, in any civil action, a party or the party's
+6 counsel of record shall:
+7 (1) Disclose in writing to the court and all other named parties to the civil action the
+8 identity of any person, other than the counsel of record, that has the right to
+9 receive any payment or thing of value that is contingent upon the outcome of the
+10 civil action, or a group of actions of which the civil action is a part; and
+11 (2) Produce to the court and all other named parties to the civil action, for inspection
+12 and copying, any agreement creating a contingent right as described in subdivision
+13 (1), including any ancillary agreement or document, except as otherwise stipulated
+14 or ordered by the court.
+15 Disclosure and production under this section must be made within ten days of the
+16 execution of any agreement described in subdivision (2), or at the time of the filing of the
+17 action before the court, whichever is later.
+18 For purposes of this section, "person" includes associations, cooperative
+19 corporations, corporations, domestic government entities, foreign government entities,
+20 limited liability companies, natural persons, and partnerships.
+21 Section 2. That a NEW SECTION be added to chapter 15-6:
+22 Section 1 of this Act does not apply to any right to receive a payment if the payment
+23 is solely:
+24 (1) The repayment of principal of a loan;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.749.15 2 1142
+1 (2) The repayment of principal of a loan plus interest that does not exceed the higher
+2 of:
+3 (a) Seven percent; or
+4 (b) A rate two times the annual average thirty-year constant maturity Treasury
+5 yield, as published by the Board of Governors of the Federal Reserve
+6 system, for the twelve-month period preceding the date on which the
+7 relevant agreement was executed; or
+8 (3) The reimbursement of attorney fees, including the payment of a contingent fee to
+9 an attorney for legal services pursuant to an attorney-client agreement.
+10 Section 3. That a NEW SECTION be added to chapter 15-6:
+11 The party filing the disclosure or production pursuant to section 1 of this Act, or
+12 the party's counsel of record, must correct or supplement any disclosure or production
+13 required by section 1 of this Act in a timely manner, upon learning that the disclosure or
+14 production is or has become incomplete or incorrect in some material respect, if the
+15 corrective or additional information has not otherwise been made to the other parties
+16 during the discovery process or in writing, or as ordered by the court.
+17 Section 4. That a NEW SECTION be added to chapter 15-6:
+18 Nothing in sections 1 to 3, inclusive, of this Act prohibits a party in a civil action
+19 from seeking information referred to in sections 1 and 2 of this Act through the discovery
+20 process.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

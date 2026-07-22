@@ -1,0 +1,59 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.399.9 101st Legislative Session 9
+2026 South Dakota Legislature
+Senate Bill 9
+Introduced by: The Chair of the Committee on Commerce and Energy at the request of the Department of Public
+Safety
+1 An Act to revise provisions regarding notices to the one-call notification center.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 49-7A-5 be AMENDED:
+4 49-7A-5. No excavator may begin any excavation without first notifying the one-
+5 call notification center of the proposed excavation. The excavator shall give notice by
+6 telephone or by other methods approved by the board, pursuant to rules promulgated
+7 pursuant to chapter 1-26, to the one-call notification center, at least forty-eight hours
+8 prior to the commencement of the excavation, excluding Saturdays, Sundays, and legal
+9 holidays of the state. The forty-eight-hour period begins at 12:01 a.m. the day after notice
+10 is submitted to the notification center, excluding any Saturday, Sunday, or legal holiday
+11 of the state.
+12 The board may promulgate rules, pursuant to chapter 1-26, to reduce the forty-
+13 eight-hour interval period for emergency or subsequent inquiries to the original locate
+14 request, and may lengthen the forty-eight-hour interval period for nonexcavation
+15 requests.
+16 Section 2. That § 49-7A-8 be AMENDED:
+17 49-7A-8. An operator shall, upon receipt of the notice, advise the excavator of the
+18 location of underground facilities in the proposed excavation area by marking the location
+19 of the facilities with stakes, flags, paint, or other clearly identifiable marking markings
+20 within eighteen inches horizontally from the exterior sides of the underground facilities.
+21 The board shall promulgate rules, pursuant to chapter 1-26, to establish the response
+22 time for operators to mark the underground facilities. The operator's response time shall
+23 be no later than forty-eight hours after the receipt of the notice, excluding Saturdays,
+24 Sundays, and legal holidays of the state or the excavation start time provided by the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.399.9 2 9
+1 excavator, whichever is later must be within one of the following periods, whichever is
+2 later:
+3 (1) The forty-eight-hour period beginning at 12:01 a.m. the day after notice is
+4 received; or
+5 (2) The period between notice being given and the excavation start time provided by
+6 the excavator.
+7 The forty-eight-hour period does not include Saturdays, Sundays, or legal holidays
+8 of the state. The response time may be less than forty-eight hours the forty-eight-hour
+9 period for emergency or subsequent inquiries to the original locate request, and may be
+10 longer than forty-eight hours the forty-eight-hour period for nonexcavation requests.
+11 Excavators shall maintain a minimum horizontal clearance of eighteen inches
+12 between a marked underground facility and the cutting edge of any mechanical
+13 equipment. If excavation is required within eighteen inches, horizontally, the excavator
+14 shall must expose the facility with hand tools or noninvasive methods approved pursuant
+15 to rule, and shall protect and support the facility prior to further excavation with
+16 mechanical equipment.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

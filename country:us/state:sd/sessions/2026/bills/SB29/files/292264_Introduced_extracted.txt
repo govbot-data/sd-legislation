@@ -1,0 +1,130 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.306.22 101st Legislative Session 29
+2026 South Dakota Legislature
+Senate Bill 29
+Introduced by: The Chair of the Committee on State Affairs at the request of the Secretary of State
+1 An Act to amend provisions pertaining to the tabulation of ballots and permit the
+2 release of any cast vote record and collection of ballot images produced by
+3 automatic tabulating equipment and to declare an emergency.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That § 12-17B-1 be AMENDED:
+6 12-17B-1. Terms used in this chapter mean:
+7 (1) "Automatic tabulating equipment," the apparatus necessary used to automatically
+8 examine and count votes as designated on ballots or entered directly into a
+9 computer by means of a touch screen or other data entry device, and data
+10 processing machines which that can be used for counting these votes and
+11 tabulating results;
+12 (2) "Ballot," paper ballots containing the names of candidates and statements of
+13 measures to be voted on;
+14 (3) "Ballot image," the digital facsimile of a paper ballot cast in an election produced
+15 by the automatic tabulating equipment;
+16 (4) "Cast vote record," the electronic record of how each mark on a ballot was
+17 tabulated as a vote by the automatic tabulating equipment;
+18 (5) "Counting location," any location selected by the person in charge of the election
+19 for the counting of votes cast in an election. A counting location shall be within the
+20 territorial jurisdiction of such person unless there is no suitable tabulating
+21 equipment available within the jurisdiction. However, in any event, all counting
+22 locations shall be within this state;
+23 (4)(6) "Electronic ballot marking system," any electronic device which marks votes on a
+24 ballot;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.306.22 2 29
+1 (5)(7) "Optical scan," a procedure in which votes are tabulated by means of examining
+2 marks made in voting response locations on the ballots with an optical mark reader
+3 (OMR);
+4 (6)(8) "Resolution board," a board at an automatic tabulating location comprised of a
+5 representative from each political party having a candidate on the ballot and whose
+6 candidate on the county-wide ballot at the last general election received at least
+7 fifteen percent of the votes. The county auditor may request additional board
+8 members balanced evenly by party. If the resolution board consists of more than
+9 one member from each party, the party shall designate which member of the party
+10 shall serve as co-leader of the resolution board. The co-leaders shall ensure that
+11 each board member is conducting resolution board duties uniformly and in
+12 accordance with applicable statutes and administrative rules. The board shall
+13 determine the disposition of those ballots which cannot be properly counted by the
+14 tabulating equipment and observe the activities at the counting location on behalf
+15 of the board member's respective party affiliation. In strictly nonpartisan elections,
+16 the resolution board shall be comprised of two persons who are not employees of
+17 the jurisdiction conducting the election and shall be appointed by the person in
+18 charge of the election the group of individuals appointed to examine any mark
+19 made on a ballot, which the automatic tabulating equipment is not able to count,
+20 and to make a determination as to the intent of the voter who cast the ballot.
+21 Section 2. That a NEW SECTION be added to chapter 12-17B:
+22 Provided that an election jurisdiction has sufficient automatic tabulating equipment
+23 to tabulate the ballots cast in an election held within the jurisdiction, each counting
+24 location for the election must be at a location within the jurisdiction of the person in charge
+25 of the election. If the jurisdiction does not possess automatic tabulating equipment
+26 sufficient to tabulate the ballots cast at an election, the person in charge of the election
+27 may designate a location outside of the person's jurisdiction as a counting location for the
+28 election, provided that the location is within the boundaries of this state.
+29 Section 3. That a NEW SECTION be added to chapter 12-17B:
+30 The county auditor shall appoint a resolution board comprised of a representative
+31 from each political party that:
+32 (1) Has a candidate on the ballot; and
+33 (2) Had a candidate on the ballot of the previous general election, who:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.306.22 3 29
+1 (a) Was running for an office that could be voted on by all of the eligible voters
+2 in the county; and
+3 (b) Received at least fifteen percent of the votes cast in the county.
+4 The county auditor may appoint additional individuals to serve as members of the
+5 resolution board from each political party that qualifies to have members on the resolution
+6 board, pursuant to this section, provided that any additional individuals appointed to the
+7 board are balanced evenly by political party. If the resolution board consists of more than
+8 one member from each political party, the party must designate one member to serve as
+9 co-leader of the resolution board. The members of the resolution board may observe the
+10 process of tabulating the votes at the counting location on behalf of the party that the
+11 member represents.
+12 In a nonpartisan election, the person in charge of the election shall appoint a
+13 resolution board comprised of two individuals who are not employees of the jurisdiction
+14 conducting the election.
+15 Section 4. That a NEW SECTION be added to chapter 12-17B:
+16 Following the completion of the official canvass of an election, the governing body
+17 of the jurisdiction conducting the election may, by resolution, authorize the release of any
+18 cast vote record or ballot image produced by the automatic tabulating equipment.
+19 The governing body may not authorize the release of a cast vote record or
+20 collection of ballot images if the cast vote record or any ballot image:
+21 (1) Indicates the date, time, or order in which a ballot was cast;
+22 (2) Contains any unredacted personal information that may be used to identify the
+23 voter who cast the ballot;
+24 (3) Provides the tabulating equipment's data in the order in which the data was
+25 generated;
+26 (4) Does not include all the ballots that were cast at the precinct polling place or vote
+27 center;
+28 (5) Is from a precinct polling place or vote center in which fewer than one hundred
+29 ballots were cast and the cast vote record or ballot images have not been:
+30 (a) Redacted to exclude the ballot style name, ballot style number, and any
+31 contest that is unique to the precinct; and
+32 (b) Combined with the cast vote record or ballot images from at least one other
+33 precinct or vote center to be released as a collection that contains more
+34 than one hundred ballots; or
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.306.22 4 29
+1 (6) Is related to a ballot style of which fewer than one hundred ballots were cast and
+2 the cast vote record or ballot images have not been:
+3 (a) Redacted to exclude the ballot style name, ballot style number and any
+4 contest that is unique to the ballot style; and
+5 (b) Combined with the cast vote record or ballot images related to another
+6 ballot style to be released as a collection that contains more than one
+7 hundred ballots.
+8 The jurisdiction conducting the election is responsible for all expenses associated
+9 with producing, storing, archiving, and releasing a cast vote record or collection of ballot
+10 images.
+11 Section 5. Whereas, this Act is necessary for the immediate preservation of the public peace,
+12 health, or safety, an emergency is hereby declared to exist, and this Act shall be in full force
+13 and effect from and after its passage and approval.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

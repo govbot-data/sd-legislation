@@ -1,0 +1,22 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.535.16 101st Legislative Session 72
+2026 South Dakota Legislature
+Senate Bill 72
+Introduced by: The Chair of the Senate Committee on Appropriations at the request of the Bureau of Finance and
+Management
+1 An Act to extend the time for reverting moneys appropriated for the modernization
+2 of the state's enterprise resource planning systems.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That 2023 Session Laws, chapter 200, § 3 be AMENDED:
+5 Section 3. Any amounts appropriated in this Act not lawfully expended or obligated
+6 shall revert in accordance with the procedures prescribed in chapter 4-8 to the general
+7 fund on June 30, 2029.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

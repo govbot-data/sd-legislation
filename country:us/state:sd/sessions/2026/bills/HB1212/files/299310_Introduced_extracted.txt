@@ -1,0 +1,64 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.343.19 101st Legislative Session 1212
+2026 South Dakota Legislature
+House Bill 1212
+Introduced by: Representative Randolph
+1 An Act to revise provisions in order to strengthen protections for unborn children.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 21-5-1 be AMENDED:
+4 21-5-1. Whenever If the death or injury of a person of an individual, including an
+5 unborn child, shall be is caused by a wrongful act, neglect, or default, and the act, neglect,
+6 or default is such as would have entitled the party injured to maintain that would otherwise
+7 entitle the individual to bring an action and recover damages in respect thereto, if death
+8 had not ensued, then and in every such case, the corporation which, or the person who,
+9 would have been liable, if death had not ensued, had the individual survived, the
+10 wrongdoer, or the personal representative of the estate of such person as such personal
+11 representative, shall be the wrongdoer, is liable, to an action for damages,
+12 notwithstanding the death of the person injured, and although the death shall have been
+13 caused under such circumstances as amount in law to a felony; and when the action is
+14 against such personal representative, the damages recovered shall be a valid claim against
+15 the estate of such deceased person. However, an action under this section involving an
+16 unborn child shall be for the exclusive benefit of the mother or the lawfully married parents
+17 of the unborn child.
+18 Section 2. That a NEW SECTION be added to chapter 22-16:
+19 The provisions of this chapter apply equally to an offense committed against an
+20 unborn child. The provisions of this chapter do not apply to the unintentional death of an
+21 unborn child resulting from:
+22 (1) Lifesaving procedures undertaken to preserve the life of a pregnant mother, if
+23 accompanied by reasonable and available steps to preserve the life of the mother's
+24 unborn child; or
+25 (2) A spontaneous miscarriage.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.343.19 2 1212
+1 The provisions of this chapter are in addition to any other provisions relating to the
+2 injury or death of an unborn child. The provisions of this chapter supersede any other
+3 provisions relating to the injury or death of an unborn child to the extent that those
+4 provisions are in conflict with or are inconsistent with the provisions of this chapter.
+5 Section 3. That § 22-16-1.1 be REPEALED.
+6 Homicide is fetal homicide if the person knew, or reasonably should have known,
+7 that a woman bearing an unborn child was pregnant and caused the death of the unborn
+8 child without lawful justification and if the person:
+9 (1) Intended to cause the death of or do serious bodily injury to the pregnant woman
+10 or the unborn child; or
+11 (2) Knew that the acts taken would cause death or serious bodily injury to the pregnant
+12 woman or her unborn child; or
+13 (3) If perpetrated without any design to effect death by a person engaged in the
+14 commission of any felony.
+15 Fetal homicide is a Class B felony.
+16 This section does not apply to acts which cause the death of an unborn child if
+17 those acts were committed during any abortion, lawful or unlawful, to which the pregnant
+18 woman consented.
+19 Section 4. That § 22-17-5.2 be REPEALED.
+20 A female who undergoes an unlawful abortion, as set forth in § 22-17-5.1, may
+21 not be held criminally liable for the abortion.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

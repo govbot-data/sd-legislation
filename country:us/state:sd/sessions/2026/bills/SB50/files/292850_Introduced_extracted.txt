@@ -1,0 +1,22 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.550.9 101st Legislative Session 50
+2026 South Dakota Legislature
+Senate Bill 50
+Introduced by: The Chair of the Committee on Retirement Laws at the request of the South Dakota Retirement
+System
+1 An Act to update the reference to the Internal Revenue Code to reflect current
+2 federal law for the administration of South Dakota Retirement System
+3 statutes.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That § 3-12C-113 be AMENDED:
+6 3-12C-113. For purposes of this chapter, "Internal Revenue Code" or "code"
+7 means the United States Internal Revenue Code (January 1, 2025 2026).
+Underscores indicate new language.
+Overstrikes indicate deleted language.

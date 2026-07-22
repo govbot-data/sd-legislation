@@ -1,0 +1,200 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.127.32 101st Legislative Session 1057
+2026 South Dakota Legislature
+House Bill 1057
+Introduced by: Representative Sjaarda
+1 An Act to prohibit the manufacture, sale, and distribution of any product containing
+2 cell-cultured protein, and to provide a penalty therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 32-22-51.2 be AMENDED:
+5 32-22-51.2. The unloading of livestock, as defined by subdivision 39-5-6(11) in
+6 § 39-5-6, is prohibited for the enforcement of violations of §§ 32-22-16 and 32-22-21.
+7 The officer shall issue to the driver of the vehicle at the point of violation a special
+8 overweight permit for the amount of the overload if the load cannot be adjusted to the
+9 legal limits without unloading. The permit authorized pursuant to this section is issued at
+10 the flat rate of one hundred dollars for an overweight permit. The flat rate shall include
+11 the cost of issuing the permit. This permit authorizes the driver to operate the overweight
+12 vehicle to the point of destination within the state or the point of exit from the state. This
+13 permit does not, however, exempt the operator from any other enforcement actions.
+14 Section 2. That a NEW SECTION be added to chapter 34-18:
+15 During the period beginning July 1, 2026, and ending June 30, 2036, a person may
+16 not sell, hold, offer for sale, or distribute in this state any product containing cell-cultured
+17 protein, as defined in § 39-5-6.
+18 A violation of this section is a Class 2 misdemeanor.
+19 Upon receipt of a complaint, the department may inspect any food service
+20 establishment, mobile food service establishment, or temporary food service
+21 establishment for a possible violation of this section, as provided in § 34-18-27.3. If the
+22 inspection indicates the establishment is in violation of this section, the department must
+23 issue a stop-sale order.
+24 Upon any conviction pursuant to this section, the department may, if warranted,
+25 proceed in accordance with chapter 1-26 to suspend, revoke, or deny renewal of the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.127.32 2 1057
+1 license of the food service establishment, mobile food service establishment, or temporary
+2 food service establishment, as provided under §§ 34-18-27.1 and 34-18-27.3.
+3 Section 3. That § 39-5-6 be AMENDED:
+4 39-5-6. Terms used in this chapter mean:
+5 (1) "Animal food manufacturer," any person engaged in the business of manufacturing
+6 or processing animal food derived wholly or in part from carcasses, or parts or
+7 products of the carcasses, of livestock;
+8 (2) "Capable for use as human food," any carcass, or part or product of a carcass of
+9 any livestock, unless it is denatured or otherwise identified as required by rules
+10 promulgated pursuant to chapter 1-26 by the secretary to deter its use as human
+11 food, or it is naturally inedible by humans;
+12 (3) "Carcass," any part, including viscera, of any slaughtered livestock, that is capable
+13 of being used for human food;
+14 (4) "Cell-cultured protein," a product that is produced for use as human food, made
+15 wholly or in part from any cell culture or DNA of a host animal, and grown or
+16 cultivated outside a live animal. Cell-cultured protein does not include proteins
+17 produced through microbial fermentation, enzymatic processing, traditional food
+18 cultures, or biotechnology processes used in the manufacture of pharmaceuticals,
+19 biologics, vaccines, dietary supplements, enzymes, or medical products, provided
+20 those products are not intended to replicate meat or animal tissue for human
+21 consumption;
+22 (5) "Custom exempt plant," a person engaged in custom slaughtering and preparation
+23 of meat food products for household use by the owner as provided in subdivision
+24 39-5-11(2);
+25 (5)(6) "Federal Meat Inspection Act," the act of Congress approved March 4, 1907, as
+26 amended and extended to January 1, 1991 (21 U.S.C.) and the imported meat
+27 provisions of subsections 620(b), (c) as amended to January 1, 1991;
+28 (6)(7) "Inedible products renderer," any person engaged in the business of rendering
+29 carcasses, or parts or products of the carcasses, of livestock, except rendering
+30 conducted under inspection or exemption under this chapter;
+31 (7)(8) "Inspector," an employee or official of this state authorized by the secretary to
+32 inspect livestock or carcasses, parts thereof, or meat food products under this
+33 chapter;
+34 (8)(9) "Intrastate commerce," commerce wholly within this state;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.127.32 3 1057
+1 (9)(10) "Label," a display of written, printed, or graphic matter upon the immediate
+2 container (, not including package liners), of any article;
+3 (10)(11) "Labeling," any label or other written, printed, or graphic matter upon or
+4 accompanying any article or any of its containers or wrappers;
+5 (11)(12) "Livestock," cattle, bison, sheep, swine, goats, equine, ratites, captive cervidae
+6 as permitted under § 40-3-14, and other species as requested by the owner and
+7 authorized by the secretary;
+8 (12)(13) "Livestock producer," any natural person, partnership, or corporation if over
+9 fifty percent of his or its annual income is derived from production of agricultural
+10 products and on whose farm the number of livestock is in keeping with the size of
+11 the farm or the volume or character of the agricultural products produced thereon;
+12 (13)(14) "Meat," the edible part of the muscle of cattle, bison, sheep, swine, goats,
+13 equine, ratites, captive cervidae, and other species as requested by the owner and
+14 authorized by the secretary, which is skeletal or which is found in the tongue, in
+15 the diaphragm, in the heart, or in the esophagus, with or without the accompanying
+16 and overlying fat, and the portions of bone, skin, sinew, nerve, and blood vessels
+17 which normally accompany the muscle tissue and which are not separated from it
+18 in the process of dressing. It does not include the muscle found in the lips, snout,
+19 or ears;
+20 (14)(15) "Meat broker," any person engaged in the business of buying or selling livestock
+21 carcasses, parts thereof, or meat food products on commission, or otherwise
+22 negotiating purchases or sales of such these articles other than for his own account
+23 or as an employee of another person;
+24 (15)(16) "Meat by-product," any edible part other than meat, which has been derived
+25 from one or more cattle, bison, sheep, swine, goats, equine, ratites, captive
+26 cervidae, and other species as requested by the owner and authorized by the
+27 secretary;
+28 (16)(17) "Meat food products," any product capable of use as human food, which is made
+29 wholly or in part from any meat or other portion of the carcass of any cattle, bison,
+30 sheep, swine, goats, equine, ratites, captive cervidae, and other species as
+31 requested by the owner and authorized by the secretary, excepting products which
+32 that contain meat or other portions of such carcasses only in a relatively small
+33 proportion, or historically have not been considered by consumers as products of
+34 the meat food industry, and which are exempted from definition as a meat food
+35 product by regulations rules promulgated by the secretary pursuant to chapter 1-
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.127.32 4 1057
+1 26, under such conditions as those conditions the secretary may deem appropriate
+2 to effectuate the purposes of this chapter;
+3 (17)(18) "Meat processing establishment," an official establishment as defined in this
+4 section engaged in the preparation or processing of meat food products;
+5 (18)(19) "Official certificate," any certificate prescribed by rules promulgated pursuant
+6 to chapter 1-26 by the secretary for issuance by an inspector or other person
+7 performing official functions under this chapter;
+8 (19)(20) "Official establishment," any establishment in this state as determined by the
+9 secretary at which inspection of the slaughter of livestock or the preparation of
+10 livestock carcasses or parts thereof or meat products is maintained under this
+11 chapter;
+12 (20)(21) "Official inspection legend," any symbol prescribed by rules promulgated by the
+13 secretary pursuant to chapter 1-26 showing that an article was inspected and
+14 passed in accordance with this chapter;
+15 (21)(22) "Official mark," the official inspection legend or any other symbol prescribed by
+16 rules promulgated by the secretary pursuant to chapter 1-26 to identify the status
+17 of any article or animal under this chapter;
+18 (22)(23) "Prepared," slaughtered, canned, salted, rendered, boned, cut up, or otherwise
+19 manufactured or processed;
+20 (23)(24) "Retail dealer," any person engaged in selling carcasses, parts thereof, or meat
+21 food products of cattle, bison, sheep, swine, goats, equine, ratites, captive cervidae, and
+22 other species as requested by the owner and authorized by the secretary;
+23 (24)(25) "Retail store meat processor," a person engaged in the retail sale of food for
+24 human consumption, the retail sale of meat food products, and in the processing
+25 or preparation of meat or meat by-products for retail sale as meat food products;
+26 (25)(26) "Secretary," executive secretary of the South Dakota State Animal Industry
+27 Board, or any person authorized to act in his stead;
+28 (26)(27) "Slaughtering establishment," an official establishment as defined in this
+29 section engaged in the slaughtering of livestock; and
+30 (27)(28) "Veterinary inspector," an employee or official of this state, licensed to practice
+31 veterinary medicine in this state, and authorized by the secretary to inspect
+32 livestock or carcasses, parts thereof, or meat food products under this chapter.
+33 Section 4. That § 39-5-38 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.127.32 5 1057
+1 39-5-38. Any carcass, part of a carcass, product made of cell-cultured protein, or
+2 meat food product of any livestock or any dying, crippled, or diseased livestock that is
+3 being transported in this state, or is held for sale or donation in this state after such
+4 transportation, and that:
+5 (1) Is or has been prepared, sold, transported, or otherwise distributed or offered
+6 or received for distribution in violation of this chapter; or
+7 (2) Is capable of use as human food and is adulterated or misbranded; or
+8 (3) In any other way is in violation of this chapter,
+9 shall be is liable to be proceeded against and seized and condemned, at any time,
+10 by an action in the circuit court of South Dakota this state within the jurisdiction of which
+11 the article or animal is found. During the time period beginning July 1, 2026, and ending
+12 June 30, 2036, any product made of cell-cultured protein in violation of this chapter, is
+13 liable to be proceeded against and seized and condemned, at any time, by an action in
+14 the circuit court of this state within the jurisdiction of which the article or animal is found.
+15 If the article or animal is condemned, it shall must, after entry of the decree, be
+16 disposed of by destruction or sale as the court may direct and the proceeds, if sold, less
+17 the court costs and fees, and storage and other proper expenses, shall must be paid into
+18 the treasury of this state, but the article or animal shall may not be sold contrary to the
+19 provisions of this chapter or federal law: Provided, that upon. Upon the execution and
+20 delivery of a good and sufficient bond conditioned that the article or animal shall may not
+21 be sold or otherwise disposed of contrary to the provisions of this chapter or federal law,
+22 the court may direct that such the article or animal be delivered to the owner thereof,
+23 subject to such supervision by authorized representatives of the secretary of the Animal
+24 Industry Board as is necessary, to ensure compliance with this chapter. When a decree of
+25 condemnation is entered against the article or animal and it is released under bond, or
+26 destroyed, court costs and, fees, and storage costs, and other expenses shall must be
+27 awarded against the person, if any, intervening as claimant of the article or animal.
+28 Section 5. That a NEW SECTION be added to chapter 39-5:
+29 During the period beginning July 1, 2026, and ending June 30, 2036, a person may
+30 not manufacture for sale in this state any product containing cell-cultured protein.
+31 A violation of this section is a Class 2 misdemeanor, after notice is provided
+32 pursuant to § 39-5-42.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.127.32 6 1057
+1 Upon any conviction pursuant to this section, the secretary may proceed in
+2 accordance with chapter 1-26 to suspend, revoke, or deny any of the violator's meat
+3 processing licenses described in § 39-5-11.1.
+4 Meat food products containing cell-cultured protein, manufactured in violation of
+5 this section, may be seized and condemned pursuant to § 39-5-38, to be disposed of by
+6 action of the circuit court having jurisdiction over the location where the product was
+7 found.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

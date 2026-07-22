@@ -1,0 +1,32 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.974.13 101st Legislative Session 242
+2026 South Dakota Legislature
+Senate Bill 242
+Introduced by: Senator Grove
+1 An Act to make an appropriation to the Department of Education for the provision
+2 of grants to sparse school districts.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. There is appropriated $2,500,000 from the general fund, to the Department of
+5 Education, for the provision of grants to sparse school districts, as defined in § 13-13-78, for
+6 the purposes provided in section 3 of this Act.
+7 Section 2. The Department of Education shall provide a grant directly to each sparse school
+8 district, as defined in § 13-13-78. Each sparse school district must be granted a pro rata share
+9 of the moneys appropriated in section 1 of this Act, based on the district's 2026 fall
+10 enrollment, as determined under § 13-13-10.1.
+11 Section 3. A sparse school district shall use the moneys granted to make facility
+12 improvements, or purchase educational technology or other instructional materials and
+13 equipment.
+14 Section 4. The secretary of the Department of Education shall approve vouchers and the
+15 state auditor shall draw warrants to pay expenditures authorized in this Act.
+16 Section 5. Any amounts appropriated in this Act not lawfully expended or obligated by June
+17 30, 2027, shall revert in accordance with the procedures prescribed in chapter 4-8.
+18 Section 6. This Act is effective beginning June 30, 2026.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

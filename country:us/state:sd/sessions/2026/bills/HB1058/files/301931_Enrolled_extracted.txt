@@ -1,0 +1,78 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.50.34 101st Legislative Session 1058
+2026 South Dakota Legislature
+House Bill 1058
+ENROLLED
+AN ACT
+ENTITLED An Act to require licensure for online pari-mutuel wagering pools for
+horse and dog races, and clarify the application of tax therefor.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+Section 1. That § 42-7-58.5 be AMENDED:
+42-7-58.5. In addition to all state laws and applicable rules of the commission,
+simulcast wagering and interstate combined wagering pools must comply with 15 U.S.C
+§§ 3001 to 3007, inclusive (January 1, 2026).
+Section 2. That § 42-7-102 be AMENDED:
+42-7-102. Notwithstanding any other provision of this chapter, the commission
+may authorize any licensee to participate in an interstate combined wagering pool with
+one or more other racing jurisdictions. If a licensee participates in an interstate combined
+wagering pool, the licensee may adopt the take-out of the host jurisdiction or facility.
+The State of South Dakota receives one and one-half percent of the total
+contributed in this state, and the special racing revolving fund and the South Dakota-bred
+racing fund must each receive one and one-half percent of the total contributed in this
+state. Subject to the provisions of section 3 of this Act, if the licensee participating in the
+interstate combined wagering pool is a multi-jurisdictional totalizator hub, the total portion
+to be received by the state is one-fourth of one percent of the total contributed through
+the hub, of which the special racing revolving fund receives one-fifth of one percent of the
+total contributed through the hub and the South Dakota-bred racing fund receives one-
+twentieth of one percent of the total contributed through the hub. Any interstate combined
+wagering pool may only apply to horse and dog racing authorized by this chapter.
+Section 3. That a NEW SECTION be added to chapter 42-7:
+
+26.50.34 2 1058
+Only a person licensed as a multi-jurisdictional totalizator hub in this state may
+operate an online betting platform or electronic application to offer online pari-mutuel
+wagering on a horse or dog race.
+A person with a physical presence in this state operating an online betting platform
+or electronic application to offer online pari-mutuel wagering on a horse or dog race is
+subject to the tax imposed pursuant to § 42-7-102 on multi-jurisdictional totalizator hubs.
+A person without a physical presence in this state operating an online betting
+platform or electronic application to offer online pari-mutuel wagering on a horse or dog
+race is subject to the tax imposed pursuant to § 42-7-102 on multi-jurisdictional
+totalizator hubs, except that the tax rate applies to the total contributed through the hub
+by individuals in this state on online pari-mutuel wagering pools for horse or dog races.
+HB1058 ENROLLED
+
+26.50.34 3 1058
+An Act to require licensure for online pari-mutuel wagering pools for horse and dog races, and
+clarify the application of tax therefor.
+Received at this Executive Office
+I certify that the attached Act originated in this _____ day of _____________,
+the:
+2026 at ____________M.
+House as Bill No. 1058
+By
+Chief Clerk of the House for the Governor
+The attached Act is hereby
+approved this ________ day of
+Speaker of the House ______________, A.D., 2026
+Attest:
+Governor
+Chief Clerk of the House
+STATE OF SOUTH DAKOTA,
+ss.
+Office of the Secretary of State
+President of the Senate
+Filed ____________, 2026
+Attest: at _________ o'clock __M.
+Secretary of the Senate Secretary of State
+House Bill No. 1058 By
+File No. ____ Asst. Secretary of State
+Chapter No. ______
+HB1058 ENROLLED

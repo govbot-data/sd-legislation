@@ -1,0 +1,29 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.327.11 101st Legislative Session 194
+2026 South Dakota Legislature
+Senate Bill 194
+Introduced by: Senator Carley
+1 An Act to limit the potency of cannabis products sold at medical cannabis
+2 dispensaries.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 34-20G:
+5 A medical cannabis dispensary licensed under this chapter may not acquire,
+6 cultivate, deliver, dispense, distribute, possess, produce, sell, store, supply, transfer, or
+7 transport:
+8 (1) Cannabis flower that exceeds thirty percent tetrahydrocannabinol;
+9 (2) A liquid concentrate cannabis product that exceeds sixty percent
+10 tetrahydrocannabinol;
+11 (3) An edible cannabis product that exceeds five milligrams tetrahydrocannabinol per
+12 serving;
+13 (4) An edible cannabis product that exceeds one hundred milligrams
+14 tetrahydrocannabinol per container; and
+15 (5) A cannabis oil that exceeds five percent tetrahydrocannabinol.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

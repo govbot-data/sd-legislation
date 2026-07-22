@@ -1,0 +1,56 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.700.9 101st Legislative Session 1077
+2026 South Dakota Legislature
+House Bill 1077
+Introduced by: Representative Auch
+1 An Act to consider a cultivated-protein food product to be adulterated food.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 39-4-2 be AMENDED:
+4 39-4-2. For the purposes of this title, food shall be is deemed to be adulterated:
+5 (1) If any substance has been mixed and packed with it so as the food to reduce,
+6 lower, or injuriously affect its the food's quality or strength;
+7 (2) If any substance has been substituted wholly or in part for it the food;
+8 (3) If any valuable constituent thereof of the food has been wholly or in part
+9 abstracted;
+10 (4) If it be the food is mixed, colored, powdered, coated, or stained in a manner
+11 whereby to conceal damage or inferiority is concealed;
+12 (5) If it contain the food contains any poisonous or otherwise deleterious ingredient,
+13 added or natural, which may render it the food injurious to health:, provided that
+14 when in the preparation of food products the food is being prepared for shipment,
+15 they are it is preserved by an external application applied in such manner so that
+16 the preservative is necessarily removed mechanically, or by maceration in water,
+17 or otherwise before eating, and directions for the removal of such the preservative
+18 shall be are plainly and conspicuously printed on the label of the package, the
+19 provisions of this chapter shall be are construed as applying only when such the
+20 products are ready for consumption;
+21 (6) If it consists in whole or in part of a:
+22 (a) A filthy, decomposed, or putrid animal or vegetable substance, or of any;
+23 (b) Any portion of any animal unfit for food, whether manufactured or not; or
+24 if it is the;
+25 (c) Any product of a portion of a diseased animal or of an animal which that
+26 has been fed upon the uncooked offal from a slaughterhouse or other
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.700.9 2 1077
+1 substance unfit for animal food, or of one an animal that has died otherwise
+2 than by slaughter; or
+3 (7) If in the manufacture, sale, distribution, transportation, or in the offering or
+4 exposing for sale, distribution, or transportation, it is not at all times securely
+5 protected from all filth, flies, dust, contamination, or other unclean, unhealthful, or
+6 insanitary conditions; or
+7 (8) If it is a cultivated-protein food product.
+8 For purposes of this section, "cultivated-protein food product" means a food
+9 product having one or more sensory attributes that resemble a type of tissue originating
+10 from an agricultural food animal but that is derived from manufacturing cells, including
+11 processes in which stem cells that were initially isolated from an agricultural food animal
+12 are grown in vitro, and may be manipulated, as part of a manufacturing process.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

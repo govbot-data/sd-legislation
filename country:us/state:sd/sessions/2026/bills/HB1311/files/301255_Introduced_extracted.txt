@@ -1,0 +1,121 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.848.9 101st Legislative Session 1311
+2026 South Dakota Legislature
+House Bill 1311
+Introduced by: Representative Peterson (Drew)
+1 An Act to require the reporting of funding given by certain persons and governments
+2 to institutions under the control of the Board of Regents and the South Dakota
+3 Board of Technical Education.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That a NEW SECTION be added to chapter 13-39A:
+6 Terms used in sections 1 and 2 of this Act mean:
+7 (1) "Foreign entity," any organization that is:
+8 (a) Registered outside of the United States or its territories;
+9 (b) More than ten percent owned by a foreign government or foreign person;
+10 or
+11 (c) Owned, to any extent, by a foreign government or foreign person from a
+12 country listed in subdivision (4);
+13 (2) "Foreign government," a government or state-controlled enterprise of a
+14 government, other than the United States, its states, its territories, or its federally
+15 recognized Indian tribes;
+16 (3) "Foreign person," an individual who is not a United States citizen or a resident;
+17 (4) "Foreign source," a foreign entity from, foreign government from, or foreign person
+18 from:
+19 (a) The People’s Republic of China;
+20 (b) The Republic of Cuba;
+21 (c) The Islamic Republic of Iran;
+22 (d) The Democratic People's Republic of Korea;
+23 (e) The Russian Federation; or
+24 (f) The Bolivarian Republic of Venezuela; and
+25 (5) "Funding," any award, capital investment, compensation, contract, donation,
+26 endowment, fee, gift, grant, payment in exchange for services, salary, or wage,
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.848.9 2 1311
+1 but does not include a payment for tuition or related fees made to support an
+2 individual enrolled as a student at an institution under the control of the South
+3 Dakota Board of Technical Education.
+4 Section 2. That a NEW SECTION be added to chapter 13-39A:
+5 The South Dakota Board of Technical Education must disclose, in an annual report,
+6 any funding given by a foreign source, as defined in section 1 of this Act, directly to the
+7 board or an institution under the board's control.
+8 The report must identify, for each instance of funding received by an institution
+9 during the period beginning July first of the previous year and ending June thirtieth of the
+10 current year:
+11 (1) The amount and source of the funding;
+12 (2) A description of the type and purpose of the funding;
+13 (3) Whether the funding is part of an ongoing relationship with the foreign source;
+14 (4) A description of the foreign source providing the funding, including the name and
+15 address of the foreign entity or foreign person providing the funding, if applicable;
+16 and
+17 (5) A copy of any document associated with the funding.
+18 The report must be published on the South Dakota Board of Technical Education's
+19 website on or before August thirty-first of each year.
+20 This section does not require the disclosure of information that is otherwise deemed
+21 confidential under state or federal law.
+22 The requirements of this section apply only to funding received on or after July 1,
+23 2026.
+24 Section 3. That a NEW SECTION be added to chapter 13-49:
+25 Terms used in sections 3 and 4 of this Act mean:
+26 (1) "Foreign entity," any organization that is:
+27 (a) Registered outside of the United States or its territories;
+28 (b) More than ten percent owned by a foreign government or foreign person;
+29 or
+30 (c) Owned, to any extent, by a foreign government or foreign person from a
+31 country listed in subdivision (4);
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.848.9 3 1311
+1 (2) "Foreign government," a government or state-controlled enterprise of a
+2 government, other than the United States, its states, its territories, or its federally
+3 recognized Indian tribes;
+4 (3) "Foreign person," an individual who is not a United States citizen or a resident;
+5 (4) "Foreign source," a foreign entity from, foreign government from, or foreign person
+6 from:
+7 (a) The People’s Republic of China;
+8 (b) The Republic of Cuba;
+9 (c) The Islamic Republic of Iran;
+10 (d) The Democratic People's Republic of Korea;
+11 (e) The Russian Federation; or
+12 (f) The Bolivarian Republic of Venezuela; and
+13 (5) "Funding," any award, capital investment, compensation, contract, donation,
+14 endowment, fee, gift, grant, payment in exchange for services, salary, or wage,
+15 but does not include a payment for tuition or related fees made to support an
+16 individual enrolled as a student at an institution under the control of the Board of
+17 Regents.
+18 Section 4. That a NEW SECTION be added to chapter 13-49:
+19 The Board of Regents must disclose, in an annual report, any funding given by a
+20 foreign source, as defined in section 3 of this Act, directly to the board or an institution
+21 under the board's control.
+22 The report must identify, for each instance of funding received by an institution
+23 during the period beginning July first of the previous year and ending June thirtieth of the
+24 current year:
+25 (1) The amount and source of the funding;
+26 (2) A description of the type and purpose of the funding;
+27 (3) Whether the funding is part of an ongoing relationship with the foreign source;
+28 (4) A description of the foreign source providing the funding, including the name and
+29 address of the foreign entity or foreign person providing the funding, if applicable;
+30 and
+31 (5) A copy of any agreement, contract, or memorandum of understanding associated
+32 with the funding.
+33 The report must be published on the Board of Regent's website on or before August
+34 thirty-first of each year.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.848.9 4 1311
+1 This section does not require the disclosure of information that is otherwise deemed
+2 confidential under state or federal law.
+3 The requirements of this section apply only to funding received on or after July 1,
+4 2026.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

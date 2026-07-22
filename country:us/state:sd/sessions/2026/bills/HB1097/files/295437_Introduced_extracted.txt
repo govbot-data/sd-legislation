@@ -1,0 +1,46 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.649.11 101st Legislative Session 1097
+2026 South Dakota Legislature
+House Bill 1097
+Introduced by: Representative Mulder
+1 An Act to make an appropriation for providing a grant to a nonprofit that delivers
+2 diversion programming.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. There is appropriated $2,000,000 from the general fund, to the Department of
+5 Corrections, for the provision of a grant to a nonprofit corporation that delivers juvenile
+6 diversion programming in Sioux Falls, in partnership with the Sioux Falls Police Department
+7 and the Minnehaha County Sheriff's Office.
+8 Section 2. To be awarded the grant, the nonprofit corporation must commit to coordinating
+9 and hosting a week-long summer camp open to sixth graders identified by school resource
+10 officers working in Sioux Falls for the purpose of building relationships with law enforcement
+11 officers and being diverted from criminal activity. The camp must be held once each calendar
+12 year, for ten years, beginning in 2026. The camp must include participation by members of
+13 the Sioux Falls Police Department and the Minnehaha County Sheriff's Office. The nonprofit
+14 corporation must also commit to coordinating and hosting three follow-up events within the
+15 same calendar year as the summer camp for camp participants, their families, and law
+16 enforcement officers.
+17 Section 3. Until all moneys appropriated by this Act are expended, the nonprofit corporation
+18 shall, on or before December first of each year, report to the special committee created by
+19 § 4-8A-2 on outcome measures for the diversion programming described in section 2 of this
+20 Act. The special committee may propose outcome measures on which the nonprofit
+21 corporation must report.
+22 Section 4. The Department of Corrections shall award one-tenth of the moneys appropriated
+23 by this Act to the nonprofit organization each calendar year beginning in 2026.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.649.11 2 1097
+1 Section 5. The secretary of the Department of Corrections shall approve vouchers and the
+2 state auditor shall draw warrants to pay expenditures authorized in this Act.
+3 Section 6. Any amounts appropriated in this Act not lawfully expended or obligated by June
+4 30, 2036, shall revert in accordance with the procedures prescribed in chapter 4-8.
+5 Section 7. This Act is effective beginning June 30, 2026.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

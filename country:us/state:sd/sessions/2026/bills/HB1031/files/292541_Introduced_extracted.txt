@@ -1,0 +1,69 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.532.9 101st Legislative Session 1031
+2026 South Dakota Legislature
+House Bill 1031
+Introduced by: Representative Ismay
+1 An Act to revise and repeal provisions related to rape offenses and to increase the
+2 penalty therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 22-22-1 be AMENDED:
+5 22-22-1. Rape is an act of sexual penetration accomplished with any person under
+6 any of the following circumstances:
+7 (1) If the victim is less than thirteen years of age;
+8 (2) Through the use of force, coercion, or threats of immediate and great bodily harm
+9 against the victim or other persons within the victim's presence, accompanied by
+10 apparent power of execution;
+11 (3) If the victim is incapable, because of physical or mental incapacity, of giving
+12 consent to such act and the perpetrator knows or reasonably should know of the
+13 victim's incapacity;
+14 (4) If the victim is incapable of giving consent because of any intoxicating, narcotic, or
+15 anesthetic agent or hypnosis and the perpetrator knows or reasonably should know
+16 the victim is incapable of giving consent;
+17 (5) If the victim is thirteen years of age, but less than sixteen years of age, and the
+18 perpetrator is at least three years older than the victim; or
+19 (6) Without the victim's consent and the perpetrator knows or reasonably should know
+20 the victim is not consenting.
+21 A violation of subdivision (1) is rape in the first degree, which is a Class C B felony.
+22 A violation of subdivision (2) is rape in the second degree, which is a Class 1 felony. A
+23 violation of subdivision (3) or (4) is rape in the third degree, which is a Class 2 felony. A
+24 violation of subdivision (5) or (6) is rape in the fourth degree, which is a Class 3 felony.
+25 Notwithstanding the provisions of § 23A-42-2, no statute of limitations applies to
+26 any charge brought pursuant to subdivision (1) or (2). Otherwise, a charge brought
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.532.9 2 1031
+1 pursuant to this section may be commenced at any time before the victim reaches age
+2 twenty-five or within seven years from the commission of the crime, whichever is longer.
+3 Section 2. That § 22-22-1.4 be AMENDED:
+4 22-22-1.4. The sentencing court may impose a sentence other than that which is
+5 required by §§ 22-22-1.2 and 22-6-1.2 and 22-22-7, if the court finds that mitigating
+6 circumstances exist which that require a departure from the mandatory sentence imposed
+7 by § 22-22-1.2 or 22-6-1.2 or 22-22-7. The court's finding of mitigating circumstances
+8 and the factual basis relied upon by the court shall be must be in writing.
+9 Section 3. That § 22-22-7 be AMENDED:
+10 22-22-7. Any person, sixteen years of age or older, who knowingly engages in
+11 sexual contact with another person, other than that person's spouse if the other person is
+12 under the age of sixteen years, is guilty of a Class 3 felony. If the victim is at least thirteen
+13 years of age and the actor is less than five years older than the victim, the actor is guilty
+14 of a Class 1 misdemeanor. Notwithstanding § 23A-42-2, a charge brought pursuant to this
+15 section may be commenced at any time before the victim becomes age twenty-five or
+16 within seven years of the commission of the crime, whichever is longer.
+17 If an adult is convicted of a violation of this section and the victim is less than
+18 thirteen years of age, the court must impose a minimum sentence of ten years for a first
+19 offense.
+20 Section 4. That § 22-22-1.2 be REPEALED.
+21 If any adult is convicted of any of the following violations, the court shall impose
+22 the following minimum sentences:
+23 (1) For a violation of subdivision 22-22-1(1), fifteen years for a first offense; and
+24 (2) For a violation of § 22-22-7 if the victim is less than thirteen years of age, ten
+25 years for a first offense.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

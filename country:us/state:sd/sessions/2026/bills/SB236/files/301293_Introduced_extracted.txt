@@ -1,0 +1,54 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.917.21 101st Legislative Session 236
+2026 South Dakota Legislature
+Senate Bill 236
+Introduced by: Senator Rohl
+1 An Act to create the county and township infrastructure fund for the accounting,
+2 safekeeping, and allocation of unobligated rural access infrastructure fund
+3 moneys.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That § 31-34-3 be AMENDED:
+6 31-34-3. Each county shall establish a rural access infrastructure fund for the
+7 deposit of moneys received pursuant to this chapter. The board of county commissioners
+8 may only distribute fund moneys for the following expenses:
+9 (1) Engineering, hydrological studies, planning, materials, and other costs as
+10 necessary to plan for and complete the projects;
+11 (2) Construction, rehabilitation, or replacement of small structures located in
+12 townships complying with the requirements of this chapter; and
+13 (3) Construction, rehabilitation, or replacement of small structures described in a
+14 county highway and bridge improvement plan that, which are located on county
+15 secondary highways.
+16 The moneys may not be used on a no maintenance no-maintenance road.
+17 Moneys received under this chapter must be obligated or spent by the county
+18 before the end of the 2029 fiscal year. All other unobligated or unspent moneys may be
+19 used for expenses until reverted pursuant to § 4-8-21. Moneys may only be used for the
+20 expenses of those small structures inventoried with the department, as referenced in § 31-
+21 34-2 On June thirtieth of each odd-numbered year, beginning in 2029, the county auditor
+22 shall transfer any unexpended moneys, not contractually obligated and approved under
+23 this chapter, to the state treasurer for deposit in the county and township infrastructure
+24 fund, created in section 2 of this Act.
+25 Section 2. That a NEW SECTION be added to chapter 32-11:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.917.21 2 236
+1 There is created in the state treasury the county and township infrastructure fund.
+2 The fund consists of unobligated moneys transferred pursuant to § 31-34-3. Expenditures
+3 from the fund must be budgeted through the general appropriation bill. The Department
+4 of Revenue shall administer the fund. The purpose of the fund is to:
+5 (1) Provide for the distribution of moneys to counties, in accordance with § 31-34-2,
+6 for:
+7 (a) Allocation to rural access distribution funds; and
+8 (b) Payment of expenses associated with the small structures inventoried with
+9 the department; and
+10 (2) Provide for the accounting and safekeeping of unobligated or unspent moneys
+11 distributed to rural access distribution funds, as provided in chapter 31-34.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,85 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.959.15 101st Legislative Session 214
+2026 South Dakota Legislature
+Senate Bill 214
+ENROLLED
+AN ACT
+ENTITLED An Act to amend provisions pertaining to the publication of the statewide
+voter registration file.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+Section 1. That § 12-4-37 be AMENDED:
+12-4-37. The secretary of state shall establish and maintain a computerized
+system for maintaining and utilizing the voter registration file.
+Each county auditor shall transmit daily any changes to the master registration file
+or the absentee voter log to the secretary of state using the computerized system
+maintained by the secretary of state.
+The county auditor shall transmit updated information contained in the county
+voter registration system, including voter registration information and voter election
+history information, to the secretary of state not later than July fifteenth after each
+primary election and December fifteenth after each general election.
+The secretary of state shall post the complete statewide voter registration file to
+the secretary's website before 11:59 p.m. central time each Monday. The weekly post of
+the statewide voter registration file must contain any updates to the information in the
+county master registration file, pursuant to § 12-4-9.
+Section 2. That § 12-4-37.1 be AMENDED:
+12-4-37.1. The secretary of state shall establish and maintain a rolling five-year
+historical archive of the complete statewide voter registration file, including the weekly
+post of the statewide voter registration file, published by the secretary pursuant § 12-4-
+37. The secretary shall publish and maintain the rolling five-year historical archive on the
+secretary's website before 11:59 p.m. central time each Monday.
+The information contained in the historical archive of the statewide voter
+registration file must be made available free of charge.
+
+26.959.15 2 214
+An individual's social security number, driver license number, South Dakota
+nondriver identification number, and month and day of birth contained in the historical
+archive of the statewide voter registration file are not open to public inspection.
+Section 3. That § 12-4-41 be AMENDED:
+12-4-41. Any information obtained from the statewide voter registration file or
+any county voter registration file may not be sold and may not be used for any commercial
+purpose. Except as provided in §§ 12-4-37 and 12-4-37.1, information obtained from the
+statewide voter registration file may not be placed for unrestricted access on the internet.
+For the purposes of this section, "commercial purpose" does not include campaign
+or political polling activities.
+For the purposes of this section, "sold" does not include any fee charged by the
+secretary of state for a paper copy of a list of registered voters, as provided in § 12-4-39.
+Any violation of this section is a Class 1 misdemeanor. In addition to any criminal
+sanctions, the court may impose a civil penalty not to exceed two thousand dollars for
+each violation. Any civil penalty collected pursuant to this section must be deposited in
+the general fund.
+SB214 ENROLLED
+
+26.959.15 3 214
+An Act to amend provisions pertaining to the publication of the statewide voter registration
+file.
+Received at this Executive Office
+I certify that the attached Act originated in this _____ day of _____________,
+the:
+2026 at ____________M.
+Senate as Bill No. 214
+By
+Secretary of the Senate for the Governor
+The attached Act is hereby
+approved this ________ day of
+President of the Senate ______________, A.D., 2026
+Attest:
+Governor
+Secretary of the Senate
+STATE OF SOUTH DAKOTA,
+ss.
+Office of the Secretary of State
+Speaker of the House
+Filed ____________, 2026
+Attest: at _________ o'clock __M.
+Chief Clerk of the House Secretary of State
+Senate Bill No. 214 By
+File No. ____ Asst. Secretary of State
+Chapter No. ______
+SB214 ENROLLED

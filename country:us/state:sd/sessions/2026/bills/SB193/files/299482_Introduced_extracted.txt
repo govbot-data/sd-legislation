@@ -1,0 +1,95 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.564.9 101st Legislative Session 193
+2026 South Dakota Legislature
+Senate Bill 193
+Introduced by: Senator Crabtree
+1 An Act to clarify the definition of backup electric generation.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 49-41B-2 be AMENDED:
+4 49-41B-2. Terms as used in this chapter mean:
+5 (1) "AC/DC conversion facility," an asynchronous AC to DC to AC tie that is directly
+6 connected to a transmission facility or a facility that connects an AC transmission
+7 facility with a DC transmission facility, or vice versa;
+8 (2) "Associated facilities," aqueducts, cooling ponds, diversion dams, reservoirs,
+9 storage ponds, or transmission substations, storage ponds, reservoirs, or cooling
+10 ponds;
+11 (3) "Backup electric generation," electric generation that is not interconnected with the
+12 grid and is generated on a temporary basis to replace primary source electric
+13 generation when the primary source is unavailable;
+14 (4) "Carbon dioxide," a fluid that consists of more than ninety percent carbon dioxide
+15 molecules compressed in a supercritical state;
+16 (4)(5) "Commission," the Public Utilities Commission of the State of South Dakota;
+17 (5)(6) "Construction," any clearing of land, excavation, or other action that would affect
+18 the environment of the site for each any land or rights of way right-of-way upon
+19 or over which a facility may be constructed or modified, but not including activities
+20 incident to preliminary engineering or environmental studies. This term includes
+21 modifications to including the modification of facilities as defined described in § 49-
+22 41B-2.2, but not including any activity incident to preliminary engineering or an
+23 environmental study;
+24 (6)(7) "Energy conversion facility," any new facility, or facility expansion, designed for or
+25 capable of generation of one hundred megawatts or more of electricity, but does
+26 not include any wind or solar energy facilities that are designed for or capable of
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.564.9 2 193
+1 generating one hundred megawatts or more of electricity. This term includes
+2 including a hybrid facility capable of injecting one hundred megawatts or more of
+3 electricity into the transmission or distribution system, but not including:
+4 (a) Any solar or wind energy facility that is designed for or capable of
+5 generating one hundred megawatts or more of electricity; or
+6 (b) Backup electric generation;
+7 (7)(8) "Facility," any AC/DC conversion facility, energy conversion facility, solar energy
+8 facility, transmission facility, or wind energy facility, and associated facilities;
+9 (8)(9) "Facility expansion," the addition of twenty-five megawatts AC or more of
+10 generation capacity to an existing generation source resulting in a combined
+11 megawatt capability of the new and existing generation of one hundred megawatts
+12 AC or more of electricity;
+13 (9)(10) "Hybrid facility," a new facility, or a facility expansion, comprised of more than
+14 one type of generation source and having a single point of interconnection to the
+15 distribution or transmission system;
+16 (10)(11) "Permit," the a permit, issued by the commission under pursuant to this
+17 chapter, which is required for the construction and operation of a facility;
+18 (11)(12) "Person," an individual, partnership, limited liability company, joint venture,
+19 private or public corporation, association, cooperative, firm, government agency,
+20 individual, joint venture, limited liability company, municipal corporation,
+21 partnership, political subdivision, private or public corporation, public service
+22 company, cooperative, political subdivision, municipal corporation, government
+23 agency, public utility district, or any other public or private entity, however
+24 organized;
+25 (12)(13) "Siting area," that the area within ten miles, in any direction, of a proposed
+26 energy conversion facility, AC/DC conversion facility, energy conversion facility, or
+27 any other area determined by the commission to be affected by a proposed energy
+28 conversion facility;
+29 (13)(14) "Solar energy facility," a new facility, or facility expansion, consisting of a
+30 commonly managed integrated system of solar panels, power collection systems,
+31 electric interconnection systems, and associated facilities, that which converts solar
+32 energy into electricity and is designed for or capable of generating one hundred
+33 megawatts AC or more of electricity;
+34 (14)(15) "Trans-state transmission facility," an electric transmission line, and its
+35 associated facilities that, which:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.564.9 3 193
+1 (a) Originates outside of this state, crosses this state, and terminates outside
+2 of this state; and
+3 (b) Delivers electric power and energy of twenty-five percent or less of the
+4 design capacity of the line and facilities for use in this state;
+5 (15)(16) "Utility," any person engaged in and controlling the generation or transmission
+6 of electric energy and gas or liquid transmission facilities, as defined by described
+7 in § 49-41B-2.1; and
+8 (16)(17) "Wind energy facility," a new facility, or facility expansion, consisting of a
+9 commonly managed integrated system of towers, wind turbine generators with
+10 blades, power collection systems, and electric interconnection systems, that which
+11 converts wind movement into electricity and that is designed for or capable of
+12 generation of one hundred megawatts or more of electricity.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

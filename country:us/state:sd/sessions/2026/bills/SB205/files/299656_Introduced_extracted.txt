@@ -1,0 +1,70 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.924.9 101st Legislative Session 205
+2026 South Dakota Legislature
+Senate Bill 205
+Introduced by: Senator Voita
+1 An Act to revise registration fees for drones and establish a fund to support drone
+2 aviation.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 50-11-19 be AMENDED:
+5 50-11-19. In addition to all other registration fees paid to the department, an
+6 additional original registration tax of four percent, based upon the purchase price of the
+7 any aircraft except a drone, shall must be paid to the department, along with the
+8 application for the original registration of an aircraft. For an initial registration of aircraft
+9 manufactured and used exclusively for agricultural purposes, except for a drone used in
+10 agriculture, the registration tax under this section is three percent.
+11 Aircraft subject to the tax imposed by this chapter are exempt from taxes imposed
+12 by chapters 10-45 and 10-46. Aircraft used under a use stamp or dealer certificate, or
+13 engaged in regularly scheduled flying consisting of an act of interstate or foreign
+14 commerce, are exempt from the taxes imposed by chapters 10-45 and 10-46.
+15 Failure to pay the registration tax under this section within thirty days after an
+16 aircraft is operated in this state is a Class 2 misdemeanor. Failure to pay the registration
+17 tax within ninety days of the due date shall result results in a civil penalty of one-half
+18 percent of the tax due for each month, or portion of the month, until the tax is paid in
+19 accordance with this chapter, not to exceed five percent of the tax due. A civil penalty
+20 imposed under this section shall must be deposited into the aeronautics fund.
+21 The original registration tax for a drone is as set forth in section 2 of this Act.
+22 Section 2. That a NEW SECTION be added to chapter 50-11:
+23 The original registration tax for a drone, as defined in § 50-1-1, based upon the
+24 purchase price of the aircraft, is as follows:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.924.9 2 205
+1 (1) For a drone manufactured and used exclusively for agricultural purposes, one and
+2 one-half percent; and
+3 (2) For all other drones, two percent.
+4 Notwithstanding the provisions of §§ 50-11-19 and 50-11-21, the registration tax
+5 collected for the registration of a drone in this state, is designated to the drone aviation
+6 fund created in section 3 of this Act. Upon receipt of the original registration tax, the
+7 department shall forward it to the state for deposit in the drone aviation fund.
+8 Failure to pay the registration tax under this section within thirty days after a drone
+9 is operated in this state is a Class 2 misdemeanor. Failure to pay the registration tax within
+10 ninety days of the due date is punishable by a civil penalty of one-half percent of the tax
+11 due for each month, or portion of the month, until the tax is paid, not to exceed five
+12 percent of the tax due. A civil penalty imposed under this section must be deposited into
+13 the drone aviation fund.
+14 This section is not applicable to a small unmanned aircraft, as defined in § 50-1-1.
+15 The aircraft registration requirements of this state do not apply to small unmanned aircraft
+16 systems pursuant to § 50-11-29.
+17 Section 3. That a NEW SECTION be added to chapter 50-11:
+18 There is created in the state treasury the drone aviation fund. The fund consists of
+19 all fees imposed on drones pursuant to chapter 50-11 and all other moneys designated
+20 for deposit in the fund.
+21 The Board of Technical Education shall administer the fund for the purpose of
+22 awarding grants to support training in drone aviation through the technical colleges in this
+23 state. Interest on moneys credited to the fund must remain in the fund. Expenditures from
+24 the fund must be budgeted through the general appropriation bill.
+25 Section 4. That a NEW SECTION be added to chapter 50-11:
+26 The commission may prescribe forms and promulgate rules pursuant to chapter 1-
+27 26 for the ascertainment, assessment, and collection, of the original registration tax
+28 imposed by section 2 of this Act.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

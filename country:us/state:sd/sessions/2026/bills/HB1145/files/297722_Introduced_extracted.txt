@@ -1,0 +1,63 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.184.12 101st Legislative Session 1145
+2026 South Dakota Legislature
+House Bill 1145
+Introduced by: Representative Rehfeldt
+1 An Act to clarify provisions related to the licensure of certified social workers in
+2 private, independent practice and establish an alternative to the licensure
+3 examination.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That § 36-26-13 be AMENDED:
+6 36-26-13. The board shall issue a license as a certified social worker in private,
+7 independent practice, a certified social worker, a social worker, or a social work associate.
+8 Section 2. That § 36-26-17 be AMENDED:
+9 36-26-17. No person may engage in the private, independent practice of social
+10 work unless he the person is licensed by the board as a certified social worker in private,
+11 independent practice. A person seeking this license must:
+12 (1) Is Be licensed under this chapter as a certified social worker;
+13 (2) Has had Have two years of experience under appropriate supervision in the field of
+14 specialization in which the applicant will practice (e.g., psychotherapy, community
+15 organization, or planning); and
+16 (3) Has passed Pass an examination prepared by the board for this purpose, or meet
+17 the additional professional experience requirements set forth in section 3 of this
+18 Act; and
+19 (4) Submit an application to the board, accompanied by the fee authorized in § 36-26-
+20 19.
+21 A person who obtains licensure as a certified social worker in private, independent
+22 practice without passing the examination required by this section is not eligible to
+23 participate in the Social Work Licensure Compact set forth in chapter 36-26A.
+24 Section 3. That a NEW SECTION be added to chapter 36-26:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.184.12 2 1145
+1 If a person applying for licensure as a certified social worker in private, independent
+2 practice has failed the examination required by § 36-26-17 on or after January 1, 2021,
+3 the person may submit evidence to the board of having completed at least three thousand
+4 hours of professional experience. The professional experience must:
+5 (1) Be in addition to any other supervised experience required for licensure;
+6 (2) Be supervised by a:
+7 (a) Certified social worker in private, independent practice, licensed in
+8 accordance with this chapter; or
+9 (b) Another type of licensed health care practitioner affiliated with the mental
+10 health profession, and approved by the board in rules promulgated in
+11 accordance with chapter 1-26;
+12 (3) Occur after the person is licensed as a certified social worker; and
+13 (4) Be completed within the ten-year period immediately preceding the date of
+14 application.
+15 Section 4. That § 36-26-29 be AMENDED:
+16 36-26-29. The board may shall promulgate rules pursuant to chapter 1-26 that to
+17 set standards for professional practice, and establish the procedure for the licensure,
+18 eligibility, continuing education, supervision, and examination for of certified social
+19 workers, social workers, and social work associates, and certified social workers in private,
+20 independent practice.
+21 Section 5. This Act is effective beginning January 1, 2027.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

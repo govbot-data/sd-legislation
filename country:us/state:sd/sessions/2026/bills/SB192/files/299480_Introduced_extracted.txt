@@ -1,0 +1,54 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.795.12 101st Legislative Session 192
+2026 South Dakota Legislature
+Senate Bill 192
+Introduced by: Senator Howard
+1 An Act to modify the blight requirements for purposes of creating a tax increment
+2 financing district.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 11-9-8 be AMENDED:
+5 11-9-8. The resolution required by § 11-9-5 shall must contain the following
+6 findings:
+7 (1) Not less than twenty-five fifty percent, by area, of the real property within the
+8 district is a blighted area or and not less than fifty percent, by area, of the real
+9 property within the district will stimulate and develop the general economic welfare
+10 and prosperity of the state through the promotion and advancement of industrial,
+11 commercial, manufacturing, agricultural, or natural resources development; and
+12 (2) The improvement of the area is likely to significantly enhance the value of
+13 substantially all other real property in the district.
+14 It is not necessary to identify the specific parcels meeting the criteria. No county
+15 may create a district located, in whole or in part, within a municipality, unless the
+16 governing body of the municipality has consented to creation of a district by resolution.
+17 Section 2. That § 11-9-10 be AMENDED:
+18 11-9-10. For the purposes of this chapter, the term "blighted area" means an area
+19 that substantially impairs or arrests the sound growth of the political subdivision, inhibits
+20 housing development, constitutes an economic or social liability, or is a danger in its
+21 present condition and use to the health, safety, morals, or welfare of the public because
+22 of:
+23 (1) The presence of a substantial number of substandard, slum, deteriorated, or
+24 deteriorating structures;
+25 (2) A predominance of defective or inadequate street layouts;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.795.12 2 192
+1 (3) Faulty lot layout in relation to size, adequacy, accessibility, or usefulness;
+2 (4) Insanitary Unsanitary or unsafe conditions;
+3 (5) The deterioration of site or other improvements land or structures affixed to the
+4 land;
+5 (6) A diversity of ownership, tax, Tax or special assessment delinquency delinquencies
+6 exceeding the fair value of the land;
+7 (7) Defective or unusual conditions of title; or
+8 (8) The existence of conditions which that endanger life or property by fire and other
+9 causes; or
+10 (9) A predominance of open space with obsolete platting, diversity of ownership, or
+11 deterioration of structures or site improvements.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
