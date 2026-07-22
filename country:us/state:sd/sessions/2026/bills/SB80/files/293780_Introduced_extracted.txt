@@ -1,0 +1,34 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.610.9 101st Legislative Session 80
+2026 South Dakota Legislature
+Senate Bill 80
+Introduced by: Senator Vilhauer
+1 An Act to prohibit the sale of delta-9 tetrahydrocannabinol products to individuals
+2 under the age of twenty-one.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 34-20B-117 be AMENDED:
+5 34-20B-117. The following actions are unlawful:
+6 (1) To knowingly sell or distribute a product intended for human consumption
+7 containing delta-8 tetrahydrocannabinol, delta-9 tetrahydrocannabinol, THC-O
+8 acetate, or hexahydrocannabinol to a person under the age of twenty-one;
+9 (2) The purchase or attempt to purchase, the receipt or attempt to receive, the
+10 possession, or the consumption of, a product intended for human consumption
+11 containing delta-8 tetrahydrocannabinol, delta-9 tetrahydrocannabinol, THC-O
+12 acetate, or hexahydrocannabinol to a person under the age of twenty-one; and
+13 (3) To purchase a product intended for human consumption containing delta-8
+14 tetrahydrocannabinol, delta-9 tetrahydrocannabinol, THC-O acetate, or
+15 hexahydrocannabinol on behalf of, or to give a product intended for human
+16 consumption containing delta-8 tetrahydrocannabinol, delta-9
+17 tetrahydrocannabinol, THC-O acetate, or hexahydrocannabinol to, any person
+18 under the age of twenty-one, unless the purchaser is a parent or guardian of the
+19 person under the age of twenty-one.
+20 A violation of this section is a Class 2 misdemeanor.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,68 @@
+Title: 
+Official Title: 
+Source: versions - Senate Health and Human Services Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.922.10 101st Legislative Session 211
+2026 South Dakota Legislature
+Senate Bill 211
+SENATE HEALTH AND HUMAN SERVICES ENGROSSED
+Introduced by: Senator Deibert
+1 An Act to prohibit certain billing practices by ambulance service providers and
+2 establish reimbursement standards for out-of-network emergency medical
+3 services.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That § 58-17-63 be AMENDED:
+6 58-17-63. For the purposes of §§ 58-17-64, sections 2 to 5 inclusive, of this Act,
+7 §§ 58-18-63, 58-38-36, and 58-40-33, a health benefit plan is any hospital or medical
+8 policy or certificate, hospital or medical service plan, or health maintenance organization
+9 subscriber contract. The term does not include specified disease, hospital indemnity, fixed
+10 indemnity, fixed duration of one year or less, accident-only, credit, dental, vision,
+11 medicare supplement, long-term care, or disability income insurance, coverage issued as
+12 a supplement to liability insurance, workers' compensation or similar insurance, or
+13 automobile medical payment insurance.
+14 Section 2. That a NEW SECTION be added to chapter 58-17:
+15 Terms used in this Act mean:
+16 (1) "Ambulance service," any ground ambulance service licensed pursuant to chapter
+17 34-11;
+18 (2) "Emergency medical services," ambulance transportation and prehospital
+19 emergency medical care provided to a patient;
+20 (3) "Out-of-network provider," an ambulance service provider that does not have a
+21 direct or contractual agreement with the patient’s health benefit plan.
+22 Section 3. That a NEW SECTION be added to chapter 58-17:
+23 An ambulance service provider may not bill, attempt to collect from, or otherwise
+24 seek reimbursement from a patient for emergency medical services rendered on an out-
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.922.10 2 211
+1 of-network basis, except for any coinsurance, copayment, or deductible amount, required
+2 under the terms of the patient’s health benefit plan.
+3 Section 4. That a NEW SECTION be added to chapter 58-17:
+4 A health benefit plan must reimburse an out-of-network ambulance service
+5 provider for emergency medical services at a rate not less than the rate established,
+6 adopted, or recognized by the political subdivision from which the transport originated.
+7 If no local rate has been established, adopted, or recognized, the reimbursement
+8 must be the lesser of:
+9 (1) The provider’s billed charge; or
+10 (2) Two hundred seventy-five percent of the medicare allowable rate for the same
+11 service.
+12 A health benefit plan shall provide the reimbursement for emergency medical
+13 services rendered on an out-of-network basis directly to the ambulance service provider
+14 in accordance with the provisions set forth in chapter 58-12, unless otherwise agreed to
+15 in writing by the plan and the provider.
+16 Section 5. That a NEW SECTION be added to chapter 58-17:
+17 Each ambulance service provider and health benefit plan shall furnish to a patient
+18 a clear and concise explanation of benefits and a statement of any amount owed by the
+19 patient.
+20 With the exception of non-covered services, a patient is not liable for any amount
+21 charged, beyond the applicable coinsurance, copayment, or deductible, required by the
+22 patient's health benefit plan for emergency ambulance services.
+23 Section 6. That a NEW SECTION be added to chapter 58-17:
+24 Sections 2 to 5, inclusive, of this Act do not apply to a self-funded employer health
+25 plan, medicaid, medicare, or any other federally regulated program.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

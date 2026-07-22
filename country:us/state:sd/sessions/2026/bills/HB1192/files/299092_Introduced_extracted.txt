@@ -1,0 +1,71 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.220.17 101st Legislative Session 1192
+2026 South Dakota Legislature
+House Bill 1192
+Introduced by: Representative Baxter
+1 An Act to allow the parole of certain inmates sentenced to life imprisonment without
+2 parole.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 24-15-4 be AMENDED:
+5 24-15-4. No inmate sentenced to life imprisonment is eligible for parole by the
+6 Board of Pardons and Paroles, except as provided in §§ 24-15A-55 to 24-15A-68,
+7 inclusive, and section 2 of this Act.
+8 Section 2. That chapter 24-15A be amended with a NEW SECTION:
+9 An inmate sentenced to life imprisonment for an offense, other than rape in the
+10 first degree pursuant to § 22-22-1, which was committed when the inmate was at least
+11 eighteen years old but under the age of twenty-seven is eligible for discretionary parole
+12 consideration when the inmate has served twenty-five years. The board shall conduct an
+13 initial discretionary parole hearing within six months of the inmate achieving eligibility.
+14 The board must consider the factors set forth in section 3 of this Act in determining
+15 whether to grant parole under this section.
+16 If an inmate considered for discretionary parole under this section is denied parole,
+17 the board must establish a discretionary parole date of not less than five years from the
+18 date of denial. Subsequent discretionary parole hearings must be held at intervals of not
+19 more than two years.
+20 An inmate granted parole under this section is otherwise subject to the provisions
+21 of chapters 24-13, 24-15, and 24-15A.
+22 The provisions of this Act apply retroactively to any inmate sentenced before July
+23 1, 2026.
+24 Section 3. That chapter 24-15A be amended with a NEW SECTION:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.220.17 2 1192
+1 In determining whether to grant parole under section 2 of this Act, the board shall
+2 consider:
+3 (1) The inmate's age at the time of the offense, the diminished culpability of youth,
+4 and the immaturity, impetuosity, and failure to appreciate risks and consequences
+5 associated with being a youth;
+6 (2) The history and characteristics of the inmate;
+7 (3) The inmate's family and community circumstances at the time of the offense, and
+8 any history of abuse, trauma, or involvement of the inmate in the child welfare
+9 system;
+10 (4) The nature and circumstances of the offense and the extent of the inmate's role in
+11 the offense;
+12 (5) Whether the inmate has substantially complied with the rules of the institution to
+13 which the inmate is confined;
+14 (6) Whether the inmate has completed any educational, vocational, or other programs
+15 of the institution, where available, in addition to any mandatory educational,
+16 vocational, and work requirements;
+17 (7) Whether the inmate has completed any behavioral or mental health treatment
+18 while incarcerated, if the inmate's behavioral and mental health is determined to
+19 have played a role in the commission of the offense;
+20 (8) Any report or recommendation received from the state's attorney in the county in
+21 which the inmate's conviction was entered;
+22 (9) Whether the inmate has demonstrated maturity, rehabilitation, and a fitness to
+23 reenter society;
+24 (10) Any statement provided by a victim of the offense;
+25 (11) Any report of a physical, mental, or psychiatric examination of the inmate
+26 conducted by a licensed health care professional; and
+27 (12) Any other information the board deems relevant to its decision.
+28 For the purposes of this section, "victim" has the same meaning as in S.D. Const.,
+29 Art. VI, § 29.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

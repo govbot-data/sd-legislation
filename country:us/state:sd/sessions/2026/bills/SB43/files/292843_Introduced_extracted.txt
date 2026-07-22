@@ -1,0 +1,26 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.457.13 101st Legislative Session 43
+2026 South Dakota Legislature
+Senate Bill 43
+Introduced by: The Chair of the Committee on Judiciary at the request of the Attorney General
+1 An Act to address search and seizure provisions applicable to digital currency.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 23A-35-14 be AMENDED:
+4 23A-35-14. This chapter does not modify any inconsistent provision of this code
+5 regulating search, seizure, and the issuance and execution of search warrants in
+6 circumstances for which special provision is made.
+7 The term For purposes of this chapter, "property" as used in this chapter includes
+8 documents, books, papers, digital currency, and any other tangible objects.
+9 Section 2. That a NEW SECTION be added to chapter 23A-35:
+10 For purposes of this chapter, "digital currency" means a digital representation of
+11 value recorded on a cryptographically secured distributed ledger or other medium of
+12 exchange, including blockchain, or similar technology.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

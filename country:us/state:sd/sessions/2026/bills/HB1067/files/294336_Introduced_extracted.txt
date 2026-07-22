@@ -1,0 +1,43 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.703.10 101st Legislative Session 1067
+2026 South Dakota Legislature
+House Bill 1067
+Introduced by: Representative Andera
+1 An Act to provide a rebuttable presumption in favor of joint physical custody of a
+2 minor child.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 25-4A-21 be AMENDED:
+5 25-4A-21. In any custody dispute between parents, upon application Upon the
+6 petition of either parent, the court shall consider granting joint for the initial determination
+7 of physical custody of a minor child, there is a rebuttable presumption that joint physical
+8 custody is in the best interest of a minor child. This presumption may be rebutted by
+9 evidence showing that joint physical custody is not in the best interest of the child based
+10 on the factors set forth in § 25-4A-24.
+11 The court shall consider the factors set forth in § 25-4A-24, and shall make written
+12 findings of fact and conclusions of law regarding the best interests interest of the minor
+13 child, unless waived by both parties in accordance with § 25-4A-24, unless waived by both
+14 parties or the parents have stipulated to the terms of an agreement resolving the petition.
+15 The presumption set forth in this section is not applicable if a presumption that
+16 joint physical custody is not in the best interest of the child has been created in accordance
+17 with § 25-4A-22.
+18 Section 2. That a NEW SECTION be added to chapter 25-4A:
+19 For purposes of this chapter and § 25-5-7.1, "joint physical custody" means a
+20 division of time with the child that is approximately and reasonably equal for each parent,
+21 as agreed to by each parent or as ordered by the court.
+22 Section 3. That § 25-4A-26 be REPEALED.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.703.10 2 1067
+1 Nothing in §§ 25-4A-21 to 25-4A-27, inclusive, creates a presumption of joint
+2 physical custody. The court shall determine the appropriate physical care, custody, and
+3 control of a minor child based on a determination of the best interests of the child.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

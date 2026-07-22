@@ -1,0 +1,21 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.796.15 101st Legislative Session 1186
+2026 South Dakota Legislature
+House Bill 1186
+Introduced by: Representative Jorgenson
+1 An Act to require the approval of the county for the creation of a tax increment
+2 financing district by a municipality.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 11-9:
+5 No municipality may create a district unless the board of county commissioners of
+6 each county in which the district is located, either in whole or in part, has consented to
+7 the creation of the district by resolution.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

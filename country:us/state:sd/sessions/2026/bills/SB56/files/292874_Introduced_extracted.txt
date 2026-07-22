@@ -1,0 +1,136 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.107.10 101st Legislative Session 56
+2026 South Dakota Legislature
+Senate Bill 56
+Introduced by: Senators Howard and Larson and Representatives Hansen, DeGroot, and Muckey at the request
+of the Interim Rules Review Committee
+1 An Act to require that agencies promulgating permanent rules publish the rules and
+2 associated rulemaking forms on a state website.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 1-26-4 be AMENDED:
+5 1-26-4. The following notice, service, and public hearing procedure must be used
+6 to adopt, amend, or repeal a permanent rule:
+7 (1) An agency shall serve a copy of a proposed rule and any publication described in
+8 § 1-26-6.6 upon the departmental secretary, bureau commissioner, public utilities
+9 commissioner, or constitutional officer to which it is attached for the secretary's,
+10 commissioner's, or officer's written approval to proceed;
+11 (2) After receiving the written approval of the secretary, commissioner, or officer to
+12 proceed, the agency, at least twenty days before the public hearing to adopt the
+13 proposed rule, shall serve:
+14 (a) Serve code counsel with a copy of: the proposed rule;, any publication
+15 described in § 1-26-6.6;, the fiscal note required by § 1-26-4.2;, the impact
+16 statement on small business required by § 1-26-2.1;, any housing cost
+17 impact statement required by § 1-26-2.3;, and the notice of hearing
+18 required by § 1-26-4.1. The copy of these documents must be served at
+19 least twenty days before the public hearing to adopt the proposed rule. Any
+20 publication described in § 1-26-6.6 must be returned to the agency upon
+21 completion of the code counsel's review and retained by the agency. Twenty
+22 days before the public hearing, the agency shall serve; and
+23 (b) Serve the commissioner of the Bureau of Finance and Management with a
+24 copy of: the proposed rule;, the fiscal note required by § 1-26-4.2;, the
+25 impact statement on small business required by § 1-26-2.1;, any housing
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.107.10 2 56
+1 cost impact statement required by § 1-26-2.3;, and the notice of hearing
+2 required by § 1-26-4.1;
+3 (3) At least twenty days before the public hearing, the agency shall:
+4 (a) Publish the notice of hearing in the manner prescribed by § 1-26-4.1; and
+5 (b) Publish, on the agency's a single website designated by the Governor and
+6 maintained by the executive department, a copy of the proposed rule, the
+7 impact statement on small business required by § 1-26-2.1, any housing
+8 cost impact statement required by § 1-26-2.3, the notice of hearing
+9 required by § 1-26-4.1, and the fiscal note required by § 1-26-4.2;
+10 (4) After reviewing the proposed rule pursuant to § 1-26-6.5, code counsel shall advise
+11 the agency of any recommended corrections to the proposed rule. If the agency
+12 does not concur with any recommendation of code counsel, the agency may appeal
+13 the recommended correction to the Interim Rules Review Committee for
+14 appropriate action;
+15 (5) The agency shall afford all interested persons reasonable opportunity to submit
+16 amendments, data, opinions, or arguments at a public hearing held to adopt the
+17 rule. The hearing may be continued from time to time. The agency shall keep
+18 minutes of the hearing. A majority of the members of any board or commission
+19 authorized to pass rules must be present during the course of the public hearing;
+20 (6) If the authority promulgating the rule is a secretary, commissioner, or officer, the
+21 agency shall accept written comments regarding the proposed rule for a period of
+22 ten days after the public hearing. If the authority promulgating the rule is a board,
+23 commission, committee, or task force, each interested person shall must submit
+24 written comments at least seventy-two hours before the public hearing. The
+25 seventy-two hours does not include the day of the public hearing. The written
+26 comments may be submitted by mail or email. The record of written comments
+27 may be closed at the conclusion of the public hearing. The hearing may be
+28 continued for the purpose of taking additional comments;
+29 (7) After the written comment period, the agency shall consider all amendments, data,
+30 opinions, or arguments regarding the proposed rule. A proposed rule may be
+31 modified or amended at this time to include or exclude matters that were described
+32 in the notice of hearing; and
+33 (8) The agency shall serve, at least seven days before the agency appears before the
+34 Interim Rules Review Committee to present the rules:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.107.10 3 56
+1 (a) Serve the minutes of the hearing, a complete record of written comments,
+2 the impact statement on small business, any housing cost impact
+3 statement, the fiscal note, the agency financial resource information
+4 required by § 1-26-4.8, and a corrected copy of the rule on the members
+5 of the Interim Rules Review Committee and on code counsel at least seven
+6 days before the agency appears before the committee to present the rules;
+7 and
+8 (b) Publish, to the website referenced in subsection (3)(b) of this section, code
+9 counsel's advisement referenced in subdivision (4), the minutes of the
+10 public hearing referenced in subdivision (5), the agency financial resource
+11 information required by § 1-26-4.8, and the corrected copy of the rule
+12 referenced in subsection (8)(a).
+13 The time periods specified in this section may be extended by the agency. The
+14 requirement to serve the committee and code counsel within the time limit specified in
+15 subdivision (8) may be waived by the committee chair, if the agency presents sufficient
+16 reasons to the committee chair that the agency is unable to comply with the time limit.
+17 The waiver may not be granted solely for the convenience of the agency.
+18 Section 2. That § 1-26-6 be AMENDED:
+19 1-26-6. The adoption, amendment, or repeal of a rule is complete when:
+20 (1) The requirements of § 1-26-4 have been completed or, if the rule is an emergency
+21 rule, three days have passed since the requirements of § 1-26-5 have been met;
+22 (2) It has been signed by a majority of the members of the multi-member body or by
+23 the officer having the authority to adopt it;
+24 (3) It has been signed by code counsel;
+25 (4) A copy has been filed with code counsel, in a form prescribed by code counsel to
+26 show amendments, deletions, and other changes to existing rules, for use in
+27 preparation of copy for the Administrative Rules of South Dakota;
+28 (5) The rule and a certificate have been filed with the secretary of state. The certificate
+29 must affirm that the rule filed is a true and correct copy of the rule as adopted and
+30 that the agency has complied with § 1-26-4 or 1-26-5, and with this section; and
+31 (6) The rule and the certificate have been published on the website described in
+32 subsection 1-26-4(3)(b); and
+33 (7) For a permanent rule, the agency has appeared and presented the proposed rule
+34 to the Interim Rules Review Committee.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.107.10 4 56
+1 A certificate required by this section must be an affidavit executed, under oath, by
+2 the officer authorized by statute to promulgate the rule. If a rule is promulgated by a
+3 multi-member body, the body's presiding officer must sign the certificate.
+4 An emergency rule is provisionally effective immediately after being filed.
+5 Notwithstanding § 15-6-6(a), all other rules are provisionally effective on the twentieth
+6 day after being filed, not counting the day of filing. In either case a later effective date
+7 may be specified as part of the rules being filed. A rule that is not yet effective or a
+8 provisionally effective rule may be suspended in the manner specified by § 1-26-38 any
+9 time prior to the first day of July of the year following the year in which it became, or
+10 would have become, effective. The rule's provisional status ends at that time, and the rule
+11 may not thereafter be suspended by the rules committee. Unless suspended, a
+12 provisionally effective rule must be enforced by the agency and the courts as if it were not
+13 so conditioned.
+14 No rule promulgated after June 30, 1975, is valid unless adopted in compliance
+15 with § 1-26-4 or 1-26-5, and this section and copies of the rule are made available to the
+16 public upon request, by the agency.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

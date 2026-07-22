@@ -1,0 +1,65 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.367.15 101st Legislative Session 8
+2026 South Dakota Legislature
+Senate Bill 8
+Introduced by: The Chair of the Committee on Education at the request of the Department of Education
+1 An Act to permit a school district to administer epinephrine using a nasal spray.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 13-33A-4 be AMENDED:
+4 13-33A-4. Any school may acquire and maintain a stock of epinephrine auto-
+5 injectors or nasal spray pursuant to a prescription issued by an authorized health care
+6 provider for use in an emergency situation of a severe allergic reaction causing
+7 anaphylaxis. The provisions of this section are not subject to the prescription requirements
+8 in chapter 36-11.
+9 Section 2. That § 13-33A-5 be AMENDED:
+10 13-33A-5. Each school shall adopt a policy for the use and storage of epinephrine
+11 auto-injectors or nasal spray and shall notify the parents or guardians of each student
+12 about the policy.
+13 Section 3. That § 13-33A-6 be AMENDED:
+14 13-33A-6. Any school nurse or other designated school personnel, upon
+15 authorization by the governing school body, may:
+16 (1) Administer an epinephrine auto-injector or nasal spray to a student in accordance
+17 with a prescription specific to the student on file with the school;
+18 (2) Administer an epinephrine auto-injector or nasal spray to any student during school
+19 hours if the school nurse or designated school personnel believe that the student
+20 is experiencing anaphylaxis in accordance with a standing protocol from an
+21 authorized health care provider, regardless of whether a student has a prescription
+22 for an epinephrine auto-injector or nasal spray or has been diagnosed with an
+23 allergy.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.367.15 2 8
+1 Section 4. That § 13-33A-7 be AMENDED:
+2 13-33A-7. Prior to administering an epinephrine auto-injector or nasal spray made
+3 available by the school, each designated school personnel shall be trained by a licensed
+4 health care professional:
+5 (1) To recognize the symptoms of a severe allergy or anaphylactic reaction;
+6 (2) To know the procedure for the administration of an epinephrine auto-injector or
+7 nasal spray;
+8 (3) To know the procedure for storage of an epinephrine auto-injector or nasal spray;
+9 and
+10 (4) To know the emergency care and aftercare for a student who has an allergic or
+11 anaphylactic reaction.
+12 Section 5. That § 13-33A-8 be AMENDED:
+13 13-33A-8. No school district, administrator, school board, school nurse, or
+14 designated school personnel that possess or make available epinephrine auto-injectors or
+15 nasal spray pursuant to §§ 13-33A-4 to 13-33A-8, inclusive; authorized health care
+16 provider that prescribes epinephrine auto-injectors or nasal spray to a school; or a health
+17 care professional that provides training pursuant to § 13-33A-7 may be held liable for any
+18 injury or related damage that results from the administration of, self-administration of, or
+19 failure to administer an epinephrine auto-injector or nasal spray that may constitute
+20 ordinary negligence. This immunity does not apply to an act or omission constituting gross,
+21 willful, or wanton negligence. The administration of an epinephrine auto-injector or nasal
+22 spray in accordance with the provisions of §§ 13-33A-4 to 13-33A-8, inclusive, does not
+23 constitute the practice of medicine. The immunity from liability provided under this section
+24 is in addition to, not in lieu of, that provided in any other law.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

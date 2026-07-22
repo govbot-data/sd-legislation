@@ -1,0 +1,86 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.646.9 101st Legislative Session 1164
+2026 South Dakota Legislature
+House Bill 1164
+Introduced by: Representative Jorgenson
+1 An Act to establish the crime of fraudulent assisted reproduction and provide a
+2 penalty and civil liability therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 22-22A:
+5 Terms used in this Act mean:
+6 (1) "Assisted reproduction procedure," a method of causing pregnancy, other than
+7 through sexual intercourse, including in vitro fertilization and transfer of embryos,
+8 intracytoplasmic sperm injection, and intracervical or intrauterine insemination;
+9 (2) "Donor," an individual who donates reproductive material, whether for personal
+10 use or compensation; and
+11 (3) "Reproductive material," a human sperm or ovum, or a human organism at any
+12 stage of development from fertilized ovum to embryo.
+13 Section 2. That a NEW SECTION be added to chapter 22-22A:
+14 It is a Class 5 felony for a licensed health care provider, in the performance of an
+15 assisted reproduction procedure, to:
+16 (1) Knowingly cause the use of reproductive material from a donor if the patient did
+17 not give written consent to receive the reproductive material from the donor; or
+18 (2) Intentionally cause the use of the licensed health care provider's own reproductive
+19 material without the patient's written consent.
+20 It is not a defense to a violation of this section that the patient consented to an
+21 anonymous donor.
+22 Notwithstanding any other provision of law, the applicable period of limitation for
+23 prosecution of a violation of this section does not begin to run until the date on which the
+24 violation is discovered and reported to law enforcement or any other governmental
+25 agency.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.646.9 2 1164
+1 Section 3. That a NEW SECTION be added to chapter 22-22A:
+2 The following individuals may bring a civil action against a licensed health care
+3 provider for performing an assisted reproduction procedure in violation of section 2 of this
+4 Act:
+5 (1) The patient who gives birth to a child as a result of the assisted reproduction
+6 procedure;
+7 (2) The surviving spouse of the patient under subdivision (1);
+8 (3) The intended parent of a child born as a result of the assisted reproduction
+9 procedure;
+10 (4) A child born as a result of the assisted reproduction procedure in violation of section
+11 2 of this Act; and
+12 (5) The donor whose reproductive material was used without the donor's consent or in
+13 a manner inconsistent with the donor's consent.
+14 An individual who brings any action under subdivisions (1) to (4) of this section
+15 has a separate cause of action for each child born as a result of the assisted reproduction
+16 procedure. An individual who brings an action under subdivision (5) of this section has a
+17 separate cause of action for each patient who received an assisted reproduction procedure
+18 using the donor's reproductive material.
+19 An individual who prevails in an action under this section is entitled to liquidated
+20 damages of ten thousand dollars, compensatory and punitive damages, and reasonable
+21 attorney's fees. An individual who prevails in any action brought pursuant to subdivisions
+22 (1) to (4) of this section is also entitled to all costs associated with the assisted
+23 reproduction procedure.
+24 An action may be maintained under this section whether or not the licensed health
+25 care provider alleged to have violated section 2 of this Act is charged or convicted of the
+26 alleged crime.
+27 Section 4. That a NEW SECTION be added to chapter 22-22A:
+28 Notwithstanding any other provision of law, an individual shall commence a civil
+29 action pursuant to section 3 of this Act no later than five years after:
+30 (1) The eighteenth birthday of the child born as a result of the assisted reproduction
+31 procedure; or
+32 (2) The earliest of the dates on which:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.646.9 3 1164
+1 (a) The individual first discovers evidence sufficient to bring an action against
+2 the licensed health care provider through deoxyribonucleic acid analysis;
+3 (b) The individual first becomes aware of the existence of a record that provides
+4 evidence sufficient to bring an action against the licensed health care
+5 provider; or
+6 (c) The licensed health care provider admits to the facts giving rise to the
+7 action.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

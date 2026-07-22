@@ -1,0 +1,330 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.360.14 101st Legislative Session 1016
+2026 South Dakota Legislature
+House Bill 1016
+Introduced by: The Chair of the Committee on Health and Human Services at the request of the Department of Health
+1 An Act to modify provisions related to the controlled substances schedule and to
+2 declare an emergency.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 34-20B-1 be AMENDED:
+5 34-20B-1. Terms as used in this chapter mean:
+6 (1) "Administer," to deliver a controlled drug or substance to the ultimate user or
+7 human research subject by injection, inhalation, or ingestion, or by any other
+8 means;
+9 (2) "Agent," an authorized person who acts on behalf of or at the direction of a
+10 manufacturer, distributor, or dispenser and includes a common or contract carrier,
+11 public warehouseman, or employee thereof;
+12 (3) "Chemically derived cannabinoid," a chemical substance created by a chemical
+13 reaction that changes the molecular structure of any chemical substance derived
+14 from the cannabis plant. The term does not include:
+15 (a) Cannabinoids produced by decarboxylation from a naturally occurring
+16 cannabinoid acid without the use of a chemical catalyst;
+17 (b) Non-psychoactive cannabinoids; or
+18 (c) Cannabinoids in a topical cream product;
+19 (4) "Control," to add, remove, or change the placement of a drug, substance, or
+20 immediate precursor under §§ 34-20B-27 and 34-20B-28;
+21 (5) "Controlled substance analogue," any of the following:
+22 (a) A substance that differs in its chemical structure from a controlled substance
+23 listed in or added to Schedule I or II only by substituting one or more
+24 hydrogens with halogens, or by substituting one halogen with a different
+25 halogen;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.360.14 2 1016
+1 (b) A substance that is an alkyl homolog of a controlled substance listed in or
+2 added to Schedule I or II; or
+3 (c) A substance intended for human consumption:
+4 (i) The chemical structure of which is substantially similar to the
+5 chemical structure of a controlled substance in Schedule I or II; or
+6 (ii) That has a stimulant, depressant, or hallucinogenic effect on the
+7 central nervous system that is substantially similar to, or greater
+8 than, the stimulant, depressant, or hallucinogenic effect on the
+9 central nervous system of a controlled substance in Schedule I or II;
+10 or
+11 (iii) With respect to a particular person, which the person represents or
+12 intends to have a stimulant, depressant, or hallucinogenic effect on
+13 the central nervous system that is substantially similar to or greater
+14 than the stimulant, depressant, or hallucinogenic effect on the
+15 central nervous system of a controlled substance in Schedule I or II;
+16 The term, controlled substance analogue, does not include a controlled substance or any
+17 substance for which there is an approved new drug application;
+18 (6) "Counterfeit substance," a controlled drug or substance that, or the container or
+19 labeling of a controlled drug or substance that, without authorization, bears the
+20 trademark, trade name, or other identifying mark, imprint, number, or device, or
+21 any likeness thereof, of a manufacturer, distributor, or dispenser other than the
+22 person or persons who manufactured, distributed, or dispensed the substance, and
+23 thereby falsely purports or is represented to be the product of, or to have been
+24 distributed by, the other manufacturer, distributor, or dispenser;
+25 (7) "Deliver" or "delivery," the actual, constructive, or attempted transfer of a
+26 controlled drug, substance, or marijuana, whether or not there exists an agency
+27 relationship;
+28 (8) "Department," the Department of Health created by chapter 1-43;
+29 (9) "Dispense," to deliver a controlled drug or substance to the ultimate user or human
+30 research subject by or pursuant to the lawful order of a practitioner, including the
+31 prescribing, administering, packaging, labeling, or compounding necessary to
+32 prepare the substance for such delivery;
+33 (10) "Distribute," to deliver a controlled drug, substance, or marijuana;
+34 (11) "Hashish," the resin extracted from any part of any plant of the genus cannabis
+35 that contains a delta-9 tetrahydrocannabinol concentration of more than three-
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.360.14 3 1016
+1 tenths of one percent on a dry weight basis, except that which occurs in an
+2 industrial hemp product, as defined in § 38-35-1;
+3 (12) "Imprisonment," imprisonment in a state correctional facility unless the penalty
+4 specifically provides for imprisonment in the county jail;
+5 (13) "Kratom," any part of the leaf of the plant Mitragyna speciosa;
+6 (14) "Kratom product," a food as defined in § 39-4-1, or dietary ingredient, containing
+7 kratom;
+8 (15) "Manufacture," the production, preparation, propagation, compounding, or
+9 processing of a controlled drug or substance, either directly or indirectly by
+10 extraction from substances of natural origin, or independently by means of
+11 chemical synthesis or by a combination of extraction and chemical synthesis. A
+12 manufacturer does not include a practitioner who dispenses or compounds
+13 prescription orders for delivery to the ultimate consumer;
+14 (16) "Marijuana," all parts of any plant of the genus cannabis, whether growing or not;
+15 the seeds thereof; and every compound, manufacture, salt, derivative, mixture, or
+16 preparation of such the plant or its seeds. The term does not include fiber:
+17 (a) Fiber produced from the mature stalks of the plant, or oil or cake made from
+18 the seeds of the plant, or the resin when extracted from any part of the
+19 plant, or a;
+20 (b) A drug product approved by the United States Food and Drug
+21 Administration. The term does not include the plant Cannabis sativa L. and
+22 any part of that plant, including the seeds thereof and all derivatives,
+23 extracts, cannabinoids, isomers, acids, salts, and salts of isomers, whether
+24 growing or not, with a delta-9 tetrahydrocannabinol concentration of not
+25 more than three-tenths of one percent on a dry weight basis; or
+26 (c) Industrial hemp, as defined in § 38-35-1;
+27 (17) "Narcotic drug," any of the following, whether produced directly or indirectly by
+28 extraction from substances of vegetable origin or independently by means of
+29 chemical synthesis, or by a combination of extraction and chemical synthesis:
+30 (a) Opium, coca leaves, or opiates;
+31 (b) A compound, manufacture, salt, derivative, or preparation of opium, coca
+32 leaves, or opiates; or
+33 (c) A substance, and any compound, manufacture, salt, derivative, or
+34 preparation thereof, that is chemically identical to any of the substances
+35 referred to in subsections (a) and (b) of this subdivision;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.360.14 4 1016
+1 The term, narcotic drug, does not include decocainized coca leaves or extracts of coca
+2 leaves, which extracts do not contain cocaine or ecgonine;
+3 (18) "Opiate" or "opioid," any controlled drug or substance having an addiction-
+4 sustaining liability similar to morphine or being capable of conversion into a drug
+5 having such addiction-forming or addiction-sustaining liability;
+6 (19) "Opium poppy," the plant of the species papaver somniferum L., except the seeds
+7 thereof;
+8 (20) "Person," any corporation, association, limited liability company, partnership, or
+9 one or more individuals;
+10 (21) "Poppy straw," all parts, except the seeds, of the opium poppy, after mowing;
+11 (22)(21) "Practitioner,":
+12 (a) A physician licensed pursuant to chapter 36-4, a physician assistant licensed
+13 pursuant to chapter 36-4A, a dentist licensed pursuant to chapter 36-6A,
+14 an optometrist licensed pursuant to chapter 36-7, a podiatrist licensed
+15 pursuant to chapter 36-8, a certified registered nurse anesthetist licensed
+16 pursuant to chapter 36-9, a certified nurse practitioner or certified nurse
+17 midwife licensed pursuant to chapter 36-9A, a pharmacist licensed pursuant
+18 to chapter 36-11, or a veterinarian licensed pursuant to chapter 36-12;
+19 (b) A government employee acting within the scope of employment; and
+20 (c) A person permitted by a certificate issued by the department to distribute,
+21 dispense, conduct research with respect to, or administer a substance
+22 controlled by this chapter;
+23 (23)(22) "Prescription," an order of a practitioner for a controlled drug or substance; and
+24 (24) "Production," the manufacture, planting, cultivation, growing, or harvesting of a
+25 controlled drug or substance;
+26 (25)(23) "Ultimate user," a person who lawfully possesses a controlled drug or substance
+27 for personal use or for the use of a member of the person's household, or for
+28 administration to an animal owned by the person or by a member of the person's
+29 household.
+30 Section 2. That § 34-20B-12 be AMENDED:
+31 34-20B-12. Any of the following substances, including their isomers, esters,
+32 ethers, salts, and salts of isomers, esters, and ethers, is included in Schedule I, unless
+33 specifically excepted, whenever the existence of such the isomers, esters, ethers, and
+34 salts is possible within the specific chemical designation:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.360.14 5 1016
+1 (1) Acetylmethadol;
+2 (2) Allylprodine;
+3 (3) Alphacetylmethadol, except levo-alphacetylmethadol, also known as levo-alpha-
+4 acetylmethadol, levomethadyl acetate or LAAM;
+5 (4) Alphameprodine;
+6 (5) Alphamethadol;
+7 (6) Benzethidine;
+8 (7) Betacetylmethadol;
+9 (8) Betameprodine;
+10 (9) Betamethadol;
+11 (10) Betaprodine;
+12 (11) Clonitazene;
+13 (12) Dextromoramide;
+14 (13) Diampromide;
+15 (14) Diethyliambutene;
+16 (15) Dimenoxadol;
+17 (16) Dimepheptanol;
+18 (17) Dimethyliambutene;
+19 (18) Dioxaphetyl butyrate;
+20 (19) Dipipanone;
+21 (20) Ethylmethylthiambutene;
+22 (21) Etonitazene;
+23 (22) Etoxeridine;
+24 (23) Fenethylline;
+25 (24) Furethidine;
+26 (25) Hydroxypethidine;
+27 (26) Ketobemidone;
+28 (27) Levomoramide;
+29 (28) Levophenacylmorphan;
+30 (29) Mecloqualone;
+31 (30) Morpheridine;
+32 (31) Noracymethadol;
+33 (32) Norlevorphanol;
+34 (33) Normethadone;
+35 (34) Norpipanone;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.360.14 6 1016
+1 (35) Phenadoxone;
+2 (36) Phenampromide;
+3 (37) Phenomorphan;
+4 (38) Phenoperidine;
+5 (39) Piritramide;
+6 (40) Proheptazine;
+7 (41) Properidine;
+8 (42) Racemoramide;
+9 (43) Trimeperidine;
+10 (44) Methaqualone;
+11 (45) N-benzylpiperazine;
+12 (46) 4-chloro-N-[1-[2-(4-nitrophenyl)ethyl]-2-piperidinylidene]-benzenesulfonamide,
+13 W-18;
+14 (47) N,N-diethyl-2-(2-(4 -isopropoxybenzyl)-5-nitro-1H-benzimidazol-1-yl)ethan-1-
+15 amine, also known as isotonitazene;
+16 (48) 2-(2-(4-butoxybenzyl)-5-nitro-1H-benzimidazol-1-yl)-N,N-diethylethan-1-amine
+17 (butonitazene);
+18 (49) 2-(2-(4-ethoxybenzyl)-1H-benzimidazol-1-yl)-N,N-diethylethan-1-amine
+19 (etodesnitazene, etazene);
+20 (50) N,N-diethyl-2-(2-(4-fluorobenzyl)-5-nitro-1H-benzimidazol-1-yl)ethan-1-amine)
+21 (flunitazene);
+22 (51) N,N-diethyl-2-(2-(4-methoxybenzyl)-1H-benzimidazol-1-yl)ethan-1-amine
+23 (metodesnitazene);
+24 (52) N,N-diethyl-2-(2-(4-methoxybenzyl)-5-nitro-1H-benzimidazol-1-yl)ethan-1-
+25 amine (metonitazene);
+26 (53) 2-(4-ethoxybenzyl)-5-nitro-1-(2-(pyrrolidin-1-yl)ethyl)-1H-benzimidazole (N-
+27 pyrrolidino etonitazene, etonitazepyne);
+28 (54) N,N-diethyl-2-(5-nitro-2-(4-propoxybenzyl)-1H-benzimidazol-1-yl)ethan-1-amine
+29 (protonitazene);
+30 (55) 7-[(10,11-dihydro-5 H -dibenzo[a,d]cyclohepten-5-yl)amino]heptanoic acid)
+31 (amineptine);
+32 (56) N -phenyl- N′ -(3-(1-phenylpropan-2-yl)-1,2,3-oxadiazol-3-ium-5-
+33 yl)carbamimidate) (mesocarb); and
+34 (57) N -methyl-1-(thiophen-2-yl)propan-2-amine (methiopropamine);
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.360.14 7 1016
+1 (58) N-ethyl-2-(2-(4-isopropoxybenzyl)-5-nitro-1H-benzo[d]imidazol-1-yl)ethan-1-
+2 amine (N-Desethyl Isotonitazene); and
+3 (59) Ethyl 2-phenyl-2-(piperidin-2-yl)acetate) (ethylphenidate).
+4 Section 3. That § 34-20B-13 be AMENDED:
+5 34-20B-13. Any of the following opium derivatives and opiates, their salts,
+6 isomers, esters, ethers, and salts of isomers, esters, and ethers, is included in Schedule
+7 I, unless specifically excepted, whenever the existence of the salts, isomers, esters,
+8 ethers, and salts of isomers, esters, and ethers is possible within the specific chemical
+9 designation:
+10 (1) Acetylcodone;
+11 (2) Benzylmorphine;
+12 (3) Codeine methylbromide;
+13 (4) Codeine-N-Oxide;
+14 (5) Desomorphine;
+15 (6) Drotebanol;
+16 (7) Heroin;
+17 (8) Hydromorphinol;
+18 (9) Methyldesorphine;
+19 (10) Methylhydromorphine;
+20 (11) Morphine methylbromide;
+21 (12) Morphine methylsulfonate;
+22 (13) Morphine-N-Oxide;
+23 (14) Myrophine;
+24 (15) Nicocodeine;
+25 (16) Nicomorphine;
+26 (17) Normorphine;
+27 (18) Thebacon;
+28 (19) 3-Methylfentanyl;
+29 (20) Fentanyl analogs. Any substituted derivatives of fentanyl unless specifically
+30 excepted, listed in another schedule, or contained within a pharmaceutical product
+31 approved by the United States Food and Drug Administration, that is structurally
+32 related to fentanyl by modification in any one or more of the following ways:
+33 (a) By replacement of the phenyl portion of the phenethyl group by any
+34 monocycle whether or not further substituted in or on the monocycle;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.360.14 8 1016
+1 (b) By substitution in or on or replacement of the phenethyl group with alkyl,
+2 alkenyl, alkoxyl, hydroxyl, halo, haloalkyl, amino, or nitro groups;
+3 (c) By substitution in or on the piperadine ring with alkyl, alkenyl, alkoxyl,
+4 ester, ether, hydroxyl, halo, haloalkyl, amino, phenyl, substituted phenyl,
+5 or nitro groups;
+6 (d) By replacement of the aniline ring with any aromatic monocycle whether or
+7 not further substituted in or on the aromatic monocycle; or
+8 (e) By the replacement of the N-propionyl group by another acyl group.
+9 Some trade and other names: N-(1-phenethylpiperidin-4-yl)-N-phenylacetamide (acetyl
+10 fentanyl); N-(1-phenethylpiperidin-4-yl)-N-phenylfuran-2-carboxamide (furanyl
+11 fentanyl); N-(1-phenethylpiperidin-4-yl)-N-phenylacrylamide (acryl fentanyl,
+12 acryloylfentanyl); N-(2-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)propionamide (ortho-
+13 fluorofentanyl or 2-fluorofentanyl); N-(1-phenethylpiperidin-4-yl)-N-
+14 phenyltetrahydrofuran-2-carboxamide (tetrahydrofuranyl fentanyl); 2-methoxy-N-(1-
+15 phenethylpiperidin-4-yl)-N-phenylacetamide (methoxyacetyl fentanyl); N-(1-
+16 phenethylpiperidin-4-yl)-N-phenylcyclopropanecarboxamide (cyclopropyl fentanyl), N-
+17 phenyl-N-[1-(2-phenylethyl)-4-piperidinyl]-pentanamide (valeryl fentanyl); N-(1-
+18 phenethylpiperidin-4-yl)-N-phenylbutyramide (butyrl butyryl fentanyl); N-[1-(2-hydroxy-
+19 2-thiophen-2-ylethyl)piperidin-4-yl]-N-phenylpropanamide (Beta-Hydroxythiofentanyl);
+20 N-(4-fluorophenyl)-N-[1-(2-phenylethyl)piperidin-4-yl]butanamide (para-fluorobutyryl
+21 fentanyl); N-(4-methoxyphenyl)-N-[1-(2-phenylethyl)piperidin-4-yl]butanamide (para-
+22 methoxybutyryl fentanyl); N-(4-chlorophenyl)-N-(1-phenethylpiperidin-4-
+23 yl)isobutyramide (para-chloroisobutyryl fentanyl); N-(1-phenethylpiperidin-4-yl)-N-
+24 phenylisobutyramide (isobutyryl fentanyl); N-(1-phenethylpiperidin-4-yl)-N-
+25 phenylcyclopentanecarboxamide (cyclopentyl fentanyl); N-(2-fluorophenyl)-2-methoxy-
+26 N-(1-phenethylpiperidin-4-yl)acetamide (ocfentanil); N-(4-fluorophenyl)-N-(1-
+27 phenethylpiperidin-4-yl)isobutyramide (para-fluoroisobutyryl fentanyl); (E)-N-(1-
+28 phenethylpiperidin-4-yl)-N-phenylbut-2-enamide (Crotonyl fentanyl);
+29 (21) 1-Methyl-4-phenyl-4-propionoxypiperidine;
+30 (22) 1-(2-phenethyl)-4-phenyl-4-acetoxypiperidine;
+31 (23) 3,4-dichloro-N[2-(dimethylamino)cyclohexyl]-N-methylbenzamide (U-47700);
+32 (24) 1-cyclohexyl-4-(1,2-diphenylethyl)piperazine (MT-45);
+33 (25) 3,4-dichloro-N-[(1dimethylamino)cyclohexylmethyl]benzamide (AH-7921);
+34 (26) 2-(2,4-dichlorophenyl)-N-2-(dimethylamino)cyclohexyl)-N-methylacetamide (U-
+35 48800);
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.360.14 9 1016
+1 (27) Trans-3,4-dichloro-N-[2-(diethylamino)cyclohexyl]-N-methyl-benzamide (U-
+2 49900);
+3 (28) N-[2-(dimethylamino)cyclohexyl]-N-methyl-1,3-benzodioxole-5-carboxamide
+4 (Methylenedioxy-U-47700);
+5 (29) 3,4-dichloro-N-[2-(dimethylamino)cyclohexyl]-N-isopropylbenzamide (Isopropyl-
+6 U-47700);
+7 (30) 1-(1,2-Diphenylethyl)piperidine (Diphenidine);
+8 (31) N-Ethyl-1,2-diphenylethylamine (Ephenidine);
+9 (32) 1-(1-(1-(4-bromophenyl)ethyl)piperidin-4-yl)-1,3-dihydro-2H-benzo[d]imidazol-
+10 2-one (Brorphine);
+11 (33) 1-methoxy-3-[4-(2-methoxy-2-phenylethyl)piperazin-1-yl]-1-phenylpropan-2-ol)
+12 (Zipeprol); and
+13 (34) 2-Methyl AP-237 (1Methyl-4(3Phenylprop-2-en-1-yl)Piperizin-1-yl)Butan-1-one)
+14 (1-(2-methyl-4(3phenylprop-2-en-1-yl)piperizin-1-yl)butan-1-one).
+15 Section 4. Whereas, this Act is necessary for the immediate preservation of the public peace,
+16 health, or safety, an emergency is hereby declared to exist, and this Act shall be in full force
+17 and effect from and after its passage and approval.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

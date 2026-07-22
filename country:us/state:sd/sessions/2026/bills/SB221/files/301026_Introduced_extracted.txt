@@ -1,0 +1,83 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.979.13 101st Legislative Session 221
+2026 South Dakota Legislature
+Senate Bill 221
+Introduced by: Senator Karr
+1 An Act to establish requirements for the distribution and sale of vapor products, and
+2 to provide a penalty therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+5 Terms used in this chapter mean:
+6 (1) "Distributor," a person who sells vapor products for resale;
+7 (2) "Retailer," a person who sells vapor products at retail; and
+8 (3) "Vapor product," a noncombustible device that contains a consumable nicotine
+9 liquid and produces a vapor or aerosol for inhalation from the application of a
+10 heating element to the consumable nicotine liquid, or a consumable nicotine liquid
+11 suitable for use in the device, whether sold with the device or sold separately, but
+12 the term does not include any product that has been approved by the United States
+13 Food and Drug Administration for sale as a tobacco cessation product or for other
+14 therapeutic purposes, if the product is marketed and sold solely for the approved
+15 use.
+16 Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+17 A vapor product sold for resale or retail in this state may not contain:
+18 (1) Any ingredients other than:
+19 (a) Vegetable glycerin;
+20 (b) Propylene glycol;
+21 (c) Natural or artificial food-grade flavoring; or
+22 (d) Nicotine; or
+23 (2) Any concentrations exceeding tolerances established under the United States
+24 Pharmacopeia National Formulary, or the Food Chemicals Codex, for:
+25 (a) Vitamin E acetate;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.979.13 2 221
+1 (b) Arsenic;
+2 (c) Cyanide; or
+3 (d) Diacetyl.
+4 All ingredients in a vapor product sold for resale or at retail in this state must
+5 conform to the monograph specifications published by the United States Pharmacopeia
+6 National Formulary and the Food Chemicals Codex.
+7 A vapor product may contain trace contaminants if they are within the standard
+8 deviation tolerated in the United States Pharmacopeia National Formulary or the Food
+9 Chemicals Codex.
+10 A violation of this section is a Class 2 misdemeanor.
+11 Section 3. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+12 A vapor product sold for resale or retail in this state must:
+13 (1) Be packaged in tamper-evident or child-resistant packaging; and
+14 (2) Have a label that contains:
+15 (a) A list of ingredients; and
+16 (b) The nicotine addiction warning, as provided in 21 C.F.R. § 1143.3 (January
+17 1, 2026).
+18 Neither the packaging nor labeling of a vapor product may contain any branding,
+19 imagery, or promotional content, which uses cartoons, celebrities, gaming references, or
+20 similar themes, to target persons under twenty-one years of age.
+21 Section 4. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+22 A distributor or retailer may not advertise or promote vapor products, brands, or
+23 flavors on the exterior of a licensed location, using billboards, window wraps, exterior-
+24 facing signage, broadcast advertisements, digital media, or any other methods visible to
+25 the public.
+26 A distributor or retailer may advertise its business, provided that the advertising is
+27 limited to the business name, location, operating hours, and a statement that vapor
+28 products may only be sold to individuals twenty-one years of age or older.
+29 Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+30 A vapor product may not be marketed or advertised on any medium that:
+31 (1) Lacks age-restriction access controls; or
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.979.13 3 221
+1 (2) Contains content primarily directed at or recognized as appealing almost
+2 exclusively to persons under twenty-one years of age.
+3 Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+4 A distributor or retailer may not distribute or provide any vapor product as a free
+5 sample or otherwise without monetary consideration.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

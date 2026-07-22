@@ -1,0 +1,211 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.430.35 101st Legislative Session 34
+2026 South Dakota Legislature
+Senate Bill 34
+Introduced by: The Chair of the Committee on State Affairs at the request of the Secretary of State
+1 An Act to amend provisions pertaining to conducting a municipal or school district
+2 election and to declare an emergency.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 9-13:
+5 For purposes of this chapter, "in conjunction with" is a temporal phrase that refers
+6 to the timing of an election.
+7 For purposes of this chapter, "combined with" refers to the sharing of governmental
+8 responsibilities for an election.
+9 Section 2. That § 9-13-4.1 be AMENDED:
+10 9-13-4.1. No person An individual may not vote at any a municipal election unless
+11 the person individual is registered to vote as a voter of the municipality, pursuant to
+12 chapter 12-4, and resides in is a resident of the municipality at the time of the election.
+13 For the purposes of this section, a person resides in an individual is a resident of
+14 the municipality if the person actually lives individual:
+15 (1) Lives in the municipality for at least thirty days each year, is;
+16 (2) Is a full-time postsecondary education student who resided in was a resident of the
+17 municipality immediately prior to leaving for the postsecondary education, or is; or
+18 (3) Is on active duty as a member of the armed forces whose and the individual's home
+19 of record is within the municipality. A voter's qualification as a resident may be
+20 challenged in the manner provided in § 12-18-10.
+21 No election may be contested on the grounds that any a nonresident was allowed
+22 to vote if the nonresident was not challenged in the manner provided in § 12-18-10.
+23 Section 3. That a NEW SECTION be added to chapter 9-13:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.430.35 2 34
+1 If the governing body of the municipality and the board of county commissioners
+2 of a county in which the municipality is located have agreed to combine the municipal
+3 election with a primary or general election, pursuant to § 9-13-37, and have agreed to
+4 use the same ballot for the offices, ballot questions, and other contests of each jurisdiction,
+5 an individual's right to vote in the municipal election may be challenged only on the
+6 grounds provided in § 12-18-10.
+7 An individual's right to vote in the election may also be challenged as to whether
+8 the individual is a resident of the municipality, if the municipal election is:
+9 (1) Combined with a primary or general election, but is conducted using separate
+10 ballots for the offices, ballot questions, and other contests of each jurisdiction;
+11 (2) Combined with a regular school district election, regardless of whether the election
+12 is conducted using the same ballots for the offices, ballot questions, and other
+13 contests of each jurisdiction; or
+14 (3) Not combined with any other election.
+15 Any challenge to an individual's qualifications as a voter must be conducted before
+16 the precinct election board in the manner provided in § 12-18-10.
+17 Section 4. That § 9-13-6 be AMENDED:
+18 9-13-6. The finance officer of the municipality shall have a notice published in the
+19 official newspaper of the municipality setting forth the vacancies that will are to occur by
+20 termination of the terms of office of elective officers. The notice must also state the time
+21 and place where nominating petitions may be filed for the offices. The notice must be
+22 published once each week for two consecutive weeks between no earlier than the fifteenth
+23 day and nor later than the thirtieth day of the month six months before the election:
+24 (1) January, for an election held on the first Tuesday after the first Monday in June; or
+25 (2) June, for an election held on the first Tuesday after the first Monday in November.
+26 Section 5. That § 9-13-13 be AMENDED:
+27 9-13-13. A notice of each municipal election shall must be published once each
+28 week for two successive weeks, the first publication may not be less than ten days prior
+29 to the election. The last notice must be published no earlier than four nor later than ten
+30 days before the election. A facsimile of the official ballot shall must be published in the
+31 calendar week at least once within the two calendar weeks prior to each election. The
+32 notice and ballot shall must be published in the each official newspaper or newspapers of
+33 the municipality as designated in pursuant to § 9-12-6.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.430.35 3 34
+1 If no newspaper is published in the municipality, the notice shall must also be
+2 posted in three of the most public places in the municipality.
+3 Section 6. That § 9-13-21 be AMENDED:
+4 9-13-21. The finance officer shall prepare and furnish, at the expense of the
+5 municipality, all official ballots. The quantity of ballots provided shall must be at least ten
+6 percent more than the number of voters at the last comparable election. The ballots shall
+7 must be as prescribed by the State Board of Elections, of good quality of print paper,
+8 printed in black ink, and in the English language only.
+9 The Except as otherwise provided in this section, the finance officer shall make the
+10 absentee ballots for the municipal elections shall be available for absentee voting election
+11 available no later than fifteen days prior to election day. If the absentee ballots are for a
+12 runoff election, the ballots shall must be available no later than seven days prior to the
+13 runoff election day. If a municipality is located within multiple counties, the finance officer
+14 of the municipality must make absentee ballots available for a uniform period of time
+15 across the entire municipality. If the governing body of the municipality and the board of
+16 county commissioners of at least one county in which the municipality is located have
+17 agreed to combine a municipal election with a primary or general election, pursuant to
+18 § 9-13-37, and have agreed to use the same ballot for the offices, ballot questions, and
+19 other contests of each jurisdiction, the finance officer must make absentee ballots
+20 available forty-six days before election day across the entire municipality. Absentee voting
+21 shall must be conducted pursuant chapter 12-19.
+22 The names of the candidates for each office to be voted for in the precinct shall
+23 must be arranged without any other designation than that of the office for which they are
+24 candidates. If more than one member of the governing body is to be elected, the ballot
+25 shall must contain instructions as to how many candidates for the governing body are to
+26 be voted for a voter may vote for. The finance officer shall determine, by lot, each
+27 candidate's position on the ballot. Each candidate may be present or represented when
+28 the position on the ballot is being determined.
+29 No candidate's name may be printed upon the official ballot unless the candidate
+30 has been nominated as provided in this chapter.
+31 Section 7. That § 13-7-4.2 be AMENDED:
+32 13-7-4.2. No person An individual may not vote at any a school district election
+33 unless the person individual is registered to vote as a voter of the school district, pursuant
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.430.35 4 34
+1 to chapter 12-4 and resides in, and is a resident of the school district at the time of the
+2 election.
+3 For the purposes of this section, a person resides in an individual is a resident of
+4 the school district if the person actually lives individual:
+5 (1) Lives in the school district for at least thirty days each year, is;
+6 (2) Is a full-time postsecondary education student who resided in was a resident of the
+7 school district immediately prior to leaving for the postsecondary education, or is;
+8 or
+9 (3) Is on active duty as a member of the armed forces whose and the individual's home
+10 of record is within the school district. A voter's qualification as a resident may be
+11 challenged in the manner provided in § 12-18-10.
+12 No election may be contested on the grounds that any a nonresident was allowed
+13 to vote if the nonresident was not challenged in the manner provided in § 12-18-10.
+14 Section 8. That a NEW SECTION be added to chapter 13-7:
+15 If the board of a school district and the board of county commissioners of a county
+16 in which the school district is located have agreed to combine the school district election
+17 with a primary or general election, pursuant to § 13-7-10.3, and have agreed to use the
+18 same ballot for the offices, ballot questions, and other contests of each jurisdiction, an
+19 individual's right to vote in the school district election may be challenged only on the
+20 grounds provided in § 12-18-10.
+21 An individual's right to vote in the election may also be challenged as to whether
+22 the individual is a resident of the school district, if the school district election is:
+23 (1) Combined with a primary or general election, but is conducted using separate
+24 ballots for the offices, ballot questions, and other contests of each jurisdiction;
+25 (2) Combined with a municipal election, regardless of whether the election is
+26 conducted using the same ballots for the offices, ballot questions, and other
+27 contests of each jurisdiction; or
+28 (3) Not combined with any other election.
+29 Any challenge to an individual's qualifications as a voter must be conducted before
+30 the precinct election board in the manner provided in § 12-18-10.
+31 Section 9. That § 13-7-5 be AMENDED:
+32 13-7-5. Between the fifteenth day and the thirtieth day of the month six months
+33 before the election, except in the case of the joint election as provided in § 13-7-10.1, the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.430.35 5 34
+1 The business manager of each school district shall publish once each week for two
+2 consecutive weeks in the official newspaper, a notice setting forth the vacancies that will
+3 are to occur by termination of the terms of the elective or appointive school board
+4 members. The notice must be published no earlier than the fifteenth nor later than the
+5 thirtieth day of:
+6 (1) January, for an election held on the first Tuesday after the first Monday in June; or
+7 (2) June, for an election held on the first Tuesday after the first Monday in November.
+8 If the vacancies set forth in the notice exist within a new school board of a newly
+9 created school district pursuant to § 13-6-62, the county auditor of the county having
+10 jurisdiction over the election must publish the notice once each week for two consecutive
+11 weeks at least one month preceding the election. The notice must also state the time and
+12 place where nominating petitions for school board membership may be filed.
+13 Section 10. That § 13-7-8 be AMENDED:
+14 13-7-8. The business manager of the school district shall publish in the official
+15 newspaper notices of an election once each week for two consecutive weeks with the first
+16 publication not less than ten days. The last notice must be published no earlier than four
+17 nor later than ten days before the election. The notice shall must state the date of the
+18 coming school election,; the vacancies to be filled with terms of each,; the candidates who
+19 have filed for these vacancies,; questions, if any, to be submitted at the election,; and the
+20 location of polling places.
+21 A facsimile of the official ballot shall be published in the calendar week prior to
+22 each election must be published at least once within the two calendar weeks before an
+23 election.
+24 Section 11. That a NEW SECTION be added to chapter 13-7:
+25 For purposes of this chapter, "in conjunction with" is a temporal phrase that refers
+26 to the timing of an election.
+27 For purposes of this chapter, "combined with" refers to the sharing of expenses
+28 and governmental responsibilities for an election.
+29 Section 12. That § 13-7-13 be AMENDED:
+30 13-7-13. The business manager of the school district shall provide proper ballots,
+31 pollbooks, voting booths, and necessary supplies as required by law to the proper election
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.430.35 6 34
+1 officials on election day. The ballots shall must be as prescribed by the State Board of
+2 Elections. The quantity number of ballots provided shall must be equal to at least ten
+3 percent more than the number of voters at the last comparable election. No party
+4 affiliation may appear on the ballot and the. The names of the candidates for the respective
+5 vacancies shall must be printed on the ballot.
+6 Each candidate's position on the ballot shall be is to be chosen by lot by the
+7 business manager and each candidate may be present or represented when the position
+8 on the ballot is being determined. The
+9 Except as otherwise provided in this section, the school district business manager
+10 shall make the absentee ballots for the school elections shall be available for absentee
+11 voting district election available no later than fifteen days prior to election day. If a school
+12 district is located in multiple counties, the business manager of the school district must
+13 make absentee ballots available for a uniform period of time across the entire school
+14 district. If the board of the school district and the board of county commissioners of at
+15 least one county in which the school district is located have agreed to combine the school
+16 district election with a primary or general election, pursuant to § 13-7-10.3, and have
+17 agreed to use the same ballot for the offices, ballot questions, and other contests of each
+18 jurisdiction, the business manager must make absentee ballots available forty-six days
+19 before election day across the entire school district.
+20 Section 13. Whereas, sections 1, 2, 3, 6, 7, 8, 11, and 12 of this Act are necessary for the
+21 immediate preservation of the public peace, health, or safety, an emergency is hereby
+22 declared to exist, and sections 1, 2, 3, 6, 7, 8, 11, and 12 of this Act shall be in full force and
+23 effect from and after its passage and approval.
+24 Section 14. Sections 4, 5, 9, and 10 of this Act are effective beginning December 1, 2026.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,59 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.289.9 101st Legislative Session 1013
+2026 South Dakota Legislature
+House Bill 1013
+Introduced by: The Chair of the Committee on Judiciary at the request of the Chief Justice
+1 An Act to clarify the purposes permitted for certain offenders to operate a motor
+2 vehicle.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 32-12-52.3 be AMENDED:
+5 32-12-52.3. Upon a first conviction or a first adjudication of delinquency for any
+6 violation, while in a vehicle, of §§ 22-42-5 to, 22-42-5.1, 22-42-6, 22-42-7, 22-42-8, 22-
+7 42-9, inclusive, 22-42A-3, or 22-42A-4, the court shall revoke the driver license or driving
+8 privilege of the driver so individual convicted for a period of ninety days.
+9 Upon a second or subsequent conviction or a second or subsequent adjudication of
+10 delinquency for a violation, while in a vehicle, of §§ 22-42-5 to, 22-42-5.1, 22-42-6, 22-
+11 42-7, 22-42-8, 22-42-9, inclusive, 22-42A-3, or 22-42A-4, the court shall revoke the
+12 driver license or driving privilege of the driver so individual convicted for a period of one
+13 year, or until the person's individual's seventeenth birthday, whichever is a longer period
+14 of time.
+15 For any offense under this section, the court may issue an order, upon proof of
+16 financial responsibility pursuant to § 32-35-43.1, permitting the person individual to
+17 operate a vehicle for purposes of the person's employment, attendance at school, child
+18 care delivery or pickup, health appointments, or attendance at school, court, probation
+19 appointments, 24/7 sobriety testing, counseling programs, treatment, or aftercare.
+20 Notwithstanding the provisions of chapters 26-7A, 26-8A, 26-8B, and 26-8C, the
+21 Unified Judicial System shall notify the Department of Public Safety of any conviction or
+22 adjudication of delinquency for a violation, while in a vehicle, of §§ 22-42-5 to, 22-42-
+23 5.1, 22-42-6, 22-42-7, 22-42-8, 22-42-9, inclusive, 22-42A-3, or 22-42A-4. The period
+24 of revocation shall must begin on the date ordered by the court or on the date specified
+25 in the notice from the department, whichever date is earlier. At the expiration of the
+26 revocation period, a person the individual may make application apply to reinstate the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.289.9 2 1013
+1 person's license as provided by law and shall pay the license fee prescribed in § 32-12-
+2 47.1.
+3 Section 2. That § 32-35-122 be AMENDED:
+4 32-35-122. Upon suspending a person's driving privileges pursuant to § 32-35-
+5 121, the magistrate judge or circuit judge shall must restrict the person's driving privileges
+6 to driving to and from the person's employment and to driving that is required in the
+7 person's course of employment only permit the operation of a motor vehicle for purposes
+8 of the person's employment, child care delivery or pickup, health appointments, or
+9 attendance at school, court, probation appointments, 24/7 sobriety testing, counseling
+10 programs, treatment, or aftercare.
+11 However, before a Before the person is permitted to drive under such a restriction,
+12 the person shall first must establish one of the forms of financial responsibility specified
+13 in § 32-35-113. The person shall maintain such financial responsibility for the period of
+14 the restriction. The restriction shall must remain in effect for the period of suspension
+15 otherwise required by § 32-35-121.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

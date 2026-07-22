@@ -1,0 +1,22 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.467.10 101st Legislative Session 1325
+2026 South Dakota Legislature
+House Bill 1325
+Introduced by: Representative Jordan
+1 An Act to prohibit the Board of Regents and institutions under its control from
+2 requiring certain students to reside in on-campus housing or purchase meal
+3 plans.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That a NEW SECTION be added to chapter 13-53:
+6 Neither the Board of Regents nor any institution under its control may require that
+7 a postsecondary student live in on-campus housing, or purchase a meal plan or meal
+8 voucher, beyond the student's first year of attendance at an institution.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

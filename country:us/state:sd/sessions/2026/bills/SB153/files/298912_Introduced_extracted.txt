@@ -1,0 +1,40 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.771.9 101st Legislative Session 153
+2026 South Dakota Legislature
+Senate Bill 153
+Introduced by: Senator Grove
+1 An Act to prohibit certain restrictions in employment contracts for community
+2 services providers.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 53-9-11.2 be AMENDED:
+5 53-9-11.2. Notwithstanding § 53-9-11, a provision of a contract, entered into on
+6 or after July 1, 2023, is voidable if it restricts a practitioner, as defined in § 53-9-11.1,
+7 from practicing or otherwise providing professional services in accordance with the
+8 applicable scope of practice, after the conclusion of the practitioner's employment or after
+9 the dissolution of a partnership or other form of professional relationship.
+10 Notwithstanding § 53-9-11, a provision of a contract, entered into on or after July
+11 1, 2026, is voidable if it restricts a community services provider, as defined in § 27B-1-
+12 17, from employment in or otherwise providing services to individuals with developmental
+13 disabilities, after the conclusion of the provider's employment or after the dissolution of a
+14 partnership or other form of contractual relationship.
+15 This section does not apply to any contractual provision that:
+16 (1) Is effective upon the sale of a practice or interest in a practice; or
+17 (2) Restricts a practitioner or community services provider from soliciting current
+18 patients or clients of the former employer, partnership, or other professional
+19 relationship, provided the solicitation complies with the geographic and temporal
+20 limitations as referenced in § 53-9-11.
+21 The term, soliciting, as used in this section, means a targeted affirmative act,
+22 directed toward any patient or client of the practitioner's or community services provider's
+23 former employer, partnership, or other professional relationship, for the purpose of
+24 convincing the patient or client to transfer the patient or client's care or business to the
+25 practitioner or community services provider, or to the practitioner's or community services
+26 provider's new employer, partner, or professional relationship.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

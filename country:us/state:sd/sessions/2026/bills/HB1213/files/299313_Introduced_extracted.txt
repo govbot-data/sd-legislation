@@ -1,0 +1,37 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.785.11 101st Legislative Session 1213
+2026 South Dakota Legislature
+House Bill 1213
+Introduced by: Representative Muckey
+1 An Act to make an appropriation for a statewide educator retention initiative.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. There is appropriated $2,500,000 from the general fund, to the Department of
+4 Education, for the purpose of providing grants to school districts and accredited nonpublic
+5 schools as part of a statewide educator retention initiative.
+6 Section 2. The statewide educator retention initiative must employ a comprehensive
+7 approach that uses quantitative and qualitative data to address issues that impede a school
+8 district's educator retention. The Department of Education shall administer and make
+9 available the moneys appropriated for the statewide educator retention initiative, pursuant to
+10 section 1 of this Act, to directly assist school districts and accredited nonpublic schools in
+11 resolving issues that impede educator retention. The department may partner with a qualified
+12 organization or entity to provide the statewide educator retention initiative.
+13 Section 3. The Department of Education shall provide grants for costs associated with
+14 participation in the statewide educator retention initiative, based on applications received
+15 from school districts and accredited nonpublic schools and approved by the Department of
+16 Education during the period beginning on July 1, 2026, and ending on June 30, 2029. The
+17 department may spend up to five percent of the appropriation in section 1 of this Act for costs
+18 incurred in administering the grants.
+19 Section 4. The secretary of the Department of Education shall approve vouchers and the
+20 state auditor shall draw warrants to pay expenditures authorized in this Act.
+21 Section 5. Any amounts appropriated in this Act not lawfully expended or obligated shall
+22 revert in accordance with the procedures prescribed in chapter 4-8.
+23 Section 6. This Act is effective beginning June 30, 2026.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

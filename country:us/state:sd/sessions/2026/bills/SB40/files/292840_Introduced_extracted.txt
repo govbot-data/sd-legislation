@@ -1,0 +1,76 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.445.16 101st Legislative Session 40
+2026 South Dakota Legislature
+Senate Bill 40
+Introduced by: The Chair of the Committee on Agriculture and Natural Resources at the request of the Department
+of Agriculture and Natural Resources
+1 An Act to revise the compliance requirements for limitations on foreign ownership
+2 of agricultural land.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 43-2A-2 be AMENDED:
+5 43-2A-2. The following provisions apply to the ownership or leasing of agricultural
+6 land in this state:
+7 (1) A prohibited entity may not own agricultural land in this state;
+8 (2) A prohibited entity may not lease or hold an easement on agricultural land in this
+9 state, unless:
+10 (a) The lease is exclusively for agricultural research purposes and encumbers
+11 no more than three hundred and twenty acres; or
+12 (b) The lease is exclusively for contract feeding of livestock, at an animal
+13 feeding operation, by a family farm unit, a family farm corporation, or an
+14 authorized farm corporation;
+15 (3) Excluding a prohibited entity, a foreign entity, foreign government, or foreign
+16 person may not own more than one hundred and sixty acres of agricultural land in
+17 this state, provided this limitation does not include:
+18 (a) Agricultural land acquired by devise or inheritance; or
+19 (b) Agricultural agricultural land held as security for indebtedness; and
+20 (4) Excluding a prohibited entity, there is no restriction on easements or the number
+21 of acres of agricultural land that a foreign entity, foreign government, or foreign
+22 person may lease.
+23 This section does not apply to a foreign entity, foreign government, or foreign
+24 person whose right to hold land is secured by treaty.
+25 Section 2. That § 43-2A-6 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.445.16 2 40
+1 43-2A-6. Any agricultural land owned in violation of this chapter is forfeited to the
+2 state. Any agricultural land lease, or easement, held by a prohibited entity in violation of
+3 this chapter, is terminated.
+4 Any agriculture land acquired by devise or descent, wherein a minority owner is in
+5 violation of this chapter, is subject to forfeiture of the violating minority owner’s interest
+6 share, plus an additional civil penalty in an amount equal to the fair market value of the
+7 violating minority owner's interest share.
+8 The attorney general shall enforce the forfeiture or the termination of a lease or
+9 easement. A forfeiture or a termination of a lease or easement may not be adjudged
+10 unless the action to enforce is brought within three years after evidence of a violation of
+11 this chapter is referred to the attorney general, as provided for in § 43-2A-6.1. No title to
+12 land is invalid or liable to forfeiture by reason of the alienage of any former owner or
+13 interested person.
+14 Any fractional interest in any land forfeited to the state must first be made available
+15 to the other equitable owners of the land at fair market value. The attorney general may
+16 determine fair market value under this section by an appraisal or a value of two times the
+17 assessed taxable valuation of the land.
+18 Section 3. That § 43-2A-7.1 be AMENDED:
+19 43-2A-7.1. Any person required to submit a report to the United States
+20 Department of Agriculture in accordance with the Agricultural Foreign Investment
+21 Disclosure Act of 1978, 7 U.S.C. § 3501 et seq. (January 1, 2024) §§ 3501 to 3508
+22 inclusive (January 1, 2026), shall file a copy of the required report with the secretary of
+23 the Department of Agriculture and Natural Resources, within the time period required for
+24 submission under 7 U.S.C. § 3501.
+25 If the person fails to report as required under this section, the attorney general
+26 may impose a civil penalty, not to exceed ten percent of the fair market value of the
+27 agricultural land interest held on the date the penalty was assessed. The attorney general
+28 shall forward any civil penalty collected under this section to the state treasurer, for
+29 deposit in the general fund.
+30 The attorney general may bring an action to collect the civil penalty in the Sixth
+31 Judicial Circuit Court in Pierre or in the circuit court of any county of this state in which
+32 any portion of the relevant agricultural land is located.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

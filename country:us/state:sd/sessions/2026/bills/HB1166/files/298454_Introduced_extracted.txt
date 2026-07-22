@@ -1,0 +1,86 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.602.29 101st Legislative Session 1166
+2026 South Dakota Legislature
+House Bill 1166
+Introduced by: Representative Muckey
+1 An Act to require financial interest statements from members of certain state
+2 authorities, boards, and commissions, and to provide a penalty therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 3-23:
+5 Each member of an authority, board, or commission listed in § 3-23-10 shall file
+6 an annual financial interest statement with the secretary of state on or before January
+7 thirty-first of each year. The statement must disclose:
+8 (1) Any source of moneys, business, or economic relationship that contributes more
+9 than two thousand dollars to the gross income of the member's immediate family
+10 in the preceding calendar year;
+11 (2) Any enterprise in which the member, member's spouse, or person with whom the
+12 member lives, controls more than ten percent of the capital or stock;
+13 (3) Any position held as an officer, director, partner, or member of a governing board
+14 of any corporation, firm, partnership, or other business enterprise or nonprofit
+15 organization;
+16 (4) Any contract or business relationship with the state or any political subdivision of
+17 the state, or with any entity receiving grants, loans, tax rebates, or other financial
+18 assistance from the state; and
+19 (5) Any real property ownership interest generating an annual income exceeding ten
+20 thousand dollars.
+21 Section 2. That a NEW SECTION be added to chapter 3-23:
+22 Any individual under consideration for appointment to an authority, board, or
+23 commission listed in § 3-23-10 shall, as part of the application or nomination process,
+24 disclose any information as described in section 1 of this Act. The disclosure must be
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.602.29 2 1166
+1 submitted to the Office of the Governor and the applicable authority, board, or commission
+2 before confirmation.
+3 An individual who fails to disclose information as described in section 1 of this Act
+4 may be removed from the authority, board, or commission, by the Governor.
+5 Section 3. That a NEW SECTION be added to chapter 3-23:
+6 If a member has a financial interest, as described in section 1 of this Act, involving
+7 any item on the agenda of a meeting, a written disclosure of the financial interest must
+8 be included in the meeting materials posted publicly in accordance with chapter 1-25. The
+9 disclosure must identify the member, the nature of the conflict, and the agenda item from
+10 which the member is to be recused.
+11 If a member's financial interest involving any item on the agenda of a meeting of
+12 an authority, board, or commission listed in § 3-23-10 is discovered during the meeting,
+13 the member must be recused for the item on the agenda for which the member has a
+14 financial interest.
+15 Section 4. That a NEW SECTION be added to chapter 3-23:
+16 A member who fails to file a required financial interest statement or amended
+17 statement by the prescribed deadline is suspended from voting on any matter before the
+18 authority, board, or commission until the required statement is filed. The secretary of
+19 state shall notify the chair of the applicable authority, board, or commission and the
+20 attorney general of any failure to file within seven days of the filing deadline.
+21 Section 5. That a NEW SECTION be added to chapter 3-23:
+22 A member who knowingly files a false or materially incomplete financial interest
+23 statement under section 1 of this Act is guilty of a Class 2 misdemeanor, and the member
+24 may be removed from the authority, board, or commission by the Governor.
+25 Section 6. That a NEW SECTION be added to chapter 3-23:
+26 The secretary of state shall transmit all financial interest statements filed under
+27 this chapter to the Government Operations and Audit Committee. The committee shall
+28 review compliance with the financial disclosure requirements of this Act on an annual
+29 basis. The secretary of state shall provide a report to the committee on or before October
+30 first of each year identifying:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.602.29 3 1166
+1 (1) All members required to file statements under section 1 of this Act;
+2 (2) All members who filed statements by the prescribed deadline;
+3 (3) All members who failed to file statements by the prescribed deadline and the
+4 duration of any voting suspension;
+5 (4) Any referrals to the attorney general for potential violations; and
+6 (5) Any recommendations for improving compliance with this Act.
+7 Section 7. That a NEW SECTION be added to chapter 3-23:
+8 On an annual basis, an authority, board, or commission listed in § 3-23-10 shall
+9 receive a report from a contractor or internal counsel, regarding applicable state laws on
+10 ethics and financial conflicts of interest.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

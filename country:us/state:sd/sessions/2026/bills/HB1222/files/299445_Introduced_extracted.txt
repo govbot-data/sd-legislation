@@ -1,0 +1,22 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.642.15 101st Legislative Session 1222
+2026 South Dakota Legislature
+House Bill 1222
+Introduced by: Representative Lems
+1 An Act to prohibit members of the Board of Economic Development from having any
+2 interest in moneys from or approved by the Board of Economic Development.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 1-16G:
+5 A member of the Board of Economic Development may not have an ownership
+6 interest in, or serve on the board of, any entity receiving an award, disbursement,
+7 expenditure, or grant of public moneys from or approved by the Board of Economic
+8 Development.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

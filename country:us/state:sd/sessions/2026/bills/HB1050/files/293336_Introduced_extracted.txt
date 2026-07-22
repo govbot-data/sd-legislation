@@ -1,0 +1,34 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.402.11 101st Legislative Session 1050
+2026 South Dakota Legislature
+House Bill 1050
+Introduced by: The Chair of the Committee on Transportation at the request of the Department of Public Safety
+1 An Act to increase civil penalties for commercial driver violations.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 32-12A-5.1 be AMENDED:
+4 32-12A-5.1. The state's attorney for the county in which a violation of subdivision
+5 32-12A-5(4) occurs shall commence a civil in rem proceeding of not more than twenty
+6 thousand five hundred and thirty-seven twenty thousand five hundred thirty-nine dollars
+7 against the employer.
+8 Section 2. That § 32-12A-56 be AMENDED:
+9 32-12A-56. In addition to disqualification, a driver who is convicted of violating
+10 an out-of-service order pursuant to § 32-12A-8.1 is subject to a civil penalty of not less
+11 than three thousand nine hundred and sixty-one three thousand nine hundred sixty-three
+12 dollars for a first conviction and not less than seven thousand nine hundred and twenty-
+13 four seven thousand nine hundred twenty-six dollars for a second or subsequent
+14 conviction.
+15 Section 3. That § 32-12A-57 be AMENDED:
+16 32-12A-57. The state's attorney for the county in which the violation of
+17 subdivision 32-12A-5(3) occurs shall commence a civil in rem proceeding of not less than
+18 seven thousand one hundred and fifty-five seven thousand one hundred fifty-seven dollars
+19 and not more than thirty-nine thousand six hundred and fifteen thirty-nine thousand six
+20 hundred seventeen dollars against the employer.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

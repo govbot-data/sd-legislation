@@ -1,0 +1,36 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.614.9 101st Legislative Session 1107
+2026 South Dakota Legislature
+House Bill 1107
+Introduced by: Representative Stevens
+1 An Act to modify restrictions on lands for certain public purposes.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 43-25-18.3 be AMENDED:
+4 43-25-18.3. If, upon the hearing in an action pursuant to § 43-25-18.1, it appears
+5 to the satisfaction of the court that the allegations in the action are true and that, because
+6 of changed conditions or circumstances since the execution of such an instrument of
+7 conveyance, it is impossible or impractical to continue to hold or use the lands for the
+8 purposes limited in such conveyance and that the religious, educational, charitable,
+9 benevolent, or public object of the grantor, as set forth in such conveyance, may be
+10 defeated thereby, a decree may be entered authorizing purpose set forth in the
+11 instrument, the court may:
+12 (1) Enter a decree modifying, in whole or in part, any direction, limitation, or restriction
+13 established by the grantor of the instrument, so that the real property may be
+14 administered, managed, or pledged in any manner the court determines necessary
+15 to effectively accomplish, as near as possible under existing conditions, the general
+16 benevolent, charitable, educational, religious, or other public purpose set forth in
+17 the instrument; or
+18 (2) Authorize the grantee to sell such the lands for the highest price obtainable, and
+19 directing direct that the proceeds of the sale of such the lands shall be reinvested
+20 in other lands suitable for the use or a manner consistent with the purpose set
+21 forth in the original conveyance, subject to any reversionary interest or other
+22 interest in the original conveyance instrument.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

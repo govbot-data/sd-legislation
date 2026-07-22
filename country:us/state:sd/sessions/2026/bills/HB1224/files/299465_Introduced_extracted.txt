@@ -1,0 +1,109 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.899.9 101st Legislative Session 1224
+2026 South Dakota Legislature
+House Bill 1224
+Introduced by: Representative Lems
+1 An Act to protect persons from discrimination by financial institutions.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+4 Terms used in this chapter mean:
+5 (1) "Adverse action," a decision to directly or indirectly decline or refuse to provide,
+6 terminate, or restrict full and equal enjoyment in the provision of covered financial
+7 services;
+8 (2) "Covered financial service," any service related to a checking account, savings
+9 account, or other depository account; money transmission; or a personal loan,
+10 mortgage, business loan, or credit card; but not including the provision of
+11 insurance or the underwriting of, or investment in, a security as defined under
+12 federal law;
+13 (3) "Discriminate in the provision of covered financial services," taking an adverse
+14 action against a person based on the person's:
+15 (a) Exercise of religion, which is protected by the First Amendment to the
+16 United States Constitution;
+17 (b) Speech, expression, opinions, expressive activity, or association, which are
+18 protected by the First Amendment to the United States Constitution, and
+19 the lawful preservation of privacy regarding those activities; or
+20 (c) Participation in lawful economic activity; and
+21 (4) "Financial institution," a bank, as defined in § 51A-1-2, or any payment processor,
+22 credit card company, credit card network, payment network, payment service
+23 provider, or payment gateway, which has processed more than one hundred billion
+24 dollars in transactions in the last calendar year, including any parent company,
+25 holding company, affiliate, or subsidiary company.
+26 Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.899.9 2 1224
+1 A person may, within ninety days of a financial institution's adverse action against
+2 the person, request a statement from the financial institution specifying the reason for the
+3 adverse action. The person may request the statement, electronically or by telephone or
+4 mail, from any customer service representative or designated account representative of
+5 the institution.
+6 Unless otherwise prohibited by federal law, the financial institution shall transmit
+7 the statement, electronically or by mail, to the requesting person within thirty days of
+8 receipt of the request.
+9 The statement must include a specific description of each reason for the adverse
+10 action. Stating that the adverse action was based on the institution's internal policies or
+11 standards or that the person failed to achieve a qualifying score on the institution's credit
+12 scoring system is insufficient. The statement must provide whether any criteria listed in
+13 subdivision (3) of section 1 of this Act factored into the institution's decision to take an
+14 adverse action.
+15 An adverse action statement consistent with the requirements of the Equal Credit
+16 Opportunity Act, 15 U.S.C. §§ 1691 to 1691f, inclusive (January 1, 2026), satisfies the
+17 requirements of this section, provided that if any activity described in subdivision (3) of
+18 section 1 of this Act factored into the institution's decision to take an adverse action, it
+19 must be described in a separate statement that is provided to the customer
+20 contemporaneously with the adverse action statement.
+21 Section 3. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+22 A financial institution may not:
+23 (1) Discriminate in the provision of covered financial services to a person;
+24 (2) Agree, conspire, or coordinate, directly or indirectly, including through any
+25 intermediary or third party, with another person, or group of persons, to engage
+26 in activity to discriminate in the provision of covered financial services; or
+27 (3) Provide false or intentionally misleading information in a statement required
+28 pursuant to section 2 of this Act.
+29 Section 4. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+30 It is not a violation of this chapter for a financial institution to take any of the
+31 following actions, provided that the action is taken in good faith and not motivated by
+32 animus or a desire or intent to discriminate in the provision of covered financial services:
+33 (1) A change in the terms of an account expressly agreed to by a customer;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.899.9 3 1224
+1 (2) Any action or forbearance relating to an account taken in connection with inactivity,
+2 default, or delinquency of the account;
+3 (3) A refusal to provide services because applicable federal or state law prohibits the
+4 covered financial institution from providing the service requested;
+5 (4) A refusal to provide a service because the covered financial institution does not
+6 offer the type of service requested; or
+7 (5) A decision based solely on any of the following valid business factors, if made in
+8 an impartial manner and in good faith:
+9 (a) Maximizing profitability or shareholder value, provided this determination is
+10 not based on a desire to obtain a benefit or avoid harm imposed by another
+11 person because the covered financial institution served a customer;
+12 (b) Complying with legitimate legal or regulatory requirements; or
+13 (c) Maintaining the safety and soundness of a covered financial institution or
+14 its employees.
+15 Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+16 Any violation of this chapter is a deceptive trade practice pursuant to the provisions
+17 of chapter 37-24.
+18 Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+19 The attorney general, a state's attorney, or any person harmed by a financial
+20 institution's violation of this chapter may bring a civil action against the financial institution
+21 for:
+22 (1) Actual damages, or ten thousand dollars, whichever is greater, for each violation;
+23 (2) Injunctive relief; and
+24 (3) Reasonable attorney fees and court costs.
+25 Upon finding that the institution's violation was willful, the court may award treble
+26 damages. If the institution proves, by clear and convincing evidence, that the plaintiff filed
+27 a civil action pursuant to this section in bad faith, the court may award reasonable attorney
+28 fees and court costs to the institution.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

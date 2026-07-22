@@ -1,0 +1,54 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.364.17 101st Legislative Session 1039
+2026 South Dakota Legislature
+House Bill 1039
+Introduced by: Representative Emery
+1 An Act to provide requirements related to the cardiac health evaluation of minors.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to chapter 13-33A:
+4 Before participating in an athletic activity sponsored by, or affiliated with, a public
+5 or private school, a student shall undergo, within one year of the first day of the activity's
+6 season, a pre-participation physical examination.
+7 A pre-participation physical examination must be performed by a licensed health
+8 care practitioner, acting within the practitioner's scope of practice. The practitioner shall
+9 document the examination using a physical evaluation form approved by the Department
+10 of Health. The form must include questions on the student's personal and family history
+11 related to cardiac health.
+12 A student may not participate in an athletic activity described in this section unless
+13 the student provides a copy of the form, signed by the practitioner, to the administrator
+14 of the student’s school.
+15 Section 2. That a NEW SECTION be added to chapter 13-33A:
+16 The Department of Health shall develop, using guidelines set forth by nationally
+17 recognized organizations focused on cardiac health, a document that provides information
+18 on sudden cardiac arrest and the screening options available to detect conditions that may
+19 lead to sudden cardiac arrest.
+20 The department shall post the document to the department's website and send a
+21 copy of the document to every school district.
+22 At the beginning of each academic year, every school district must distribute the
+23 document to all students.
+24 Section 3. That a NEW SECTION be added to chapter 34-24:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.364.17 2 1039
+1 A licensed health care practitioner who performs a physical examination of a minor
+2 shall evaluate the minor's personal and family history related to cardiac health.
+3 Section 4. That a NEW SECTION be added to chapter 34-24:
+4 The Department of Health shall develop informational materials on child cardiac
+5 health for medical practitioners. The materials must address how to:
+6 (1) Identify symptoms of sudden cardiac arrest that require referral to a cardiologist;
+7 (2) Obtain a detailed medical history and perform a cardiovascular physical
+8 examination;
+9 (3) Recognize normal structural changes of the heart;
+10 (4) Recognize prodromal symptoms that precede sudden cardiac arrest; and
+11 (5) Review the major etiologies of sudden cardiac death.
+12 The materials must be posted on the department's website.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

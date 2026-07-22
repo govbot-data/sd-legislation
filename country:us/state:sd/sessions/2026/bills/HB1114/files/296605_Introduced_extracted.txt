@@ -1,0 +1,75 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.172.15 101st Legislative Session 1114
+2026 South Dakota Legislature
+House Bill 1114
+Introduced by: Representative Muckey
+1 An Act to require that certain mental health information be submitted to and
+2 subsequently removed from the National Instant Criminal Background Check
+3 System.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That § 23-7-47 be AMENDED:
+6 23-7-47. The prosecuting attorney shall report to the attorney general for
+7 reporting to the National Instant Criminal Background Check System the name and other
+8 identifying information of any person who is acquitted of a crime by reason of insanity
+9 pursuant to § 23A-26-5 or who is determined to be incompetent to stand trial pursuant to
+10 § 23A-10A-4. The prosecuting attorney shall submit the report to the attorney general, in
+11 the manner and form prescribed by the attorney general, within seven working days no
+12 later than two hours after the date of the verdict acquitting for insanity or the adjudication
+13 of incompetency. The report may not include information relating to the person's diagnosis
+14 or treatment.
+15 Section 2. That § 23-7-48 be AMENDED:
+16 23-7-48. The attorney general shall transmit to the National Instant Criminal
+17 Background Check System administered by the Federal Bureau of Investigation the name
+18 and other identifying information of any:
+19 (1) Any person who is prohibited from possessing a firearm under 18 U.S.C.
+20 § 922(g)(4) (January 1, 2026), because the:
+21 (a) The person was acquitted of a crime by reason of insanity pursuant to
+22 § 23A-26-5, the;
+23 (b) The person was determined to be incompetent to stand trial pursuant to
+24 § 23A-10A-4, or the; or
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.172.15 2 1114
+1 (c) The person was involuntarily committed pursuant to chapter 27A-10 based
+2 on a finding that the person is a danger to self, as defined in subdivision
+3 27A-1-1(7)(a), or a danger to others, as defined in subdivision 27A-1-1(6);
+4 and
+5 (2) Any person who is ordered apprehended under § 27A-10-2 on the basis of a
+6 petition for an involuntary commitment filed in accordance with § 27A-10-1.
+7 Section 3. That a NEW SECTION be added to chapter 23-7:
+8 The attorney general shall:
+9 (1) Transmit any information received in accordance with § 23-7-48 to the National
+10 Instant Criminal Background Check System within one working day;
+11 (2) Provide a copy of the transmitted information described in subdivision 23-7-48(2)
+12 to the individual who is the subject of the transmittal or to the individual's
+13 guardian;
+14 (3) Request that any of the transmitted information described in subdivision 23-7-
+15 48(2) be removed from the National Instant Criminal Background Check System
+16 after a period of eighteen months; and
+17 (4) Provide to the individual who is the subject of the transmitted information or to the
+18 individual's guardian, notice that the information has been removed from the
+19 National Instant Criminal Background Check System, as provided for in subdivision
+20 (3) of this section.
+21 Section 4. That § 27A-10-24 be AMENDED:
+22 27A-10-24. If the board of mental illness considers a petition for an involuntary
+23 commitment filed in accordance with § 27A-10-1, regardless of whether the board orders
+24 or denies an involuntary commitment based on a finding pursuant to § 27A-10-9.1 that
+25 the person is a danger to self as defined in subdivision 27A-1-1(7)(a), or a danger to
+26 others as defined in subdivision 27A-1-1(6), the chair of the board shall must report to
+27 the attorney general for reporting to the National Instant Criminal Background Check
+28 System the involuntarily committed person's name and other identifying information of
+29 the person who was the subject of the petition. The chair shall submit the report to the
+30 attorney general, in the manner and form prescribed by the attorney general, within seven
+31 working days after the date of the final order of involuntary commitment within two hours
+32 after the determination. The report may not include information relating to the person's
+33 diagnosis or treatment.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

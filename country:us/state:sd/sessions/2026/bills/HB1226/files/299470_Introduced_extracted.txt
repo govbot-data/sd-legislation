@@ -1,0 +1,31 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.850.9 101st Legislative Session 1226
+2026 South Dakota Legislature
+House Bill 1226
+Introduced by: Representative Gosch
+1 An Act to authorize boards of county commissioners to adopt policies for
+2 investigating allegations of misconduct of county departments, employees,
+3 and officers.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That a NEW SECTION be added to chapter 7-8:
+6 A board of county commissioners may adopt investigatory and oversight policies
+7 related to any department, employee, or officer of the county. If the board adopts a policy
+8 pursuant to this section, the policy must:
+9 (1) Establish procedures for investigating county employees and officers alleged to
+10 have committed or engaged in abuse of authority, chronic absenteeism, conflicts
+11 of interest, insubordination, neglect of duties, nepotism, or any of the conduct
+12 constituting grounds for removal of an officer pursuant to § 3-17-6;
+13 (2) Designate which employees, officers, and third persons may conduct investigations
+14 under the policy, and require that at least one investigator is from outside the
+15 department that is the subject of the complaint;
+16 (3) Provide standards for confidentiality and due process; and
+17 (4) Comply with the process set forth in §§ 3-17-6 to 3-17-11, inclusive.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

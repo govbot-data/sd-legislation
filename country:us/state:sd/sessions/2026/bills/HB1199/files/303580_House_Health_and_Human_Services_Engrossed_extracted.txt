@@ -1,0 +1,85 @@
+Title: 
+Official Title: 
+Source: versions - House Health and Human Services Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.648.17 101st Legislative Session 1199
+2026 South Dakota Legislature
+House Bill 1199
+HOUSE HEALTH AND HUMAN SERVICES ENGROSSED
+This bill has been extensively amended (hoghoused) and may no longer be
+consistent with the original intention of the sponsor.
+Introduced by: Representative Rehfeldt
+1 An Act to address prior authorization and reporting requirements by utilization
+2 review organizations and health carriers.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 58-17H:
+5 A utilization review organization or health carrier shall conduct an annual review
+6 and submit the findings in a report to the Division of Insurance, at the time and in the
+7 manner directed by the division.
+8 The report must contain the following information for the previous calendar year,
+9 aggregated for all health care services or items:
+10 (1) The number and percentage of urgent prior authorization requests that the
+11 utilization review organization or health carrier approved;
+12 (2) The number and percentage of urgent prior authorization requests that the
+13 utilization review organization or health carrier denied;
+14 (3) The number and percentage of nonurgent prior authorization requests that the
+15 utilization review organization or health carrier approved;
+16 (4) The number and percentage of nonurgent prior authorization requests that the
+17 utilization review organization or health carrier denied;
+18 (5) The average and median time that elapsed between the submission of a prior
+19 authorization request and a determination by the utilization review organization or
+20 health carrier; and
+21 (6) The average and median time that elapsed between the submission of an urgent
+22 prior authorization request and a determination by the utilization review
+23 organization or health carrier.
+24 The division shall publish the report required by this section, on the division's
+25 website, within sixty days after receiving the report.
+26 Section 2. That a NEW SECTION be added to chapter 58-17H:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.648.17 2 1199
+1 A utilization review organization or health carrier shall annually review each health
+2 care service for which a health benefit plan requires prior authorization and shall eliminate
+3 the prior authorization requirement for any health care service if prior authorization
+4 requests are routinely approved with such frequency as to demonstrate that the prior
+5 authorization requirement does not promote health care quality or reduce health care
+6 spending, to a degree that justifies the plan's administrative costs associated with the
+7 prior authorization requirement.
+8 Section 3. That a NEW SECTION be added to chapter 58-17H:
+9 A utilization review organization or health carrier shall submit an annual report to
+10 the Division of Insurance, at the time and in the manner requested by the division,
+11 regarding the review required in accordance with section 2 of this Act. The report must
+12 set forth:
+13 (1) The number of prior authorizations evaluated in accordance with the review;
+14 (2) The number of prior authorizations eliminated as a result of the review, and the
+15 reason for the elimination;
+16 (3) The list of prior authorizations that had at least eighty percent of all requests
+17 approved, during the preceding calendar year, for a specific health care service
+18 covered by the health benefit plan, but for which the prior authorization
+19 requirement was retained due to medical or scientific evidence that justified
+20 continuation of the requirement; and
+21 (4) The number of prior authorization requests that were submitted in the preceding
+22 calendar year for each eliminated prior authorization and the number of health care
+23 providers that had submitted a request for each eliminated prior authorization
+24 requirement.
+25 With respect to each health care service for which prior authorization was
+26 eliminated under section 2 of this Act, the report must provide data regarding any increase
+27 or decrease of ten percent or more, in the average number of claims submitted per health
+28 care provider, for that service, compared to the calendar year preceding the elimination.
+29 The division shall publish the report required by this section on the division's
+30 website within sixty days after receiving the report.
+31 Section 4. That a NEW SECTION be added to chapter 58-17H:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.648.17 3 1199
+1 For purposes of sections 1 to 3 of this Act, inclusive, “health care services” do not
+2 include dental services, pharmaceutical services, or the provision of prescription drug
+3 products or supplies.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

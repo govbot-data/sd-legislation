@@ -1,0 +1,168 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.466.12 101st Legislative Session 1287
+2026 South Dakota Legislature
+House Bill 1287
+Introduced by: Representative Jorgenson
+1 An Act to require an alternate approval process for an operation that extracts
+2 materials by the use of explosives.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 45-6-65 be AMENDED:
+5 45-6-65. An operator shall obtain a license to mine any of the following materials,
+6 provided they are extracted by means that do not include the use of explosives:
+7 (1) Sand;
+8 (2) Gravel;
+9 (3) Rock to be crushed and used in construction;
+10 (4) Pegmatite minerals;
+11 (5) Limestone; and
+12 (6) Iron ore, gypsum, shale, pozzolan, and other materials used in the process of
+13 making cement or lime.
+14 The operator shall comply with the requirements of §§ 45-6-68, 45-6-69, 45-6-71,
+15 and 45-6-72, for each site to be mined. Failure to comply with these requirements for
+16 each site mined constitutes mining without a license.
+17 The fee for the license is one hundred dollars annually, for each mine site
+18 authorized under the license. The department shall forward any fees collected under this
+19 section to the state treasurer for deposit in the environment and natural resources fee
+20 fund established in § 1-41-23.
+21 Section 2. That a NEW SECTION be added to chapter 45-6:
+22 Any operator that uses explosives in its mining operation must report its use of
+23 explosives to the department within ninety days of the date this Act becomes effective.
+24 Use of explosives by any contractor, subcontractor, or agent of the operator is
+25 considered use by the operator for purposes of this section.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.466.12 2 1287
+1 In order to mine any of the materials listed in this section with the use of
+2 explosives, on or after July 1, 2026, the operator of any new or expanding mining
+3 operation shall obtain a permit under chapter 45-6B. Any operator that fails to obtain the
+4 required permit is subject to the penalties provided in chapter 45-6B.
+5 If, for good cause, an operator is unable to obtain a permit by July 1, 2026, the
+6 operator may request that the department grant a six-month extension of the license
+7 while the operator is applying for a permit.
+8 Operators who mine with the use of explosives under permits granted under
+9 chapter 45-6 must obtain permits under chapter 45-6B. The department shall implement
+10 a schedule for operators to transition to permits under chapter 45-6B starting July 1,
+11 2026. The schedule may allow twenty percent of the operators in each of the consecutive
+12 five years from the date this Act becomes effective to transition to the new permits.
+13 Section 3. That § 45-6B-3 be AMENDED:
+14 45-6B-3. Terms used in this chapter mean:
+15 (1) "Abandoned mined lands," lands that were mined for noncoal minerals and
+16 materials and for which there is no continuing reclamation responsibility or
+17 responsibility for other remedial action under state or federal laws;
+18 (2) "Affected land," land from which overburden is to be or has been removed and land
+19 upon which overburden, waste rock, mine spoil, or mill tailings is to be or has been
+20 deposited; land which is disturbed by the building of access roads, railroad loops,
+21 warehouses, storage areas, or other support facilities for the purpose of mining or
+22 milling; and land affected by surface subsidence, unstable slopes, and other
+23 surface effects caused by underground mine workings;
+24 (3) "Aquifer," a water-bearing bed or stratum of permeable rock, sand, or gravel
+25 capable of yielding usable quantities of water to wells or springs;
+26 (4) "Black Hills," Lawrence County south of Interstate Highway 90, Meade County west
+27 and south of Interstate Highway 90 and Pennington and Custer Counties west of
+28 South Dakota Highway 79;
+29 (5) "Board," the Board of Minerals and Environment;
+30 (6) "Department," the Department of Environment Agriculture and Natural Resources;
+31 (7) "Development," the work performed in relation to a deposit, following the
+32 exploration required to prove minerals are in existence in commercial quantities
+33 but before production activities, aimed at preparing the site for mining, defining
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.466.12 3 1287
+1 further the ore deposit by drilling or other means, conducting pilot plant operations,
+2 constructing roads or ancillary facilities;
+3 (8) "Life of the mine permit," a permit to conduct a mining operation which is in effect
+4 if:
+5 (a) An operator continues to engage in the extraction of minerals and complies
+6 with the provisions of this chapter;
+7 (b) Mineral reserves are shown by the operator to remain in the mining
+8 operation and the operator plans to, or does, temporarily cease production
+9 for one hundred eighty days or more if the operator files a notice thereof
+10 with the board stating the reasons for nonproduction, a plan for ceasing
+11 production for one hundred eighty days or more if the operator files a notice
+12 thereof with the board stating the reasons for nonproduction, a plan for the
+13 resumption of production, and the measures taken to comply with
+14 reclamation and other necessary activities as established by the board to
+15 maintain the mine in a nonproducing state. The requirement of a notice of
+16 temporary cessation does not apply to operators who resume operating
+17 within one year and have included, in their permit applications, a statement
+18 following the exploration required to prove minerals are in existence in that
+19 the affected lands are to be used for less than one hundred eighty days per
+20 year;
+21 (c) Production is resumed within five years of the date production ended, or
+22 the operator files a report requesting an extension of the period of
+23 temporary cessation of production with the board stating the reasons for
+24 the continuation of nonproduction and those factors necessary to, and the
+25 operator's plans for, resumption of production. A temporary cessation of
+26 production may not be continued for more than ten years without
+27 terminating the operation and fully complying with the reclamation
+28 requirements of this chapter.
+29 A life of the mine permit includes that period of time after cessation of production
+30 necessary to complete reclamation of affected lands, until the board
+31 releases, in writing, the operator from further reclamation obligations
+32 regarding the affected land, declares the mining operation terminated, and
+33 releases the surety thereon;
+34 (9) "Milling," the beneficiation of a mined material from its natural occurrence in ore;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.466.12 4 1287
+1 (10) "Mineral," a substance with economic value, whether organic or inorganic, that can
+2 be extracted from the earth, other than the following: water, oil, gas, sand, gravel,
+3 or rock to be crushed and used in construction, pegmatite minerals, or limestone,
+4 but excluding the following materials if extracted by methods that do not include
+5 the use of explosives:
+6 (a) Water;
+7 (b) Oil;
+8 (c) Gas;
+9 (d) Sand;
+10 (e) Gravel;
+11 (f) Rock to be crushed and used in construction;
+12 (g) Pegmatite minerals; and
+13 (h) Limestone, sand, gypsum, shale, or iron ore used in the process of making
+14 cement;
+15 (11) "Mining operation," the development or extraction of a mineral from its natural
+16 occurrence on affected land. The term includes surface mining and surface
+17 operation, in situ mining, the reprocessing of tailings piles, the disposal of refuse
+18 from underground mining, milling and processing located on the land described in
+19 the application for a mining permit, and stand-alone milling and processing facilities
+20 utilizing chemical or biological leaching agents, and the extraction of any material
+21 by the use of explosives. The term does not include extraction of sand, gravel, or
+22 rock to be crushed and used in construction, exploration activities, bulk sampling,
+23 the exploration and extraction of natural petroleum in a liquid or gaseous state by
+24 means of wells or pipe, borrow excavation for embankments, or the extraction of
+25 geothermal resources;
+26 (12) "Operator," any person, firm, partnership, limited liability company, association, or
+27 corporation or any department, division or agency of federal, state, county, or
+28 municipal government engaged in or controlling a mining operation;
+29 (13) "Overburden," all of the earth and other materials which are disturbed or removed,
+30 in the original state, or as it exists after removal from its natural state in the
+31 process of surface mining;
+32 (14) "Reclamation," the employment during and after a mining operation of procedures
+33 reasonably designed to minimize as much as practicable the disruption from the
+34 mining operation and to provide for the rehabilitation of affected land through the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.466.12 5 1287
+1 rehabilitation of plant cover, soil stability, water resources, or other measures
+2 appropriate to the subsequent beneficial use of such mined and reclaimed lands;
+3 (15) "Surface mining," the mining of minerals by removing the overburden lying above
+4 such deposits and mining directly from the deposits thereby exposed. The term
+5 includes mining directly from such deposits where there is no overburden and such
+6 practices as open cut mining, open pit mining, strip mining, placer mining,
+7 quarrying, and dredging;
+8 (16) "Surface mining disturbed land," land from which overburden has been removed,
+9 land upon which overburden, waste rock, mine spoil, or mill tailings have been
+10 deposited, land mined which has no overburden, heap leach pads, and process
+11 ponds;
+12 (17) "Tailings," the discharged valueless product of a beneficiation process.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

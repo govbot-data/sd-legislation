@@ -1,0 +1,87 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.500.9 101st Legislative Session 1132
+2026 South Dakota Legislature
+House Bill 1132
+Introduced by: Representative Jordan
+1 An Act to prohibit the use of property and personnel in the enforcement of certain
+2 federal laws pertaining to firearms.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to a NEW CHAPTER in title 23:
+5 Terms used in this chapter mean:
+6 (1) "Federal firearm measure," any initial or amended version of a federal statute,
+7 regulation, rule, guidance, or order, which takes effect on or after July 1, 2026, is
+8 more restrictive than a law of this state, and pertains to:
+9 (a) A registry of firearms, firearm accessories, or ammunition;
+10 (b) A registry of firearm owners;
+11 (c) Required licensing or permitting of a law-abiding individual, as a condition
+12 of owning, possessing, or carrying a firearm, firearm accessory, or
+13 ammunition;
+14 (d) A required criminal background check as a condition of a private sale or
+15 transfer, to another individual, of any firearm, firearm accessory, or
+16 ammunition;
+17 (e) The confiscation of any firearm, firearm accessory, or ammunition, from a
+18 law-abiding individual; or
+19 (f) The surrender, whether for compensation or not, of any firearm, firearm
+20 accessory, or ammunition, by a law-abiding individual;
+21 (2) "Law-abiding individual," one who is not prohibited from possessing a firearm or
+22 ammunition under the laws of this state; and
+23 (3) "Material aid," an action that has the purpose or effect of assisting in, cooperating
+24 with, or facilitating any investigation, detention, or arrest, at the direction of any
+25 federal authority, in the enforcement of a federal firearm measure, including:
+26 (a) The collection or sharing of identifying information;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.500.9 2 1132
+1 (b) The use of equipment, facilities, or personnel;
+2 (c) The use of moneys from any source; and
+3 (d) Joint task-force participation.
+4 Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 23:
+5 No official or employee of this state, or of any political subdivision of this state,
+6 may use or authorize the use of personnel, property, or moneys, to provide material aid.
+7 No official or employee of this state, or of any political subdivision of this state,
+8 may enter into any contract, including a memorandum of understanding, which would
+9 require or authorize material aid.
+10 Nothing in this chapter prohibits an official or employee of this state, or of any
+11 political subdivision of this state from:
+12 (1) Cooperating in multi-jurisdictional investigations or pursuits that have a non-
+13 firearms-related criminal nexus;
+14 (2) Participating in joint operations for the purpose of enforcing state law, even if
+15 federal officers are present, provided no material aid is given;
+16 (3) Complying with a lawful order issued by a court of competent jurisdiction;
+17 (4) Taking any action against an individual prohibited under the laws of this state from
+18 possessing a firearm or ammunition; or
+19 (5) Accepting or using federal moneys to enforce a state law.
+20 A violation of this section is a Class 1 misdemeanor. Each discrete act defined as
+21 material aid constitutes a separate offense.
+22 Section 3. That a NEW SECTION be added to a NEW CHAPTER in title 23:
+23 Any person may bring a civil action in a court of competent jurisdiction against this
+24 state or any political subdivision of this state, if an official or employee violates section 2
+25 of this Act.
+26 A court may impose a civil penalty in an amount not exceeding fifty thousand
+27 dollars per violation, and may award reasonable attorney's fees and costs to a prevailing
+28 plaintiff.
+29 A court may grant declaratory and injunctive relief.
+30 An employee of this state or of a political subdivision of this state who, in good
+31 faith, reports or refuses to participate in conduct the employee reasonably believes would
+32 violate section 2 of this Act is protected against retaliation and may seek appropriate relief,
+33 including reinstatement, back pay, and attorney's fees.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.500.9 3 1132
+1 Section 4. That a NEW SECTION be added to a NEW CHAPTER in title 23:
+2 Any person may file a sworn complaint with the attorney general, alleging a
+3 violation of section 2 of this Act, and provide supporting facts and evidence. If the attorney
+4 general determines that the complaint is merited, the attorney general may bring suit in
+5 the name of this state to enforce section 2 of this Act, including by mandamus or other
+6 equitable relief, and may recover reasonable attorney's fees and costs.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

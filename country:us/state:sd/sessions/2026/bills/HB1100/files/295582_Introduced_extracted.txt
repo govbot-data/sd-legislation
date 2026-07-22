@@ -1,0 +1,51 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.657.29 101st Legislative Session 1100
+2026 South Dakota Legislature
+House Bill 1100
+Introduced by: Representative Ismay
+1 An Act to revise provisions relating to the use of the livestock disease emergency
+2 fund.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 40-15-37 be AMENDED:
+5 40-15-37. The license and renewal fees and the inspection fees shall be paid by
+6 the livestock auction agency to the Animal Industry Board and by it remitted to the state
+7 treasurer within thirty days after receipt. The state treasurer shall issue a receipt for the
+8 same to the Animal Industry Board.
+9 The state treasurer shall credit ten percent of the amount received to a fund to be
+10 known as the livestock disease emergency fund and shall distribute and apply such fund
+11 as provided by law § 40-15-38.
+12 The remaining ninety percent of the amount received shall be credited to a fund to
+13 be known as the livestock auction market inspectors fund, all of which shall be distributed
+14 and applied by the Animal Industry Board as compensation to the livestock auction market
+15 inspectors on a monthly basis. Expenditures from the livestock auction market inspectors
+16 fund must be appropriated in the general appropriation bill.
+17 Section 2. That § 40-15-38 be AMENDED:
+18 40-15-38. The Animal Industry Board shall deposit all funds collected by it to the
+19 credit of a fund to be known as the livestock disease emergency fund in the Office of the
+20 State Treasurer as provided by § 40-15-37. The livestock disease emergency fund shall
+21 be is available for use to the Animal Industry Board only pursuant to a determination of
+22 the Governor that an emergency exists and an order from the Governor authorizing the
+23 use of said funds the moneys for the eradication and control of virulent diseases among
+24 livestock:
+25 (1) Livestock; and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.657.29 2 1100
+1 (2) Poultry.
+2 Expenditures from the livestock disease emergency fund must be appropriated in
+3 the general appropriation bill.
+4 Section 3. That § 13-49-20.6 be REPEALED.
+5 Notwithstanding the provisions of § 40-15-38, the Governor may utilize all funds
+6 in excess of two hundred thousand dollars in the livestock disease emergency fund to
+7 provide for reserved veterinary slots or grants in out-of-state schools as authorized in this
+8 chapter.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

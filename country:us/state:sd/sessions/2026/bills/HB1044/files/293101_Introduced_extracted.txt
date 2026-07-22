@@ -1,0 +1,27 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.630.11 101st Legislative Session 1044
+2026 South Dakota Legislature
+House Bill 1044
+Introduced by: The Chair of the House Committee on Appropriations at the request of the Department of Health
+1 An Act to make an appropriation to implement the rural health transformation
+2 program, and to declare an emergency.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. There is appropriated $500,000,000 in federal fund expenditure authority, to the
+5 Department of Health, for implementing the rural health transformation program in this state
+6 as authorized by the One Big Beautiful Bill Act, Pub. L. No. 119-21 (July 4, 2025).
+7 Section 2. The secretary of the Department of Health shall approve vouchers and the state
+8 auditor shall draw warrants to pay expenditures authorized by this Act.
+9 Section 3. Any amounts appropriated in this Act not lawfully expended or obligated by June
+10 30, 2031, shall revert in accordance with the procedures prescribed in chapter 4-8.
+11 Section 4. Whereas, this Act is necessary for the support of the state government and its
+12 existing public institutions, an emergency is hereby declared to exist, and this Act shall be in
+13 full force and effect from and after its passage and approval.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

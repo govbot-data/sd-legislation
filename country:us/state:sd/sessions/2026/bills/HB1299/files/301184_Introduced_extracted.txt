@@ -1,0 +1,48 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.775.9 101st Legislative Session 1299
+2026 South Dakota Legislature
+House Bill 1299
+Introduced by: Representative Uhre‑Balk
+1 An Act to permit the use of biological filtration systems in water recreational
+2 facilities located in certain lodging establishments.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 34-18:
+5 A lodging establishment that has fifteen or fewer sleeping rooms may apply to the
+6 department for a permit to use a biological filtration system to filter water in the
+7 establishment's water recreational facility. Only an establishment that has been issued a
+8 permit under this section may use a biological filtration system in a water recreational
+9 facility. A permit issued under this section is valid for one year.
+10 A water recreational facility that uses a biological filtration system must otherwise
+11 meet the minimum public health and safety requirements for a water recreational facility,
+12 established by the department pursuant to § 34-18-22.
+13 When applying for a permit, an establishment shall submit to the department a
+14 document that demonstrates how the proposed system meets water quality outcomes
+15 established by the department.
+16 A biological filtration system must be inspected by the department every year. If a
+17 lodging establishment fails an inspection, the department must revoke the permit. An
+18 establishment that fails an inspection may not reapply for a permit under this section for
+19 one year.
+20 The department shall promulgate rules pursuant to chapter 1-26 to establish:
+21 (1) Application requirements for a permit to use a biological filtration system;
+22 (2) Procedures for reapplying for a permit following a failed inspection;
+23 (3) Requirements for the routine maintenance of a biological filtration system by a
+24 lodging establishment;
+25 (4) The permit fee, which may not exceed fifty dollars; and
+26 (5) Water quality testing procedures for biological filtration systems.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.775.9 2 1299
+1 For purposes of this section, "biological filtration system" means a system that is
+2 approved by the department and filters water using natural processes, including the use
+3 of plants, beneficial bacteria, and microbes, and does not rely on continuous chemical
+4 disinfectant residuals.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

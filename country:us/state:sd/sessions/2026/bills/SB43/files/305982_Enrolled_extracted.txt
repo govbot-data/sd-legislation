@@ -1,0 +1,53 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.457.14 101st Legislative Session 43
+2026 South Dakota Legislature
+Senate Bill 43
+ENROLLED
+AN ACT
+ENTITLED An Act to address search and seizure provisions applicable to digital
+currency.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+Section 1. That § 23A-35-14 be AMENDED:
+23A-35-14. This chapter does not modify any inconsistent provision of this code
+regulating search, seizure, and the issuance and execution of search warrants in
+circumstances for which special provision is made.
+For purposes of this chapter, "property" includes documents, books, papers, digital
+currency, and any other tangible objects.
+Section 2. That a NEW SECTION be added to chapter 23A-35:
+For purposes of this chapter, "digital currency" means a digital representation of
+value recorded on a cryptographically secured distributed ledger or other medium of
+exchange, including blockchain, or similar technology.
+
+26.457.14 2 43
+An Act to address search and seizure provisions applicable to digital currency.
+Received at this Executive Office
+I certify that the attached Act originated in this _____ day of _____________,
+the:
+2026 at ____________M.
+Senate as Bill No. 43
+By
+Secretary of the Senate for the Governor
+The attached Act is hereby
+approved this ________ day of
+President of the Senate ______________, A.D., 2026
+Attest:
+Governor
+Secretary of the Senate
+STATE OF SOUTH DAKOTA,
+ss.
+Office of the Secretary of State
+Speaker of the House
+Filed ____________, 2026
+Attest: at _________ o'clock __M.
+Chief Clerk of the House Secretary of State
+Senate Bill No. 43 By
+File No. ____ Asst. Secretary of State
+Chapter No. ______
+SB43 ENROLLED

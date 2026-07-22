@@ -1,0 +1,52 @@
+Title: 
+Official Title: 
+Source: versions - House State Affairs Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.421.10 101st Legislative Session 1116
+2026 South Dakota Legislature
+House Bill 1116
+HOUSE STATE AFFAIRS ENGROSSED
+Introduced by: Representative Shubeck
+1 An Act to prohibit a video streaming service from transmitting certain advertising
+2 during children's programming and provide a penalty therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 37-24:
+5 Terms used in section 2 of this Act mean:
+6 (1) "Children's programming," any content designed or suitable for individuals under
+7 the age of fourteen, which is rated, or meets a rating equivalent to the following:
+8 (a) TV-Y, TV-Y7, TV-G, or TV-PG, as set forth by the TV Parental Guidelines
+9 Monitoring Board; or
+10 (b) G or PG, as set forth by the Motion Picture Association; and
+11 (2) "Video streaming service," an entity that makes either of the following available
+12 directly to the consumer through a distribution method utilizing internet protocol:
+13 (a) Video programming considered comparable to programming provided by a
+14 television broadcast station; or
+15 (b) Video content the service makes available for users to view.
+16 The term does not include a television broadcast station, cable operator, satellite
+17 television operator or its affiliates, or other multichannel video programming
+18 distributor, or an entity that serves video programming or video content without
+19 commercial advertisements.
+20 Section 2. That a NEW SECTION be added to chapter 37-24:
+21 A video streaming service may not transmit during any children's programming
+22 any commercial advertisement that discusses, promotes, or contains imagery related to:
+23 (1) Abortion;
+24 (2) Alcohol;
+25 (3) Drugs or pharmaceutical products;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.421.10 2 1116
+1 (4) Gambling;
+2 (5) Gender transition; or
+3 (6) Nicotine products.
+4 Section 3. That a NEW SECTION be added to chapter 37-24:
+5 The attorney general may impose a civil penalty against a video streaming service
+6 for violating section 2 of this Act. The amount of the civil penalty may not exceed five
+7 thousand dollars. The attorney general shall forward any civil penalty collected under this
+8 section to the state treasurer, for deposit in the general fund.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

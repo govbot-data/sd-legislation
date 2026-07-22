@@ -1,0 +1,17 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.905.9 101st Legislative Session 184
+2026 South Dakota Legislature
+Senate Bill 184
+Introduced by: Senator Larson
+1 An Act to enhance public education in South Dakota.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. The Legislature shall enhance public education in South Dakota.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

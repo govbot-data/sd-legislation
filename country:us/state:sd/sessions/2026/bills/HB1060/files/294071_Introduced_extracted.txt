@@ -1,0 +1,58 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.181.9 101st Legislative Session 1060
+2026 South Dakota Legislature
+House Bill 1060
+Introduced by: Representative Moore
+1 An Act to remove the five percent calculation requirement from the county
+2 budgetary process.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 7-21-19 be AMENDED:
+5 7-21-19. The board shall, after determining the amount of each fund pursuant to
+6 § 7-21-18, Before October first in each fiscal year and after the annual budget for the
+7 following fiscal year has been approved and adopted, the board of county commissioners
+8 shall, for each particular fund out of which appropriations are payable, levy a tax for each
+9 such fund that is sufficient to raise the required amount therefor difference between all
+10 appropriations contained in the budget for the next fiscal year, payable out of each
+11 particular fund, and all revenue likely to be received by each particular fund during the
+12 next fiscal year from all sources, including the unobligated fund balance of each particular
+13 fund, but not including real property taxes or any amount authorized by law to be held in
+14 reserve.
+15 Nothing contained herein shall be construed to authorize in this section authorizes
+16 any tax levy in excess of that exceeds any limitation upon tax levies which are now or
+17 which may hereafter be imposed by any of the laws law of this state.
+18 Section 2. That § 10-12-8 be AMENDED:
+19 10-12-8. On Within ten days after the first Tuesday in September of each year, or
+20 within ten days thereafter, the board of county commissioners shall levy the necessary
+21 taxes for the current fiscal year on all taxable property in the county. The taxes shall be
+22 are based upon on an itemized estimate of the county expenses for the ensuing year. No
+23 greater levy of county tax may be made upon the taxable property of any county than will
+24 be equal to the amount of such expenses, with an excess of five percent of the same and
+25 may not exceed the limitation set forth in § 10-13-35.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.181.9 2 1060
+1 Section 3. That § 7-21-18 be REPEALED.
+2 Before October first in each fiscal year and after the annual budget for the following
+3 fiscal year has been approved and adopted, the board shall compute and determine:
+4 (1) The total amount of all appropriations contained in the budget for the next fiscal
+5 year, and payable out of each particular fund;
+6 (2) The total amount of revenue, except taxes on real property, likely to be received
+7 by each particular fund during the next fiscal year from all sources which includes
+8 the unobligated fund balance of each particular fund and excludes amounts
+9 authorized by law to be held in reserve;
+10 (3) The difference between the total amount determined in subdivision (2) above, and
+11 the total amount determined in subdivision (1) above, and to the amount of such
+12 difference for each particular fund shall be added an amount equal to five percent
+13 of the total amount of all appropriations payable out of such fund during the next
+14 fiscal year and the total of such two amounts shall be the amount necessary to be
+15 raised for such fund during the next fiscal year by taxes on real property.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

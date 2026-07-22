@@ -1,0 +1,99 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.31.38 101st Legislative Session 1005
+2026 South Dakota Legislature
+House Bill 1005
+Introduced by: Representative Roe
+1 An Act to provide a sales and use tax exemption for goods and services related to
+2 data center operations.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 10-45:
+5 The terms used in this Act mean:
+6 (1) "Computer software," programs and other operating information used solely for
+7 the maintenance and operation of a qualified data center;
+8 (2) "Data center," a centralized repository for the storage, management,
+9 dissemination, and processing of electronic data and information, except for that
+10 which relates to the mining of digital currency;
+11 (3) "Enterprise information technology equipment," the following products used solely
+12 for the maintenance and operation of a qualified data center:
+13 (a) Computer hardware, servers, storage arrays, backup systems, disaster
+14 recovery equipment, routers, cooling systems, temperature control
+15 infrastructure, network equipment, switches, load balancers, firewalls,
+16 network cabling, edge devices, network monitoring equipment, water
+17 treatment systems, chilled water equipment, economizers, cooling towers,
+18 and piping and pump equipment for cooling towers;
+19 (b) Power infrastructure for the management of electricity, dedicated
+20 distribution equipment, backup power generation systems, battery
+21 systems, construction materials for structures unique to data centers or
+22 other related infrastructure excluding primary electric generation service,
+23 transmission, or utility distribution infrastructure;
+24 (c) Racking systems, raised flooring, cabling, or trays necessary for the
+25 maintenance and operation of a qualified data center;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.31.38 2 1005
+1 (d) Security systems, physical access control systems, surveillance systems,
+2 biometric scanners, security monitoring equipment, and monitoring
+3 systems, environmental monitoring systems, infrastructure management
+4 tools, and building management systems;
+5 (e) Testing and diagnostic equipment used for maintenance, commissioning, or
+6 troubleshooting;
+7 (f) Telecommunications and fiber infrastructure, fiber optic cabling, satellite
+8 equipment, and internet exchange components; and
+9 (g) Air quality systems, specialized HVAC, filtration, and humidity control
+10 equipment;
+11 (4) "Qualified business," the owner, operator, or tenant of a qualified data center or a
+12 proposed data center;
+13 (5) "Qualified data center," a facility located in this state:
+14 (a) Comprised of one or more buildings containing a data center;
+15 (b) Where all buildings that contain a data center qualify as real property
+16 subject to taxation pursuant to §§ 10-4-1 and 10-4-2;
+17 (c) Where the qualifying date occurs on or after July 1, 2026, and on or before
+18 June 30, 2036; and
+19 (d) Equipped with fire suppression and prevention systems; and
+20 (6) "Qualifying date," the date on which a building permit is issued for the initial
+21 construction of the facility.
+22 Section 2. That a NEW SECTION be added to chapter 10-45:
+23 There are specifically exempted from the provisions of this chapter and from the
+24 computation of tax imposed by it, gross receipts from the sale of enterprise information
+25 technology equipment or computer software to be used in a qualified data center. A
+26 qualified business is exempt for a period of fifty years after the qualifying date.
+27 Section 3. That a NEW SECTION be added to chapter 10-45:
+28 To be eligible for the exemption provided in section 2 of this Act, a qualified
+29 business in a qualified data center, or a qualified business in a proposed qualified data
+30 center, shall submit any documentary evidence required by the Department of Revenue
+31 to verify the eligibility of the qualified data center or proposed data center. The
+32 documentary evidence required by this section is confidential. The secretary of the
+33 Department of Revenue shall determine if the qualified business is eligible.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.31.38 3 1005
+1 To be eligible for the exemption provided by section 2 of this Act, a qualified
+2 business shall:
+3 (1) Ensure electric service provided to the qualified business by an electric utility is
+4 under a written agreement or rate schedule that avoids the shifting of costs to
+5 other customers of the electric utility; and
+6 (2) Provide notice to local water providers to ensure that water consumption is
+7 compatible for the location in which the qualified data center is situated.
+8 Upon determining the eligibility of a future qualified business in a proposed
+9 qualified data center, the secretary shall provide an exemption certificate for taxes
+10 imposed pursuant to this chapter and chapter 10-46.
+11 To retain eligibility for the exemption provided in section 2 of this Act, a qualified
+12 business must file an affidavit with the secretary attesting that the data center or the
+13 future data center qualifies for the exemption provided in section 2 of this Act, prior to
+14 June first of each year.
+15 Section 4. That a NEW SECTION be added to chapter 10-46:
+16 There are specifically exempted from the provisions of this chapter, gross receipts
+17 from the sale of enterprise information technology equipment or computer software to be
+18 used in a qualified data center. A qualified business is exempt for a period of fifty years
+19 after the qualifying date.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

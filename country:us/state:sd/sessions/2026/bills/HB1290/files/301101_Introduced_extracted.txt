@@ -1,0 +1,217 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.889.17 101st Legislative Session 1290
+2026 South Dakota Legislature
+House Bill 1290
+Introduced by: Representative Gosch
+1 An Act to amend provisions pertaining to calculating local effort and state aid for
+2 general education.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 13-13-10.1 be AMENDED:
+5 13-13-10.1. The education funding terms and procedures referenced in this
+6 chapter are defined as follows:
+7 (1) Nonresident students who are in the care and custody of the Department of Social
+8 Services, the Unified Judicial System, the Department of Corrections, or other state
+9 agencies and are attending a public school may be included in the fall enrollment
+10 of the receiving district when enrolled in the receiving district;
+11 (2) "Fall enrollment," is calculated as follows:
+12 (a) Determine the number of kindergarten through twelfth grade students
+13 enrolled in all schools operated by the school district on the last Friday of
+14 September of the current school year;
+15 (b) Subtract the number of students for whom the district receives tuition
+16 except for:
+17 (i) Nonresident students who are in the care and custody of a state
+18 agency and are attending a public school district; and
+19 (ii) Students who are being provided an education pursuant to § 13-28-
+20 11; and
+21 (c) Add the number of students for whom the district pays tuition.
+22 When computing state aid to education for a school district pursuant to § 13-13-73, the
+23 secretary of the Department of Education shall use the school district's fall
+24 enrollment;
+25 (3) "Target teacher ratio factor," is:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.889.17 2 1290
+1 (a) For school districts with a fall enrollment of two hundred or less, the target
+2 teacher ratio factor is 12;
+3 (b) For districts with a fall enrollment of greater than two hundred, but less
+4 than six hundred, the target teacher ratio factor is calculated as follows:
+5 (i) Multiplying the fall enrollment by .00750; and
+6 (ii) Adding 10.50 to the resulting product; and
+7 (c) For districts with a fall enrollment of six hundred or greater, the target
+8 teacher ratio factor is 15.
+9 The fall enrollment used for the determination of the target teacher ratio for a school
+10 district may not include any students residing in a residential treatment facility
+11 when the education program is operated by the school district;
+12 (4) "English learner (EL) adjustment," is calculated by multiplying 0.25 times the
+13 number of kindergarten-through-twelfth-grade students who, in the prior school
+14 year, scored below level four on the state-administered language proficiency
+15 assessment as required in the state's consolidated state application pursuant to
+16 § 1111(b)(2)(G) of the Every Student Succeeds Act of 2015;
+17 (5) "Index factor," is the annual percentage change in the consumer price index for
+18 urban wage earners and clerical workers as computed by the Bureau of Labor
+19 Statistics of the United States Department of Labor for the year before the year
+20 immediately preceding the year of adjustment or three percent, whichever is less;
+21 (6) "Target teacher salary," for the school fiscal year beginning July 1, 2025, is
+22 $62,821.19. Each school fiscal year thereafter, the target teacher salary is the
+23 previous fiscal year's target teacher salary increased by the index factor;
+24 (7) "Target teacher benefits," is the target teacher salary multiplied by twenty-nine
+25 percent;
+26 (8) "Target teacher compensation," is the sum of the target teacher salary and the
+27 target teacher benefits;
+28 (9) "Overhead rate," is thirty-eight and seventy-eight-hundredths percent. Beginning
+29 in school fiscal year 2018, the overhead rate must be adjusted to take into account
+30 the sum of the amounts that districts exceed the other revenue base amount;
+31 (10) "Local need," is calculated as follows:
+32 (a) Divide the fall enrollment by the target teacher ratio factor;
+33 (b) If applicable, divide the English Learner adjustment pursuant to subdivision
+34 (4) by the target teacher ratio factor;
+35 (c) Add the results of subsections (a) and (b);
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.889.17 3 1290
+1 (d) Multiply the result of subsection (c) by the target teacher compensation;
+2 (e) Multiply the product of subsection (d) by the overhead rate;
+3 (f) Add the products of subsections (d) and (e) and subdivision (20);
+4 (g) When calculating local need at the statewide level, include the amounts set
+5 aside for costs related to technology in schools and statewide student
+6 assessments;
+7 (h) When calculating local need at the statewide level, include the amounts set
+8 aside for sparse school district benefits, calculated pursuant to §§ 13-13-
+9 78 and 13-13-79; and
+10 (i) When calculating local need at the statewide level, include the amounts set
+11 aside for career and technical education calculated pursuant to §§ 13-13-
+12 81 and 13-13-82;
+13 (11) "Alternative per student need," is calculated as follows:
+14 (a) Add the total need for each school district for school fiscal year 2016,
+15 including the small school adjustment and the English learner adjustment,
+16 to the lesser of the amount of funds apportioned to each school district in
+17 the year preceding the most recently completed school fiscal year or school
+18 fiscal year 2015 pursuant to §§ 10-33-24, 10-35-21, 10-36-10, 10-43-77,
+19 11-7-73, 13-13-4, and 23A-27-25; and
+20 (b) Divide the result of (a) by the September 2015 fall enrollment, excluding
+21 any adjustments based on prior year student counts;
+22 (12) "Alternative local need," may only be used by a school district created or
+23 reorganized before July 1, 2016, and is the alternative per student need multiplied
+24 by the fall enrollment, excluding any adjustments based on prior year student
+25 counts;
+26 (13) "Local effort," the amount of ad valorem taxes generated in a school fiscal year by
+27 applying the levies established pursuant to § 10-12-42. Beginning on July 1, 2017,
+28 local effort includes the amount of funds apportioned to each school district in the
+29 year preceding the most recently completed school fiscal year pursuant to §§ 10-
+30 33-24, 10-35-21 as provided by subdivision (15), 10-36-10, 10-43-77, 11-7-73,
+31 13-13-4, and 23A-27-25 and that exceeds the other revenue base amount;
+32 (14) "Other revenue base amount," is zero;
+33 (15) "Wind energy tax revenue," any wind energy tax revenue apportioned to school
+34 districts pursuant to § 10-35-21 from a wind farm producing power for the first
+35 time before July 1, 2016, is considered local effort pursuant to subdivision (13) and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.889.17 4 1290
+1 other revenue base amount pursuant to subdivision (14). However, for wind energy
+2 tax revenue apportioned to a school district from a wind farm producing power for
+3 the first time after June 30, 2016, one hundred percent must be retained by the
+4 school district to which the tax revenue is apportioned for the first five years of
+5 producing power, eighty percent for the sixth year, sixty percent for the seventh
+6 year, forty percent for the eighth year, twenty percent for the ninth year, and zero
+7 percent thereafter. If a wind farm begins producing power for the first time
+8 between October first and December thirty-first in a calendar year, any revenues
+9 generated for that time period must be retained by the school district and that time
+10 period may not be counted against the first five-year period;
+11 (16) "Per student equivalent," for funding calculations that are determined on a per
+12 student basis, the per student equivalent is calculated as follows:
+13 (a) Multiply the target teacher compensation times the sum of one plus the
+14 overhead rate; and
+15 (b) Divide subsection (a) by 15;
+16 (17) "Monthly cash balance," the total amount of money for each month in the school
+17 district's general fund, calculated by adding all deposits made during the month to
+18 the beginning cash balance and deducting all disbursements or payments made
+19 during the month;
+20 (18) "General fund base percentage," is determined as follows:
+21 (a) Forty percent for a school district with a fall enrollment as defined in
+22 subdivision (2) of two hundred or less;
+23 (b) Thirty percent for a school district with fall enrollment as defined in
+24 subdivision (2) of more than two hundred but less than six hundred; and
+25 (c) Twenty-five percent for a school district with fall enrollment as defined in
+26 subdivision (2) greater than or equal to six hundred.
+27 When determining the general fund base percentage, the secretary of the
+28 Department of Education shall use the lesser of the school district's fall enrollment
+29 as defined in subdivision (2) for the current school year or the school district's fall
+30 enrollment from the previous two years;
+31 (19) "Allowable general fund cash balance," the general fund base percentage multiplied
+32 by the district's general fund expenditures in the previous school year; and
+33 (20) "Alternative instruction participation adjustment," is calculated by multiplying 0.10
+34 times the number of children who participated in the prior school year in high
+35 school interscholastic activities sanctioned or sponsored by the South Dakota High
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.889.17 5 1290
+1 School Activities Association, as permitted by § 13-36-7, while receiving
+2 alternative instruction pursuant to § 13-27-3, multiplied by the per student
+3 equivalent defined in this section.
+4 Section 2. That a NEW SECTION be added to chapter 13-13:
+5 Local effort includes the moneys that:
+6 (1) Are apportioned to each school district in the year preceding the most recently
+7 completed school fiscal year pursuant to:
+8 (a) § 10-33-24;
+9 (b) § 10-35-21, as provided by subdivision 13-13-10.1(15);
+10 (c) § 10-36-10;
+11 (d) § 10-43-77;
+12 (e) § 11-7-73;
+13 (f) § 13-13-4; and
+14 (g) § 23A-27-25; and
+15 (2) Exceed the other revenue base amount.
+16 In determining a district's overhead rate, the amount by which the district
+17 exceeded the other revenue base amount must be subtracted.
+18 The board of a school district may, by resolution, elect not to include the amounts
+19 that exceed the other revenue base amount when calculating the district's overhead rate
+20 and the district's local effort. The board shall forward the resolution to the Department of
+21 Education on or before July first of each year.
+22 If the board elects not to include the amounts that exceed the other revenue base
+23 amount when calculating the district's overhead rate and the district's local effort, the
+24 board may not transfer any moneys from the district's capital outlay fund to the district's
+25 general fund, pursuant to § 13-16-6.
+26 Section 3. That § 13-16-6 be AMENDED:
+27 13-16-6. The capital outlay fund of the school district is a fund provided by law to
+28 meet expenditures which result in the acquisition or lease of or additions to real property,
+29 plant, or equipment. Such an expenditure shall be for land, existing facilities, improvement
+30 of grounds, construction of facilities, additions to facilities, remodeling of facilities, or for
+31 the purchase or lease of equipment. It may also be used for installment or lease-purchase
+32 payments for the purchase of real property, plant, or equipment, which have a contracted
+33 terminal date not exceeding twenty years from the date of the installment contract or
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.889.17 6 1290
+1 lease-purchase and for the payment of the principal of and interest on capital outlay
+2 certificates issued pursuant to § 13-16-6.2.
+3 Any purchase of one thousand dollars or less may be paid out of the general fund.
+4 The total accumulated unpaid principal balances of such installment contracts and lease-
+5 purchase and the outstanding principal amounts of such capital outlay certificates may
+6 not exceed three percent of the taxable valuation. The school district shall provide a
+7 sufficient levy each year under the provisions of § 13-16-7 to meet the annual installment
+8 contract, lease-purchase, and capital outlay certificate payments, including interest.
+9 A school district which contracts its student transportation may expend from the
+10 capital outlay fund an amount not to exceed fifteen percent of the contract amount. In
+11 addition, a school district which reimburses for mileage instead of providing transportation
+12 pursuant to § 13-30-3, may use the capital outlay fund to pay for fifteen percent of its
+13 mileage reimbursement costs.
+14 The capital outlay fund may be used to purchase textbooks and to purchase or
+15 renew instructional software.
+16 The capital outlay fund may be used to purchase warranties on capital assets if the
+17 warranties do not include supplies.
+18 A Except as provided in section 2 of this Act, a school district may transfer from its
+19 capital outlay fund to its general fund an amount not to exceed forty-five percent of the
+20 total tax revenues deposited in that fund during the current school fiscal year.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

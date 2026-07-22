@@ -1,0 +1,69 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.248.17 101st Legislative Session 1053
+2026 South Dakota Legislature
+House Bill 1053
+Introduced by: Representative Emery
+1 An Act to require that terminal care facilities allow terminally ill patients to use
+2 medical cannabis.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 34-20G-25.1 be AMENDED:
+5 34-20G-25.1. A Except as provided in section 2 of this Act, a health care facility,
+6 as defined in § 34-12-1.1, an accredited prevention or treatment facility, as defined in
+7 § 34-20A-2, a mental health center, as defined in § 27A-1-1, a child welfare agency, as
+8 defined in § 26-6-1, or a community support provider or community services provider, as
+9 defined in § 27B-1-17, may adopt restrictions on the use of medical cannabis by a
+10 cardholder who resides at, is actively receiving treatment or care from, or is visiting the
+11 facility.
+12 The restrictions may include a provisions that the facility will not store or maintain
+13 the cardholder's supply of medical cannabis, that the facility is not responsible for
+14 providing the medical cannabis for to the cardholders, and that the medical cannabis be
+15 used only in a place specified by the facility. Nothing in this section requires a facility to
+16 adopt such these restrictions or requires a facility to allow the consumption of medical
+17 cannabis on the grounds of the facility.
+18 No employee or agent of a facility may be subject to arrest, prosecution, or penalty
+19 of any kind, or may be denied any right or privilege, including any civil penalty or
+20 disciplinary action by a court or occupational or professional licensing board, and may not
+21 be denied any right or privilege, for possession of medical cannabis while carrying out
+22 employment duties, including providing or supervising the provision of care to a
+23 cardholder, or distribution of the distribution of medical cannabis to a cardholder who
+24 resides at or is actively receiving treatment or care is receiving care at the facility with
+25 which the employee or agent is affiliated.
+26 Section 2. That a NEW SECTION be added to chapter 34-20G:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.248.17 2 1053
+1 Notwithstanding § 34-20G-25.1, a terminal care facility shall permit a cardholder,
+2 who is a patient or resident of the facility and has a terminal condition, to store and use
+3 medical cannabis in the facility.
+4 Prior to bringing medical cannabis on the facility's premises, the cardholder or the
+5 cardholder's designated caregiver shall provide a copy of the cardholder's registry
+6 identification card to the terminal care facility, and the cardholder's attending practitioner
+7 shall indicate the use of medical cannabis in the cardholder's medical records.
+8 A cardholder may not smoke or vape medical cannabis in a terminal care facility.
+9 A terminal care facility shall establish policies and procedures for the
+10 administration, storage, and use of medical cannabis within the facility.
+11 This section does not apply to a cardholder receiving treatment in the emergency
+12 care department of a hospital. Nothing in this section requires a terminal care facility, or
+13 personnel working at the facility, to procure or administer medical cannabis to a patient.
+14 Terms used in this section mean:
+15 (1) "Terminal care facility," a hospital, inpatient hospice, or residential hospice, as
+16 defined in § 34-12-1.1; and
+17 (2) "Terminal condition" a medical condition that is diagnosed by a health care
+18 practitioner and has a life prognosis of less than one year.
+19 Section 3. That a NEW SECTION be added to chapter 34-20G:
+20 A terminal care facility, as defined in section 2 of this Act, is not required to comply
+21 with section 2 of this Act if any agency or department of the United States government:
+22 (1) Initiates enforcement action against the terminal care facility related to the
+23 facility's compliance with this chapter; or
+24 (2) Issues a rule, or otherwise provides notification to the terminal care facility, that
+25 expressly prohibits the use of medical cannabis in the facility.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

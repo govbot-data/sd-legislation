@@ -1,0 +1,143 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.882.29 101st Legislative Session 1286
+2026 South Dakota Legislature
+House Bill 1286
+Introduced by: Representative Overweg
+1 An Act to amend the process by which moneys are distributed from the employer's
+2 investment in South Dakota's future fund.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 61-5-29.1 be AMENDED:
+5 61-5-29.1. There is hereby created in the state treasury a special revenue fund
+6 to be known as the employer's investment in South Dakota's future fund. Moneys in the
+7 fund must be used for purposes related to, to be administered by the Governor's Office of
+8 Economic Development, for the purpose of making grants or awards for research and or
+9 economic development for the projects in this state.
+10 For purposes of this section, section 61-5-29.3, and sections 3 to 6, inclusive, of
+11 this Act, "a research or economic development project" means:
+12 (1) Research or equipment required in support of key industries, universities, or
+13 industries determined to be viable through an economic analysis of this state, a
+14 specific community, or the research project;
+15 (2) Scholarships to postsecondary educational institutions operated by the Board of
+16 Regents or the South Dakota Board of Technical Education, provided that the
+17 scholarships are for programs that prepare a student for a career field available in
+18 this state;
+19 (3) Workforce development, apprentice programs, workforce trainings, workforce
+20 recruitment, or career and technical education programs offered through a school
+21 district, accredited nonpublic school, or institution subject to oversight by the Board
+22 of Regents or the South Dakota Board of Technical Education;
+23 (4) The development of infrastructure required to support economic development in
+24 this state;
+25 (5) Projects that support business retention or expansion; and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.882.29 2 1286
+1 (6) Recruiting out-of-state workers or projects to move to and work in a career field
+2 available in this state.
+3 Section 2. That § 61-5-29.3 be AMENDED:
+4 61-5-29.3. The Governor's Office of Economic Development shall provide a written
+5 report to either the Joint Committee on Appropriations or the Interim Committee on
+6 Appropriations, the House Committee on State Affairs, the House Committee on
+7 Commerce and Energy, the Senate Committee on State Affairs, Senate Committee on
+8 Commerce and Energy, and the Government Operations and Audit Committee on a
+9 biannual an annual basis the following for each award or grant made from the fund:
+10 (1) The name of the recipient and the amount of the award or grant;
+11 (2) The location of the recipient;
+12 (3) The research or economic development purpose being funded;
+13 (4) The measures being used to determine the economic impact of the award or
+14 grant;and
+15 (5) The number of jobs created or retained, if any;
+16 (6) The balance of the fund at the time of reporting;
+17 (7) The status of the research or economic development purpose; and
+18 (8) For awards or grants made more than two years prior to the report, any projection
+19 of jobs created or retained in this state by the recipient of the award or grant
+20 resulting from the research or economic development purpose since the award or
+21 grant was made.
+22 Upon the request of the chair of a committee receiving the report, pursuant to this
+23 section, the commissioner of the Governor's Office of Economic Development shall appear
+24 before the committee, to answer questions that the members of the committee may have
+25 on the report.
+26 Section 3. That a NEW SECTION be added to chapter 61-5:
+27 If an applicant for an award from the employer's investment in South Dakota's
+28 future fund is a business, the applicant must submit a business plan to the Governor's
+29 Office of Economic Development before the Governor may award the applicant any
+30 moneys from the fund. The applicant's business plan must include:
+31 (1) The goods or services to be offered by the applicant;
+32 (2) A description of:
+33 (a) The types of jobs required to offer the goods or services;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.882.29 3 1286
+1 (b) The educational requirement for each type of job; and
+2 (c) The compensation package to be offered to individuals employed to perform
+3 each type of job;
+4 (3) The accounting practices employed by the business; and
+5 (4) Other private or public funding received by the applicant.
+6 Section 4. That a NEW SECTION be added to chapter 61-5:
+7 Moneys from the employer's investment in South Dakota's future fund may be
+8 awarded only to reimburse the actual cost of the research or economic development
+9 project.
+10 Before any moneys may be expended from the fund, the applicant shall sign an
+11 agreement with the Governor's Office of Economic Development. If the award from the
+12 fund exceeds one million dollars, the applicant must provide an itemized invoice of all
+13 expenditures made by the applicant required in furtherance of the project and
+14 documentation demonstrating proof of payment before any moneys may be expended
+15 from the fund.
+16 Any agreement executed pursuant to this section is open to public inspection and
+17 must be posted on the state's website.
+18 Section 5. That a NEW SECTION be added to chapter 61-5:
+19 Before the Governor may approve the award of moneys from the employer's
+20 investment in South Dakota's future fund, the Governor's Office of Economic Development
+21 shall provide a detailed recommendation for the award to the Governor. Upon receiving
+22 approval for the award from the Governor, the commissioner of the Governor's Office of
+23 Economic Development and the applicant must sign the agreement required pursuant to
+24 section 4 of this Act.
+25 Each agreement for an award provided pursuant to this section is open to public
+26 inspection and must be posted on the state's website. Any information in the
+27 recommendation that constitutes trade secrets or other sensitive or privileged information
+28 is not open to public inspection. Nothing in this section may be construed to repeal or
+29 otherwise modify any confidentiality requirements found in state law.
+30 Section 6. That a NEW SECTION be added to chapter 61-5:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.882.29 4 1286
+1 The Governor's Office of Economic Development shall promulgate rules, pursuant
+2 to chapter 1-26, establishing:
+3 (1) The process by which an industry is determined to be a key industry for the
+4 purposes of subdivision 61-5-29.1(1);
+5 (2) The process by which an individual or entity applies for an award from the
+6 employer's investment in South Dakota's future fund;
+7 (3) The methods for assessing or estimating the economic impact, including the
+8 potential investment-to-impact ratio, that a research project or economic
+9 development opportunity will have on the state;
+10 (4) The contractual provisions that must be included in the agreement signed by the
+11 applicant and the Governor's Office of Economic Development, including:
+12 (a) Performance expectations;
+13 (b) A schedule for providing performance progress reports to the Governor's
+14 Office of Economic Development;
+15 (c) A conflict-of-interest policy; and
+16 (d) Other contractual provisions that provide for the general terms and
+17 conditions of the agreement;
+18 (5) The criteria for determining how a research project or economic development
+19 opportunity is recommended to the Governor for an award from the fund;
+20 (6) Any requirements that the individual or entity applying for an award must meet in
+21 order to receive the award;
+22 (7) If the award from the fund exceeds one million dollars, the documentation required
+23 to demonstrate proof of payment for all expenditures for which the applicant seeks
+24 reimbursement;
+25 (8) The process by which an award is disbursed; and
+26 (9) The process by which any moneys awarded from the fund are returned to the fund
+27 in the event of a change in the project's circumstances, the applicant's failure to
+28 meet the established performance expectations, or the projects failure or relocation
+29 outside of the state.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

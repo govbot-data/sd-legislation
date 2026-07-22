@@ -1,0 +1,52 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.575.12 101st Legislative Session 1089
+2026 South Dakota Legislature
+House Bill 1089
+Introduced by: Representative Fitzgerald
+1 An Act to modify the distributions of revenues collected from severance taxation on
+2 new permits.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 10-39-54 be AMENDED:
+5 10-39-54. All taxes, interest and penalties imposed and collected by the secretary
+6 of revenue under this chapter shall must be distributed as follows:
+7 (1) For persons severing precious metals that were in business in the state prior to
+8 January 1, 1981, all revenues collected shall must be deposited in the state
+9 treasury and credited to the general fund;
+10 (2) For persons permitted on or after January 1, 1981, but before July 1, 2026, for the
+11 purpose of severing precious metals, eighty percent of the revenues collected shall
+12 must be deposited in the state treasury and credited to the general fund, while the
+13 remaining twenty percent shall must be remitted by the secretary of revenue the
+14 department to the treasurer of the county in which the precious metals were
+15 severed. When the county has received a total of one million dollars attributable to
+16 any person subject to the tax, all future revenues attributable to that person shall
+17 must be deposited in the state treasury and credited to the general fund. No
+18 merger, consolidation or acquisition of a person subject to §§ 10-39-54 to 10-39-
+19 54.4, inclusive, by another such person shall limit, limits the share of revenue due
+20 to the county from the person so acquired; and
+21 (3) For persons permitted on or after July 1, 2026, for the purpose of severing precious
+22 metals, eighty percent of the revenues collected must be deposited in the state
+23 treasury and credited to the general fund, while the remaining twenty percent must
+24 be remitted by the secretary of the department to the treasurer of the county in
+25 which the precious metals were severed. No merger, consolidation or acquisition
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.575.12 2 1089
+1 of a person subject to §§ 10-39-54 to 10-39-54.4, inclusive, by another such
+2 person limits the share of revenue due to the county from the person.
+3 However, any Any revenues attributed to the severance of precious metals from
+4 lands owned or controlled by the State of South Dakota shall this state must be deposited
+5 in the common school permanent fund.
+6 Section 2. That § 10-39-54.1 be AMENDED:
+7 10-39-54.1. The secretary of revenue the department shall transfer, by the end
+8 of the calendar month next succeeding following each reporting period, the revenue
+9 payable to a county pursuant to subdivision § subdivisions 10-39-54(2) and (3).
+Underscores indicate new language.
+Overstrikes indicate deleted language.

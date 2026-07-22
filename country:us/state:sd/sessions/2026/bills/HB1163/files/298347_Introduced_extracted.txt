@@ -1,0 +1,95 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.704.10 101st Legislative Session 1163
+2026 South Dakota Legislature
+House Bill 1163
+Introduced by: Representative Andera
+1 An Act to prohibit certain persons from requiring genetic-based vaccinations.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 34-22-18 be AMENDED:
+4 34-22-18. Any person Except as otherwise provided in this section, an individual
+5 in the state reasonably suspected of having active tuberculosis, middle east respiratory
+6 syndrome (MERS), severe acute respiratory syndrome (SARS), smallpox, or viral
+7 hemorrhagic fevers, or any disease or condition which that is the subject of a declared
+8 public health emergency pursuant to § 34-22-42, shall accept a necessary diagnosis or
+9 treatment, or both. Any person individual who intentionally refuses to accept the diagnosis
+10 or treatment, or both, or who fails to follow the reasonable and necessary directives of
+11 the department issued for the protection of other persons individuals, is guilty of a Class
+12 1 misdemeanor.
+13 An individual may not be required to receive a genetic-based vaccination, as
+14 defined in section 2 of this Act, for treatment of a disease or condition that is the subject
+15 of a declared public health emergency.
+16 Section 2. That a NEW SECTION be added to title 34:
+17 For the purpose of sections 3 to 7, inclusive, of this Act, "genetic-based vaccination"
+18 means a vaccination developed using messenger ribonucleic acid technology, modified
+19 messenger ribonucleic technology, self-amplifying messenger ribonucleic technology,
+20 deoxyribonucleic technology, or other technology that functions by utilizing, modifying, or
+21 transferring genetic material to induce an immune response.
+22 Section 3. That a NEW SECTION be added to title 34:
+23 No public or private employer may:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.704.10 2 1163
+1 (1) Require an individual to receive a genetic-based vaccination as a condition of
+2 employment; or
+3 (2) Terminate, demote, suspend, reduce wages or benefits for, retaliate against, or
+4 take other adverse employment action that causes material harm to an employee
+5 based on whether the employee has received a genetic-based vaccination.
+6 Nothing in this section prohibits an employer from taking reasonable measures to
+7 mitigate the risk of transmission and exposure of communicable diseases, including
+8 requiring the employee to wear personal protective equipment, or to work remotely or at
+9 an alternate location.
+10 Section 4. That a NEW SECTION be added to title 34:
+11 No public or private educational institution may:
+12 (1) Require a student or prospective student to receive a genetic-based vaccination as
+13 a condition of enrollment; or
+14 (2) Base any loss of student status, including status in a particular course or program
+15 of study, on whether the student has received a genetic-based vaccination.
+16 Nothing in this section prohibits an educational institution from taking reasonable
+17 measures to mitigate the risk of transmission and exposure of communicable diseases,
+18 including requiring a student to wear personal protective equipment or to participate in
+19 educational activities remotely or at an alternate location.
+20 Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+21 No public accommodation nor public service, as those terms are defined in § 20-
+22 13-1, may refuse to provide any service, product, admission to a facility, or transportation,
+23 to an individual based on whether the individual has received a genetic-based vaccination.
+24 Nothing in this section prohibits a public accommodation or public service from
+25 taking reasonable measures to mitigate the risk of transmission and exposure of
+26 communicable diseases, including requiring an individual to wear personal protective
+27 equipment.
+28 Section 6. That a NEW SECTION be added to title 34:
+29 The attorney general may impose a civil penalty against a person who violates
+30 sections 3 to 5, inclusive, of this Act. The amount of the civil penalty may not exceed ten
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.704.10 3 1163
+1 thousand dollars. The attorney general shall forward any civil penalty collected under this
+2 section to the state treasurer for deposit in the general fund.
+3 Section 7. That a NEW SECTION be added to title 34:
+4 Sections 3 to 5, inclusive, of this Act do not apply to:
+5 (1) The following, if compliance would result in a violation of regulations issued by the
+6 Centers for Medicare and Medicaid Services or by the Centers for Disease Control
+7 and Prevention:
+8 (a) A community mental health center;
+9 (b) A community services provider or community support provider, as defined
+10 in § 27B-1-17;
+11 (c) A health care facility, as defined in chapter 34-12; or
+12 (d) An intermediate care facility for individuals with intellectual disabilities;
+13 (2) Vaccinations required for admission to school or an early childhood program, as
+14 described in § 13-28-7.1;
+15 (3) Genetic-based vaccinations required by a clinical placement location, if the clinical
+16 placement location is required for continued enrollment in, or completion of, a
+17 health sciences program offered by the Board of Regents or South Dakota Board
+18 of Technical Education;
+19 (4) Court-ordered genetic-based vaccinations; and
+20 (5) The South Dakota National Guard.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

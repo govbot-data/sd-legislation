@@ -1,0 +1,37 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.798.14 101st Legislative Session 187
+2026 South Dakota Legislature
+Senate Bill 187
+Introduced by: Senator Nelson
+1 An Act to define nonpublic school.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to chapter 13-1:
+4 For purposes of this title, "nonpublic school" means an institution or entity, under
+5 the supervision and control of a governing body other than a publicly-elected board, as
+6 defined in § 13-8-1, which is created and operated by an individual, organization, or group
+7 of individuals, for the purposes of instructing children who are of compulsory school age,
+8 as defined in § 13-27-1, in at least the fundamentals of mathematics and the English
+9 language. Any instruction in the English language offered by the nonpublic school must
+10 be provided in a way that leads to a mastery of the English language.
+11 A nonpublic school may:
+12 (1) Limit enrollment to the school;
+13 (2) Charge tuition;
+14 (3) Receive federal or state revenues in the form of a grant, subsidy, or a special
+15 appropriation; and
+16 (4) Receive services from a school district.
+17 A nonpublic school is not assigned a geographic territory from which it may receive
+18 publicly collected tax revenue. A nonpublic school is not eligible to receive state aid to
+19 education distributed under chapter 13-13.
+20 A nonpublic school may be accredited by the Department of Education or another
+21 institutional accrediting agency recognized by the United States Department of Education
+22 but is not required to be so. Any teacher employed by a nonaccredited nonpublic school
+23 is not required to be certified pursuant to chapter 13-42.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,379 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.877.12 101st Legislative Session 1174
+2026 South Dakota Legislature
+House Bill 1174
+Introduced by: Representative Kull
+1 An Act to classify 911 telecommunicators as Class B members of the South Dakota
+2 Retirement System.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 3-12C-101 be AMENDED:
+5 3-12C-101. Terms used in this chapter mean:
+6 (1) "Actuarial accrued liability," the present value of all benefits less the present value
+7 of future normal cost contributions;
+8 (2) "Actuarial experience analysis," a periodic report that reviews basic experience
+9 data and furnishes actuarial analysis that substantiates the assumptions adopted
+10 for the purpose of making an actuarial valuation of the system;
+11 (3) "Actuarial valuation," a projection of the present value of all benefits and the
+12 current funded status of the system, based upon stated assumptions as to rates of
+13 interest, mortality, disability, salary progressions, withdrawal, and retirement as
+14 established by a periodic actuarial experience analysis that takes into account the
+15 census data of all active members, vested terminated members, retired members,
+16 and their beneficiaries under the system;
+17 (4) "Actuarial value of assets," equal to the fair value of assets;
+18 (5) "Actuarially determined contribution rate," the fixed, statutory contribution rate,
+19 no less than the normal cost rate with expenses assuming the minimum COLA, and
+20 no greater than the normal cost rate with expenses assuming the maximum COLA;
+21 (6) "Air rescue firefighter," an employee of the Department of the Military who is
+22 stationed at Joe Foss Field, Sioux Falls, and who is directly involved in firefighting
+23 activities on a daily basis;
+24 (7) "Approved actuary," any actuary who is a member of the American Academy of
+25 Actuaries or an associate or a fellow of the Society of Actuaries who meets the
+26 qualification standards of the American Academy of Actuaries to issue actuarial
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.877.12 2 1174
+1 opinions regarding the system, or any firm retaining the actuary on the firm's staff,
+2 and who is appointed by the board to perform actuarial services;
+3 (8) "Assumed rate of return," the actuarial assumption adopted by the board pursuant
+4 to § 3-12C-227, as the annual assumed percentage return on trust fund assets,
+5 compounded;
+6 (9) "Beneficiary," the person designated by a member of the system to receive any
+7 payments after the death of the member;
+8 (10) "Benefits," the amounts paid to a member, spouse, child, or beneficiary as a result
+9 of the provisions of this chapter;
+10 (11) "Board," the Board of Trustees of the South Dakota Retirement System;
+11 (12) "Calendar quarter," a period of three calendar months ending March thirty-first,
+12 June thirtieth, September thirtieth, or December thirty-first of any year;
+13 (13) "Campus security officer," an employee of the Board of Regents whose position is
+14 subject to the minimal educational training standards established by the Law
+15 Enforcement Officers Standards Commission, pursuant to chapter 23-3, who
+16 satisfactorily completes the training required by chapter 23-3, within one year of
+17 employment, and whose primary duty as a sworn law enforcement officer is to
+18 preserve the safety of the students, faculty, staff, visitors, and the property of the
+19 university. The employer shall file with the system evidence of the appointment as
+20 a sworn law enforcement officer at the time of employment and shall file evidence
+21 of satisfactory completion of the training program pursuant to chapter 23-3, within
+22 one year of employment;
+23 (14) "Certified school employee," any employee of a participating unit who is required
+24 to have a certificate, as defined in § 13-42-1;
+25 (15) "Class A credited service," service credited as a Class A member of the system;
+26 (16) "Class A member," any member, other than a Class B member or a Class C
+27 member, and who is either a foundation member or a generational member. A
+28 member is a Class A member until proof is supplied to the executive director that
+29 a member is a Class B member;
+30 (17) "Class B credited service," service credited as a Class B member of the system;
+31 (18) "Class B judicial member," any Class B member who is a justice, judge, or
+32 magistrate judge;
+33 (19) "Class B member," a member who is a justice, judge, state law enforcement officer,
+34 magistrate judge, police officer, firefighter, county sheriff, deputy county sheriff,
+35 correctional security staff, parole agent, air rescue firefighter, emergency medical
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.877.12 3 1174
+1 services personnel, campus security officer, court services officer, juvenile
+2 corrections agent, gaming enforcement agent, conservation officer, or park ranger,
+3 and is either a foundation member or a generational member who is:
+4 (a) An air rescue firefighter;
+5 (b) A campus security officer;
+6 (c) A conservation officer;
+7 (d) Correctional security staff;
+8 (e) A county sheriff;
+9 (f) A court services officer;
+10 (g) A deputy county sheriff;
+11 (h) Emergency medical services personnel;
+12 (i) A firefighter;
+13 (j) A full-time 911 telecommunicator, as defined in § 34-45-22, provided that,
+14 if the 911 telecommunicator is employed by a political subdivision of the
+15 state, the political subdivision has adopted an ordinance designating 911
+16 telecommunicators as Class B members;
+17 (k) A gaming enforcement agent;
+18 (l) A judge;
+19 (m) A justice;
+20 (n) A juvenile corrections agent;
+21 (o) A magistrate judge;
+22 (p) A park ranger;
+23 (q) A parole agent;
+24 (r) A police officer; or
+25 (s) A state law enforcement officer;
+26 (20) "Class B public safety member," any Class B member other than a justice, judge,
+27 or magistrate judge;
+28 (21) "Class C credited service," service credited as a Class C member of the system;
+29 (22) "Class C member," any retiree, vested member, or other member of the cement
+30 plant retirement plan including any retiree or any vested member;
+31 (23) "Class D credited service," service credited as a Class D member of the system;
+32 (24) "Class D member," any member who was a member of the Department of Labor
+33 and Regulation employees' retirement plan as of June 30, 2020;
+34 (25) "Classified employee," an employee:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.877.12 4 1174
+1 (a) Of a public school district who is not required by law to be a certified school
+2 employee;
+3 (b) Of a college or university under the control of the Board of Regents who is
+4 not a faculty member or an administrator and comes within the provisions
+5 of chapter 3-6D;
+6 (c) Of a public corporation;
+7 (d) Of a chartered governmental unit; or
+8 (e) Who participates in the system and is not provided for elsewhere in this
+9 chapter;
+10 (26) "Comparable level position," a member's position of employment that is generally
+11 equivalent to the member's prior position of employment in terms of required
+12 education, required experience, required training, required work history,
+13 geographic location, and compensation and benefits;
+14 (27) "Conservation officer," an employee of the Department of Game, Fish and Parks
+15 and the Division of Wildlife or Division of Custer State Park who is employed
+16 pursuant to § 41-2-11 and whose position is subject to the education and training
+17 requirements as to education and training provided for in chapter 23-3;
+18 (28) "Consumer price index," the consumer price index for urban wage earners and
+19 clerical workers calculated by the United States Bureau of Labor Statistics;
+20 (29) "Contributory service," service to a participating unit during which contributions
+21 were made to a South Dakota Retirement System, which may not include years of
+22 credited service as provided for in § 3-12C-509 or 3-12C-511;
+23 (30) "Correctional security staff," the warden, deputy warden, and any other
+24 correctional staff holding a security position, as verified by the Department of
+25 Corrections and, approved by the Bureau of Human Resources and Administration
+26 and the Bureau of Finance and Management, and determined by the board as Class
+27 B members;
+28 (31) "Court services officer," an individual appointed pursuant to § 26-7A-8;
+29 (32) "Covered employment," a member's employment as a full-time employee of a
+30 participating unit;
+31 (33) "Deputy county sheriff," an individual who is:
+32 (a) An employee of a county that is a participating unit;
+33 (b) Appointed by the board of county commissioners, pursuant to §§ 7-12-9
+34 and 7-12-10; and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.877.12 5 1174
+1 (c) Subject to the minimum educational and training standards established by
+2 the Law Enforcement Officers Standards Commission, pursuant to chapter
+3 23-3.
+4 The term does not include jailers or clerks; and
+5 (d) Not a clerk or a jailer appointed pursuant to §§ 7-12-9 and 7-12-10, unless
+6 the participating unit has requested that the jailer be considered as a deputy
+7 county sheriff and the board has approved the request;
+8 (34) "Disability advisory committee," a committee composed of:
+9 (a) The secretary of the Department of Human Services or the secretary's
+10 designee;
+11 (b) An attorney appointed by the executive director; and
+12 (c) A physician appointed by the executive director;
+13 (35) "Effective date of retirement," the first day of the month in which a retirement
+14 benefit is payable;
+15 (36) "Eligible retirement plan," a plan described in section 402(c)(8)(B) of the Internal
+16 Revenue Code;
+17 (37) "Eligible rollover distribution," any distribution to a member of accumulated
+18 contributions pursuant to § 3-12C-602. The term does not include, excluding any
+19 portion of a distribution that represents contributions made to the system on an
+20 after-tax basis nor or distributions paid as a result of the member reaching the
+21 required beginning date;
+22 (38) “"Emergency medical services personnel,”" an individual who is licensed by the
+23 State Board of Medical and Osteopathic Examiners in accordance with chapter 36-
+24 4B and actively practices emergency medical services;
+25 (39) "Employer," this state and any board, bureau, commission, or department, bureau,
+26 board, or commission of this state, any political subdivision of this state, or any
+27 public corporation of this state that elects to become a participating unit;
+28 (40) "Employer contribution," an amount contributed by the employer of a contributing
+29 member, excluding any member contribution made by an employer after June 30,
+30 1984, pursuant to § 3-12C-401;
+31 (41) "Equivalent public service," any public service other than as a justice, a judge, or
+32 a magistrate judge and comparable to Class B service, as defined by this section,
+33 if the service is in the employ of a public entity that is not a participating unit;
+34 (42) "Executive director," the executive director of the South Dakota Retirement
+35 System;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.877.12 6 1174
+1 (43) "Fair value of assets," the total assets of the system at fair market value for
+2 securities traded on exchanges; for securities not traded on exchanges, a value
+3 based on similar securities; and for alternative investments, reported net asset
+4 value:
+5 (a) Fair market value, for securities traded on exchanges;
+6 (b) A value based on similar securities, for securities not traded on exchanges;
+7 and
+8 (c) The reported net asset value, for alternative investments;
+9 (44) "Fair value funded ratio," the fair value of assets divided by the actuarial accrued
+10 liability;
+11 (45) "Fiduciary," any person who:
+12 (a) Exercises any discretionary authority or control over the management of
+13 the system or the management or disposition of the system's assets;
+14 (b) Renders investment advice for a fee or other compensation, direct or
+15 indirect, or has any authority or responsibility to do so; or
+16 (c) Has any discretionary authority or responsibility in the administration of the
+17 system;
+18 (46) "Foundation member," any member of the system whose contributory service
+19 began before July 1, 2017;
+20 (47) "Firefighter," any full-time firefighter who works at least twenty hours a week and
+21 at least six months a year. The term does not include, excluding any volunteer
+22 firefighter;
+23 (48) "Full-time employee," any employee who is considered full-time by the
+24 participating unit and is customarily employed by the participating unit for twenty
+25 hours or more a week and at least six months a year, regardless of classification
+26 of employment as seasonal, temporary, leased, contract, or any other designation;
+27 (49) "Fund," the public employees' retirement fund or funds established for the
+28 administration of this chapter;
+29 (50) "Gaming enforcement agent," any employee of the South Dakota Commission on
+30 Gaming who is appointed pursuant to § 42-7B-56 and who must, as a condition of
+31 employment, be law enforcement certified;
+32 (51) "Generational member," any member of the system whose contributory service
+33 began after June 30, 2017;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.877.12 7 1174
+1 (52) "Health care provider," a physician or other health care practitioner who is licensed,
+2 registered, certified, or otherwise authorized by law to provide specified health
+3 services;
+4 (53) "Juvenile corrections agent," a designee of the secretary of corrections who is
+5 charged with the care, custody, and control of juveniles committed to the
+6 Department of Corrections until the age of twenty-one, or a person who is charged
+7 with the care, custody, and control of juveniles at a juvenile corrections facility
+8 under the control of a participating unit;
+9 (54) "Law enforcement officer," any agent of the Division of Criminal Investigation,
+10 officer of the South Dakota Highway Patrol, police officer, county sheriff, or deputy
+11 county sheriff;
+12 (55) "Member," any individual who is contributing or has made contributions to the
+13 system and is either a foundation member or generational member. An, provided
+14 that an individual's membership ceases when the individual withdraws the
+15 individual's accumulated contributions after termination of employment;
+16 (56) "Member contribution," any amount contributed by a member, including any
+17 member contribution made by an employer after June 30, 1984, pursuant to § 3-
+18 12C-401;
+19 (57) "Military service," a period of active duty with the United States Army, the United
+20 States Navy, the United States Air Force, the United States Marine Corps, or the
+21 United States Coast Guard, from which duty the member received an honorable
+22 discharge or an honorable release;
+23 (58) "Municipality," any incorporated municipal government under chapter 9-3, or any
+24 chartered governmental unit, as provided for in S.D. Const., Art. IX;
+25 (59) "Noncontributory service," for any foundation member, service delineated in
+26 subdivisions 3-12C-502(2), (5), (7), and (8), and for any generational member,
+27 service pursuant to § 3-12C-514;
+28 (60) "Normal cost," the expected long-term cost of the system benefits and expenses
+29 expressed as a percentage of payroll;
+30 (61) "Normal retirement," the termination of employment and application for benefits
+31 by a member with three or more years of contributory service or noncontributory
+32 service on or after the member's normal retirement age;
+33 (62) "Other public benefits," eighty percent of the primary insurance amount or primary
+34 social security benefits that would be provided under federal social security;
+35 (63) "Other public service," service:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.877.12 8 1174
+1 (a) For the government of the United States, including military service;
+2 (b) For the government of any state or political subdivision thereof of a state;
+3 (c) For any agency or instrumentality of the government of the United States
+4 or the government of a state or political subdivision of a state; or
+5 (d) As an employee of an association of government entities described in this
+6 subdivision;
+7 (64) "Park ranger," an employee of the Department of Game, Fish and Parks within the
+8 Division of Parks and Recreation and whose position is subject to the education and
+9 training requirements as to education and training provided for in chapter 23-3,
+10 and whose primary duty is law enforcement in the state park system;
+11 (65) "Parole agent," an employee of the Department of Corrections employed pursuant
+12 to § 24-15-14, who directly supervises parolees on a daily basis;
+13 (66) "Participating unit," this state, any board, bureau, commission, or department,
+14 bureau, board, or commission of this state, and any political subdivision or public
+15 corporation of this state that has employees who are members of the system;
+16 (67) "Plan year," a period extending from July first of one calendar year through June
+17 thirtieth of the following calendar year;
+18 (68) "Police officer," any employee in the police department of any participating
+19 municipality, holding the rank of patrol officer or probationary patrol officer, or
+20 holding a higher rank, and whose position is subject to the minimum educational
+21 and training standards established by the Law Enforcement Officers Standards
+22 Commission pursuant to chapter 23-3. The term does not include a civilian
+23 employee of a police department nor any individual employed by a municipality
+24 whose services as a police officer require less than twenty hours a week and six
+25 months a year. If, including a jailer if a municipality that is a participating unit
+26 operates a city jail, and the participating unit may elects to request that any
+27 appointment of the jailer appointed, pursuant to § 9-29-25, to be considered a
+28 police officer, subject to the approval of the board, and excluding any civilian
+29 employee of a police department and any individual employed by a municipality
+30 whose services as a police officer are performed for less than twenty hours a week
+31 and six months a year;
+32 (69) "Political subdivision," any municipality, school district, county, chartered
+33 governmental unit, public corporation or entity, and special district created for any
+34 governmental function;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.877.12 9 1174
+1 (70) "Present value of all benefits," the present value of all benefits expected to be paid
+2 to all retired, terminated, and active members and beneficiaries, based on past
+3 and future credited service and future compensation increases;
+4 (71) "Projected compensation," a deceased or disabled member's final average
+5 compensation multiplied by the COLA commencing each July first for each complete
+6 twelve-month period elapsed between the date of the member's death or disability,
+7 whichever occurred earlier, and the date the member would attain normal
+8 retirement age or the benefit commences, whichever occurred earlier;
+9 (72) "Projected service," the credited service plus the service that the member would
+10 have been credited with at normal retirement age had the member continued in
+11 the system and received credit at the same rate the member was credited during
+12 the year covered by the compensation that was used in the calculation of the
+13 disability or family benefit;
+14 (73) "Qualified military service," service in the uniformed services, as defined in
+15 § 414(u)(5) of the Internal Revenue Code;
+16 (74) "Retiree," any foundation or generational member who retires with a lifetime
+17 benefit payable from the system;
+18 (75) "Retirement," the severance of a member from the employ of a participating unit
+19 with a retirement benefit payable from the system;
+20 (76) "Retirement benefit," the monthly amount payable upon the retirement of a
+21 member;
+22 (77) "Single premium," the lump-sum amount paid by a supplemental pension
+23 participant pursuant to a supplemental pension contract in consideration for a
+24 supplemental pension benefit;
+25 (78) "Social investment," investment, divestment, or prohibition of investment of the
+26 assets of the system for purposes other than maximum risk-adjusted investment
+27 return, which other purposes include ideological purposes, environmental
+28 purposes, political purposes, religious purposes, or purposes of local or regional
+29 economic development, or any other purpose other than maximum risk-adjusted
+30 investment return;
+31 (79) "State employee," an employee of any board, bureau, commission, or department
+32 of this state;
+33 (80) "Supplemental pension benefit," any single-premium immediate pension benefit
+34 payable pursuant to §§ 3-12C-1504 and 3-12C-1505;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.877.12 10 1174
+1 (81) "Supplemental pension contract," any agreement between a participant and the
+2 system upon which a supplemental pension is based, including the amount of the
+3 single premium, the type of pension benefit, and the monthly supplemental pension
+4 payment amount;
+5 (82) "Supplemental pension contract record," the record of:
+6 (a) Each supplemental pension participant reflecting relevant participant data;
+7 (b) A designation of any a beneficiary, if any;
+8 (c) The amount of the participant's funds moneys rolled into the fund;
+9 (d) The provisions of the participant's supplemental pension contract; and
+10 (e) Any supplemental pension payments made pursuant to the contract;
+11 (83) "Supplemental pension participant," any member who is a retiree receiving a
+12 benefit from the system, or, if the member is deceased, the member's surviving
+13 spouse who is receiving a benefit from the system, and who chooses to purchase
+14 a supplemental pension benefit pursuant to the provisions of this chapter. For
+15 purposes of this chapter, "participant" means the same meaning as "supplemental
+16 pension participant";
+17 (84) "Supplemental pension spouse," any individual who was married to a supplemental
+18 pension participant at the time the participant entered into the supplemental
+19 pension contract;
+20 (85) "System," the South Dakota Retirement System created in this chapter;
+21 (86) "Trustee," a member of the Board of Trustees; and
+22 (87) "Unfunded actuarial accrued liability," the actuarial accrued liability less the
+23 actuarial value of assets.
+24 Section 2. That § 34-45-22 be AMENDED:
+25 34-45-22. The term, 911 telecommunicator, as used in §§ For purposes of §§ 3-
+26 12C-101 and 34-45-22 to 34-45-32, inclusive, "911 telecommunicator" means any
+27 employee of the state, or any political subdivision thereof of the state, whose primary
+28 full-time or part-time duties are receiving, processing, and transmitting public safety
+29 information received through a 911 emergency reporting system as defined in § 34-45-1.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

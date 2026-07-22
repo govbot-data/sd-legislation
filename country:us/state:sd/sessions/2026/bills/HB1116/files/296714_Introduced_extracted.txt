@@ -1,0 +1,48 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.421.9 101st Legislative Session 1116
+2026 South Dakota Legislature
+House Bill 1116
+Introduced by: Representative Shubeck
+1 An Act to prohibit a video streaming service from transmitting certain advertising
+2 during children's programming and provide a penalty therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 37-24:
+5 Terms used in section 2 of this Act mean:
+6 (1) "Children's programming," any content designed for an audience of individuals
+7 under the age of sixteen; and
+8 (2) "Video streaming service," an entity that makes either of the following available
+9 directly to the consumer through a distribution method utilizing internet protocol:
+10 (a) Video programming considered comparable to programming provided by a
+11 television broadcast station; or
+12 (b) Video content the service makes available for users to view.
+13 The term does not include a television broadcast station, cable operator, or other
+14 multichannel video programming distributor, or an entity that serves video
+15 programming or video content without commercial advertisements.
+16 Section 2. That a NEW SECTION be added to chapter 37-24:
+17 A video streaming service may not transmit during any children's programming
+18 any commercial advertisement that discusses, promotes, or contains imagery related to:
+19 (1) Abortion;
+20 (2) Alcohol;
+21 (3) Drugs or pharmaceutical products;
+22 (4) Gambling;
+23 (5) Gender identity;
+24 (6) Nicotine products; or
+25 (7) Sexual behavior.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.421.9 2 1116
+1 Section 3. That a NEW SECTION be added to chapter 37-24:
+2 The attorney general may impose a civil penalty against a video streaming service
+3 for violating section 2 of this Act. The amount of the civil penalty may not exceed five
+4 thousand dollars. The attorney general shall forward any civil penalty collected under this
+5 section to the state treasurer, for deposit in the general fund.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

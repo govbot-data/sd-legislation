@@ -1,0 +1,55 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.369.19 101st Legislative Session 77
+2026 South Dakota Legislature
+Senate Bill 77
+Introduced by: Senator Carley
+1 An Act to ban kratom and kratom products and to provide a penalty therefor.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to chapter 34-20B:
+4 A person who sells, distributes, purchases, consumes, or possesses kratom, a
+5 kratom product, or a product containing synthetic mitragynine or 7-hydroxymitragynine,
+6 is guilty of a Class 2 misdemeanor.
+7 Section 2. That § 34-20B-115 be REPEALED.
+8 Any of the following actions are unlawful:
+9 (1) To knowingly sell or distribute a kratom product to a person under the age of
+10 twenty-one;
+11 (2) The purchase or attempt to purchase, the receipt or attempt to receive, the
+12 possession, or the consumption of a kratom product by a person under the age of
+13 twenty-one; or
+14 (3) To purchase a kratom product on behalf of, or to give a kratom product to, any
+15 person under the age of twenty-one, unless the purchaser is a parent or guardian
+16 of the person under the age of twenty-one.
+17 A violation of this section is a Class 2 misdemeanor.
+18 Section 3. That § 34-20B-115.1 be REPEALED.
+19 No person may prepare, sell, or distribute a kratom product that:
+20 (1) Contains a level of 7-hydroxymitragynine in the alkaloid fraction that is greater
+21 than two percent of the alkaloid composition of the product;
+22 (2) Contains synthetic mitragynine, synthetic 7-hydroxymitragynine, or any other
+23 synthetic alkaloid or synthetically derived compound from the Mitragyna speciosa
+24 plant;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.369.19 2 77
+1 (3) Contains a poisonous or otherwise deleterious non-kratom substance, including
+2 any substance designated as a controlled substance by this chapter;
+3 (4) Is mixed or packed with a non-kratom substance that affects the quality or strength
+4 of the kratom product, rendering the product injurious to a customer;
+5 (5) Does not include on its package or label the recommended serving size of the
+6 kratom product, a recommended number of servings that can be safely consumed
+7 in a twenty-four-hour period, and a list of servings per container;
+8 (6) Does not include on its package or label the amount of mitragynine and 7-
+9 hydroxymitragynine contained in the kratom product; or
+10 (7) Does not include on its package or label the following warning statement: "Consult
+11 a licensed, qualified healthcare professional before consuming this product. Not for
+12 use by women who are pregnant, nursing, or trying to become pregnant."
+13 A violation of this section is a Class 2 misdemeanor.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

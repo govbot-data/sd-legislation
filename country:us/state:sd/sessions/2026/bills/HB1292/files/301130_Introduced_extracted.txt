@@ -1,0 +1,77 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.170.35 101st Legislative Session 1292
+2026 South Dakota Legislature
+House Bill 1292
+Introduced by: Representative Heermann
+1 An Act to limit the ability of a health carrier to recoup, recover, or retroactively deny
+2 previously paid claims.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 58-17H:
+5 Except as otherwise provided in this section, a previously paid claim may be
+6 recouped, recovered, or retroactively denied by the health carrier within eighteen months
+7 year from the date the claim payment was made, if the health carrier has provided written
+8 notice of the reason to the provider. This does not apply to a previously paid claim that:
+9 (1) Was submitted fraudulently;
+10 (2) Is the subject of an adjustment with a different health carrier, administrator, or
+11 payor, and the adjustment is not affected by a contractual relationship, association,
+12 or affiliation involving claims payment, processing, or pricing;
+13 (3) Was for medical services covered by casualty insurance, as defined by §§ 58-9-11
+14 to 58-9-27, inclusive;
+15 (4) Was for medical services covered by a self-insured health plan governed by the
+16 Employee Retirement Income Security Act of 1974 (ERISA), 29 U.S.C. §§ 1001 to
+17 1461, inclusive (July 6, 2012);
+18 (5) Was for medical services covered under medicare, 42 U.S.C. §§ 1395-1395lll,
+19 inclusive (March 15, 2025), medicaid, 42 U.S.C. §§ 1396 to 1396w-6, inclusive
+20 (July 4, 2025), or any other federal law;
+21 (6) Was for medical services covered by workers' compensation, as provided for in title
+22 62; or
+23 (7) Was incorrect because the provider or the member was already paid for the medical
+24 services identified in the claim.
+25 A violation of this section is subject to enforcement by the Division of Insurance
+26 under title 58.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.170.35 2 1292
+1 For purposes of this section, "retroactively deny a previously paid claim" means to
+2 retroactively collect claim payments made to a provider by requiring repayment of the
+3 payments, reducing other payments currently owed to the provider, withholding or setting
+4 off against future payments, or reducing or affecting the future claim payments to the
+5 provider in any other manner.
+6 Section 2. That a NEW SECTION be added to chapter 58-17H:
+7 A health carrier shall notify a provider, in writing, at least thirty days in advance of
+8 retroactively denying a previously paid claim, as defined in section 1 of this Act.
+9 The provider has six months from the date of notification under this section to
+10 refund the claim payment at issue, unless the provider determines and notifies the health
+11 carrier that an exception set forth in section 1 of this Act is applicable.
+12 The health carrier has thirty days after receipt of the notice to respond in writing
+13 to the provider. If the health carrier objects to the provider's determination, the health
+14 carrier must state the basis for the objection. If the health carrier fails to respond to the
+15 provider's determination within the time required, the matter is deemed to be resolved
+16 and the carrier may take no additional action in furtherance of a claim denial.
+17 If a dispute between the provider and the health carrier concerning the claim
+18 payment at issue persists, either may, within thirty days of the provider's receipt of the
+19 health carrier's response to the provider's determination, file with the Division of Insurance
+20 a request for a mandatory review of the ongoing claim payment dispute. Upon receipt of
+21 all necessary documentation, the division shall provide a recommendation for a resolution.
+22 No legal action may be commenced during the pendency of the review.
+23 Within thirty days after the division has submitted its recommendation to the health
+24 carrier and the provider, either party may commence legal action for a resolution of the
+25 dispute by a court of competent jurisdiction in this state. Nothing in this section preempts
+26 or limits any other right or remedy available to a health carrier or provider under law,
+27 except to the extent that such right or remedy is inconsistent with this section.
+28 If legal action is not commenced as provided for in this section, the provider must
+29 refund the claim payment at issue.
+30 A payment remitted by the provider to the health carrier must be in the amount
+31 originally paid by the carrier and may not include any additional fees, penalties, or interest.
+32 Section 3. This Act is applicable to claims for health care services, as defined in § 58-17H-1,
+33 which are provided on or after July 1, 2026.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

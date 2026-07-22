@@ -1,0 +1,34 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.539.18 101st Legislative Session 75
+2026 South Dakota Legislature
+Senate Bill 75
+Introduced by: The Chair of the Senate Committee on Appropriations at the request of the Bureau of Finance and
+Management
+1 An Act to amend the type of entities eligible to participate in the cybersecurity
+2 services initiative.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That 2024 Session Laws, chapter 229, § 1 be AMENDED:
+5 Section 1. There is hereby appropriated from the general fund the sum of
+6 $7,000,000 to the Office of the Attorney General, for purposes the purpose of creating a
+7 cybersecurity services initiative for counties and municipalities throughout the State of
+8 South Dakota in this state.
+9 Section 2. That 2024 Session Laws, chapter 229, § 2 be AMENDED:
+10 Section 2. The funds moneys appropriated in section 1 of this Act must be used
+11 exclusively to expand and improve cybersecurity for counties, nonprofit utilities, utilities
+12 operated by a political subdivision, and municipalities in the State of South Dakota, via
+13 any infrastructure and technology that can protect the information technology assets
+14 ofcounties and municipalities in South Dakota this state, and for administrative costs
+15 necessary for expending these dollars efficiently and effectively.
+16 Section 3. That 2024 Session Laws, chapter 229, § 3 be AMENDED:
+17 Section 3. FundsMoneys must be disbursed according to the specific needs of the
+18 project and in such a way that best advances the cybersecurity needs of the counties and
+19 municipalities to be served state.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

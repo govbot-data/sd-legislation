@@ -1,0 +1,89 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.393.11 101st Legislative Session 1096
+2026 South Dakota Legislature
+House Bill 1096
+ENROLLED
+AN ACT
+ENTITLED An Act to allow for the direct creation of a limited liability limited
+partnership.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+Section 1. That § 48-7-1106 be AMENDED:
+48-7-1106. A limited liability limited partnership may be qualified or formed as
+follows:
+(1) An existing limited partnership, in order to qualify as a limited liability limited
+partnership, must:
+(a) Obtain approval of the terms and conditions of the limited partnership
+becoming a limited liability limited partnership by the vote necessary to
+amend the limited partnership agreement, except in a limited partnership
+with an agreement that expressly considers contribution obligations, in
+which case by the vote necessary to amend the contribution obligation
+provisions;
+(b) File a statement of qualification pursuant to § 48-7A-1001;
+(c) Have as the last words or letters of its name the words "Registered Limited
+Liability Limited Partnership," or the abbreviation "L.L.L.P.," or the
+designation "LLLP;" and
+(d) Continue as the same entity that existed before the filing of a statement of
+qualification pursuant to § 48-7A-1001(c).
+(2) Alternatively, a limited liability limited partnership may be formed directly by filing
+a certificate of limited liability limited partnership pursuant to section 2 of this Act.
+Subsections 48-7A-306(c) and 48-7A-307(b) apply to both general and limited
+partners of a limited liability limited partnership. § 48-7-303 also applies to limited
+partners. Upon qualification or formation, the entity is a limited partnership and a limited
+liability limited partnership for all purposes of this chapter.
+
+26.393.11 2 1096
+Section 2. That a NEW SECTION be added to chapter 48-7:
+A limited liability limited partnership may be formed by delivering to the secretary
+of state a certificate of limited liability limited partnership. Delivery may be made by
+electronic transmission, if and to the extent permitted by the secretary of state. If the
+certificate is filed in typewritten or printed form and not transmitted electronically, the
+secretary of state may require one exact or conformed copy to be delivered with the
+certificate.
+The certificate must contain:
+(1) The name of the limited liability limited partnership, which has as the last words or
+letters of its name the words "Registered Limited Liability Limited Partnership," the
+abbreviation "L.L.L.P.," or the designation "LLLP";
+(2) The street address of the limited liability limited partnership's chief executive office
+and, if different, the street address of an office in this state, if any;
+(3) If the limited liability limited partnership does not have an office in this state, the
+information required pursuant to § 59-11-6;
+(4) A statement that the entity elects to be a limited liability limited partnership; and
+(5) A deferred effective date, if any.
+A limited liability limited partnership is formed when the certificate is filed with the
+secretary of state or on a deferred effective date thereafter.
+Section 3. This Act is effective beginning January 1, 2027.
+HB1096 ENROLLED
+
+26.393.11 3 1096
+An Act to allow for the direct creation of a limited liability limited partnership.
+Received at this Executive Office
+I certify that the attached Act originated in this _____ day of _____________,
+the:
+2026 at ____________M.
+House as Bill No. 1096
+By
+Chief Clerk of the House for the Governor
+The attached Act is hereby
+approved this ________ day of
+Speaker of the House ______________, A.D., 2026
+Attest:
+Governor
+Chief Clerk of the House
+STATE OF SOUTH DAKOTA,
+ss.
+Office of the Secretary of State
+President of the Senate
+Filed ____________, 2026
+Attest: at _________ o'clock __M.
+Secretary of the Senate Secretary of State
+House Bill No. 1096 By
+File No. ____ Asst. Secretary of State
+Chapter No. ______
+HB1096 ENROLLED

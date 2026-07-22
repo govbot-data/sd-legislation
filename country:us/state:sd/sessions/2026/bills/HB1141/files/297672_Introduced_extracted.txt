@@ -1,0 +1,122 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.111.11 101st Legislative Session 1141
+2026 South Dakota Legislature
+House Bill 1141
+Introduced by: Representative Goodwin
+1 An Act to provide an additional means of determining the purchase price of a used
+2 motor vehicle acquired by gift or other transfer.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 32-5B-4 be AMENDED:
+5 32-5B-4. For the purposes of this chapter, the purchase price is:
+6 (1) For a new motor vehicle sale or lease, the total consideration whether received in
+7 money or otherwise. However, when a motor vehicle is taken in trade as a credit
+8 or part payment on a new motor vehicle, the credit or trade-in value allowed by
+9 the seller shall be deducted from the total consideration for the new motor vehicle
+10 to establish the purchase price;
+11 (2) For a used motor vehicle sold or leased by a licensed motor vehicle dealer, the
+12 total consideration for the used motor vehicle whether received in money or
+13 otherwise. However, when a motor vehicle is taken in trade by the dealer as a
+14 credit or part payment on a used motor vehicle, the credit or trade-in value allowed
+15 by the dealer shall be deducted from the consideration so that the net consideration
+16 is established;
+17 (3) For a used motor vehicle sold, leased, or transferred by any person other than a
+18 licensed motor vehicle dealer, the total consideration received in money or
+19 otherwise. However, when a motor vehicle is taken in trade as a credit or part
+20 payment on a used motor vehicle, the credit or trade-in value shall be deducted
+21 from the total consideration so that the net consideration is established. The
+22 purchaser and seller of the motor vehicle shall submit to the county treasurer a bill
+23 of sale, approved and supplied by the secretary. If a bill of sale is not submitted,
+24 the excise tax will be assessed on the retail value as stated in a nationally
+25 recognized dealers' guide as approved by the secretary of revenue. If the excise
+26 tax is assessed on the retail value, the value of the motor vehicle taken in as credit
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.111.11 2 1141
+1 on trade-in shall be the retail value as stated in the nationally recognized dealers'
+2 guide;
+3 (4) For a new or used motor vehicle acquired by gift or other transfer for no or nominal
+4 consideration, the manufacturers' suggested dealer list price for new motor
+5 vehicles and for;
+6 (5) For a used motor vehicles the vehicle acquired by gift or other transfer for no or
+7 nominal consideration:
+8 (a) The retail value stated in a nationally recognized dealers' guide approved
+9 and furnished by the secretary of revenue; or
+10 (b) The actual purchase price as documented by a bill of sale furnished by the
+11 secretary;
+12 (5)(6) For a motor vehicle manufactured by a person who registers it under the laws of
+13 this state, the amount expended for materials, labor, and other properly allocable
+14 costs of manufacture or in the absence of actual expenditures for the manufacture
+15 of a part or all of the motor vehicle, the reasonable value of the completed motor
+16 vehicle;
+17 (6)(7) For a rebuilt motor vehicle, upon its initial registration and titling, the total
+18 consideration for the salvage vehicle, whether received in money or otherwise, and
+19 the total consideration for any assemblies, subassemblies, parts, or component
+20 parts used;
+21 (7)(8) For either a new or used motor vehicle, as defined by § 32-5B-21, which is a closed
+22 lease, the total consideration whether received in money or otherwise. Total
+23 consideration is all lease payments including cash, rebates, the net trade-in,
+24 extended warranties, administrative fees, acquisition fees, or any other fees
+25 assessed on the purchase of the vehicle. Total consideration does not include title
+26 fees, registration fees, vehicle excise tax paid pursuant to §§ 32-5B-1, 32-5B-1.1,
+27 and 32-5B-21 to 32-5B-24, inclusive, federal excise taxes attributable to the sale
+28 of the vehicle to the owner or to the lease of the vehicle by the owner, insurance,
+29 and refundable deposits;
+30 (8)(9) For either a new or used motor vehicle, as defined by § 32-5B-21, which is leased,
+31 and the terms of the lease are either not certain at the time the lease contract is
+32 executed or the lease is open ended, the purchase price shall be the total
+33 consideration whether received in money or otherwise. Total consideration includes
+34 the purchase price of the vehicle, plus cash, rebates, the net trade-in, extended
+35 warranties, administrative fees, acquisition fees, or any other fees assessed on the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.111.11 3 1141
+1 purchase of the vehicle. Total consideration does not include title fees, registration
+2 fees, vehicle excise tax paid pursuant to §§ 32-5B-1, 32-5B-1.1, and 32-5B-21 to
+3 32-5B-24, inclusive, federal excise taxes attributable to the sale of the vehicle to
+4 the owner or to the lease of the vehicle by the owner, insurance, and refundable
+5 deposits.
+6 Section 2. That § 32-5B-21 be AMENDED:
+7 32-5B-21. The tax imposed by §§ 32-5B-1, 32-5B-1.1, 32-5B-4(7) 32-5B-4(8),
+8 and 32-5B-21 to 32-5B-24, inclusive, and calculated in the manner set out in § 32-5B-4
+9 on the sale or use of leased vehicles subject to titling and registration applies to vehicles
+10 with a gross vehicle weight ratings rating of less than sixteen thousand pounds or vehicles
+11 defined in subdivision 32-9-3(3), including motorcycles and motorized bicycles. No
+12 certificate of title may be issued until the tax is paid.
+13 The county treasurer shall require every applicant for registration of a vehicle
+14 subject to tax under §§ 32-5B-1, 32-5B-1.1, 32-5B-4(7) 32-5B-4(8), and 32-5B-21 to 32-
+15 5B-24, inclusive, to supply information as is deemed necessary as to the date of the lease
+16 transaction, the lease price, and other information relative to the lease of the vehicle.
+17 Section 3. That § 32-5B-22 be AMENDED:
+18 32-5B-22. If the lease is terminated prior to the termination date contained in the
+19 lease agreement, no refund may be allowed for tax previously paid under §§ 32-5B-1, 32-
+20 5B-1.1, 32-5B-4(7) 32-5B-4(8), and 32-5B-21 to 32-5B-24, inclusive.
+21 Section 4. That § 32-5B-24 be AMENDED:
+22 32-5B-24. If the motor vehicle lease tax has been paid on a qualifying lease under
+23 §§ 32-5B-1, 32-5B-1.1, 32-5B-4(7) 32-5B-4(8), and 32-5B-21 to 32-5B-24, inclusive,
+24 and prior to the expiration of the lease, the vehicle subject to the lease is destroyed by
+25 means such as fire, accident, or vandalism, to the extent that it constitutes a total loss of
+26 the vehicle, a credit for motor vehicle lease tax paid for the period remaining on the
+27 previous lease shall be allowed if another vehicle is substituted under the original lease or
+28 a new lease is executed with the intent to replace the vehicle subject to the previous lease.
+29 To initially qualify for the credit there must be a total loss of the vehicle subject to the
+30 previous lease, a new lease must be executed or a vehicle must be substituted under the
+31 original lease. To qualify for the credit, the new lease or substituted vehicle under the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.111.11 4 1141
+1 original lease shall be executed by the same lessor and lessee, for lease of a vehicle of
+2 the same or similar make, model, year, and options as the vehicle subject to the previous
+3 lease, for the remaining lease period of the previous lease, and for the same lease price.
+4 The lease shall contain the same lease terms as the previous lease.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

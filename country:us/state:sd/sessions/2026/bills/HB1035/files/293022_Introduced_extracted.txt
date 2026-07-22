@@ -1,0 +1,342 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.365.24 101st Legislative Session 1035
+2026 South Dakota Legislature
+House Bill 1035
+Introduced by: Representative Weisgram
+1 An Act to modify provisions related to the licensure of public accountants.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 36-20B-1 be AMENDED:
+4 36-20B-1. Terms as used in this chapter mean:
+5 (1) "Board," the South Dakota Board of Accountancy established pursuant to this
+6 chapter or its predecessor;
+7 (2) "Certificate," a certificate as a certified public accountant certificate issued
+8 pursuant to this chapter or corresponding provisions of prior law, or a
+9 corresponding certificate as certified public accountant certificate issued, after
+10 examination, under the law of any other state;
+11 (3) "Client," a person or entity that agrees with a licensee to receive any a professional
+12 service, other than an employer-employee relationship;
+13 (4) "CPA firm" and "PA firm," a sole proprietorship, a corporation, a partnership, or
+14 any other form of organization permitted by law, issued a permit under this
+15 chapter;
+16 (5) "Compilation," providing a service to be performed in accordance with Statements
+17 on Standards for Accounting and Review Services (SSARS) that is presenting,
+18 which presents in the form of financial statements, and information that is the
+19 representation of management (owners) without undertaking to and does not
+20 express any assurance on the statements;
+21 (6) "Domestic," referring to a jurisdiction of a state;
+22 (7) "Foreign," referring to a jurisdiction outside of the United States;
+23 (8) "Home office," the location specified by a client as the address to which a service
+24 is directed;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.365.24 2 1035
+1 (9) "License," a certificate issued pursuant to this chapter, a permit issued pursuant
+2 to this chapter, or a registration pursuant to this chapter; or in each case, a
+3 certificate, license, or permit issued under corresponding provisions of prior law;
+4 (10) "Licensee," the holder of a certificate or a permit issued pursuant to this chapter
+5 or of a license issued under prior law, or of a permit issued pursuant to this chapter;
+6 or in each case, a certificate, license, or permit issued under corresponding
+7 provisions of prior law;
+8 (11) "Manager," a manager of a limited liability company;
+9 (12) "Member," a member of a limited liability company;
+10 (12A)(13) "Owner," a licensee or nonlicensee as a proprietor, partner, officer,
+11 shareholder, or member with financial rights in the a CPA firm or PA firm;
+12 (13)(14) "Peer review," a study, appraisal, or review of one or more aspects of the
+13 professional work of a certificate holder or CPA firm that, which performs attest or
+14 compilation services, by a qualified person or persons, who hold certificates, and
+15 who are not affiliated with the certificate holder or CPA firm being reviewed;
+16 (14)(15) "Permit," a permit to practice public accountancy issued to a firm pursuant to
+17 this chapter or corresponding provisions of prior law or under corresponding
+18 provisions of the laws of other states;
+19 (15)(16) "Practice privilege," the privilege for a person to practice public accountancy;
+20 (16)(17) "Principal place of business," the office location designated by the a licensee for
+21 purposes of substantial equivalency and reciprocity the purpose of practice
+22 privilege;
+23 (17)(18) "Professional," arising out of, or related to, the specialized knowledge or skills
+24 associated with CPAs or Pas certified public accountants or public accountants;
+25 (18)(19) "Public accountant," a person holding who holds a public accountant license
+26 issued pursuant to provisions of prior law; and
+27 (19)(20) "State," any state of the United States, the District of Columbia, Puerto Rico,
+28 the U.S. Virgin Islands, Guam, and the Commonwealth of the Northern Mariana
+29 Islands;
+30 (20) "Substantial equivalency," a determination by the board or its designee that the
+31 education, examination, and experience requirements contained in the statutes
+32 and administrative rules of another jurisdiction are comparable to, or exceed the
+33 education, examination, and experience requirements contained in this chapter or
+34 that an individual CPA's education, examination, and experience qualifications are
+35 comparable to or exceed the education, examination, and experience requirements
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.365.24 3 1035
+1 contained in this chapter. In ascertaining substantial equivalency, the board or its
+2 designee shall take into account the qualifications without regard to the sequence
+3 in which experience, education, or examination requirements were attained.
+4 Section 2. That § 36-20B-12 be AMENDED:
+5 36-20B-12. The board may shall promulgate rules, in accordance with chapter 1-
+6 26, governing the board's administration and enforcement of this chapter and the conduct
+7 of licensees in the following matters:
+8 (1) Rules governing the board's meetings, and the conduct of the board's business;
+9 (2) Rules of procedure governing the conduct of investigations and hearings by the
+10 board;
+11 (3) Rules specifying the fees for firm permits and certificates, educational and
+12 experience qualifications required for the issuance of certificates, the date for
+13 renewal of firm permits and certificates, and the continuing professional education
+14 required for renewal of certificates. The fee for issuance or renewal of a certificate
+15 may not exceed one hundred dollars;
+16 (4) Rules of professional conduct to control the quality and integrity of the practice of
+17 public accountancy by licensees, covering the following areas:
+18 (a) Independence, integrity, and objectivity;
+19 (b) Competence and technical and professional standards;
+20 (c) Responsibilities to the public; and
+21 (d) Responsibilities to clients;
+22 (5) Rules governing the manner and circumstances of use of the titles certified public
+23 accountant and CPA by holders of certificates who do not practice public
+24 accountancy, as provided for in this chapter;
+25 (6) Rules specifying procedures and fees, not to exceed one hundred dollars, for the
+26 registration of certificate holders who do not practice public accountancy, as
+27 provided for in this chapter;
+28 (7) Rules governing the manner and circumstances of use of the titles public
+29 accountant and PA by holders of licenses issued under prior law who do not practice
+30 public accountancy, as provided for in this chapter;
+31 (8) Rules specifying procedures and fees, not to exceed one hundred dollars, for the
+32 registration of license holders who do not practice public accountancy, as provided
+33 for in this chapter;
+34 (9) Rules regarding peer review pursuant to this chapter;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.365.24 4 1035
+1 (10) Rules specifying peer review administrative fees, not to exceed one hundred
+2 twenty-five dollars, plus seventy-five dollars for a peer review form filed late;
+3 (11) Rules specifying procedures and fees, not to exceed one hundred dollars, for
+4 required peer review documentation filed late;
+5 (12) Rules specifying fees for examination and reexamination, not to exceed four
+6 hundred fifty dollars per section of the examination or reexamination, and issuance
+7 of a certificate, not to exceed one hundred dollars;
+8 (13) Rules specifying the procedures and fees, not to exceed one hundred dollars for
+9 each owner, plus one hundred dollars for the a firm practicing public accountancy
+10 in this state, for initial issuance or renewal of a firm permit. Any fee promulgated
+11 by rule pursuant to this subdivision may be a flat fee or tier based;
+12 (14) Rules governing the application and fees for:
+13 (a) A modification of a disciplinary action, not to exceed one thousand dollars;
+14 (b) A reissue of a certificate, not to exceed one hundred dollars; and
+15 (c) A firm permit, not to exceed one hundred dollars for each owner, plus one
+16 hundred dollars for the a firm practicing public accountancy in this state.
+17 Any fee promulgated by rule pursuant to this subdivision may be a flat fee or tier
+18 based;
+19 (15) Rules governing the methods, eligibility, and requirements for applying for
+20 examination and reexamination;
+21 (16) Rules specifying procedures and fees for the late renewal of certificates, not to
+22 exceed one hundred dollars, and firm permits, not to exceed one hundred dollars
+23 for each owner, plus one hundred dollars for the a firm practicing public
+24 accountancy in this state. Any fee promulgated by rule pursuant to this subdivision
+25 may be either a flat fee or tier based;
+26 (17) Rules specifying procedures and fees, not to exceed fifty dollars, for replacement
+27 of a certificate or permit;
+28 (18) Rules specifying methods and requirements for conducting the examination;
+29 (19) Rules specifying methods, eligibility, and requirements of applying for a certificate;
+30 (20) Rules specifying procedures and fees for the:
+31 (a) Late filing of a certificate based on substantial equivalency, not to exceed
+32 one hundred dollars;
+33 (b) Late issuance of certificates, not to exceed one hundred dollars; and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.365.24 5 1035
+1 (c)(b) Late filing of firm permits, not to exceed one hundred dollars for each
+2 owner, plus one hundred dollars for the a firm practicing public accountancy
+3 in this state.
+4 Any fee promulgated by rule pursuant to this subdivision may be a flat fee or tier
+5 based; and
+6 (21) Rules defining active and inactive status of both certificate and public accountant
+7 license holders who are not practicing public accountancy; and
+8 (22) Rules specifying procedures and fees, not to exceed one hundred dollars, on
+9 substantial equivalency.
+10 Section 3. That § 36-20B-15 be AMENDED:
+11 36-20B-15. The education requirement for a certificate, which shall be met before
+12 one hundred days after an applicant sits for the examination prescribed in this chapter, is
+13 at least one hundred fifty semester hours of college education, including graduation from
+14 an accredited college or university with a baccalaureate or a graduate degree in
+15 accounting, or the satisfactory completion of a course of study which the board has
+16 determined to be substantially the equivalent of an accounting degree, including related
+17 courses in other areas of business administration. Such courses of study may be in a
+18 college or university, recognized by the board.
+19 In order to sit for the examination described in § 36-20B-18, an individual must
+20 provide documentation to the board that the individual has obtained, or is scheduled to
+21 obtain within one hundred days after taking the examination, a bachelor's degree or a
+22 graduate degree from an accredited institution of higher education. The individual's degree
+23 program must include a concentration in accounting or an equivalent, as determined by
+24 the board.
+25 Section 4. That § 36-20B-21 be AMENDED:
+26 36-20B-21. An applicant for initial issuance of a certificate under this chapter shall
+27 show that the applicant has acquired one year of experience.
+28 This experience shall include providingAn applicant for a certificate, who holds a
+29 graduate degree that satisfies the requirements to sit for an examination, pursuant to
+30 § 36-20B-15, shall provide to the board documentation that the applicant has completed
+31 one year of experience in accounting.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.365.24 6 1035
+1 An applicant for a certificate, who holds a bachelor's degree that satisfies the
+2 requirements to sit for an examination, pursuant to § 36-20B-15, shall provide to the
+3 board documentation that the applicant has completed:
+4 (1) One year of experience in accounting and thirty semester credit hours of education,
+5 in addition to the number of hours required to obtain the applicant's bachelor's
+6 degree, at an accredited institution of higher education; or
+7 (2) Two years of experience in accounting.
+8 For the purposes of this section, experience in accounting includes any type of
+9 service or advice involving the use of accounting, attest, management advisory, financial
+10 advisory, tax, or consulting skills, all of which were verified by a licensee, meeting and
+11 meet requirements prescribed by the board, by rule promulgated pursuant to chapter 1-
+12 26. Acceptable experience may be gained completed through employment in government,
+13 industry, academia, or public practice.
+14 Any person holding who holds a valid certificate issued by this state prior to July
+15 1, 2002, is deemed to have met the requirements of this section.
+16 Section 5. That § 36-20B-22 be AMENDED:
+17 36-20B-22. An individual who passes the examination as a South Dakota
+18 candidate, and who satisfies the requirements set forth in § 36-20B-21, may apply for a
+19 certificate in accordance with requirements and by such date established by rule, the
+20 board, in rule promulgated pursuant to chapter 1-26. The board shall grant or renew a
+21 certificate to any person who makes application and demonstrates qualifications that are
+22 in accordance with the provisions of this chapter or eligibility under the substantial
+23 equivalency standard provided in this chapter.
+24 Section 6. That § 36-20B-25 be AMENDED:
+25 36-20B-25. The board shall must issue a certificate to an applicant who does not
+26 qualify for reciprocity under the substantial equivalency standard provided in this chapter
+27 but who holds a certificate, license, or permit issued by another state upon a showing, if
+28 the applicant provides documentation that:
+29 (1) The applicant has passed the examination required for issuance of the applicant's
+30 certificate certification in the applicant's state, with grades that would have been
+31 passing grades at the time in this state;
+32 (2) The applicant had has at least four years of experience of the type described in this
+33 chapter, or the applicant meets equivalent requirements prescribed by the board,
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.365.24 7 1035
+1 by rule promulgated pursuant to chapter 1-26, after passing the examination, upon
+2 which the applicant's certificate was based, and within the ten years immediately
+3 preceding the application; and
+4 (3) The applicant has fulfilled the requirements of continuing professional education
+5 that would have been applicable under subdivision (2), if the applicant's certificate,
+6 license, or permit was issued more than four years prior to the submitting an
+7 application for issuance of an initial certificate under this chapter.
+8 Section 7. That § 36-20B-26 be AMENDED:
+9 36-20B-26. Before establishing a principal place of business in this state, a
+10 certificate holder a person who is licensed by another state shall request the issuance of
+11 must request a certificate from the board. The board shall issue a certificate to any
+12 applicant who obtains, from the board of the other state, verification that such applicant's
+13 qualifications are substantially equivalent that the applicant's qualifications are
+14 comparable to the CPA licensure requirements of this chapter, as determined by the board.
+15 Section 8. That § 36-20B-30 be AMENDED:
+16 36-20B-30. The board shall must issue a certificate to a holder of a substantially
+17 equivalent a foreign designation that the board determines to be comparable to a
+18 certificate issued by this state, if the following conditions are satisfied:
+19 (1) The foreign authority which that granted the designation makes similar provision
+20 to allow a person who holds a valid certificate issued by this state to obtain such
+21 the foreign authority's comparable designation;
+22 (2) The foreign designation was duly issued by a foreign authority that regulates the
+23 practice of public accountancy, based on educational and examination
+24 requirements established by the foreign authority, or by statute, and the foreign
+25 designation has not expired or been revoked or suspended;
+26 (3) The applicant received the designation, based on educational and examination
+27 standards substantially equivalent that the board determines to be comparable to
+28 those in effect in this state, at the time the foreign designation was granted, and
+29 the designation was issued upon the basis of educational, examination, and
+30 experience requirements established by the foreign authority or by law;
+31 (4) The applicant has passed a qualifying examination, with the examination grading
+32 and passing grades being which uses a grading system that is uniform with those
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.365.24 8 1035
+1 applicable in other states, and an examination acceptable to approved by the
+2 board, on the law, rules, and code of ethical conduct in effect in this state; and
+3 (5) The applicant received the designation based on educational and examination
+4 standards substantially equivalent that the board determines to be comparable to
+5 those in effect in this state at the time the foreign designation was
+6 granted;completed
+7 (6) The applicant has:
+8 (a) Completed an experience requirement substantially equivalent that the
+9 board determines to be comparable to the requirement provided in this
+10 chapter, in the jurisdiction which that granted the foreign designation or
+11 has completed;
+12 (b) Completed four years of professional experience in this state; or meets
+13 (c) Met equivalent requirements prescribed by the board, by rule promulgated
+14 pursuant to chapter 1-26, within the ten years immediately preceding the
+15 application; and
+16 (7) The applicant passed a uniform qualifying examination consistent with national
+17 standards, and an examination on the laws, rules, and code of ethical conduct in
+18 effect in this state.
+19 An applicant under this section shall list in the application all jurisdictions, foreign
+20 and domestic, in which the applicant has applied for, or holds, a designation to practice
+21 public accountancy, and each. Each holder of a certificate issued under this section shall
+22 notify the board in writing, within thirty days after its occurrence, of any issuance, denial,
+23 revocation, or suspension of a designation, or commencement of a disciplinary or
+24 enforcement action by any jurisdiction. The board has the sole authority to interpret the
+25 application of the provisions of this section.
+26 Section 9. That § 36-20B-66 be AMENDED:
+27 36-20B-66. An individual whose principal place of business is not in this state and
+28 who holds a valid certificate or license as a certified public accountant from any state
+29 which the board has verified to be in substantial equivalence with the CPA licensure
+30 requirements of this chapter is presumed to have qualifications substantially equivalent to
+31 requirements of this state and shall have, has all the privileges of certificate holders and
+32 licensees of a licensee under this chapter, without the need to obtain a certificate or permit
+33 under this chapter, provided that the individual has passed the uniform certified public
+34 accountant examination, and has obtained:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.365.24 9 1035
+1 (1) A bachelor's degree in accounting, or in a course of study that the board has
+2 determined to be comparable to an accounting degree, and has completed:
+3 (a) Two years of experience in accountancy, as described in § 36-20B-21; or
+4 (b) One year of experience in accountancy, as described in § 36-20B-21, and
+5 thirty semester credit hours at an accredited institution of higher education,
+6 in addition to the number of hours required to obtain the applicant's
+7 bachelor's degree; or
+8 (2) A graduate degree in accounting, or in a course of study which the board has
+9 determined to be comparable to an accounting degree, and completed at least one
+10 year of experience in accountancy, as described in § 36-20B-21.
+11 Notwithstanding any other provision of law, an individual who offers or renders
+12 professional services under this section, whether in person, or by mail, telephone, or
+13 electronic means, shall must be granted practice privileges in this state, and no notice,
+14 fee, or other submission is required of the individual. However, theThe individual shall be
+15 is subject to the requirements of § 36-20B-68.
+16 Section 10. That § 36-20B-67 be AMENDED:
+17 36-20B-67. Any individual whose principal place of business is not in this state
+18 who holds a valid certificate or license as a certified public accountant from any state
+19 which the board has not verified to be in substantial equivalence with the CPA licensure
+20 requirements of this chapter is presumed to have qualifications substantially equivalent to
+21 this state's requirements and shall have all the privileges of certificate holders and
+22 licensees of this state without the need to obtain a certificate or permit under this chapter
+23 if the CPA qualifications of the individual are substantially equivalent to the CPA licensure
+24 requirements of this chapter.
+25 Notwithstanding any other provision of law, an individual who offers or renders
+26 professional services, whether in person, or by mail, telephone, or electronic means, under
+27 this section shall be granted practice privileges in this state, and no notice, fee, or other
+28 submission is required of the individual. However, the individual shall be subject to the
+29 requirements of § 36-20B-68
+30 An individual shall continue to hold practice privileges, without needing to obtain a
+31 license under this chapter, if the individual:
+32 (1) Has a principal place of business that is not in this state;
+33 (2) Holds a valid certificate or license as a certified public accountant from any state;
+34 and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.365.24 10 1035
+1 (3) On or before December 31, 2024, exercised practice privileges in this state under
+2 § 36-20B-66, as it existed on December 31, 2024.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

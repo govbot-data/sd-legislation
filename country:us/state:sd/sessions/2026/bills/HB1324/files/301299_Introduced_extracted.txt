@@ -1,0 +1,1418 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.274.23 101st Legislative Session 1324
+2026 South Dakota Legislature
+House Bill 1324
+Introduced by: Representative Aylward
+1 An Act to abolish the State Board of Elections.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 2-1-1.1 be AMENDED:
+4 2-1-1.1. A petition sponsor shall file, in a physical and electronic copy format, a
+5 petition for an initiated amendment to the South Dakota Constitution, as it is to be
+6 circulated, with the secretary of state before the petition may be circulated and at least
+7 one year before the next general election at which the initiated amendment to the
+8 constitution is proposed to be submitted to the voters. The petition must:
+9 (1) Be accompanied by the full text of the initiated amendment in fourteen-point font;
+10 (2) Designate, in fourteen-point font, the date of the general election at which the
+11 initiated amendment is to be submitted;
+12 (3) Contain, in fourteen-point font, the title and explanation of the initiated
+13 amendment as prepared by the attorney general, pursuant to § 12-13-25.1;
+14 (4) Contain the fiscal note, if any, prepared pursuant to § 2-9-30, in fourteen-point
+15 font;
+16 (5) Be accompanied by a notarized affidavit form, signed by each person who is a
+17 petition sponsor, which includes the name and address of each petition sponsor;
+18 and
+19 (6) Be accompanied by a statement of organization as provided in § 12-27-6.
+20 The title to be contained on a petition for an initiated amendment, pursuant to
+21 subdivision (3), must be included on both sides of the sheet of paper on which the petition
+22 is printed. The title printed on the back side of the petition must be printed in at least
+23 sixteen-point font.
+24 Only an individual who is registered as a voter of this state, pursuant to chapter
+25 12-4, may be a petition sponsor for an initiated amendment to the constitution.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 2 1324
+1 Each petition circulator shall provide to each individual who signs the petition a
+2 circulator handout containing the title of the initiated amendment to the Constitution, as
+3 prepared by the attorney general; the full text of the initiated amendment to the
+4 Constitution; the name, phone number, and email address of each petition sponsor; and
+5 a statement indicating whether the petition circulator is a volunteer or a paid circulator
+6 and, if a paid circulator, the amount the circulator is being paid. The secretary of state
+7 must approve the circulator handout for each initiated amendment to the Constitution
+8 before the petition is circulated.
+9 A petition for an initiated amendment to the constitution may not be circulated
+10 more than twenty-four months before the general election that was designated pursuant
+11 to subdivision (2). A sworn affidavit, signed by at least two-thirds of the petition sponsors,
+12 stating that the documents filed constitute the entire petition and to the best of the
+13 knowledge of the sponsors contains a sufficient number of signatures, must also be filed
+14 with the secretary of state. The initiated amendment petition signatures must be filed with
+15 the secretary of state by the first Tuesday in February of a general election year for the
+16 initiated amendment to qualify for submission to the voters at the next general election.
+17 The State Board of Elections secretary of state shall prescribe the form of the
+18 petition, including petition size and petition font size for ballot measure language not
+19 prescribed in this section.
+20 Section 2. That § 2-1-1.2 be AMENDED:
+21 2-1-1.2. A petition sponsor shall file, in physical and electronic copy format, a
+22 petition for an initiated measure, as it is to be circulated, with the secretary of state,
+23 before the petition may be circulated and at least one year before the next general election
+24 at which the initiated measure is proposed to be submitted to the voters. The petition
+25 must:
+26 (1) Be accompanied by the full text of the initiated measure in fourteen-point font;
+27 (2) Designate, in fourteen-point font, the date of the general election at which the
+28 initiated measure is to be submitted;
+29 (3) Contain, in fourteen-point font, the title and explanation of the initiated measure
+30 as prepared by the attorney general, pursuant to § 12-13-25.1;
+31 (4) Contain the fiscal note, if any, prepared pursuant to § 2-9-30, in fourteen-point
+32 font;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 3 1324
+1 (5) Be accompanied by a notarized affidavit form signed by each person who is a
+2 petition sponsor, which includes the name and address of each petition sponsor;
+3 and
+4 (6) Be accompanied by a statement of organization as provided in § 12-27-6.
+5 The title to be contained on a petition for an initiated amendment, pursuant to
+6 subdivision (3), must be included on both sides of the sheet of paper on which the petition
+7 is printed. The title printed on the back side of the petition must be printed in at least
+8 sixteen-point font.
+9 Only an individual who is registered as a voter of this state, pursuant to chapter
+10 12-4, may be a petition sponsor for an initiated measure.
+11 Each petition circulator shall provide to each individual who signs the petition a
+12 circulator handout containing the title of the initiated measure as prepared by the attorney
+13 general; the full text of the initiated measure; the name, phone number, and email
+14 address of each petition sponsor; and a statement indicating whether the petition
+15 circulator is a volunteer or a paid circulator and, if a paid circulator, the amount the
+16 circulator is being paid. The secretary of state must approve the circulator handout for
+17 each initiated measure before the petition is circulated.
+18 A petition for an initiated measure may not be circulated more than twenty-four
+19 months before the general election that was designated pursuant to subdivision (2). A
+20 sworn affidavit, signed by at least two-thirds of the petition sponsors, stating that the
+21 documents filed constitute the entire petition and to the best of the knowledge of the
+22 sponsors contains a sufficient number of signatures, must also be filed with the secretary
+23 of state. The initiated measure petition signatures must be filed with the secretary of state
+24 by the first Tuesday in February of a general election year for the initiated measure to
+25 qualify for submission to the voters at the next general election.
+26 The State Board of Elections secretary of state shall prescribe the form of the
+27 petition, including petition size and petition font size for ballot measure language not
+28 prescribed in this section.
+29 Section 3. That a NEW SECTION be added to chapter 2-1:
+30 For an initiated amendment to the South Dakota Constitution or an initiated
+31 measure to qualify for submission to the voters at the general election designated on the
+32 petition, pursuant to § 2-1-1.1 or 2-1-1.2, the petition sponsors must file the petition
+33 signatures with the secretary of state before five p.m. central time on the first Tuesday in
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 4 1324
+1 May of the general election year designated on the petition. The petition signatures must
+2 be filed along with the verifications completed pursuant to § 2-1-10.
+3 A sworn affidavit, signed by at least two-thirds of the petition sponsors, must be
+4 filed with the secretary of state along with the signatures on the petition, stating:
+5 (1) The documents filed constitute the entire petition; and
+6 (2) The petition contains, to the best knowledge of the petition sponsors, at least the
+7 number of valid signatures required by S.D. Const., Art. III, § 1, or S.D. Const.,
+8 Art. XXIII, § 1.
+9 The secretary of state shall prescribe the form of the affidavit.
+10 Section 4. That § 2-1-3 be AMENDED:
+11 2-1-3. Any law which the Legislature may have enacted, except one that may be
+12 necessary for the immediate preservation of the public peace, health, or safety, or support
+13 of the state government and its existing public institutions, shall must, upon the filing of
+14 a petition as provided in this chapter, be submitted to a vote of the electors of the state
+15 at the next general election. The A petition shall to submit a law enacted by the Legislature
+16 to a vote of the electors of the state must be signed by not less than at least five percent
+17 of the qualified electors of the state. The secretary of state shall prescribe the form of the
+18 petition, including petition size and petition font size, shall be prescribed by the State
+19 Board of Elections.
+20 Section 5. That § 2-1-3.1 be AMENDED:
+21 2-1-3.1. A petition sponsor shall file, in physical and electronic format, a petition
+22 to refer a law, as it is to be circulated, with the secretary of state before the petition may
+23 be circulated. The petition must:
+24 (1) Contain, in fourteen-point font, the title of the referred law;
+25 (2) Contain the effective date of the referred law in fourteen-point font;
+26 (3) Contain the date of the general election at which the referred law is to be submitted
+27 in fourteen-point font;
+28 (4) Be accompanied by a notarized form signed by each person who is a petition
+29 sponsor, which includes the names and addresses of each petition sponsor; and
+30 (5) Be accompanied by a statement of organization as provided in § 12-27-6.
+31 The title required to be contained on a petition to refer a law, pursuant to
+32 subdivision (1), must be included on both sides of the sheet of paper on which the petition
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 5 1324
+1 is printed. The title printed on the back side of the petition must be printed in at least
+2 sixteen-point font.
+3 Only an individual who is registered as a voter of this state, pursuant to chapter
+4 12-4, may be a petition sponsor for a petition to refer a law.
+5 The petition circulator shall provide to each person individual who signs the petition
+6 a circulator handout containing the title of the referred law; the name, phone number,
+7 and email address of each petition sponsor; a statement whether the petition circulator is
+8 a volunteer or paid circulator and, if a paid circulator, the amount the circulator is being
+9 paid. The secretary of state must approve the circulator handout for each referred law
+10 before the petition is circulated.
+11 The signatures on a petition to refer a law must be filed with the secretary of state
+12 within ninety days after the Legislature that passed the referred law adjourned sine die.
+13 A sworn affidavit, stating that the documents filed constitute the entire petition and, to
+14 the best knowledge of the sponsors, contain at least the number of valid signatures
+15 required by S.D. Const., Art. III § 1, must be signed by at least two-thirds of the petition
+16 sponsors and filed with the secretary of state, along with the petition signatures.
+17 The State Board of Elections secretary of state shall prescribe the form of the
+18 petition and affidavit.
+19 Section 6. That § 12-1-3 be AMENDED:
+20 12-1-3. Terms used in this title mean:
+21 (1) "Ballot question committee," as defined by § 12-27-1 a person that raises, collects,
+22 or disburses contributions for the purpose of:
+23 (a) Proposing a ballot question;
+24 (b) Opposing the placement of a ballot question on the ballot; or
+25 (c) Advocating for the adoption or defeat of one or more ballot questions;
+26 (2) "Candidate," a person whose name is on the ballot or who is entitled to be on the
+27 ballot to be voted upon for nomination or election at any election an individual who
+28 seeks nomination for or election to a public office and:
+29 (a) Raises, collects, or disburses contributions in excess of five hundred dollars;
+30 (b) Has authorized the solicitation of contributions or the making of
+31 expenditures;
+32 (c) Has been certified as a candidate by a political party;
+33 (d) Has created a candidate campaign committee for the purpose of obtaining
+34 public office; or
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 6 1324
+1 (e) Has taken all actions required by state law to qualify for nomination or
+2 election to a public office;
+3 (3) "Election," any election held under the laws of this state;
+4 (4) "Election officials," state and local officials charged with the duty of conducting
+5 elections and the canvass of returns;
+6 (5) "Elector," a person qualified to register as a voter, whether or not the person is
+7 registered;
+8 (6) "Electronic pollbook," an electronic system containing both the digital information
+9 system that contains a jurisdiction's registration list and pollbook;
+10 (7) "General election," the vote required to be taken in each voting precinct of the
+11 state on the first Tuesday after the first Monday in November of each even-
+12 numbered year;
+13 (4) "Independent candidate," any registered voter who, regardless of party affiliation,
+14 seeks election to public office without party affiliation;
+15 (5) "Independent" or "no party affiliation," any individual who, when registering as a
+16 voter, does not provide a party affiliation when completing the voter registration
+17 application, draws a line through the space provided to provide a party affiliation
+18 when completing the application, or who writes on the application:
+19 (a) Independent;
+20 (b) I;
+21 (c) Ind.;
+22 (d) No party affiliation;
+23 (e) No party;
+24 (f) No choice; or
+25 (g) Nonpartisan;
+26 (8) "Paid circulator," any person who receives money or anything of value for collecting
+27 signatures for a petition;
+28 (9) "Party office," an office of a political party organization as distinct from a public
+29 office;
+30 (10)(6) "Person in charge of an election," or "person charged with the conduct of an
+31 election," the county auditor in all cases except local elections for a municipality,
+32 school district, township, or other political subdivision, in which case it is the officer
+33 or, in a political subdivision election, the individual having the position comparable
+34 to the auditor in that unit of government subdivision, if not specifically designated
+35 by law;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 7 1324
+1 (11)(7) "Petition," a form prescribed by the State Board of Elections, which contains
+2 the question or candidacy being petitioned, the declaration of candidacy if required
+3 and the verification of the circulator. If multiple sheets of paper are necessary to
+4 obtain the required number of signatures, each sheet shall be self-contained and
+5 separately verified by the circulator secretary of state, on which signatures may be
+6 collected and by which a ballot question is proposed, a political party is organized,
+7 or a candidate qualifies to be included on a ballot for nomination or election to a
+8 public office;
+9 (12)(8) "Petition circulator," a resident of the State of South Dakota as defined under
+10 § 12-1-4, who is at least eighteen years of age who circulates nominating petitions
+11 or other petitions for the purpose of placing candidates or issues on any election
+12 ballot an individual who:
+13 (a) Is a resident of this state, as defined in § 12-1-4;
+14 (b) Is at least eighteen years old; and
+15 (c) In the presence of another individual, solicits from the other individual a
+16 signature on a petition by presenting or otherwise making the petition
+17 available to the other individual or acting in concert with another petition
+18 circulator who presents or otherwise makes the petition available to the
+19 other individual;
+20 (13)(9) "Political party," beginning with the 2014 general election and each general
+21 election thereafter, a party whose candidate for any statewide office received at
+22 least two and one-half two-and-one-half percent of the total votes cast for that
+23 statewide office in either of the two previous general election cycles;
+24 (14)(10) "Pollbook" or "poll list," a list containing, in numerical order the names of all
+25 persons voting, the name of each individual registered and eligible to vote at the
+26 an election and type of ballot voted that the individual is eligible to receive;
+27 (15)(11) "Polling place," a designated place voters may go to vote where voting occurs;
+28 (16)(12) "Poll watcher," a person chosen to observe the conduct of an election an
+29 individual designated by a candidate, political party, or ballot question committee
+30 to observe the conduct of an election;
+31 (17)(13) "Primary" or "primary election," an election held at which candidates are
+32 nominated for public office;
+33 (18)(14) "Public office," an elected position in government;
+34 (19)(15) "Qualified elector," an individual who is eligible to register, and has registered,
+35 as a voter of this state;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 8 1324
+1 (16) "Registration list," a list of eligible voters; and
+2 (20) "Registered mail," does not include certified mail;
+3 (21) "Registration officials," the county auditor and deputies and other persons
+4 authorized to assist in registration pursuant to chapter 12-4;
+5 (22) "Vote center," a polling place when the precinct has been defined as the entire
+6 jurisdiction and an electronic pollbook is utilized;
+7 (23) "Voter," a person duly registered to vote or one who is performing the act of voting;
+8 (24) "Independent (IND)" or "no party affiliation (NPA)," any currently registered voter
+9 who writes independent, I, Ind, no party affiliation, no party, no choice,
+10 nonpartisan, or line crossed off in the choice of party field on the voter registration
+11 form and any individual who is not currently registered to vote who leaves the
+12 choice of party field blank on the voter registration form;
+13 (25) "Independent candidate," notwithstanding the definition of independent as stated
+14 in this chapter, any registered voter regardless of party affiliation who declares to
+15 be an independent candidate for public office pursuant to this chapter;
+16 (26) "Other," any voter who writes a political party not recognized in South Dakota in
+17 the choice of party field on the voter registration form
+18 (17) "Voter," a qualified elector, regardless of whether the elector is performing the act
+19 of voting.
+20 Section 7. That § 12-1-9 be AMENDED:
+21 12-1-9. The State Board of Elections secretary of state shall promulgate rules,
+22 pursuant to chapter 1-26, concerning prescribing:
+23 (1) Forms The forms for voter registration and voter file maintenance;
+24 (2) Forms The form and color of ballots;
+25 (3) Forms The forms for notices;
+26 (4) The uniformity of election procedures The procedures for conducting an election;
+27 (5) The operation of the State Board of Elections; The implementation of the Uniformed
+28 and Overseas Citizens Absentee Voting Act, 52 U.S.C. § 20301 et seq., (January
+29 1, 2023);
+30 (6) The procedure to accept for accepting a petition and verify verifying petition
+31 signatures;
+32 (7) Petition forms The form of petitions, including petition size and petition font size;
+33 (8) Envelopes The envelopes used for absentee voting;
+34 (9) Instructions The instructions to voters and absentee voters;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 9 1324
+1 (10) Recounts; and
+2 (11) Post-election audits The process by which a recount is conducted;
+3 (11) The process by which ballots are counted and canvassed after each election;
+4 (12) The process by which a post-election audit is conducted; and
+5 (13) The number of poll watchers that may be permitted in a polling place.
+6 Section 8. That § 12-1-9.1 be AMENDED:
+7 12-1-9.1. The State Board of Elections secretary of state may not authorize and
+8 a political subdivision may not adopt or enforce in any manner a rule, resolution, charter
+9 provision, or ordinance establishing a system of voting for any office where:
+10 (1) Voters rank candidates in order of preference;
+11 (2) Tabulation proceeds in rounds where in each round either a candidate is elected or
+12 the last-place candidate is eliminated;
+13 (3) Votes are transferred from elected or eliminated candidates to the voter's next-
+14 ranked candidate in order of preference; and
+15 (4) Tabulation ends when a candidate receives the majority of votes cast or the
+16 number of candidates elected equals the number of offices to be filled.
+17 Section 9. That § 12-1-10 be AMENDED:
+18 12-1-10. The Board of Elections shall report to and secretary of state shall make
+19 recommendations to the secretary of state Legislature concerning desirable or necessary
+20 changes in the election laws of this state.
+21 Section 10. That § 12-1-11 be AMENDED:
+22 12-1-11. Except as otherwise provided by law, in any election in which all voters
+23 of a county participate, the costs relating to the election shall an election in which all the
+24 registered voters of a county are eligible to participate must be paid by the county, from
+25 funds appropriated therefor. In all other elections, costs shall The cost of any other election
+26 must be paid from funds appropriated by the governing body of municipalities, school
+27 districts, and other political subdivisions the political subdivision requiring an the election
+28 for their own purposes. Costs relating to a combined municipal and school board election,
+29 or in the case of a combined election, may be shared under the provisions of §§ 9-13-1.1
+30 and 13-7-10.1. Neither the state nor any political subdivision may accept any funds,
+31 grants, or gifts for election costs from any source other than the governing body of a
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 10 1324
+1 political subdivision, the state, or the federal government, except for gifts of a nominal
+2 and intrinsic value as defined by the State Board of Elections and given in compliance with
+3 the provisions of § 12-18-3. The State Board of Elections shall promulgate rules pursuant
+4 to chapter 1-26 to prescribe the definition of nominal and intrinsic value.
+5 The state or any political subdivision may not accept any funds, grants, or gifts for
+6 election costs from any source other than the governing body of a political subdivision,
+7 the state, or the federal government.
+8 Section 11. That § 12-1-21 be AMENDED:
+9 12-1-21. The State Board of Elections secretary of state shall resolve any
+10 complaint filed under Section 402 of the Help America Vote Act of 2002, as of January 1,
+11 2003 52 U.S.C. § 21112 (January 1, 2003), in accordance with the contested case
+12 provisions of chapter 1-26. The complaint shall must be signed, notarized, and filed with
+13 the secretary of state. The board shall. The secretary must resolve the complaint within
+14 ninety fourteen days of its filing. The State Board of Elections may secretary shall
+15 promulgate rules, pursuant to chapter 1-26, governing the procedure for the complaint
+16 process.
+17 Section 12. That § 12-1-22 be AMENDED:
+18 12-1-22. If the State Board of Elections secretary of state does not resolve the
+19 complaint within ninety fourteen days of filing, the complainant may ask the circuit court
+20 for alternative dispute resolution by appointing an impartial third party to serve as an
+21 arbitrator to resolve the dispute. The arbitrator shall resolve the dispute within sixty
+22 fourteen days.
+23 Section 13. That a NEW SECTION be added to chapter 12-1:
+24 The auditor of a county must provide an interpreter, proficient in both the local
+25 Sioux dialect and the English language, in each precinct of the county for the purposes of
+26 translating and communicating all voter instructions, if notified by the secretary of state,
+27 in accordance with section 9 of this Act, that:
+28 (1) The county contains:
+29 (a) Any part of an Indian reservation and more than five percent of the citizens
+30 of American Indian descent living within the reservation are members of a
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 11 1324
+1 single language minority and have limited proficiency in the English
+2 language; or
+3 (b) More than ten thousand voting age citizens or five percent of voting age
+4 citizens, whichever is less, who are members of a single language minority
+5 and have limited proficiency in the English language; and
+6 (2) The illiteracy rate of the citizens in the single language minority is higher than the
+7 national illiteracy rate.
+8 An interpreter must be paid the same amount as a precinct deputy. All expenses
+9 associated with the employment of an interpreter must be paid out of the county general
+10 fund or the appropriate fund of the political subdivision conducting the election.
+11 If the person in charge of the election determines that a precinct does not need
+12 the assistance of an interpreter, the auditor and the state's attorney of the county must
+13 certify to the secretary of state that the precinct does not need the assistance of an
+14 interpreter. The auditor and the state's attorney must provide documentation that
+15 supports the determination as part of the certification.
+16 The state's attorney of a county required to provide an interpreter, pursuant to this
+17 section, may file an action against the United States in the federal court, pursuant to 52
+18 U.S.C. § 10503 (January 1, 2026), to exempt the entire county from the requirement to
+19 provide an interpreter.
+20 For the purposes of 52 U.S.C. § 10503 (January 1, 2026), the Lakota, Nakota, and
+21 Dakota dialects of the Sioux language are historically unwritten languages.
+22 Section 14. That a NEW SECTION be added to chapter 12-1:
+23 The secretary of state shall promulgate rules, pursuant to chapter 1-26, to
+24 establish:
+25 (1) The process by which the secretary notifies a county that the county meets the
+26 requirements of section 8 of this Act and must provide interpreters;
+27 (2) The criteria for an individual to be employed as an interpreter;
+28 (3) The process for certifying that a precinct does not need the assistance of an
+29 interpreter; and
+30 (4) The documentation required to demonstrate that a precinct does not need the
+31 assistance of an interpreter.
+32 Section 15. That § 12-4-1.2 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 12 1324
+1 12-4-1.2. An individual applying to register as a voter shall answer the questions
+2 and sign the oath as required on the voter registration form prescribed by the secretary
+3 of state.
+4 The voter registration form must include a certification of voter eligibility by which
+5 the applicant attests, under the penalty of perjury, that the applicant:
+6 (1) Is a citizen of the United States;
+7 (2) Will be eighteen years or older on or before the next election;
+8 (3) Is a resident of the state of South Dakota;
+9 (4) Has not been judged mentally incompetent;
+10 (5) Is not currently serving a sentence for a felony conviction; and
+11 (6) Authorizes the cancellation of a previous registration, if applicable.
+12 Section 16. That § 12-4-5 be AMENDED:
+13 12-4-5. The county auditor shall enter in the master registration file the name of
+14 each eligible person whose completed application for registration and mail registration
+15 card is received no later than 5:00 individual in the master registration file, if the
+16 individual's voter registration form is received by the county auditor or the local, state, or
+17 federal agency responsible for conducting voter registration, pursuant to § 12-4-2, before
+18 five p.m. local time at least, fifteen days preceding the election by the county auditor or
+19 the local, state, or federal agency responsible for conducting voter registration under this
+20 chapter. A voter registration completed.
+21 If an individual completes a voter registration form at any local, state, or federal
+22 agency during any week commencing on Tuesday through the following Monday shall, the
+23 application must be sent by the agency receiving the application to the appropriate county
+24 auditor by the agency receiving the registration or mail registration card no later than the
+25 following Wednesday.
+26 The State Board of Elections may secretary of state shall promulgate rules,
+27 pursuant to chapter 1-26, to provide for the alternative transmission of voter registration
+28 information by computer from the agency to the secretary of state.
+29 The name of any voter who has registered to vote by 5:00 five p.m. local time,
+30 fifteen days preceding a runoff election shall must be added to the file used for the runoff
+31 election.
+32 Section 17. That § 12-4-5.3 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 13 1324
+1 12-4-5.3. When a voter registration application is received by the county auditor,
+2 the county auditor or an individual designated by the county auditor shall review the
+3 application for eligibility and completeness. If the applicant is not eligible to be registered
+4 or sufficient information to complete the registration card cannot be obtained from the
+5 applicant, the county auditor must send an acknowledgment notice by nonforwardable
+6 mail to the applicant indicating the reason the registration was not filed. The
+7 acknowledgment notice must state that the applicant needs to submit the corrected
+8 information to the county auditor within thirty days or the voter registration form may not
+9 be processed. The county auditor shall send an acknowledgment notice by nonforwardable
+10 mail to the applicant whose registration is accepted. The State Board of Elections shall
+11 promulgate rules, pursuant to chapter 1-26, prescribing the form of the acknowledgement
+12 notice. The same confirmation mailing required by § 12-4-19 must be sent immediately
+13 to any person whose registration acknowledgment notice is returned undeliverable.
+14 Upon receipt of a voter registration application, the county auditor or an individual
+15 designated by the auditor must review the application to determine whether the applicant
+16 is eligible to register as a voter and whether the application is complete. The county
+17 auditor shall send a notice of acknowledgement by nonforwardable mail to an applicant
+18 whose application was filed.
+19 If the applicant is not eligible to be registered as a voter or if the application lacks
+20 sufficient information to complete the voter's registration, the auditor must send a notice
+21 of acknowledgment to the applicant by nonforwardable mail stating that the application
+22 was not filed and the reason the application was not filed. If the registration was not filed
+23 because the application lacked sufficient information to complete the voter registration
+24 card, the notice must state that the applicant must submit the corrected information to
+25 the county auditor, within thirty days of the date on the notice, or the application will not
+26 be processed.
+27 If a notice of acknowledgement sent pursuant to this section is returned as
+28 undeliverable, the county auditor must send the confirmation mailing required in § 12-4-
+29 19.1.
+30 The secretary of state shall promulgate rules, pursuant to chapter 1-26, to
+31 prescribe the form of the notice of acknowledgement.
+32 Section 18. That § 12-4-5.4 be AMENDED:
+33 12-4-5.4. Any person registering to vote When registering as a voter, an individual
+34 shall provide the person's individual's valid South Dakota driver license number or a South
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 14 1324
+1 Dakota nondriver identification number on the voter registration form. If a person the
+2 individual does not have a valid South Dakota driver license or a South Dakota nondriver
+3 identification number, the person shall individual must provide the last four digits of the
+4 person's individual's social security number on the voter registration form. If a person
+5 If the individual does not have a valid South Dakota driver license, a South Dakota
+6 nondriver identification number, or a social security number, the person individual may
+7 only register only at the county auditor's office and shall must sign a the statement
+8 verifying the fact prescribed by the secretary of state, attesting that the person individual
+9 does not have a valid South Dakota driver license, a South Dakota nondriver identification
+10 number, or a social security number. The statement shall be prescribed by the State Board
+11 of Elections.
+12 Section 19. That § 12-4-5.5 be AMENDED:
+13 12-4-5.5. At the time voter registration information is transmitted from a county
+14 to the statewide voter registration file, the secretary of state shall verify the authenticity
+15 validity of the South Dakota driver license number or the South Dakota nondriver
+16 identification number with the driver license database. If the applicant has provided the
+17 last four digits of the person's applicant's social security number have been provided, the
+18 secretary of state shall must review the social security database to determine that the
+19 number, name, and date of birth are accurate and that this information belongs to the
+20 person. If any of this information is reported as not being accurate, the applicant.
+21 If, after reviewing the driver license or social security number database, the
+22 secretary determines that the driver license number, nondriver identification number, or
+23 social security number is not authentic, the secretary must notify the auditor of the county
+24 in which the applicant is a resident. Upon receiving the notification from the secretary, the
+25 county auditor must withdraw the voter registration and attempt to get the correct the
+26 information with using the process provided in § 12-4-5.3.
+27 The State Board of Elections shall promulgate rules, pursuant to chapter 1-26,
+28 determining technical parameters for the driver license and social security database
+29 verification.
+30 Section 20. That § 12-4-6 be AMENDED:
+31 12-4-6. An applicant for registration shall answer questions and sign the oath as
+32 required on the form prescribed by the State Board of Elections. An applicant for
+33 registration at a driver's license station shall also sign a signature card prescribed by the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 15 1324
+1 Department of Public Safety. This signature shall be digitized and used to prepare the
+2 registration card as provided in § 12-4-5. If an applicant is unable to write his or her
+3 name, the applicant shall make a mark, the applicant's name being written near such
+4 mark, and written by a person who writes his or her own name as a witness.
+5 If the applicant is unable to write the applicant's name, the applicant may make a
+6 mark. The individual who witnesses the applicant making the applicant's mark shall:
+7 (1) Write the applicant's name near the applicant's mark; and
+8 (2) Indicate that the individual has acted as witness to the applicant's mark by writing
+9 the individual's own name under the applicant's name.
+10 An individual applying to register as a voter at a driver license station shall also
+11 sign the signature card prescribed by the Department of Public Safety. The signature must
+12 be digitized and included on the voter's registration prepared by the county auditor,
+13 pursuant to § 12-4-5.
+14 Section 21. That § 12-4-9.2 be AMENDED:
+15 12-4-9.2. A person eligible to vote under § 12-4-1 qualified voter may apply to
+16 the secretary of state to be listed in the master registration file with a secured active
+17 designation.
+18 The secretary of state shall certify a secured active designation if an applicant
+19 provides a sworn application that affirms one of the following, if the applicant provides:
+20 (1) The applicantA sworn statement affirming that the applicant has obtained an active
+21 protection order under chapter 22-19A or 25-10 or chapter 22-19A, which the
+22 secretary of state shall verify with the Unified Judicial System; or
+23 (2) The applicant resides inA statement from an official of a shelter established
+24 pursuant to chapter 25-10. The applicant shall obtain authorization signed by an
+25 official of the shelter.
+26 Upon receipt of the application, indicating that the applicant resides in the shelter.
+27 If the individual applies for a secured active designation affirming that the applicant has
+28 obtained an active protection order under chapter 22-19A or 25-1, the secretary of state
+29 shall must verify with the Unified Judicial System that the applicant petitioned for the
+30 protection order and the order is active.
+31 A voter record with a secured active designation shall must be excluded from public
+32 inspection or copying, except if requested by. The secretary may provide information from
+33 the record of a voter with a secured active designation only upon the request of a law
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 16 1324
+1 enforcement agency, if directed by upon a court order, or if a secured active designation
+2 has been cancelled at the request of the secured active designee.
+3 A secured active designation remains in effect is effective for five years unless
+4 cancelled earlier by the voter with the secured active designation.
+5 The State Board of Elections secretary shall promulgate rules, pursuant to chapter
+6 1-26, to prescribe the notices and forms, as well as any criteria and procedures for
+7 approving applications pursuant to this section.
+8 Section 22. That § 12-4-18 be AMENDED:
+9 12-4-18. The clerk of courts shall, within fifteen days after the close of each
+10 month, prepare an abstract from the records of the names of persons declared mentally
+11 incompetent in the preceding month. The clerk of courts shall send the name of a person
+12 declared mentally incompetent to the county auditor of the county in which the person
+13 declared incompetent resides.
+14 The county auditor shall remove from the master registration list:
+15 (1) The names of persons identified as mentally incompetent in accordance with the
+16 information provided pursuant to this section;
+17 (2) The names of those convicted of a felony and sentenced to imprisonment in the
+18 federal penitentiary system; and
+19 (3) The names published in an obituary obituaries.
+20 The county auditor shall match voter registration records maintained in or
+21 transmitted to the statewide voter registration file with the death records maintained as
+22 vital statistics records by the Department of Health, the social security death index, the
+23 Social Security Administration master death file, and the records of felony convictions
+24 maintained by the Unified Judicial System each month. Any voter identified as deceased,
+25 as mentally incompetent, or who is as serving a sentence for a felony conviction must be
+26 removed from the voter registration records.
+27 The State Board of Elections shall promulgate rules, pursuant to chapter 1-26,
+28 determining how voter registration records are matched.
+29 Prior to providing a registration list to precincts, as prescribed in § 12-4-10, the
+30 county auditor must certify with the secretary of state that all individuals required to be
+31 removed from the master registration list have been removed based on the information
+32 available to the county auditor at the time the certification is submitted.
+33 The State Board of Elections secretary of state shall promulgate rules, pursuant
+34 to chapter 1-26, prescribing to establish the process by which voter registration records
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 17 1324
+1 are matched and to prescribe the form to certify for certifying the accuracy of the master
+2 registration list file.
+3 Section 23. That § 12-4-19 be AMENDED:
+4 12-4-19. Any voter in the active registration file who has failed to vote, has not
+5 updated the voter's registration information, and has not replied to a confirmation mailing
+6 at least once during the last preceding four consecutive years shall be sent a
+7 nonforwardable return-if-undeliverable address verification request. If the request is
+8 undeliverable then a confirmation mailing prescribed by the State Board of Elections shall
+9 be sent. If a county auditor has determined through a national change of address licensee
+10 of the United States Postal Service that the address of a voter who is to be sent an address
+11 verification request has changed, the confirmation mailing may be omitted. This process
+12 shall be performed by each county auditor from January first to November fifteenth,
+13 inclusive, of each odd-numbered year.
+14 The county auditor must send a nonforwardable return-if-undeliverable address
+15 verification request to any voter in the active voter registration file if the voter has not, at
+16 least once during the previous four years:
+17 (1) Voted;
+18 (2) Updated the voter's registration information; or
+19 (3) Replied to a confirmation mailing sent by the auditor's office.
+20 The auditor shall send any verification request required by this section during the
+21 period beginning January first and ending November fifteenth, of each odd-numbered
+22 year.
+23 Section 24. That § 12-4-19.1 be AMENDED:
+24 12-4-19.1. The confirmation mailing notice shall be a double postcard stating that
+25 the voter's registration may be canceled if the card is not returned. In addition, the card
+26 shall state that if
+27 If the address verification request sent pursuant to § 12-4-19 is returned to the
+28 auditor as undeliverable, the auditor must send a confirmation mailing on a double
+29 postcard that lists the voter's information as it appears in the master registration file and
+30 provides the following instructions:
+31 (1) If the information on the return card is correct, the voter must sign and return the
+32 card within thirty days of the date of the postmark on the card or the voter's
+33 registration will become inactive. The card shall also state that if;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 18 1324
+1 (2) If the information on the return card is not correct, the voter shall must send the
+2 correct information to update the voter's registration within thirty days of the date
+3 of the postmark on the card or the voter's registration will become inactive.; and
+4 (3) If the card is returned indicating a new address in another county in South Dakota
+5 or another state, the card shall serve serves as a cancellation authorization.
+6 The card shall must also give information on reregistering if the voter has moved
+7 to another county or state. The card shall give the information about the voter as it
+8 appears in the registration records.
+9 The confirmation mailing may be omitted if the county auditor, after reviewing
+10 information provided by a national change of address licensee of the United States Postal
+11 Service, has determined that a voter who is to be sent an address confirmation mailing
+12 has changed the address where the voter is a resident.
+13 Section 25. That § 12-4-54 be AMENDED:
+14 12-4-54. By March July first of each year, the secretary of state shall submit a
+15 report to the State Board of Elections Government Oversight and Accountability
+16 Committee, providing the number of voters removed from a each county's voter
+17 registration list master registration file during the previous year due to inactivity, death,
+18 felony conviction, mental incompetence, relocation to another jurisdiction, or as the result
+19 of an application for correction,:
+20 (1) Death;
+21 (2) Felony conviction;
+22 (3) Inactivity;
+23 (4) Mental incompetence;
+24 (5) Relocation to another jurisdiction; or
+25 (6) A voter registration challenge filed pursuant to § 12-4-60.
+26 The content of the report must be published on the official website of the secretary
+27 of state.
+28 Section 26. That § 12-4-56 be AMENDED:
+29 12-4-56. A person registered to vote, pursuant to this chapter, may A qualified
+30 elector may, using the form prescribed by the secretary of state, request that the auditor
+31 of the county in which the voter resides elector is registered as a voter remove the person's
+32 elector's name from the master registration list. If a person file. If a qualified elector
+33 makes a request pursuant to this section less than fourteen days prior to before an
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 19 1324
+1 election, the removal of the individual's elector's name is effective on the day after the
+2 election. The State Board of Elections shall promulgate rules, pursuant to chapter 1-26,
+3 prescribing the form to be used by a person requesting the removal of the person's name
+4 from the master registration list.
+5 Section 27. That § 12-4-60 be AMENDED:
+6 12-4-60. To file an application for correction, the individual must sign and file an
+7 affidavit attesting that, to the best of the individual's personal knowledge and belief,
+8 having exercised due diligence to personally verify the evidence presented, the challenged
+9 voter is not qualified to vote based on one of the reasons set forth in § 12-4-58 or 12-4-
+10 59.
+11 The individual must provide the factual basis for filing the application, including the
+12 information required by this section, in the signed affidavit. The application may not be
+13 based on an unsupported allegation or the allegation of an anonymous third party. The
+14 application must be in a form prescribed by the State Board of Elections secretary of state,
+15 and must contain the:
+16 (1) Name of the challenged individual;
+17 (2) Address of the challenged individual;
+18 (3) Name of the individual filing the application;
+19 (4) Address, phone number, and email address of the individual filing the application;
+20 (5) Date of the affidavit; and
+21 (6) Reason for the challenge, pursuant to § 12-4-58 or 12-4-59.
+22 The individual who files the application shall include documented evidence related
+23 to the challenge as an attachment to the affidavit. The State Board of Elections secretary
+24 shall promulgate rules, pursuant to chapter 1-26, establishing the form of the affidavit
+25 and the documentation that must be included with the affidavit as evidence of the voter's
+26 qualifications.
+27 An individual's social security number, driver license number, South Dakota
+28 nondriver identification card number, passport number, or contact information, may not
+29 be made public as part of a challenge. An individual who intentionally makes public any
+30 information that is confidential, pursuant to this section, is guilty of a Class 2
+31 misdemeanor.
+32 Section 28. That § 12-4-61 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 20 1324
+1 12-4-61. If a county auditor receives an application for correction, pursuant to
+2 § 12-4-60, and, after researching the voter, determines the affidavit raises a valid
+3 challenge, the auditor must send a verification request to the voter named in the
+4 application. The verification request must be sent by forwardable mail in compliance with
+5 the National Voter Registration Act, 52 U.S.C. §§ 20501 to 20511, inclusive (January 1,
+6 2025).
+7 The verification request must be returned to the auditor within thirty days of the
+8 postmark date and must include documentation sufficient to demonstrate the voter's
+9 qualifications as a registered voter. The voter named in the application may request a
+10 hearing before the county auditor to demonstrate the voter's qualifications as a registered
+11 voter.
+12 The county auditor must cancel a voter's registration if the voter:
+13 (1) Fails to produce documentation sufficient to demonstrate the voter's qualifications;
+14 and
+15 (2) Has not voted or appeared to vote in an election during the period between:
+16 (a) The date that the verification request was sent; and
+17 (b) The day after the first general election following the date of the verification
+18 request.
+19 The county auditor may not cancel the voter registration of an individual challenged
+20 pursuant to § 12-4-59, within the ninety days immediately prior to the date of an election.
+21 The State Board of Elections secretary of state shall promulgate rules, pursuant to
+22 chapter 1-26, establishing the process by which a county auditor must research a
+23 registered voter to establish the validity of a challenge.
+24 Section 29. That § 12-5-8 be AMENDED:
+25 12-5-8. At the time of printing the official primary election ballots, the county
+26 auditor shall also have printed in like number, and for each political party, separate ballots
+27 upon which party voters may vote for precinct committeeman and for precinct
+28 committeewoman of their political party. These ballots shall be furnished to any election
+29 precinct having a contest for such position at the same time with the other election
+30 supplies. The form of these ballots shall be prescribed by the State Board of Elections.
+31 At the time the official ballots are printed for a primary election, the county auditor
+32 shall also print a separate ballot for each political party upon which a voter may vote for
+33 precinct committeeman and precinct committeewoman. The auditor shall provide ballots
+34 for each precinct in which there is more than one candidate for precinct committeeman or
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 21 1324
+1 precinct committeewoman. The auditor shall provide the same number of ballots for the
+2 election of precinct committeeman or precinct committeewoman as the auditor provides
+3 for the primary election pursuant to § 12-16-17.
+4 The secretary of state shall prescribe the form of the ballot for precinct
+5 committeeman or precinct committeewoman.
+6 Section 30. That § 12-5-21.1 be AMENDED:
+7 12-5-21.1. A candidate for Governor shall nominate a candidate for lieutenant
+8 governor by certifying the nomination to the secretary of state no later than five p.m.
+9 central time on the second Tuesday in August in the year of the election. The candidate
+10 for Governor and the candidate's nominee for lieutenant governor shall sign the
+11 certification.
+12 A candidate for lieutenant governor may withdraw from the nomination by filing a
+13 request under oath with the secretary of state. If a candidate for lieutenant governor
+14 withdraws, the candidate for Governor must nominate a replacement by certifying the
+15 nomination to the secretary of state no later than five p.m. central time on the second
+16 Tuesday in August in the year of the election. The candidate for Governor and the
+17 candidate's replacement nominee for lieutenant governor shall sign the certification.
+18 The secretary of state may not place the name of the candidate for Governor on
+19 the general election ballot until a candidate for lieutenant governor has been certified.
+20 The State Board of Elections shall promulgate rules, pursuant to chapter 1-26,
+21 prescribing secretary shall prescribe the forms of the certification and withdrawal of a
+22 candidate for lieutenant governor.
+23 Section 31. That § 12-7-1 be AMENDED:
+24 12-7-1. Any Except as provided in § 12-7-1.2 or 12-7-7, an independent candidate
+25 for nonjudicial public office, except as provided in § 12-7-7, who is not nominated by a
+26 primary election may be nominated by filing a certificate of nomination nominating petition
+27 with the secretary of state or county auditor as prescribed by § 12-6-4, after December
+28 thirty-first and by before five p.m. local time, on the last Tuesday of April at 5:00 p.m.
+29 local time before the election. A certificate of nomination shall be executed before the
+30 election. The nominating petition must be as provided in chapter 12-6. If the certificate of
+31 nomination is mailed by registered mail by the last Tuesday of April at 5:00 p.m. local
+32 time before the election, it is timely submitted A nominating petition is considered to be
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 22 1324
+1 timely submitted if mailed by registered mail before five p.m. local time on the last
+2 Tuesday of April before the election.
+3 The certificate of nomination shall petition must be signed by registered voters a
+4 number of qualified electors within the district or political subdivision in and for which the
+5 officers are to be elected. The number of signatures required may not be less than equal
+6 to at least one percent of the total combined vote number of votes cast for Governor at
+7 the last certified gubernatorial election within the district or political subdivision. The State
+8 Board of Elections shall promulgate rules, pursuant to chapter 1-26, prescribing the forms
+9 for the certificate of nomination.
+10 Section 32. That § 12-7-7 be AMENDED:
+11 12-7-7. Any candidate for President or Vice President of the United States who is
+12 not nominated by a primary election may be nominated by filing with the secretary of
+13 state, after December thirty-first and by the first Tuesday in August at 5:00 p.m. central
+14 time before the election, a certificate of nomination which shall a nominating petition with
+15 the secretary of state after December thirty-first and before five p.m. central time on the
+16 first Tuesday in August before the election. The petition must be executed as provided in
+17 chapter 12-6. If the certificate of nomination is The petition is considered to be timely
+18 submitted if mailed by registered mail by before five p.m. central time on the first Tuesday
+19 in August at 5:00 p.m. central time before the election, it is timely submitted. The number
+20 of signatures required may not be less than in the year of the election. The nominating
+21 petition must be signed by a number of qualified voters of this state equal to at least one
+22 percent of the total combined vote number of votes cast for Governor at the last certified
+23 gubernatorial election within the state.
+24 An independent candidate for President shall file a declaration of candidacy and a
+25 certification of the candidate's selection for Vice President with the secretary of state with
+26 the candidate's nominating petitions petition. The candidate and the candidate's selection
+27 nominee for Vice President shall sign the certification before the nominating petitions
+28 petition are submitted.
+29 An independent candidate for Vice President may withdraw from the nomination
+30 by filing a request under oath with the secretary, pursuant to § 12-6-55. If an independent
+31 candidate for Vice President withdraws pursuant to § 12-6-55, no, the independent
+32 candidate for President shall have the candidate's name printed upon a ballot unless a
+33 replacement selection for Vice President is certified to the secretary of state by the second
+34 Tuesday in August. The State Board of Elections shall promulgate rules, pursuant to
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 23 1324
+1 chapter 1-26, prescribing the forms for the certificate of nomination and the certification
+2 for Vice President must nominate a replacement candidate for Vice President by certifying
+3 the nomination to the secretary no later than five p.m. central time on the second Tuesday
+4 in August in the year of the election. The independent candidate for President and the
+5 candidate's replacement nominee for Vice President shall sign the certification. The
+6 secretary may not place the name of an independent candidate for President on the
+7 general election ballot until a candidate for Vice President has been certified. The secretary
+8 shall prescribe the forms for the certification and withdrawal of a candidate for Vice
+9 President.
+10 Section 33. That § 12-16-1 be AMENDED:
+11 12-16-1. The county auditor shall provide printed ballots for each election in which
+12 the voters of the entire county participate. Except as provided in § 12-6-9, printed Printed
+13 ballots for a primary election must contain the name of each candidate who has filed for
+14 nomination and is approved. The printed ballots for the election of officers must contain
+15 the name of each candidate whose nomination has been certified or filed with the county
+16 auditor in the manner provided by law, unless the candidate is deemed elected by having
+17 no opposition. The names of the candidates must appear on the ballot exactly as listed in
+18 the declaration of candidacy of the candidates' nominating petitions.
+19 Sample ballots must be printed on paper of a different color from the official ballot
+20 but in the same form. The sample ballots and official ballots must be printed and in the
+21 possession of the county auditor not later than forty-eight days prior to a primary or
+22 general election. If there is a challenge pursuant to § 12-1-13 or 12-1-16, official ballots
+23 may not be printed until the challenge has been resolved or until sixty days prior to the
+24 primary or general election, whichever occurs first.
+25 The county auditor shall prepare the necessary ballots, if any question is required
+26 to be submitted to the voters of the county. Ballots for general elections must be of the
+27 style and form prescribed in §§ 12-16-2 to 12-16-10.1, inclusive.
+28 Section 34. That § 12-16-23 be AMENDED:
+29 12-16-23. The county auditor shall cause to be printed, in large type on cards in
+30 the English language, print voting rights notices and instructions in the English language
+31 in large type on cards, for the guidance of voters in preparing their ballots in the form as
+32 prescribed by the State Board of Elections and deliver the cards with the ballots in. The
+33 auditor shall deliver to each precinct a number of cards sufficient numbers to meet the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 24 1324
+1 requirements of § 12-16-25 at the same time the auditor delivers the ballots to the
+2 precinct. The secretary of state shall prescribe the form of the notice and instructions.
+3 Section 35. That § 12-16-28 be AMENDED:
+4 12-16-28. The person in charge of an election shall provide paper ballot precincts
+5 each precinct with a the precinct's pollbook, in the form prescribed by the State Board of
+6 Elections for each election precinct secretary of state, for the purposes of § 12-18-5. If
+7 any jurisdiction uses electronic pollbooks, but does not use vote centers, the
+8 The person in charge of the election shall must provide a printed paper voter
+9 registration list and a printed and bound paper pollbook to each precinct in the jurisdiction
+10 prior to the opening of the polls, if the jurisdiction:
+11 (1) Uses an electronic pollbook; and
+12 (2) Does not use vote centers.
+13 Section 36. That § 12-16-39 be AMENDED:
+14 12-16-39. The tally sheets for candidates for public office and submitted questions
+15 shall be prescribed by the State Board of Elections.
+16 The secretary of state shall prescribe the form of the tally sheet used to tabulate
+17 all votes cast at an election.
+18 Section 37. That § 12-17B-2 be AMENDED:
+19 12-17B-2. Any automatic tabulating or electronic ballot marking system used in
+20 an election shall must enable the a voter to cast a vote for all offices and on all measures
+21 on which the voter is entitled to vote. No automatic tabulating, electronic ballot marking,
+22 or election voting equipment system may be connected to the internet. No ballot marking
+23 device may save or tabulate votes marked on any system.
+24 Each system shall must fulfill the requirements for election assistance commission
+25 standards certification and be approved by the State Board of Elections prior to distribution
+26 and use in this state. No system may be approved unless the system fulfills the
+27 requirements as established by the State Board of Elections secretary of state before the
+28 system may be distributed and used in this state. The secretary may not approve the use
+29 of:
+30 (1) An automatic tabulating system, electronic ballot marking system, or other election
+31 voting system, if the system:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 25 1324
+1 (a) Does not fulfill the requirements for the system, as established by the
+2 secretary; or
+3 (b) May be connected to the internet; or
+4 (2) A ballot marking system, if the system has the ability to save or tabulate votes
+5 marked using the system.
+6 Any changes or modifications to an approved system shall must be approved by
+7 the State Board of Elections prior to distribution and use secretary before the system is
+8 distributed and used in this state.
+9 Section 38. That § 12-17B-3 be AMENDED:
+10 12-17B-3. Any A governing body having supervision of elections within any a
+11 political subdivision may, by resolution, adopt, experiment with, or abandon any the use
+12 of any automatic tabulating or electronic ballot marking system that has been approved
+13 for use by the State Board of Elections secretary of state.
+14 Any governing body may use the system in all or some of the precincts within its
+15 jurisdiction or in combination with any other type of voting system that has been approved
+16 for use by the State Board of Elections secretary.
+17 Section 39. That § 12-17B-5 be AMENDED:
+18 12-17B-5. Not more than ten days prior to an election, the person in charge of
+19 the election shall conduct a test of the automatic tabulating equipment to ascertain that
+20 the equipment will correctly count counts the votes cast for all offices and on all measures.
+21 The test must be open to the public. The person in charge of the election shall
+22 notify the county chair of each political party with a candidate on the ballot, any
+23 independent candidate or candidate without party affiliation on the ballot, and the ballot
+24 question committees for or against an initiated or referred measure or initiated
+25 constitutional amendment on the ballot, of the testing of the automatic tabulating
+26 equipment, one week before the test is conducted. The person in charge of the election
+27 shall post notice of the time and place of the test in the same manner as a public meeting
+28 agenda, pursuant to § 1-25-1.1. The person in charge of the election shall post the notice
+29 of the time and place of the test to the secretary of state's website.
+30 If an errorless count by an automatic tabulating machine is achieved by the test,
+31 the person in charge of the election shall must certify the machine. The State Board of
+32 Elections secretary shall promulgate rules, pursuant to chapter 1-26, prescribing the
+33 certification of properly functioning automatic tabulating equipment under this section.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 26 1324
+1 If an error is detected, the cause of the error shall must be determined and
+2 corrected. Once the error is corrected, the person in charge of the election shall conduct
+3 a new test of the automatic tabulating equipment. The person in charge of the election
+4 may not approve the automatic tabulating equipment until an errorless count is made.
+5 Any additional testing required to achieve an errorless count must be open to the
+6 public. The person in charge of the election shall post notice of the time and place of an
+7 additional test in the same manner as a public meeting agenda, pursuant to § 1-25-1.1.
+8 The person in charge of the election shall notify the county chair of each political party
+9 with a candidate on the ballot, any independent candidate or candidate without party
+10 affiliation on the ballot, and the ballot question committees for or against an initiated or
+11 referred measure or initiated constitutional amendment of the testing of the automatic
+12 tabulating equipment twenty-four hours prior to the test. The person in charge of the
+13 election shall post the notice of the time and place of the additional test to the secretary
+14 of state's website.
+15 The secretary of state shall provide each county auditor with the contact
+16 information for any independent candidate on the ballot, candidate without party affiliation
+17 appearing on the ballot, and the ballot question committees for or against an initiated or
+18 referred measure or initiated constitutional amendment in the auditor's county.
+19 Section 40. That § 12-17B-5.2 be AMENDED:
+20 12-17B-5.2. After the conclusion of the testing of the automatic tabulating
+21 equipment, no software or firmware updates may be made to the automatic tabulating
+22 equipment until after the certification of the election results. Each automatic tabulating
+23 device machine must be sealed with a unique numbered seal. The person in charge of the
+24 election shall verify immediately prior to the official counting of the ballots that the seal
+25 has not been tampered with since the testing period and certification process pursuant to
+26 § 12-17B-5. The State Board of Elections secretary of state shall promulgate rules,
+27 pursuant to chapter 1-26, prescribing the method of sealing automatic tabulating
+28 equipment pursuant to this section.
+29 Section 41. That § 12-17B-11 be AMENDED:
+30 12-17B-11. Except for any specially trained technicians representing the
+31 equipment vendor and required for the operation of the automatic tabulating equipment,
+32 there shall be equal representation from each political party having a candidate on the
+33 ballot and whose candidate on the county-wide ballot at the last general election received
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 27 1324
+1 at least fifteen percent of the votes amongst those employed or authorized to receive,
+2 process, or tabulate the ballots the person in charge of the election shall employ or
+3 otherwise authorize to receive, process, or tabulate ballots, an equal number of individuals
+4 affiliated with each political party that:
+5 (1) Has a candidate on the ballot; and
+6 (2) Had a candidate on the most recent general election ballot who received at least
+7 fifteen percent of the votes cast in that jurisdiction.
+8 The person in charge of the election shall submit the proposed list of employees
+9 shall be submitted to each county party chairperson at least thirty days prior to the
+10 election. Each person employee shall, prior to discharging any duties, take and subscribe
+11 to an the oath as prescribed by the State Board of Elections secretary of state prior to
+12 discharging the employee's duties.
+13 Section 42. That § 12-17B-13.1 be AMENDED:
+14 12-17B-13.1. If automatic tabulating equipment is located at a polling place for
+15 processing ballots while the polls are open, the equipment may not be operated in a
+16 manner which returns an over-voted or partially under-voted ballot to the voter. The
+17 equipment shall be operated in a manner which returns any ballot that appears to the
+18 tabulating equipment to be blank or has any possible mark which the tabulating equipment
+19 cannot determine. If the ballot is returned to the voter, the voter may choose to remark
+20 the ballot, obtain a new ballot, or resubmit the ballot.
+21 Any central count automatic tabulating equipment shall contain the capability to
+22 out-stack ballots and shall be operated in a manner to out-stack any ballot which appears
+23 to the tabulating equipment to be blank or has any possible mark which the tabulating
+24 equipment cannot determine. If the ballot contains any such mark, the resolution board
+25 shall examine the mark and make a determination of any individual vote according to the
+26 rules promulgated pursuant to chapter 1-26 by the state board of elections. The resolution
+27 board shall make a duplicate ballot as prescribed in § 12-17B-14 which shall be counted
+28 by the automatic tabulating equipment.
+29 The automatic tabulating equipment that is located at a polling place to process
+30 ballots while the polling place is open must be programmed to return a ballot to a voter if
+31 the voter:
+32 (1) Has over-voted or partially under-voted;
+33 (2) Has left the ballot blank; or
+34 (3) Made any mark on the ballot that the tabulating machine is not able to count.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 28 1324
+1 If the ballot is returned to the voter, the voter may attempt to resubmit the ballot,
+2 choose to remark the ballot and correct the error, or may obtain a new ballot.
+3 The automatic tabulating equipment that is located at the location designated to
+4 count all of the ballots cast in a jurisdiction must be programmed to out-stack ballots and
+5 must be operated in a manner to out-stack any ballot that the equipment reads as blank
+6 or has a mark that the equipment is not able to count. If the ballot contains a mark that
+7 the tabulating equipment is not able to count, the resolution board must examine the
+8 mark and make a determination regarding the ballot. When the resolution board has made
+9 a determination regarding the disposition of a ballot that the tabulating machine is unable
+10 to count, the resolution board shall make a duplicate ballot, pursuant to § 12-17B-14, for
+11 the tabulating equipment to count.
+12 The secretary of state shall promulgate rules, pursuant to chapter 1-26, to
+13 establish the procedure by which the resolution board examines marks that the tabulating
+14 equipment is unable to count and make a determination about the vote cast.
+15 Section 43. That § 12-17B-17 be AMENDED:
+16 12-17B-17. The State Board of Elections may secretary of state shall promulgate
+17 rules, pursuant to chapter 1-26 concerning, prescribing:
+18 (1) The criteria and procedure for approving voting systems pursuant to this chapter;
+19 (2) Notices The notices and forms used in the process of testing, using, and auditing
+20 any voting system employed pursuant to this chapter;
+21 (3) Test procedures The procedures for testing a voting system employed pursuant to
+22 this chapter; and
+23 (4) The arrangement and conduct of voting, absentee voting, tabulating, preparing
+24 returns, and recounts.
+25 Section 44. That § 12-17B-19 be AMENDED:
+26 12-17B-19. The office of the secretary of state shall reimburse each county for
+27 the cost of any the post-election audit required by §§ 12-17B-18 to 12-17B-25, inclusive.
+28 The State Board of Elections secretary shall promulgate rules, pursuant to chapter
+29 1-26, administering the reimbursement process and defining reimbursable expenses and
+30 reimbursement rates for post-election audits.
+31 Section 45. That § 12-18-6.2 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 29 1324
+1 12-18-6.2. If a voter is not able to present a form of personal identification as
+2 required by § 12-18-6.1, the voter may must complete an affidavit in lieu of the personal
+3 identification before the voter may be given a ballot.
+4 The State Board of Elections secretary of state shall promulgate rules, pursuant to
+5 chapter 1-26, prescribing the form of the affidavit. The affidavit shall must require the
+6 voter to provide his or her the voter's name and address. The voter shall sign the affidavit
+7 under penalty of perjury.
+8 Section 46. That § 12-18-7.2 be AMENDED:
+9 12-18-7.2. If any person attempting to vote in any election claims to be registered
+10 or any person attempting to vote in any election claims to be in the inactive registration
+11 file but does not possess an acknowledgment notice and the person's name does not
+12 appear in the registration list of the precinct, the person may vote if one of the members
+13 of the precinct election board first confirms by telephone or other means with the county
+14 auditor or a deputy auditor that the name was erroneously omitted from the list, and an
+15 emergency voting card, in duplicate, in the form prescribed by the State Board of Elections
+16 is signed by the applicant and each member of the precinct election board.
+17 A member of the precinct election board must confirm an individual's status as a
+18 qualified voter with the county auditor if the individual requests a ballot and:
+19 (1) The name of an individual requesting a ballot does not appear in the precinct's
+20 voter registration list; and
+21 (2) The individual does not possess an acknowledgement notice, sent pursuant to
+22 § 12-4-5.3, indicating that the individual's voter registration was accepted.
+23 If the auditor confirms that the omission of the individual's name from the voter
+24 registration list was a mistake, the individual must be issued an emergency voting card,
+25 in the form prescribed by the secretary of state. The card must be issued in duplicate and
+26 must be signed by the individual requesting the ballot and each member of the precinct
+27 election board.
+28 The original emergency voting card shall must be retained by the precinct
+29 superintendent as part of the precinct superintendent's permanent records, and the
+30 duplicate shall must be given to the voter. In a primary election, the party affiliation of
+31 any voter using the emergency voting procedure of this section shall must be designated
+32 on the emergency voting card.
+33 Section 47. That § 12-18-7.4 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 30 1324
+1 12-18-7.4. Any person whose name appears on the inactive registration list in the
+2 possession of the precinct superintendent may vote in any election following completion
+3 of an affirmation of the person's address in this state.
+4 An individual must complete an affirmation of the individual's residence address
+5 before the individual is eligible to vote at an election, if the individual's name is included
+6 in the precinct's inactive voter registration list.
+7 If the voter has moved to a new address within the state, this the affirmation shall
+8 must serve as a new registration. The affirmation shall be prescribed by the State Board
+9 of Elections The secretary of state shall prescribe the form of the affirmation.
+10 Section 48. That § 12-18-40 be AMENDED:
+11 12-18-40. Before giving a person a provisional ballot, the person shall complete
+12 an affirmation. The person's name shall be written in the pollbook along with a designation
+13 that the person has cast a provisional ballot. The person shall be given the ballot
+14 appropriate to the precinct in which the person is claiming to be registered, along with a
+15 provisional ballot envelope. After the person votes, the person shall seal the ballot in the
+16 provisional ballot envelope and complete the statement on the envelope. The envelope
+17 shall then be placed in the ballot box. The provisional ballot and provisional ballot envelope
+18 shall be prescribed by the State Board of Elections.
+19 An individual eligible to cast a provisional ballot shall complete an affirmation, as
+20 prescribed by the secretary of state, before a member of the precinct election board may
+21 provide the individual with the provisional ballot. The member of the precinct election
+22 board providing the individual the provisional ballot shall write the individual's name in
+23 the pollbook along with a statement indicating that the individual has been issued a
+24 provisional ballot. The member shall also provide the individual with a provisional ballot
+25 envelope. The individual must be issued the ballot for the precinct in which the individual
+26 claims to be registered as a voter. After marking the ballot, the individual shall seal the
+27 ballot in the provisional ballot envelope and complete the statement on the envelope.
+28 The secretary shall prescribe the form of the provisional ballot, the provisional
+29 ballot envelope, and the statement.
+30 Section 49. That § 12-19-2.5 be AMENDED:
+31 12-19-2.5. The State Board of Elections shall promulgate rules, pursuant to
+32 chapter 1-26, to prescribe the absentee application form and a combined absentee ballot
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 31 1324
+1 application form and return envelope for absentee voting in the office of the person in
+2 charge of the election.
+3 The application may be made by letter or upon any form containing the required
+4 information or upon any form prescribed by the State Board of Elections or the postcard
+5 form referred to in § 12-4-8.1, executed by any person authorized in accordance with the
+6 An individual identified as covered by the provisions of the Uniformed and Overseas
+7 Citizens Absentee Voting Act, 52 U.S.C. § 20301 et seq., as of January 1, 2023 §§ 20301
+8 to 20311, inclusive, (January 1, 2023), may request an absentee ballot by providing the
+9 person in charge of the election with a statement or form containing the information
+10 required in § 12-4-4.4.
+11 Section 50. That § 12-19-4 be AMENDED:
+12 12-19-4. The return envelope for the absentee ballot must have printed on the
+13 reverse thereof a statement to be signed by the voter. The State Board of Elections shall
+14 promulgate rules, pursuant to chapter 1-26, prescribing the forms for the return envelope,
+15 ballots, and instructions to the voter.
+16 The secretary of state shall promulgate rules, pursuant to chapter 1-26, prescribing
+17 the form of:
+18 (1) The absentee ballot application form;
+19 (2) The absentee ballot;
+20 (3) The absentee ballot return envelope;
+21 (4) The combined absentee ballot application form and return envelope for absentee
+22 voting in the office of the person in charge of the election; and
+23 (5) Any instructions to the voter.
+24 The absentee ballot return envelope and the combined absentee ballot application
+25 and return envelope must have printed on the reverse thereof a statement to be signed
+26 by the voter.
+27 Section 51. That § 12-19-9.3 be AMENDED:
+28 12-19-9.3. The person in charge of the election may not establish or place, or
+29 allow any individual to establish or place, an absentee ballot drop box within the official's
+30 jurisdiction. A completed absentee ballot may only must be returned to an office of the
+31 individual in charge of the election pursuant to § 12-19-7.
+32 For the purposes of this section, the term, absentee ballot drop box, means a
+33 receptacle or container into which an individual may deposit a completed absentee ballot.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 32 1324
+1 This term excludes a county auditor's means for physically securing a completed absentee
+2 ballot as required by § 12-19-10 or 12-19-42, including a secured and monitored
+3 receptacle or container at the office of the individual in charge of the election. The State
+4 Board of Elections secretary of state shall promulgate rules, pursuant to chapter 1-26,
+5 prescribing the requirements to ensure the security of the receptacle or container located
+6 at the office of the individual in charge of the election.
+7 A violation of this section is a Class 2 misdemeanor.
+8 Section 52. That § 12-19-50 be AMENDED:
+9 12-19-50. The tally shall be recorded on forms prescribed by the State Board of
+10 Elections. A special pollbook shall also be prescribed by the State Board of Elections.
+11 The secretary of state shall prescribe the form of:
+12 (1) The tally sheet used to record the votes cast on an absentee ballot; and
+13 (2) The pollbook used to document the voters who have voted by absentee ballot.
+14 Except as provided by § 12-19-52, the tally shall of absentee ballots must be
+15 recorded according to the precincts in which the voters are registered and then added to
+16 those individual precinct totals the vote recorded for that precinct.
+17 Section 53. That § 12-20-1 be AMENDED:
+18 12-20-1. As soon as the polls are closed, the precinct superintendent and precinct
+19 deputies shall audit the ballot count as prescribed in §§ 12-20-2 and 12-20-3. The precinct
+20 superintendent and precinct deputies shall then immediately deliver the ballot boxes,
+21 registration book, pollbook, and other election supplies, including voided and unused
+22 ballots, to the counting board, if appointed, and sign a certificate of transmittal and receipt
+23 as prescribed by the State Board of Elections. The:
+24 (1) Audit the ballot count as prescribed in §§ 12-20-2 and 12-20-3;
+25 (2) Deliver to the counting board, if one has been appointed:
+26 (a) The ballot boxes;
+27 (b) Registration book;
+28 (c) Pollbook;
+29 (d) Any voided or unused ballots; and
+30 (e) All other election supplies; and
+31 (3) Sign the certificate of transmittal and receipt prescribed by the secretary of state.
+32 Upon receipt of the ballot boxes and other election supplies, the members of the
+33 precinct election board or the precinct counting board or the precinct election board, if a
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 33 1324
+1 counting board had not been appointed, shall then immediately proceed to count publicly,
+2 in the presence of all persons desiring to attend the count, the votes received at the polls,
+3 and continue without leaving the site of the count, in the presence of any individual who
+4 wishes to observe the counting of the ballots, count the votes cast at the polling place.
+5 The board counting the votes may not stop the count, and members of the board
+6 conducting the count may not leave the site, until the count is completed. A person The
+7 individual charged with implementing this section may not delay the counting of ballots
+8 other than to authorize short recesses for the health and wellbeing of those employed to
+9 implement this section. In counting the votes, the members of the precinct election board
+10 or counting board shall use the tally sheets provided prescribed by the secretary.
+11 Section 54. That § 12-20-7 be AMENDED:
+12 12-20-7. Any ballot or part of a ballot from which it is impossible to determine the
+13 voter's choice by using standards defined by the State Board of Elections shall be void and
+14 may not be counted. If the precinct election board or precinct counting board is unable to
+15 determine the voter's intent using the standards established by the secretary of state, the
+16 board may not count the ballot and must mark the ballot as void.
+17 The State Board of Elections secretary shall promulgate rules, pursuant to chapter
+18 1-26, defining standards for determining voter intent.
+19 Section 55. That § 12-20-13.2 be AMENDED:
+20 12-20-13.2. The provisional ballot counting board or resolution board and
+21 tabulation machine operators shall convene one hour prior to the convening of the
+22 canvassing board. The provisional ballots, which the person in charge of the election has
+23 determined are not invalid according to § 12-20-5.1, shall be counted to count the
+24 provisional ballots that have been determined to be valid.
+25 Upon completion of the count, the provisional ballot counting board or resolution
+26 board shall complete a certification of the provisional ballot count and give the certification
+27 to the canvassing board. The certification form shall be prescribed by the State Board of
+28 Elections.
+29 The secretary of state shall prescribe the form of the provisional ballot certification.
+30 Section 56. That § 12-20-13.4 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 34 1324
+1 12-20-13.4. Within ten days after the official county canvass each person voting
+2 by provisional ballot shall be sent by the person in charge of the election a notice advising,
+3 the person in charge of the election shall send to each individual who cast a provisional
+4 ballot a notice, as prescribed by the secretary of state, stating whether the individual's
+5 provisional ballot was counted. The notice shall be prescribed by the State Board of
+6 Elections.
+7 Section 57. That § 12-20-18 be AMENDED:
+8 12-20-18. After the votes have been counted, the members of the precinct
+9 election board shall set down write in the pollbook and on the duplicate tally sheet on
+10 forms therein prescribed by the State Board of Elections the name of each person voted
+11 for, the office for which the person received votes, candidate on the ballot and the office
+12 that each candidate was seeking, and the number of votes each person candidate
+13 received, the. The number of votes that each person candidate received shall be expressed
+14 at length must be written out as words.
+15 Section 58. That § 12-21-2 be AMENDED:
+16 12-21-2. The county recount board of each county which conducts a recount
+17 authorized by this chapter shall be appointed by the presiding judge of the circuit court
+18 for that county.
+19 The presiding judge of the circuit court of the county conducting a recount, as
+20 provided in this chapter, shall appoint the recount board for the county.
+21 At a general election, a judicial primary election, or an election for a referred or
+22 submitted question ballot question, the recount board shall consist of a recount referee
+23 who is a duly qualified member of the State Bar of South Dakota and a member of the
+24 political party that received the greatest number of votes in the county in the race for
+25 Governor in the last gubernatorial election, and two voters of the county representing the
+26 two political parties with the largest registration in the county. The recount referee must
+27 be a qualified member of the State Bar of South Dakota and a member of the political
+28 party whose candidate for Governor received the greatest number of votes in the county
+29 in the last gubernatorial election.
+30 In a non-judicial primary election or runoff election pursuant to § 12-6-51.1, the
+31 recount board must shall consist of members of the same political party as the candidates
+32 in the contest being recounted. The recount board must consist of a recount referee who
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 35 1324
+1 is a duly qualified member of the state bar and two voters of the county. The recount
+2 referee must be a qualified member of the state bar.
+3 An individual may not serve on the recount board if the individual is a candidate
+4 for the office that is the subject of the recount, or is the husband, wife, father, mother,
+5 father-in-law, mother-in-law, son, daughter, son-in-law, daughter-in-law, brother, or
+6 sister, whether by birth or marriage, of the whole or the half-blood, of any candidate
+7 involved in the recount.
+8 Prior to serving, each member of the recount board shall take an oath that the
+9 member will act in good faith, with impartiality, and that the member meets the
+10 qualifications to serve as a member of the county recount board. The State Board of
+11 Elections shall promulgate rules, pursuant to chapter 1-26, that secretary of state shall
+12 prescribe the form of the oath to be taken under this section.
+13 Section 59. That § 12-1-5 be REPEALED.
+14 There is created a State Board of Elections to be composed of seven members, one
+15 of whom shall be the secretary of state who is chairman. Two of the members shall be
+16 county auditors appointed by the Speaker of the House of Representatives from a list of
+17 nominees supplied by the county auditors meeting at the South Dakota Association of
+18 County Officials. The auditors appointed by the Speaker of the House of Representatives
+19 shall be of different political party registration. One auditor appointed in 1991 shall be
+20 appointed for a two-year term and one shall be appointed for a four-year term. All
+21 appointments of auditors after 1991 shall be for four years. One member of the board
+22 shall be appointed by each of the following officers: the democratic leader of the Senate,
+23 the democratic leader of the House of Representatives, the republican leader of the Senate
+24 and the republican leader of the House of Representatives. Appointments to the board
+25 shall be as follows: the appointee of the democratic leader of the House of
+26 Representatives, 1980 and each fourth year thereafter; the appointee of the republican
+27 leader of the Senate, 1981 and each fourth year thereafter; the appointee of the
+28 republican leader of the House of Representatives, 1982 and each fourth year thereafter;
+29 the appointee of the democratic leader of the Senate, 1983 and each fourth year
+30 thereafter. After the appointments made in 1979, the terms of all appointed members of
+31 the board, except auditors, shall be for four years. All appointments to the board are to
+32 be made by January thirty-first of each year. Vacancies on the board shall be filled in the
+33 same manner as the original appointments were made. All appointed members of the
+34 board shall file with the secretary of state an oath in the form prescribed by § 3-1-5.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 36 1324
+1 Section 60. That § 12-1-6 be REPEALED.
+2 The per diem and expenses of the board shall be established by the Executive
+3 Board of the Legislative Research Council unless otherwise provided by law.
+4 Section 61. That § 12-1-7 be REPEALED.
+5 The Office of the Secretary of State is hereby charged with the duty and
+6 responsibility to serve as the secretariat of the State Election Board and shall assist the
+7 board as may be directed by the said board.
+8 Section 62. That § 12-1-8 be REPEALED.
+9 The Office of the Attorney General shall provide such legal assistance as the State
+10 Election Board may require.
+11 Section 63. That § 12-3-6 be REPEALED.
+12 Whenever the United States Department of Justice and the United States Census
+13 Bureau, acting pursuant to Public Law 94-73, designate any county in South Dakota to be
+14 covered under the provisions of the Voting Rights Act Amendments of 1975, the county
+15 so designated shall be governed by the provisions of §§ 12-3-6 to 12-3-13, inclusive. The
+16 secretary of state shall notify those affected counties that they are covered by the
+17 provisions of Public Law 94-73.
+18 Section 64. That § 12-3-7 be REPEALED.
+19 The state's attorney of any affected county is hereby authorized to bring
+20 appropriate proceedings, pursuant to Public Law 94-73, to exempt the entire county from
+21 the provisions of that act.
+22 Section 65. That § 12-3-8 be REPEALED.
+23 Sections 12-3-6 to 12-3-13, inclusive, shall apply to all elections held within the
+24 affected counties designated pursuant to § 12-3-6, and the person in charge of such
+25 elections shall be responsible for the implementation of such sections.
+26 Section 66. That § 12-3-9 be REPEALED.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 37 1324
+1 The Legislature finds that the Lakota, Nakota, and Dakota dialects of the Sioux
+2 language are "historically" unwritten languages and are defined as such by the provisions
+3 of Public Law 94-73.
+4 Section 67. That § 12-3-10 be REPEALED.
+5 The county auditor of the counties affected by §§ 12-3-6 to 12-3-13, inclusive,
+6 shall provide election assistance to any Indian by providing a person proficient in both the
+7 local Sioux dialect and the English language in all precincts of the county for the purposes
+8 of registration, voting and instruction.
+9 Section 68. That § 12-3-11 be REPEALED.
+10 Interpreters shall be provided for precincts as determined by the auditor or person
+11 in charge of that election and interpreters shall be paid the same as precinct deputies. All
+12 expenses shall be paid out of the county general fund or other appropriate political
+13 subdivision fund.
+14 Section 69. That § 12-3-12 be REPEALED.
+15 If any precinct exists in any county that does not need the assistance of an
+16 interpreter, the county auditor and the county state's attorney shall certify such facts to
+17 the state board of elections. Appropriate proof shall accompany such certification.
+18 Section 70. That § 12-3-13 be REPEALED.
+19 The State Board of Elections shall have the authority, pursuant to chapter 1-26, to
+20 promulgate rules to implement, administer and enforce §§ 12-3-6 to 12-3-13, inclusive,
+21 and the state board of elections shall have further authority, pursuant to chapter 1-26, to
+22 promulgate rules to implement, administer and enforce further federal administrative
+23 rulings made pursuant to Public Law 94-73.
+24 Section 71. That § 12-4-4.8 be REPEALED.
+25 The State Board of Elections may promulgate rules pursuant to chapter 1-26 for
+26 the implementation of §§ 12-4-4.2 to 12-4-4.9, inclusive.
+27 Section 72. That § 12-4-7.2 be REPEALED.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 38 1324
+1 Any local, state, or federal agency staff person who registers a voter shall ensure
+2 that the registration card, as prescribed by the State Board of Elections, is filled out
+3 completely.
+4 Section 73. That § 12-4-8 be REPEALED.
+5 For the purpose of expediting work of the county auditor, to promote uniformity in
+6 registration, and for the preparation of abstracts and other forms to be used by election
+7 boards, registration records shall be prescribed by the State Board of Elections. The State
+8 Board of Elections may require such information, on registration records, as is necessary
+9 to effectuate the state and federal election laws.
+10 Section 74. That § 12-4-8.1 be REPEALED.
+11 In lieu of forms for registration prescribed under § 12-4-8, requests for absentee
+12 ballots submitted in accordance with the Uniformed and Overseas Citizens Absentee
+13 Voting Act, 52 U.S.C. § 20301 et seq., as of January 1, 2023, are sufficient for registration
+14 purposes. The county auditor shall make and file the index card for the master file and
+15 attach the card thereto and shall save an electronic copy of the card. The county auditor
+16 shall supply a photocopy to the election board of the precinct for the purposes of § 12-19-
+17 2.
+18 Section 75. That § 12-4-35 be REPEALED.
+19 The State Board of Elections may promulgate rules pursuant to chapter 1-26
+20 necessary for implementation of the National Voter Registration Act.
+21 Section 76. That § 12-5-3.15 be REPEALED.
+22 The State Board of Elections may adopt rules pursuant to chapter 1-26 to
+23 implement §§ 12-5-3.6 to 12-5-3.14, inclusive.
+24 Section 77. That § 12-6-5 be REPEALED.
+25 The form of the nominating petition shall be prescribed by the State Board of
+26 Elections.
+27 Section 78. That § 12-6-14 be REPEALED.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 39 1324
+1 The form of the official primary election ballot shall be prescribed by the State
+2 Board of Elections.
+3 Section 79. That § 12-9-13 be REPEALED.
+4 The form of the nonpolitical judiciary ballot shall be prescribed by the State Board
+5 of Elections.
+6 Section 80. That § 12-16-2.1 be REPEALED.
+7 The State Board of Elections shall, by rule adopted pursuant to chapter 1-26,
+8 establish the color for sample and official ballots and of ballots to be voted in all elections
+9 so as to differentiate between the political, nonpolitical, party, and ballot question ballots.
+10 In primary elections, a separate ballot label booklet, marking device, and voting booth
+11 shall be used for each political party holding a primary.
+12 Section 81. That § 12-16-9 be REPEALED.
+13 The form of the official general election ballot shall be prescribed by the State
+14 Board of Elections in accordance with other provisions of the law.
+15 Section 82. That § 12-16-10 be REPEALED.
+16 If two or more members of the State House of Representatives or the county
+17 commission are to be elected at large from a county, that portion of the official ballot shall
+18 also be prescribed, in accordance with § 12-16-8, by the State Board of Elections.
+19 Section 83. That § 12-18-8.1 be REPEALED.
+20 The State Board of Elections shall promulgate rules pursuant to chapter 1-26
+21 setting the number of poll watchers which are allowed in each polling place.
+22 Section 84. That § 12-20-52 be REPEALED.
+23 The State Board of Elections may, by rule, in accordance with chapter 1-26,
+24 promulgate rules and regulations to clarify the procedure by which ballots are counted
+25 and canvassed in all elections.
+26 Section 85. That § 12-21-6.1 be REPEALED.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.274.23 40 1324
+1 The State Board of Elections may by rule, in accordance with chapter 1-26, adopt
+2 a code of regulations to govern the conduct of recounts.
+3 Section 86. This Act is effective beginning January 1, 2027.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

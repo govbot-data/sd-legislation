@@ -1,0 +1,31 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.447.16 101st Legislative Session 150
+2026 South Dakota Legislature
+Senate Bill 150
+Introduced by: Senator Larson
+1 An Act to exempt one motor vehicle of a debtor from being taken by legal process.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 43-45-4 be AMENDED:
+4 43-45-4. In addition to the any property provided for in §§ 43-45-2 and 43-45-3,
+5 the debtor, if the head of a family, may, each debtor, personally, or by an agent or
+6 attorney, may select as exempt property, pursuant to § 43-45-1, from all other of the
+7 debtor's other personal property, that is not absolutely exempt, goods, chattels,:
+8 (1) Chattels, goods, merchandise, money, or other personal property not to exceed
+9 exceeding, in the aggregate seven:
+10 (a) Seven thousand dollars in value; and, if not the head of a family, property
+11 as aforesaid of the value of five, if the debtor is the head of a family; or
+12 (b) Five thousand dollars, which is also in value, if the debtor is not the head
+13 of a family; and
+14 (2) One motor vehicle, as defined in § 32-5-1, not exceeding five thousand dollars
+15 over any security interest on the motor vehicle.
+16 The property selected pursuant to this section exempt, and which shall must be
+17 chosen and appraised as provided by law.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

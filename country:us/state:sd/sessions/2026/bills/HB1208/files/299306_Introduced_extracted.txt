@@ -1,0 +1,34 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.769.15 101st Legislative Session 1208
+2026 South Dakota Legislature
+House Bill 1208
+Introduced by: Representative Garcia
+1 An Act to revise licensure provisions for electricians.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 36-16-13 be AMENDED:
+4 36-16-13. Any person, partnership, company, corporation, or association that for
+5 a fixed sum, price, fee, percentage, or other consideration, undertakes or offers to
+6 undertake with another to plan, lay out, supervise, install, make additions, make
+7 alterations, or make repairs, in the installation of wiring, apparatus, or equipment for
+8 electric lights, heat, or power, shall must be licensed by the State Electrical Commission.
+9 The commission shall issue a license, as a physical card and as an electronic equivalent,
+10 to a qualified person under this section in the class defined under § 36-16-2 for which the
+11 person applies after successful completion of the examination required by the commission.
+12 The license issued under this chapter must bear a security marking approved by the
+13 commission.
+14 The commission shall promulgate rules, pursuant to chapter 1-26, establishing fees
+15 for the examination and the application required under this section, as well as for the
+16 replacement of a license card. The commission may charge, or may authorize a third party
+17 that administers the examination to charge, each person an examination fee not to exceed
+18 one hundred fifty dollars per examination or reexamination. The application fee may not
+19 exceed one hundred dollars per occurrence. The fee to replace a lost or stolen license card
+20 may not exceed thirty-five dollars per occurrence.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

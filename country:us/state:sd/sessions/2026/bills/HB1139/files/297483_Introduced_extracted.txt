@@ -1,0 +1,2302 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.720.9 101st Legislative Session
+2026 South Dakota Legislature
+House Bill 1139
+Introduced by: The House Committee on Appropriations at the request of the Governor
+1 An Act to appropriate money for the ordinary expenses of the legislative, judicial, and
+2 executive departments of the state, the current expenses of state institutions,
+3 interest on the public debt, and common schools.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. There is appropriated for the fiscal year ending June 30, 2027, the following moneys and
+6 expenditure authority for the ordinary expenses of the legislative, judicial, and executive
+7 departments of the state, the current expenses of state institutions, interest on the public debt, and
+8 for common schools.
+9 Section 2. The amounts appropriated in this Act are approved at the total level for each budget unit.
+10 A line item increase or decrease shown within a budget unit is a change to the base. An agency may
+11 expend base moneys to supplement line item changes. Unless otherwise provided, conditions, terms,
+12 and other requirements on appropriations in this Act are effective until June 30, 2027.
+13 Section 3.
+14 (010) OFFICE OF THE GOVERNOR
+15 (0101) Office of the Governor
+16 General Federal Other Total FTE
+17 Base $3,030,238 - - $3,030,238 21.5
+18 Appropriation $3,030,238 - - $3,030,238 21.5
+19 There are no changes in appropriations for budget unit Office of the Governor.
+20 (0102) Governor's Contingency Fund
+21 General Federal Other Total FTE
+22 Base $75,000 - - $75,000 -
+23 Appropriation $75,000 - - $75,000 -
+24 There are no changes in appropriations for budget unit Governor's Contingency Fund.
+25 (01051) Governor's Office of Economic Development
+26 General Federal Other Total FTE
+27 Base $4,523,560 $29,080,049 $40,425,898 $74,029,507 41.6
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 2
+1 Infrastructure Investment and - ($20,000,000) - ($20,000,000) -
+2 Jobs Act Broadband Grants
+3 Accounting Services for State - $23,000 - $23,000 -
+4 Small Business Credit
+5 Initiative
+6 State Audit Services - - $23,786 $23,786 -
+7 Accounting Services for - - $14,000 $14,000 -
+8 Revolving Economic
+9 Development and Initiative
+10 Fund
+11 Appropriation $4,523,560 $9,103,049 $40,463,684 $54,090,293 41.6
+12 ($20,000,000) in federal fund expenditure authority for eliminating authority related to expiring Infrastructure Investment
+13 and Jobs Act grants.
+14 $23,000 in federal fund expenditure authority for State Small Business Credit Initiative independent accounting services.
+15 $23,786 in other fund expenditure authority for Revolving Economic Development and Initiative fund state audit services.
+16 $14,000 in other fund expenditure authority for Revolving Economic Development and Initiative fund independent
+17 accounting services.
+18 (01053) SD Housing Development Authority - Informational
+19 General Federal Other Total FTE
+20 Base - $3,157,892 $19,149,549 $22,307,441 76.0
+21 Appropriation - $3,157,892 $19,149,549 $22,307,441 76.0
+22 There are no changes in appropriations for budget unit SD Housing Development Authority - Informational.
+23 (01054) SD Science and Tech Authority - Informational
+24 General Federal Other Total FTE
+25 Base - - $2,367,545 $2,367,545 6.7
+26 Appropriation - - $2,367,545 $2,367,545 6.7
+27 There are no changes in appropriations for budget unit SD Science and Tech Authority - Informational.
+28 (01056) Ellsworth Authority - Informational
+29 General Federal Other Total FTE
+30 Base - - $847,475 $847,475 -
+31 Appropriation - - $847,475 $847,475 -
+32 There are no changes in appropriations for budget unit Ellsworth Authority - Informational.
+33 (010571) REDI Grants
+34 General Federal Other Total FTE
+35 Base - - $1,626,608 $1,626,608 -
+36 Appropriation - - $1,626,608 $1,626,608 -
+37 There are no changes in appropriations for budget unit REDI Grants.
+38 (010572) Local Infrastructure Improvement
+39 General Federal Other Total FTE
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 3
+1 Base $1,470,000 - $1,470,000 $2,940,000 -
+2 Appropriation $1,470,000 - $1,470,000 $2,940,000 -
+3 There are no changes in appropriations for budget unit Local Infrastructure Improvement.
+4 (010573) Economic Development Partnership
+5 General Federal Other Total FTE
+6 Base - - $50,000 $50,000 -
+7 Appropriation - - $50,000 $50,000 -
+8 There are no changes in appropriations for budget unit Economic Development Partnership.
+9 (010574) SD Housing Opportunity
+10 General Federal Other Total FTE
+11 Base $1,040,000 - $3,040,000 $4,080,000 -
+12 Appropriation $1,040,000 - $3,040,000 $4,080,000 -
+13 There are no changes in appropriations for budget unit SD Housing Opportunity.
+14 (010575) Workforce Education
+15 General Federal Other Total FTE
+16 Base $490,000 - - $490,000 -
+17 Appropriation $490,000 - - $490,000 -
+18 There are no changes in appropriations for budget unit Workforce Education.
+19 (0108) Lt. Governor
+20 General Federal Other Total FTE
+21 Base $43,122 - - $43,122 0.5
+22 Appropriation $43,122 - - $43,122 0.5
+23 There are no changes in appropriations for budget unit Lt. Governor.
+24 (010) OFFICE OF THE GOVERNOR TOTALS
+25 General Federal Other Total FTE
+26 Base $10,671,920 $32,237,941 $68,977,075 $111,886,936 146.3
+27 Adjustments - ($19,977,000) $37,786 ($19,939,214) -
+28 Appropriation $10,671,920 $12,260,941 $69,014,861 $91,947,722 146.3
+29 Personal Services $5,622,077 $2,729,357 $7,710,907 $16,062,341
+30 Operating Expenses $5,049,843 $9,531,584 $61,303,954 $75,885,381
+31 Total $10,671,920 $12,260,941 $69,014,861 $91,947,722 146.3
+32 Section 4.
+33 (011) BUREAU OF FINANCE AND MANAGEMENT (BFM)
+34 (0111) Bureau of Finance and Management
+35 General Federal Other Total FTE
+36 Base $1,373,089 - $9,743,824 $11,116,913 48.0
+37 Accountant III - - $118,284 $118,284 1.0
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 4
+1 Appropriation $1,373,089 - $9,862,108 $11,235,197 49.0
+2 $118,284 in other fund expenditure authority and 1.0 in FTE for an Accountant III.
+3 (0113) Computer Services and Development
+4 General Federal Other Total FTE
+5 Base - - $2,000,000 $2,000,000 -
+6 Appropriation - - $2,000,000 $2,000,000 -
+7 There are no changes in appropriations for budget unit Computer Services and Development.
+8 (0115) Building Authority - Informational
+9 General Federal Other Total FTE
+10 Base - - $1,339,433 $1,339,433 -
+11 Appropriation - - $1,339,433 $1,339,433 -
+12 There are no changes in appropriations for budget unit Building Authority - Informational.
+13 (0116) Health and Education Facilities Authority - Informational
+14 General Federal Other Total FTE
+15 Base - - $994,495 $994,495 5.0
+16 Appropriation - - $994,495 $994,495 5.0
+17 There are no changes in appropriations for budget unit Health and Education Facilities Authority - Informational.
+18 (0117) Employee Compensation and Billing Pools
+19 General Federal Other Total FTE
+20 Base - - - - -
+21 Bureau Billing Adjustments $332,195 $262,415 $709,194 $1,303,804 -
+22 Appropriation $332,195 $262,415 $709,194 $1,303,804 -
+23 $332,195 in general funds, $262,415 in federal fund expenditure authority and $709,194 in other fund expenditure
+24 authority for pool bureau billing adjustments.
+25 (0119) Educational Enhancement Funding Corporation - Informational
+26 General Federal Other Total FTE
+27 Base - - $140,314 $140,314 -
+28 Appropriation - - $140,314 $140,314 -
+29 There are no changes in appropriations for budget unit Educational Enhancement Funding Corporation - Informational.
+30 (011) BUREAU OF FINANCE AND MANAGEMENT (BFM) TOTALS
+31 General Federal Other Total FTE
+32 Base $1,373,089 - $14,218,066 $15,591,155 53.0
+33 Adjustments $332,195 $262,415 $827,478 $1,422,088 1.0
+34 Appropriation $1,705,284 $262,415 $15,045,544 $17,013,243 54.0
+35 Personal Services $1,064,446 $0 $5,248,288 $6,312,734
+36 Operating Expenses $640,838 $262,415 $9,797,256 $10,700,509
+37 Total $1,705,284 $262,415 $15,045,544 $17,013,243 54.0
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 5
+1 Section 5.
+2 (012) BUREAU OF HUMAN RESOURCES AND ADMINISTRATION (BHRA)
+3 (0121) Administrative Services
+4 General Federal Other Total FTE
+5 Base $683 - $528,458 $529,141 2.3
+6 Appropriation $683 - $528,458 $529,141 2.3
+7 There are no changes in appropriations for budget unit Administrative Services.
+8 (0123) General Services
+9 General Federal Other Total FTE
+10 Base $489,144 - $29,577,306 $30,066,450 131.5
+11 Internal Legal Services - - $282,602 $282,602 -
+12 Utility Cost Adjustment - - $154,545 $154,545 -
+13 Appropriation $489,144 - $30,014,453 $30,503,597 131.5
+14 $282,602 in other fund expenditure authority for legal services billings.
+15 $154,545 in other fund expenditure authority for adjustments in utility expenses.
+16 $102,156 in other fund expenditure authority and ($102,156) in other fund expenditure authority, totaling a change of
+17 $0, for transferring physical security duties from the Bureau of Information and Technology.
+18 (0124) State Engineer
+19 General Federal Other Total FTE
+20 Base - - $2,095,840 $2,095,840 16.0
+21 Internal Legal Services - - $34,916 $34,916 -
+22 Appropriation - - $2,130,756 $2,130,756 16.0
+23 $34,916 in other fund expenditure authority for legal services billings.
+24 (0125) Statewide Maintenance and Repair
+25 General Federal Other Total FTE
+26 Base $13,498,276 $500,000 $3,839,246 $17,837,522 -
+27 Maintenance and Repair $316,722 - - $316,722 -
+28 Appropriation $13,814,998 $500,000 $3,839,246 $18,154,244 -
+29 $316,722 in general funds for maintenance and repair at 1.25% of replacement value.
+30 (0126) Office of Hearing Examiners
+31 General Federal Other Total FTE
+32 Base $495,900 - - $495,900 3.0
+33 Internal Legal Services $6,547 - - $6,547 -
+34 Appropriation $502,447 - - $502,447 3.0
+35 $6,547 in general funds for legal services billings.
+36 (0127) Obligation Recovery Center
+37 General Federal Other Total FTE
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 6
+1 Base - - $1,240,000 $1,240,000 -
+2 Appropriation - - $1,240,000 $1,240,000 -
+3 There are no changes in appropriations for budget unit Obligation Recovery Center.
+4 (01281) Risk Management Administration - Informational
+5 General Federal Other Total FTE
+6 Base - - $11,055,639 $11,055,639 13.0
+7 Internal Legal Services - - $17,459 $17,459 -
+8 Appropriation - - $11,073,098 $11,073,098 13.0
+9 $17,459 in other fund expenditure authority for legal services billings.
+10 (01282) Risk Management Claims - Informational
+11 General Federal Other Total FTE
+12 Base - - $6,727,456 $6,727,456 -
+13 Appropriation - - $6,727,456 $6,727,456 -
+14 There are no changes in appropriations for budget unit Risk Management Claims - Informational.
+15 (01283) Captive Insurance Pool
+16 General Federal Other Total FTE
+17 Base - - $1,836,000 $1,836,000 -
+18 Appropriation - - $1,836,000 $1,836,000 -
+19 There are no changes in appropriations for budget unit Captive Insurance Pool.
+20 (01291) Personnel Management/Employee Benefits
+21 General Federal Other Total FTE
+22 Base $387,385 - $10,067,956 $10,455,341 71.2
+23 Internal Legal Services - - $374,351 $374,351 -
+24 Appropriation $387,385 - $10,442,307 $10,829,692 71.2
+25 $374,351 in other fund expenditure authority for legal services billings.
+26 (012) BUREAU OF HUMAN RESOURCES AND ADMINISTRATION (BHRA) TOTALS
+27 General Federal Other Total FTE
+28 Base $14,871,388 $500,000 $66,967,901 $82,339,289 237.0
+29 Adjustments $323,269 - $863,873 $1,187,142 -
+30 Appropriation $15,194,657 $500,000 $67,831,774 $83,526,431 237.0
+31 Personal Services $982,505 $0 $19,753,406 $20,735,911
+32 Operating Expenses $14,212,152 $500,000 $48,078,368 $62,790,520
+33 Total $15,194,657 $500,000 $67,831,774 $83,526,431 237.0
+34 Section 6.
+35 (013) BUREAU OF INFORMATION AND TECHNOLOGY (BIT)
+36 (0131) Enterprise Platforms and Infrastructure
+37 General Federal Other Total FTE
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 7
+1 Base - - $16,434,097 $16,434,097 65.0
+2 Internal Legal Services - - $2,632 $2,632 -
+3 Software Suite Support - - $33,551 $33,551 -
+4 Contract
+5 Geographic Information - - $97,500 $97,500 -
+6 Systems Software Contract
+7 Inflation
+8 Other Operational and Security - - $298,468 $298,468 -
+9 Software Contracts
+10 Development Billings - - $936,855 $936,855 -
+11 Cloud-Based Systems - - $520,000 $520,000 -
+12 Enterprise Hosting Budget - - $121,244 $121,244 1.0
+13 Transfer
+14 Appropriation - - $18,444,347 $18,444,347 66.0
+15 $2,632 in other fund expenditure authority for legal services billing.
+16 $33,551 in other fund expenditure authority for a new contract providing technical support for office software products
+17 used across state government.
+18 $97,500 in other fund expenditure authority for the increased cost of existing enterprise-level mapping software.
+19 $298,468 in other fund expenditure authority for new and increased licensing and subscription costs, cybersecurity
+20 enhancement costs, and video management system costs.
+21 $936,855 in other fund expenditure authority for increased billable hours of development work.
+22 $520,000 in other fund expenditure authority for an increase in the use of cloud-based systems.
+23 $121,244 in other fund expenditure authority and 1.0 in FTE for transferring a position to hire a cloud security
+24 infrastructure engineer.
+25 (0132) Agency and Application Support
+26 General Federal Other Total FTE
+27 Base - - $18,115,191 $18,115,191 136.0
+28 Enterprise Hosting Budget - - ($121,244) ($121,244) (1.0)
+29 Transfer
+30 Internal Legal Services - - $228,974 $228,974 -
+31 Appropriation - - $18,222,921 $18,222,921 135.0
+32 ($121,244) in other fund expenditure authority and (1.0) in FTE for transferring a position to hire a cloud security
+33 infrastructure engineer.
+34 $228,974 in other fund expenditure authority for legal billing services.
+35 (0133) Technology Operations and Communications
+36 General Federal Other Total FTE
+37 Base - - $32,222,272 $32,222,272 100.0
+38 Internal Legal Services - - $14,475 $14,475 -
+39 Security and Permissions - - ($224,311) ($224,311) (2.0)
+40 Budget Transfer
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 8
+1 Office Software Suite Contract - - $356,756 $356,756 -
+2 Inflation
+3 State IT Applications Contract - - $139,505 $139,505 -
+4 Inflation
+5 Development Billings - - $85,020 $85,020 -
+6 Appropriation - - $32,593,717 $32,593,717 98.0
+7 $14,475 in other fund expenditure authority for legal services billings.
+8 ($224,311) in other fund expenditure authority and (2.0) in FTE for transferring physical security duties to the Bureau of
+9 Human Resources and Administration.
+10 $356,756 in other fund expenditure authority for the increased cost of licenses for a suite of office software.
+11 $139,505 in other fund expenditure authority for the increased cost of the platform supporting state IT applications.
+12 $85,020 in other fund expenditure authority for increased billable hours of development work.
+13 (0134) South Dakota Public Broadcasting
+14 General Federal Other Total FTE
+15 Base $5,655,733 $272,484 $4,581,702 $10,509,919 63.5
+16 Internal Legal Services $3,948 - - $3,948 -
+17 South Dakota Public $296,053 - ($296,053) - -
+18 Broadcasting Fund Swap
+19 Appropriation $5,955,734 $272,484 $4,285,649 $10,513,867 63.5
+20 $3,948 in general funds for legal services billings.
+21 $296,053 in general funds and ($296,053) in other fund expenditure authority for the replacement of federal funding
+22 previously received from the Corporation of Public Broadcasting.
+23 (0135) BIT Administration
+24 General Federal Other Total FTE
+25 Base - - $6,619,457 $6,619,457 15.0
+26 Appropriation - - $6,619,457 $6,619,457 15.0
+27 There are no changes in appropriations for budget unit BIT Administration.
+28 (0136) State Radio Engineering
+29 General Federal Other Total FTE
+30 Base $4,895,328 $99,804 $164,055 $5,159,187 11.0
+31 Internal Legal Services $13,159 - - $13,159 -
+32 State Radio Resiliency Package $260,000 - - $260,000 -
+33 Appropriation $5,168,487 $99,804 $164,055 $5,432,346 11.0
+34 $13,159 in general funds for legal services billings.
+35 $260,000 in general funds for a failover solution for State Radio.
+36 (013) BUREAU OF INFORMATION AND TECHNOLOGY (BIT) TOTALS
+37 General Federal Other Total FTE
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 9
+1 Base $10,551,061 $372,288 $78,136,774 $89,060,123 390.5
+2 Adjustments $573,160 - $2,193,372 $2,766,532 (2.0)
+3 Appropriation $11,124,221 $372,288 $80,330,146 $91,826,655 388.5
+4 Personal Services $5,537,413 $13,495 $37,860,335 $43,411,243
+5 Operating Expenses $5,586,808 $358,793 $42,469,811 $48,415,412
+6 Total $11,124,221 $372,288 $80,330,146 $91,826,655 388.5
+7 Section 7.
+8 (02) DEPARTMENT OF REVENUE
+9 (0210) Administration, Secretary of Revenue
+10 General Federal Other Total FTE
+11 Base - - $5,658,266 $5,658,266 30.0
+12 Appropriation - - $5,658,266 $5,658,266 30.0
+13 There are no changes in appropriations for budget unit Administration, Secretary of Revenue.
+14 (0220) Business Tax
+15 General Federal Other Total FTE
+16 Base - - $7,653,850 $7,653,850 69.5
+17 Property Tax Software - - $17,500 $17,500 -
+18 Appropriation - - $7,671,350 $7,671,350 69.5
+19 $17,500 in other fund expenditure authority for existing property tax software.
+20 (0230) Motor Vehicles
+21 General Federal Other Total FTE
+22 Base - $397,295 $12,991,922 $13,389,217 48.0
+23 Additional Self-Service Kiosks - - $36,000 $36,000 -
+24 Appropriation - $397,295 $13,027,922 $13,425,217 48.0
+25 $36,000 in other fund expenditure authority for the annual maintenance costs of two new self-service motor vehicle
+26 kiosks.
+27 (0240) Property Taxes
+28 General Federal Other Total FTE
+29 Base $1,154,380 - - $1,154,380 9.0
+30 Property Tax Software $66,500 - - $66,500 -
+31 Appropriation $1,220,880 - - $1,220,880 9.0
+32 $66,500 in general funds for existing property tax software.
+33 (0250) Audits
+34 General Federal Other Total FTE
+35 Base - - $6,422,590 $6,422,590 55.0
+36 Sales and Use Tax Auditor - - $85,050 $85,050 1.0
+37 Appropriation - - $6,507,640 $6,507,640 56.0
+38 $85,050 in other fund expenditure authority and 1.0 in FTE for a new sales and use tax auditor position.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 10
+1 (0281) Instant and On-line Operations - Informational
+2 General Federal Other Total FTE
+3 Base - - $63,187,572 $63,187,572 21.0
+4 Appropriation - - $63,187,572 $63,187,572 21.0
+5 There are no changes in appropriations for budget unit Instant and On-line Operations - Informational.
+6 (0282) Video Lottery
+7 General Federal Other Total FTE
+8 Base - - $3,019,850 $3,019,850 10.0
+9 Appropriation - - $3,019,850 $3,019,850 10.0
+10 There are no changes in appropriations for budget unit Video Lottery.
+11 (0293) Commission on Gaming - Informational
+12 General Federal Other Total FTE
+13 Base - - $11,351,150 $11,351,150 16.0
+14 Appropriation - - $11,351,150 $11,351,150 16.0
+15 There are no changes in appropriations for budget unit Commission on Gaming - Informational.
+16 (02) DEPARTMENT OF REVENUE TOTALS
+17 General Federal Other Total FTE
+18 Base $1,154,380 $397,295 $110,285,200 $111,836,875 258.5
+19 Adjustments $66,500 - $138,550 $205,050 1.0
+20 Appropriation $1,220,880 $397,295 $110,423,750 $112,041,925 259.5
+21 Personal Services $875,736 $0 $23,543,297 $24,419,033
+22 Operating Expenses $345,144 $397,295 $86,880,453 $87,622,892
+23 Total $1,220,880 $397,295 $110,423,750 $112,041,925 259.5
+24 Section 8.
+25 (03) DEPARTMENT OF AGRICULTURE AND NATURAL RESOURCES
+26 (030) Administration, Secretary of Agriculture
+27 General Federal Other Total FTE
+28 Base $1,962,497 $1,751,086 $806,484 $4,520,067 18.0
+29 Appropriation $1,962,497 $1,751,086 $806,484 $4,520,067 18.0
+30 There are no changes in appropriations for budget unit Administration, Secretary of Agriculture.
+31 (031) Agricultural and Environmental Services
+32 General Federal Other Total FTE
+33 Base $4,119,496 $7,607,183 $5,534,254 $17,260,933 94.9
+34 State Hemp Program ($200,000) - ($38,000) ($238,000) (3.0)
+35 Elimination
+36 Concentrated Animal Feeding ($71,000) - $171,000 $100,000 -
+37 Operations
+38 Office of Water Budget Transfer - - ($550,000) ($550,000) -
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 11
+1 Agriculture & Environmental - - $250,000 $250,000 -
+2 Services Budget Transfer
+3 Appropriation $3,848,496 $7,607,183 $5,367,254 $16,822,933 91.9
+4 ($200,000) in general funds, ($38,000) in other fund expenditure authority and (3.0) in FTE for eliminating the state
+5 hemp regulatory program.
+6 ($71,000) in general funds and $171,000 in other fund expenditure authority for existing Concentrated Animal Feeding
+7 Operation costs.
+8 ($550,000) in other fund expenditure authority for transferring authority to the Office of Water for salaries and benefits.
+9 $250,000 in other fund expenditure authority for transferring authority from Resource Conservation and Forestry for
+10 inflationary cost increases.
+11 (032) Resource Conservation & Forestry
+12 General Federal Other Total FTE
+13 Base $2,366,212 $4,472,664 $2,245,188 $9,084,064 45.1
+14 Office of Water Budget Transfer ($25,000) - - ($25,000) -
+15 Agriculture & Environmental - - ($250,000) ($250,000) -
+16 Services Budget Transfer
+17 Appropriation $2,341,212 $4,472,664 $1,995,188 $8,809,064 45.1
+18 ($25,000) in general funds for transferring authority to the Office of Water for janitorial services.
+19 ($250,000) in other fund expenditure authority for transferring authority to Agriculture and Environmental Services for
+20 inflationary cost increases.
+21 (033) Animal Industry Board
+22 General Federal Other Total FTE
+23 Base $3,059,560 $2,352,023 $387,923 $5,799,506 42.0
+24 Bond/Lease Payment - - $57,735 $57,735 -
+25 Adjustment
+26 Appropriation $3,059,560 $2,352,023 $445,658 $5,857,241 42.0
+27 $57,735 in other fund expenditure authority for existing property insurance premiums for the Animal Disease Research
+28 and Diagnostic Laboratory bond.
+29 (0341) American Dairy Association - Informational
+30 General Federal Other Total FTE
+31 Base - - $5,423,100 $5,423,100 -
+32 Boards/Commissions - - $61,115 $61,115 -
+33 Operations
+34 Appropriation - - $5,484,215 $5,484,215 -
+35 $61,115 in other fund expenditure authority for American Dairy Association operations.
+36 (0342) Wheat Commission - Informational
+37 General Federal Other Total FTE
+38 Base - - $2,038,492 $2,038,492 2.0
+39 Boards/Commissions - - ($13,843) ($13,843) -
+40 Operations
+41 Appropriation - - $2,024,649 $2,024,649 2.0
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 12
+1 ($13,843) in other fund expenditure authority for reduced Wheat Commission operations.
+2 (0343) Oilseeds Council - Informational
+3 General Federal Other Total FTE
+4 Base - - $351,234 $351,234 -
+5 Boards/Commissions - - $93,677 $93,677 -
+6 Operations
+7 Appropriation - - $444,911 $444,911 -
+8 $93,677 in other fund expenditure authority for Oilseeds Council operations.
+9 (0344) Soybean Research and Promotion Council - Informational
+10 General Federal Other Total FTE
+11 Base - - $17,897,718 $17,897,718 9.0
+12 Appropriation - - $17,897,718 $17,897,718 9.0
+13 There are no changes in appropriations for budget unit Soybean Research and Promotion Council - Informational.
+14 (0345) Brand Board - Informational
+15 General Federal Other Total FTE
+16 Base - - $3,138,682 $3,138,682 35.0
+17 Appropriation - - $3,138,682 $3,138,682 35.0
+18 $1,500 in other fund expenditure authority and ($1,500) in other fund expenditure authority, totaling a change of $0, for
+19 realigning the budget of the Brand Board.
+20 (0346) Corn Utilization Council - Informational
+21 General Federal Other Total FTE
+22 Base - - $6,069,937 $6,069,937 -
+23 Boards/Commissions - - $229,905 $229,905 -
+24 Operations
+25 Appropriation - - $6,299,842 $6,299,842 -
+26 $229,905 in other fund expenditure authority for Corn Utilization Council operations.
+27 (0347) Board of Veterinary Medical Examiners - Informational
+28 General Federal Other Total FTE
+29 Base - - $61,925 $61,925 -
+30 Boards/Commissions - - $15,000 $15,000 -
+31 Operations
+32 Appropriation - - $76,925 $76,925 -
+33 $15,000 in other fund expenditure authority for Board of Veterinary Medical Examiners operations.
+34 (0348) Pulse Crops Council - Informational
+35 General Federal Other Total FTE
+36 Base - - $69,428 $69,428 -
+37 Boards/Commissions - - $550 $550 -
+38 Operations
+39 Appropriation - - $69,978 $69,978 -
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 13
+1 $550 in other fund expenditure authority for Pulse Crops Council operations.
+2 (035) State Fair
+3 General Federal Other Total FTE
+4 Base $326,262 - $4,926,838 $5,253,100 21.5
+5 Appropriation $326,262 - $4,926,838 $5,253,100 21.5
+6 $175,000 in other fund expenditure authority and ($175,000) in other fund expenditure authority, totaling a change of
+7 $0, for realigning the State Fair budget to support salaries and benefits.
+8 (036) Financial and Technical Assistance
+9 General Federal Other Total FTE
+10 Base $2,579,753 $2,730,844 $1,148,698 $6,459,295 32.0
+11 Appropriation $2,579,753 $2,730,844 $1,148,698 $6,459,295 32.0
+12 There are no changes in appropriations for budget unit Financial and Technical Assistance.
+13 (037) Office of Water
+14 General Federal Other Total FTE
+15 Base $2,085,720 $5,782,233 $2,013,378 $9,881,331 50.0
+16 Office of Water Budget Transfer $25,000 - $550,000 $575,000 -
+17 Appropriation $2,110,720 $5,782,233 $2,563,378 $10,456,331 50.0
+18 $25,000 in general funds and $550,000 in other fund expenditure authority for transferring budget from Agriculture and
+19 Environmental Services and Resource Conservation and Forestry for salaries, benefits, and janitorial services.
+20 (0380) Livestock Cleanup Fund - Informational
+21 General Federal Other Total FTE
+22 Base - - $765,000 $765,000 -
+23 Appropriation - - $765,000 $765,000 -
+24 There are no changes in appropriations for budget unit Livestock Cleanup Fund - Informational.
+25 (0381) Regulated Response Fund - Informational
+26 General Federal Other Total FTE
+27 Base - - $1,750,001 $1,750,001 -
+28 Appropriation - - $1,750,001 $1,750,001 -
+29 There are no changes in appropriations for budget unit Regulated Response Fund - Informational.
+30 (0390) Petroleum Release Compensation
+31 General Federal Other Total FTE
+32 Base - - $477,452 $477,452 3.0
+33 Appropriation - - $477,452 $477,452 3.0
+34 There are no changes in appropriations for budget unit Petroleum Release Compensation.
+35 (0391) Petroleum Release Compensation - Informational
+36 General Federal Other Total FTE
+37 Base - - $2,100,000 $2,100,000 -
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 14
+1 Appropriation - - $2,100,000 $2,100,000 -
+2 There are no changes in appropriations for budget unit Petroleum Release Compensation - Informational.
+3 (03) DEPARTMENT OF AGRICULTURE AND NATURAL RESOURCES TOTALS
+4 General Federal Other Total FTE
+5 Base $16,499,500 $24,696,033 $57,205,732 $98,401,265 352.5
+6 Adjustments ($271,000) - $577,139 $306,139 (3.0)
+7 Appropriation $16,228,500 $24,696,033 $57,782,871 $98,707,404 349.5
+8 Personal Services $12,836,659 $10,415,167 $12,593,139 $35,844,965
+9 Operating Expenses $3,391,841 $14,280,866 $45,189,732 $62,862,439
+10 Total $16,228,500 $24,696,033 $57,782,871 $98,707,404 349.5
+11 Section 9.
+12 (04) DEPARTMENT OF TOURISM
+13 (0420) Tourism
+14 General Federal Other Total FTE
+15 Base - $8,750,000 $24,232,659 $32,982,659 34.7
+16 American Rescue Plan Act - ($8,750,000) - ($8,750,000) -
+17 Marketing Projects
+18 Marketing and Advertising - - $550,427 $550,427 -
+19 Appropriation - - $24,783,086 $24,783,086 34.7
+20 ($8,750,000) in federal fund expenditure authority for the completion of marketing projects funded through the State
+21 and Local Fiscal Recovery Funds grant program.
+22 $550,427 in other fund expenditure authority for marketing and advertising efforts.
+23 $140,000 in other fund expenditure authority and ($140,000) in other fund expenditure authority, totaling a change of
+24 $0, for realigning the budget of the finance officer position.
+25 (0441) Arts
+26 General Federal Other Total FTE
+27 Base - $1,535,707 $1,431,204 $2,966,911 4.0
+28 State Art Grants - - $25,086 $25,086 -
+29 Appropriation - $1,535,707 $1,456,290 $2,991,997 4.0
+30 $25,086 in other fund expenditure authority for state art grants to non-profit organizations.
+31 (04) DEPARTMENT OF TOURISM TOTALS
+32 General Federal Other Total FTE
+33 Base - $10,285,707 $25,663,863 $35,949,570 38.7
+34 Adjustments - ($8,750,000) $575,513 ($8,174,487) -
+35 Appropriation - $1,535,707 $26,239,376 $27,775,083 38.7
+36 Personal Services $0 $75,299 $3,331,199 $3,406,498
+37 Operating Expenses $0 $1,460,408 $22,908,177 $24,368,585
+38 Total $0 $1,535,707 $26,239,376 $27,775,083 38.7
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 15
+1 Section 10.
+2 (06) DEPARTMENT OF GAME, FISH AND PARKS
+3 (0601) Administration, Secretary of Game, Fish and Parks
+4 General Federal Other Total FTE
+5 Base $229,970 - $4,128,265 $4,358,235 23.3
+6 Appropriation $229,970 - $4,128,265 $4,358,235 23.3
+7 There are no changes in appropriations for budget unit Administration, Secretary of Game, Fish and Parks.
+8 (0610) Wildlife - Informational
+9 General Federal Other Total FTE
+10 Base - $24,090,870 $41,056,337 $65,147,207 297.5
+11 Wildlife Special Projects - - ($234,000) ($234,000) -
+12 Wildlife Fund Swap - $200,000 ($200,000) - -
+13 Black Hills Shooting Range - $292,740 $147,780 $440,520 -
+14 Operations
+15 Wildlife Operations Adjustments - $908,059 $462,487 $1,370,546 -
+16 Appropriation - $25,491,669 $41,232,604 $66,724,273 297.5
+17 ($234,000) in other fund expenditure authority for a decrease in excess authority for salaries and benefits.
+18 $200,000 in federal fund expenditure authority and ($200,000) in other fund expenditure authority for realigning authority
+19 from Wildlife Special Projects to Law Enforcement based on how salaries and benefits will be paid.
+20 $292,740 in federal fund expenditure authority and $147,780 in other fund expenditure authority for the operations of
+21 the new Black Hills shooting range.
+22 $908,059 in federal fund expenditure authority and $462,487 in other fund expenditure authority for wildlife operations
+23 budget adjustments after implementing fee increases.
+24 $351,744 in other fund expenditure authority and ($351,744) in other fund expenditure authority, totaling a change of
+25 $0, for realigning authority from Wildlife Special Projects to Administration and Law Enforcement based on how salaries
+26 and benefits will be paid.
+27 (0612) Wildlife, Development, and Improvement - Informational
+28 General Federal Other Total FTE
+29 Base - $6,712,500 $4,462,500 $11,175,000 -
+30 Wildlife Capital Projects - ($4,724,000) $2,649,000 ($2,075,000) -
+31 Appropriation - $1,988,500 $7,111,500 $9,100,000 -
+32 ($4,724,000) in federal fund expenditure authority and $2,649,000 in other fund expenditure authority for realigning and
+33 decreasing the budget for Wildlife capital projects.
+34 (0620) State Parks and Recreation
+35 General Federal Other Total FTE
+36 Base $6,015,783 $3,769,587 $24,915,897 $34,701,267 254.0
+37 Parks and Recreation Fund - $60,000 ($60,000) - -
+38 Swap
+39 Bond/Lease Payment ($4,179) - - ($4,179) -
+40 Adjustment
+41 Appropriation $6,011,604 $3,829,587 $24,855,897 $34,697,088 254.0
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 16
+1 $60,000 in federal fund expenditure authority and ($60,000) in other fund expenditure authority for realigning how
+2 operations will be paid.
+3 ($4,179) in general funds for existing bond payment adjustments.
+4 (0621) State Parks and Recreation - Development and Improvement
+5 General Federal Other Total FTE
+6 Base - $3,750,000 $9,595,000 $13,345,000 -
+7 Parks and Recreation Capital - ($213,200) $3,294,800 $3,081,600 -
+8 Projects
+9 Appropriation - $3,536,800 $12,889,800 $16,426,600 -
+10 ($213,200) in federal fund expenditure authority and $3,294,800 in other fund expenditure authority for realigning and
+11 increasing the budget for parks and recreation capital projects.
+12 (0622) Snowmobile Trails - Informational
+13 General Federal Other Total FTE
+14 Base - - $1,496,418 $1,496,418 9.1
+15 Appropriation - - $1,496,418 $1,496,418 9.1
+16 There are no changes in appropriations for budget unit Snowmobile Trails - Informational.
+17 (06) DEPARTMENT OF GAME, FISH AND PARKS TOTALS
+18 General Federal Other Total FTE
+19 Base $6,245,753 $38,322,957 $85,654,417 $130,223,127 583.9
+20 Adjustments ($4,179) ($3,476,401) $6,060,067 $2,579,487 -
+21 Appropriation $6,241,574 $34,846,556 $91,714,484 $132,802,614 583.9
+22 Personal Services $3,769,558 $10,852,440 $33,694,980 $48,316,978
+23 Operating Expenses $2,472,016 $23,994,116 $58,019,504 $84,485,636
+24 Total $6,241,574 $34,846,556 $91,714,484 $132,802,614 583.9
+25 Section 11.
+26 (07) DEPARTMENT OF TRIBAL RELATIONS
+27 (0710) Office of Tribal Relations
+28 General Federal Other Total FTE
+29 Base $896,969 - $196,000 $1,092,969 7.0
+30 Appropriation $896,969 - $196,000 $1,092,969 7.0
+31 There are no changes in appropriations for budget unit Office of Tribal Relations.
+32 (07) DEPARTMENT OF TRIBAL RELATIONS TOTALS
+33 General Federal Other Total FTE
+34 Base $896,969 - $196,000 $1,092,969 7.0
+35 Adjustments - - - - -
+36 Appropriation $896,969 - $196,000 $1,092,969 7.0
+37 Personal Services $696,638 $0 $0 $696,638
+38 Operating Expenses $200,331 $0 $196,000 $396,331
+39 Total $896,969 $0 $196,000 $1,092,969 7.0
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 17
+1 Section 12.
+2 (08) DEPARTMENT OF SOCIAL SERVICES
+3 (081) Administration, Secretary of Social Services
+4 General Federal Other Total FTE
+5 Base $15,734,144 $23,977,700 $28,467 $39,740,311 201.2
+6 Federal Medical Assistance $21,973 ($21,973) - - -
+7 Percentage Change
+8 Sioux Falls One Stop Budget $60,234 - - $60,234 -
+9 Transfer
+10 Kinship Licensure Budget $1,932,944 $842,549 - $2,775,493 1.0
+11 Transfer
+12 IT Services Budget Transfer $305,270 - - $305,270 3.0
+13 Appropriation $18,054,565 $24,798,276 $28,467 $42,881,308 205.2
+14 $21,973 in general funds and ($21,973) in federal fund expenditure authority for a change in the federal medical
+15 assistance percentage.
+16 $60,234 in general funds for the Sioux Falls One Stop from Behavioral Health based on use of the building.
+17 $1,932,944 in general funds, $842,549 in federal fund expenditure authority and 1.0 in FTE for transferring the budget
+18 for centralized kinship licensing to Administration.
+19 $305,270 in general funds; $352,601 in federal fund expenditure authority and ($352,601) in federal fund expenditure
+20 authority, totaling a change of $0 in federal fund expenditure authority; and 3.0 in FTE for technology services from
+21 Behavioral Health to centralize operations.
+22 (082) Economic Assistance
+23 General Federal Other Total FTE
+24 Base $34,517,352 $130,879,334 $1,093,354 $166,490,040 356.5
+25 Federal Medical Assistance $85,174 ($85,174) - - -
+26 Percentage Change
+27 Sioux Falls One Stop Budget $390,108 - - $390,108 -
+28 Transfer
+29 Medicaid Eligibility Staff Fund ($2,500,000) $2,500,000 - - -
+30 Swap
+31 Supplemental Nutrition $5,500,000 ($5,500,000) - - -
+32 Assistance Program
+33 Administration Fund Swap
+34 Supplemental Nutrition - ($711,043) - ($711,043) -
+35 Assistance Program Nutrition-
+36 Education Elimination
+37 Appropriation $37,992,634 $127,083,117 $1,093,354 $166,169,105 356.5
+38 $85,174 in general funds and ($85,174) in federal fund expenditure authority for a change in the federal medical
+39 assistance percentage.
+40 $390,108 in general funds for the Sioux Falls One Stop from Behavioral Health based on use of the building.
+41 ($2,500,000) in general funds and $2,500,000 in federal fund expenditure authority for realigning the administrative cost
+42 of Medicaid eligibility staff.
+43 $5,500,000 in general funds and ($5,500,000) in federal fund expenditure authority for the federal shift in Supplemental
+44 Nutrition Assistance Program administration costs.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 18
+1 ($711,043) in federal fund expenditure authority for eliminating the Supplemental Nutrition Assistance Program-
+2 Education.
+3 (083) Medical Services
+4 General Federal Other Total FTE
+5 Base $394,588,787 $901,658,034 $280,701 $1,296,527,522 75.0
+6 Sioux Falls One Stop Budget $42,611 - - $42,611 -
+7 Transfer
+8 Federal Medical Assistance $5,495,413 ($5,495,413) - - -
+9 Percentage Change
+10 Mandatory Provider Inflation $14,072,438 $17,118,717 - $31,191,155 -
+11 Appropriation $414,199,249 $913,281,338 $280,701 $1,327,761,288 75.0
+12 $42,611 in general funds for the Sioux Falls One Stop from Behavioral Health based on use of the building.
+13 $5,495,413 in general funds and ($5,495,413) in federal fund expenditure authority for a change in the federal medical
+14 assistance percentage.
+15 $14,072,438 in general funds and $17,118,717 in federal fund expenditure authority for mandatory provider inflation to
+16 Medicaid and Medicare providers.
+17 (084) Children's Services
+18 General Federal Other Total FTE
+19 Base $71,416,406 $54,492,940 $4,932,930 $130,842,276 364.8
+20 Sioux Falls One Stop Budget $531,230 - - $531,230 -
+21 Transfer
+22 Kinship Licensure Budget ($883,441) ($842,549) - ($1,725,990) -
+23 Transfer
+24 Federal Medical Assistance $488,002 ($488,002) - - -
+25 Percentage Change
+26 Appropriation $71,552,197 $53,162,389 $4,932,930 $129,647,516 364.8
+27 $531,230 in general funds for the Sioux Falls One Stop from Behavioral Health based on use of the building.
+28 ($883,441) in general funds and ($842,549) in federal fund expenditure authority for transferring the budget for
+29 centralized kinship licensing to Administration.
+30 $488,002 in general funds and ($488,002) in federal fund expenditure authority for a change in the federal medical
+31 assistance percentage.
+32 (085) Behavioral Health
+33 General Federal Other Total FTE
+34 Base $140,233,836 $72,197,075 $4,348,541 $216,779,452 554.0
+35 Federal Medical Assistance $432,128 ($432,128) - - -
+36 Percentage Change
+37 Sioux Falls One Stop Budget ($1,024,183) - - ($1,024,183) -
+38 Transfer
+39 Utility Cost Adjustment $28,958 - - $28,958 -
+40 Food Contract Inflation $220,645 - - $220,645 -
+41 IT Services Budget Transfer ($305,270) - - ($305,270) (3.0)
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 19
+1 Kinship Licensure Budget ($1,049,503) - - ($1,049,503) (1.0)
+2 Transfer
+3 Appropriation $138,536,611 $71,764,947 $4,348,541 $214,650,099 550.0
+4 $432,128 in general funds and ($432,128) in federal fund expenditure authority for a change in the federal medical
+5 assistance percentage.
+6 ($1,024,183) in general funds for the Sioux Falls One Stop from Behavioral Health based on use of the building.
+7 $28,958 in general funds for adjustments in utility expenses at the Human Services Center.
+8 $220,645 in general funds for adjustments in the meal rates at the Human Services Center.
+9 ($305,270) in general funds and (3.0) in FTE for technology services from Behavioral Health to centralize operations.
+10 ($1,049,503) in general funds and (1.0) in FTE for transferring the budget for centralized kinship licensing to
+11 Administration.
+12 (0891) Board of Counselor Examiners - Informational
+13 General Federal Other Total FTE
+14 Base - - $114,557 $114,557 -
+15 Board of Counselor Examiners - - $72,987 $72,987 -
+16 Operations
+17 Appropriation - - $187,544 $187,544 -
+18 $72,987 in other fund expenditure authority for Board of Counselor Examiners operations.
+19 (0892) Board of Psychology Examiners - Informational
+20 General Federal Other Total FTE
+21 Base - - $90,453 $90,453 -
+22 Appropriation - - $90,453 $90,453 -
+23 There are no changes in appropriations for budget unit Board of Psychology Examiners - Informational.
+24 (0893) Board of Social Work Examiners - Informational
+25 General Federal Other Total FTE
+26 Base - - $135,869 $135,869 -
+27 Board of Social Work Examiners - - $10,000 $10,000 -
+28 Operations
+29 Appropriation - - $145,869 $145,869 -
+30 $10,000 in other fund expenditure authority for Board of Social Work Examiners operations.
+31 (0894) Board of Addiction and Prevention Professionals - Informational
+32 General Federal Other Total FTE
+33 Base - - $192,552 $192,552 -
+34 Board of Addiction & Prevention - - $7,000 $7,000 -
+35 Professionals Operations
+36 Appropriation - - $199,552 $199,552 -
+37 $7,000 in other fund expenditure authority for Board of Addiction and Prevention Professionals operations.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 20
+1 (08) DEPARTMENT OF SOCIAL SERVICES TOTALS
+2 General Federal Other Total FTE
+3 Base $656,490,525 $1,183,205,083 $11,217,424 $1,850,913,032 1,551.5
+4 Adjustments $23,844,731 $6,884,984 $89,987 $30,819,702 -
+5 Appropriation $680,335,256 $1,190,090,067 $11,307,411 $1,881,732,734 1,551.5
+6 Personal Services $88,999,993 $51,480,704 $2,991,918 $143,472,615
+7 Operating Expenses $591,335,263 $1,138,609,363 $8,315,493 $1,738,260,119
+8 Total $680,335,256 $1,190,090,067 $11,307,411 $1,881,732,734 1,551.5
+9 Section 13.
+10 (09) DEPARTMENT OF HEALTH
+11 (0901) Administration, Secretary of Health
+12 General Federal Other Total FTE
+13 Base $3,648,116 $17,619,983 $846,850 $22,114,949 42.5
+14 Federal Medical Assistance $7,895 ($7,895) - - -
+15 Percentage Change
+16 Appropriation $3,656,011 $17,612,088 $846,850 $22,114,949 42.5
+17 $7,895 in general funds and ($7,895) in federal fund expenditure authority for a change in federal medical assistance
+18 percentage.
+19 (0903) Licensure and Accreditation
+20 General Federal Other Total FTE
+21 Base $4,292,349 $5,733,808 $4,082,037 $14,108,194 71.5
+22 Health & Safety Inspection Rate $78,606 - - $78,606 -
+23 Appropriation $4,370,955 $5,733,808 $4,082,037 $14,186,800 71.5
+24 $78,606 in general funds for an increase in the inspection rate for food and lodging establishments.
+25 (0904) Family and Community Health
+26 General Federal Other Total FTE
+27 Base $6,133,104 $54,696,795 $7,128,196 $67,958,095 199.5
+28 COVID - 19 Stimulus Grants - ($8,000,000) - ($8,000,000) -
+29 Appropriation $6,133,104 $46,696,795 $7,128,196 $59,958,095 199.5
+30 ($8,000,000) in federal fund expenditure authority for reducing authority related to federal COVID-19 stimulus grants.
+31 (0905) Laboratory Services
+32 General Federal Other Total FTE
+33 Base - $14,167,968 $5,298,827 $19,466,795 36.0
+34 COVID - 19 Stimulus Grants - ($2,000,000) - ($2,000,000) -
+35 Appropriation - $12,167,968 $5,298,827 $17,466,795 36.0
+36 ($2,000,000) in federal fund expenditure authority for reducing authority related to federal COVID-19 stimulus grants.
+37 (0907) Tobacco Prevention
+38 General Federal Other Total FTE
+39 Base - $1,661,065 $2,020,174 $3,681,239 3.0
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 21
+1 Appropriation - $1,661,065 $2,020,174 $3,681,239 3.0
+2 There are no changes in appropriations for budget unit Tobacco Prevention.
+3 (0908) Epidemiology, Surveillance & Informatics
+4 General Federal Other Total FTE
+5 Base $423,732 $4,016,792 - $4,440,524 10.0
+6 Appropriation $423,732 $4,016,792 - $4,440,524 10.0
+7 There are no changes in appropriations for budget unit Epidemiology, Surveillance & Informatics.
+8 (09201) Board of Chiropractic Examiners - Informational
+9 General Federal Other Total FTE
+10 Base - - $162,505 $162,505 1.0
+11 Appropriation - - $162,505 $162,505 1.0
+12 There are no changes in appropriations for budget unit Board of Chiropractic Examiners - Informational.
+13 (09202) Board of Dentistry - Informational
+14 General Federal Other Total FTE
+15 Base - - $506,746 $506,746 -
+16 Appropriation - - $506,746 $506,746 -
+17 There are no changes in appropriations for budget unit Board of Dentistry - Informational.
+18 (09203) Board of Hearing Aid Dispensers and Audiologists - Informational
+19 General Federal Other Total FTE
+20 Base - - $46,749 $46,749 -
+21 Appropriation - - $46,749 $46,749 -
+22 There are no changes in appropriations for budget unit Board of Hearing Aid Dispensers and Audiologists - Informational.
+23 (09204) Board of Funeral Service - Informational
+24 General Federal Other Total FTE
+25 Base - - $114,111 $114,111 -
+26 Appropriation - - $114,111 $114,111 -
+27 There are no changes in appropriations for budget unit Board of Funeral Service - Informational.
+28 (09205) Board of Medical and Osteopathic Examiners - Informational
+29 General Federal Other Total FTE
+30 Base - - $1,375,495 $1,375,495 8.0
+31 Appropriation - - $1,375,495 $1,375,495 8.0
+32 There are no changes in appropriations for budget unit Board of Medical and Osteopathic Examiners - Informational.
+33 (09206) Board of Nursing - Informational
+34 General Federal Other Total FTE
+35 Base - - $2,119,128 $2,119,128 9.5
+36 Appropriation - - $2,119,128 $2,119,128 9.5
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 22
+1 There are no changes in appropriations for budget unit Board of Nursing - Informational.
+2 (09207) Board of Nursing Home Administrators - Informational.
+3 General Federal Other Total FTE
+4 Base - - $71,661 $71,661 -
+5 Appropriation - - $71,661 $71,661 -
+6 There are no changes in appropriations for budget unit Board of Nursing Home Administrators - Informational.
+7 (09208) Board of Optometry - Informational
+8 General Federal Other Total FTE
+9 Base - - $78,838 $78,838 -
+10 Appropriation - - $78,838 $78,838 -
+11 There are no changes in appropriations for budget unit Board of Optometry - Informational.
+12 (09209) Board of Pharmacy - Informational
+13 General Federal Other Total FTE
+14 Base - $496,991 $1,653,435 $2,150,426 6.4
+15 Appropriation - $496,991 $1,653,435 $2,150,426 6.4
+16 There are no changes in appropriations for budget unit Board of Pharmacy - Informational.
+17 (09210) Board of Podiatry Examiners - Informational
+18 General Federal Other Total FTE
+19 Base - - $30,954 $30,954 -
+20 Appropriation - - $30,954 $30,954 -
+21 There are no changes in appropriations for budget unit Board of Podiatry Examiners - Informational.
+22 (09211) Board of Massage Therapy - Informational
+23 General Federal Other Total FTE
+24 Base - - $129,102 $129,102 -
+25 Appropriation - - $129,102 $129,102 -
+26 There are no changes in appropriations for budget unit Board of Massage Therapy - Informational.
+27 (09212) Board of Speech Language Pathology - Informational
+28 General Federal Other Total FTE
+29 Base - - $75,833 $75,833 -
+30 Appropriation - - $75,833 $75,833 -
+31 There are no changes in appropriations for budget unit Board of Speech Language Pathology - Informational.
+32 (09213) Board of Certified Professional Midwives - Informational
+33 General Federal Other Total FTE
+34 Base - - $22,028 $22,028 -
+35 Appropriation - - $22,028 $22,028 -
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 23
+1 There are no changes in appropriations for budget unit Board of Certified Professional Midwives - Informational.
+2 (09214) Board of Physical Therapy - Informational
+3 General Federal Other Total FTE
+4 Base - - $160,648 $160,648 -
+5 Appropriation - - $160,648 $160,648 -
+6 There are no changes in appropriations for budget unit Board of Physical Therapy - Informational.
+7 (09) DEPARTMENT OF HEALTH TOTALS
+8 General Federal Other Total FTE
+9 Base $14,497,301 $98,393,402 $25,923,317 $138,814,020 387.4
+10 Adjustments $86,501 ($10,007,895) - ($9,921,394) -
+11 Appropriation $14,583,802 $88,385,507 $25,923,317 $128,892,626 387.4
+12 Personal Services $8,018,696 $24,193,708 $9,794,287 $42,006,691
+13 Operating Expenses $6,565,106 $64,191,799 $16,129,030 $86,885,935
+14 Total $14,583,802 $88,385,507 $25,923,317 $128,892,626 387.4
+15 Section 14.
+16 (10) DEPARTMENT OF LABOR AND REGULATION
+17 (1001) Administration, Secretary of Labor
+18 General Federal Other Total FTE
+19 Base $1,593,588 $14,184,493 $2,466,141 $18,244,222 53.7
+20 State Digital Equity Capacity - ($867,000) - ($867,000) -
+21 Grant
+22 Appropriation $1,593,588 $13,317,493 $2,466,141 $17,377,222 53.7
+23 ($867,000) in federal fund expenditure authority for eliminating authority related to the State Digital Equity Capacity
+24 Grant Program.
+25 (1004) Reemployment Assistance
+26 General Federal Other Total FTE
+27 Base - $9,188,132 - $9,188,132 76.0
+28 Appropriation - $9,188,132 - $9,188,132 76.0
+29 ($186,617) in federal fund expenditure authority and ($186,617) in federal fund expenditure authority, totaling a change
+30 of $0, for realigning the Reemployment Assistance budget for salaries and benefits.
+31 (1005) Job Service
+32 General Federal Other Total FTE
+33 Base $1,194,146 $12,417,736 $445,211 $14,057,093 126.5
+34 Appropriation $1,194,146 $12,417,736 $445,211 $14,057,093 126.5
+35 There are no changes in appropriations for budget unit Job Service.
+36 (1006) State Labor Law Administration
+37 General Federal Other Total FTE
+38 Base $979,869 $405,973 $634,440 $2,020,282 15.3
+39 Appropriation $979,869 $405,973 $634,440 $2,020,282 15.3
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 24
+1 There are no changes in appropriations for budget unit State Labor Law Administration.
+2 (1031) Board of Accountancy - Informational
+3 General Federal Other Total FTE
+4 Base - - $472,863 $472,863 2.7
+5 Appropriation - - $472,863 $472,863 2.7
+6 There are no changes in appropriations for budget unit Board of Accountancy - Informational.
+7 (1032) Board of Barber Examiners - Informational
+8 General Federal Other Total FTE
+9 Base - - $88,818 $88,818 0.4
+10 Appropriation - - $88,818 $88,818 0.4
+11 There are no changes in appropriations for budget unit Board of Barber Examiners - Informational.
+12 (1033) Cosmetology Commission - Informational
+13 General Federal Other Total FTE
+14 Base - - $580,513 $580,513 4.8
+15 Appropriation - - $580,513 $580,513 4.8
+16 There are no changes in appropriations for budget unit Cosmetology Commission - Informational.
+17 (1034) Plumbing Commission - Informational
+18 General Federal Other Total FTE
+19 Base - - $1,217,581 $1,217,581 9.3
+20 Appropriation - - $1,217,581 $1,217,581 9.3
+21 There are no changes in appropriations for budget unit Plumbing Commission - Informational.
+22 (1035) Board of Technical Professions - Informational
+23 General Federal Other Total FTE
+24 Base - - $613,925 $613,925 3.3
+25 Appropriation - - $613,925 $613,925 3.3
+26 There are no changes in appropriations for budget unit Board of Technical Professions - Informational.
+27 (1036) Electrical Commission - Informational
+28 General Federal Other Total FTE
+29 Base - - $2,831,137 $2,831,137 23.3
+30 Appropriation - - $2,831,137 $2,831,137 23.3
+31 There are no changes in appropriations for budget unit Electrical Commission - Informational.
+32 (1037) Real Estate Commission - Informational
+33 General Federal Other Total FTE
+34 Base - - $766,782 $766,782 5.2
+35 Appropriation - - $766,782 $766,782 5.2
+36 There are no changes in appropriations for budget unit Real Estate Commission - Informational.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 25
+1 (1038) Abstracters Board of Examiners - Informational
+2 General Federal Other Total FTE
+3 Base - - $69,568 $69,568 -
+4 Appropriation - - $69,568 $69,568 -
+5 There are no changes in appropriations for budget unit Abstracters Board of Examiners - Informational.
+6 (1039) South Dakota Athletic Commission - Informational
+7 General Federal Other Total FTE
+8 Base - - $79,035 $79,035 -
+9 Appropriation - - $79,035 $79,035 -
+10 There are no changes in appropriations for budget unit South Dakota Athletic Commission - Informational.
+11 (10610) Banking
+12 General Federal Other Total FTE
+13 Base - - $7,611,601 $7,611,601 44.5
+14 Financial Institution Examiner - - $120,662 $120,662 1.0
+15 Appropriation - - $7,732,263 $7,732,263 45.5
+16 $120,662 in other fund expenditure authority and 1.0 in FTE for a new financial institution examiner.
+17 (10612) Trust Captive Insurance Company - Informational
+18 General Federal Other Total FTE
+19 Base - - $260,850 $260,850 -
+20 Insurance Adjustment - - ($220,000) ($220,000) -
+21 Appropriation - - $40,850 $40,850 -
+22 ($220,000) in other fund expenditure authority for an adjustment in insurance policy billings.
+23 (1063) Insurance
+24 General Federal Other Total FTE
+25 Base - $46,757 $4,939,160 $4,985,917 40.7
+26 Appropriation - $46,757 $4,939,160 $4,985,917 40.7
+27 There are no changes in appropriations for budget unit Insurance.
+28 (10) DEPARTMENT OF LABOR AND REGULATION TOTALS
+29 General Federal Other Total FTE
+30 Base $3,767,603 $36,243,091 $23,077,625 $63,088,319 405.7
+31 Adjustments - ($867,000) ($99,338) ($966,338) 1.0
+32 Appropriation $3,767,603 $35,376,091 $22,978,287 $62,121,981 406.7
+33 Personal Services $1,858,043 $20,669,152 $15,624,885 $38,152,080
+34 Operating Expenses $1,909,560 $14,706,939 $7,353,402 $23,969,901
+35 Total $3,767,603 $35,376,091 $22,978,287 $62,121,981 406.7
+36 Section 15.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 26
+1 (11) DEPARTMENT OF TRANSPORTATION
+2 (111) General Operations
+3 General Federal Other Total FTE
+4 Base $729,132 $57,098,320 $208,466,639 $266,294,091 1,014.3
+5 Long Term Railroad Capital - $40,587,309 $3,431,271 $44,018,580 -
+6 Planning
+7 Transit Provider Grants - $754,506 $26,656 $781,162 -
+8 Appropriation $729,132 $98,440,135 $211,924,566 $311,093,833 1,014.3
+9 $40,587,309 in federal fund expenditure authority and $3,431,271 in other fund expenditure authority for railroad
+10 construction and maintenance projects.
+11 $754,506 in federal fund expenditure authority and $26,656 in other fund expenditure authority for federal grants to
+12 transit providers.
+13 (112) Construction Contracts - Informational
+14 General Federal Other Total FTE
+15 Base - $795,068,873 $194,544,285 $989,613,158 -
+16 Appropriation - $795,068,873 $194,544,285 $989,613,158 -
+17 There are no changes in appropriations for budget unit Construction Contracts - Informational.
+18 (11) DEPARTMENT OF TRANSPORTATION TOTALS
+19 General Federal Other Total FTE
+20 Base $729,132 $852,167,193 $403,010,924 $1,255,907,249 1,014.3
+21 Adjustments - $41,341,815 $3,457,927 $44,799,742 -
+22 Appropriation $729,132 $893,509,008 $406,468,851 $1,300,706,991 1,014.3
+23 Personal Services $703,263 $15,400,894 $89,744,480 $105,848,637
+24 Operating Expenses $25,869 $878,108,114 $316,724,371 $1,194,858,354
+25 Total $729,132 $893,509,008 $406,468,851 $1,300,706,991 1,014.3
+26 Section 16.
+27 (12) DEPARTMENT OF EDUCATION
+28 (1201) General Administration
+29 General Federal Other Total FTE
+30 Base $4,168,167 $6,718,238 $435,560 $11,321,965 48.5
+31 Part-Time Secretary Position - ($24,507) - ($24,507) (0.5)
+32 Internal Controls Officer $51,058 $34,038 - $85,096 0.5
+33 Technology Product Owner $100,000 - - $100,000 1.0
+34 COVID-19 Stimulus Grants - ($2,607,000) - ($2,607,000) -
+35 Appropriation $4,319,225 $4,120,769 $435,560 $8,875,554 49.5
+36 ($24,507) in federal fund expenditure authority and (0.5) in FTE for eliminating a part-time secretary position.
+37 $51,058 in general funds, $34,038 in federal fund expenditure authority and 0.5 in FTE for a new internal controls officer.
+38 $100,000 in general funds and 1.0 in FTE for a new technology product owner position.
+39 ($2,607,000) in federal fund expenditure authority for reducing authority related to COVID-19 stimulus grants.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 27
+1 (1210) Workforce Education Fund
+2 General Federal Other Total FTE
+3 Base - - $1,125,000 $1,125,000 -
+4 Appropriation - - $1,125,000 $1,125,000 -
+5 There are no changes in appropriations for budget unit Workforce Education Fund.
+6 (1211) State Aid to General Education
+7 General Federal Other Total FTE
+8 Base $619,833,511 - - $619,833,511 -
+9 State Aid to General Education ($15,756,746) - - ($15,756,746) -
+10 Appropriation $604,076,765 - - $604,076,765 -
+11 ($15,756,746) in general funds for state aid to general education.
+12 (1212) State Aid to Special Education
+13 General Federal Other Total FTE
+14 Base $103,049,903 - - $103,049,903 -
+15 State Aid to Special Education $2,860,236 - - $2,860,236 -
+16 Appropriation $105,910,139 - - $105,910,139 -
+17 $2,860,236 in general funds for state aid to special education.
+18 (1213) Sparsity Payments
+19 General Federal Other Total FTE
+20 Base $2,615,722 - - $2,615,722 -
+21 Sparsity Payments $14,944 - - $14,944 -
+22 Appropriation $2,630,666 - - $2,630,666 -
+23 $14,944 in general funds for payments to sparse school districts.
+24 (1216) National Board Certified Teachers and Counselors
+25 General Federal Other Total FTE
+26 Base $45,000 - - $45,000 -
+27 Appropriation $45,000 - - $45,000 -
+28 There are no changes in appropriations for budget unit National Board Certified Teachers and Counselors.
+29 (1219) Technology in Schools
+30 General Federal Other Total FTE
+31 Base $12,032,133 - $2,094,957 $14,127,090 -
+32 Appropriation $12,032,133 - $2,094,957 $14,127,090 -
+33 There are no changes in appropriations for budget unit Technology in Schools.
+34 (1222) Technical Colleges
+35 General Federal Other Total FTE
+36 Base $42,280,120 - $185,696 $42,465,816 3.0
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 28
+1 Technical Colleges Enrollment $1,688,519 - - $1,688,519 -
+2 Changes
+3 Bond/Lease Payment ($2,098) - - ($2,098) -
+4 Adjustment
+5 Maintenance and Repair $211,258 - - $211,258 -
+6 Appropriation $44,177,799 - $185,696 $44,363,495 3.0
+7 $1,688,519 in general funds for formula funding based on FTE student enrollments.
+8 ($2,098) in general funds for adjustments to bond payments.
+9 $211,258 in general funds for maintenance and repair at 1.25% of replacement value.
+10 (1232) Education Resources
+11 General Federal Other Total FTE
+12 Base $10,674,451 $235,031,715 $1,137,857 $246,844,023 86.0
+13 Dual Credit Program $270,688 - - $270,688 -
+14 National Career Readiness ($450,000) - - ($450,000) -
+15 Certificate Testing
+16 Federal Medical Assistance $4,834 ($4,834) - - -
+17 Percentage Change
+18 State Personnel Development - $589,352 - $589,352 -
+19 Grant
+20 Professional Learning Platform - - $212,030 $212,030 -
+21 Appropriation $10,499,973 $235,616,233 $1,349,887 $247,466,093 86.0
+22 $270,688 in general funds for the dual credit program.
+23 ($450,000) in general funds for eliminating funding for National Career Readiness Certificate testing.
+24 $4,834 in general funds and ($4,834) in federal fund expenditure authority for a change in the federal medical assistance
+25 percentage.
+26 $589,352 in federal fund expenditure authority for the new State Personnel Development Grant.
+27 $212,030 in other fund expenditure authority for the existing professional learning platform.
+28 (1242) History
+29 General Federal Other Total FTE
+30 Base $3,961,762 $1,396,050 $2,083,164 $7,440,976 41.0
+31 Appropriation $3,961,762 $1,396,050 $2,083,164 $7,440,976 41.0
+32 There are no changes in appropriations for budget unit History.
+33 (1243) Library Services
+34 General Federal Other Total FTE
+35 Base $1,557,714 $1,399,443 $27,900 $2,985,057 18.0
+36 Appropriation $1,557,714 $1,399,443 $27,900 $2,985,057 18.0
+37 There are no changes in appropriations for budget unit Library Services.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 29
+1 (12) DEPARTMENT OF EDUCATION TOTALS
+2 General Federal Other Total FTE
+3 Base $800,218,483 $244,545,446 $7,090,134 $1,051,854,063 196.5
+4 Adjustments ($11,007,307) ($2,012,951) $212,030 ($12,808,228) 1.0
+5 Appropriation $789,211,176 $242,532,495 $7,302,164 $1,039,045,835 197.5
+6 Personal Services $8,808,982 $8,415,554 $1,883,126 $19,107,662
+7 Operating Expenses $780,402,194 $234,116,941 $5,419,038 $1,019,938,173
+8 Total $789,211,176 $242,532,495 $7,302,164 $1,039,045,835 197.5
+9 Section 17.
+10 (14) DEPARTMENT OF PUBLIC SAFETY
+11 (1410) Administration, Secretary of Public Safety
+12 General Federal Other Total FTE
+13 Base $1,375,259 $999,608 $13,195,539 $15,570,406 112.0
+14 Internal Control Coordinator $90,603 - - $90,603 1.0
+15 Weights and Measures $29,529 - - $29,529 -
+16 Inspection Rate
+17 Appropriation $1,495,391 $999,608 $13,195,539 $15,690,538 113.0
+18 $90,603 in general funds and 1.0 in FTE for a new internal control coordinator position.
+19 $29,529 in general funds for an increase in the rate for Weights and Measures inspections.
+20 (1421) Highway Patrol
+21 General Federal Other Total FTE
+22 Base $1,919,836 $4,360,910 $38,205,048 $44,485,794 285.0
+23 Crash Assistance Program - $132,000 - $132,000 -
+24 Increase
+25 Communication Centers $37,255 - - $37,255 -
+26 Contract Inflation
+27 Appropriation $1,957,091 $4,492,910 $38,205,048 $44,655,049 285.0
+28 $125,850 in federal fund expenditure authority and ($125,850) in federal fund expenditure authority, totaling a change
+29 of $0, for realigning the budget of Highway Patrol for speed and driving under the influence enforcement.
+30 $132,000 in federal fund expenditure authority for increased grant funding for the Crash Assistance Program to support
+31 victim witness specialists.
+32 $37,255 in general funds for the increased cost of contracts with State Radio communication centers in Rapid City and
+33 Pierre.
+34 (1431) Emergency Services
+35 General Federal Other Total FTE
+36 Base $3,940,708 $8,450,575 $1,182,886 $13,574,169 74.8
+37 Volunteer Fire Assistance - ($426,587) - ($426,587) -
+38 Program Elimination
+39 State Fire Assistance Program $435,041 ($647,171) - ($212,130) -
+40 Fund Swap
+41 Appropriation $4,375,749 $7,376,817 $1,182,886 $12,935,452 74.8
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 30
+1 ($426,587) in federal fund expenditure authority for eliminating the Volunteer Fire Assistance program.
+2 $435,041 in general funds and ($647,171) in federal fund expenditure authority for the realignment of funding for the
+3 State Fire Assistance program.
+4 (1441) Criminal Justice Services
+5 General Federal Other Total FTE
+6 Base $747,941 $21,906,563 $3,164,895 $25,819,399 23.0
+7 Program Manager to Cyber - - - - 1.0
+8 Analyst Budget Transfer
+9 Appropriation $747,941 $21,906,563 $3,164,895 $25,819,399 24.0
+10 $24,719 in other fund expenditure authority and ($24,719) in other fund expenditure authority, totaling a change of $0,
+11 for realigning the budget of the Law Enforcement Telecommunications System to support salaries and benefits.
+12 1.0 in FTE for transferring a position from the 911 Coordination Board.
+13 (1451) 911 Coordination Board - Informational
+14 General Federal Other Total FTE
+15 Base - $250,000 $4,649,185 $4,899,185 2.0
+16 911 Coordination Board Grant - - $1,000,000 $1,000,000 -
+17 Program
+18 911 Coordination Board - - $741,169 $741,169 -
+19 Contract Inflation
+20 Program Manager to Cyber - - ($86,933) ($86,933) (1.0)
+21 Analyst Budget Transfer
+22 Appropriation - $250,000 $6,303,421 $6,553,421 1.0
+23 $1,000,000 in other fund expenditure authority for a new grant program to support 911 dispatch centers.
+24 $741,169 in other fund expenditure authority for the increased cost of contracts with entities doing work for the 911
+25 Coordination Board.
+26 ($86,933) in other fund expenditure authority and (1.0) in FTE for transferring a position to Homeland Security.
+27 (1461) One-Call Board - Informational
+28 General Federal Other Total FTE
+29 Base - - $1,404,787 $1,404,787 2.0
+30 Appropriation - - $1,404,787 $1,404,787 2.0
+31 There are no changes in appropriations for budget unit One-Call Board - Informational.
+32 (14) DEPARTMENT OF PUBLIC SAFETY TOTALS
+33 General Federal Other Total FTE
+34 Base $7,983,744 $35,967,656 $61,802,340 $105,753,740 498.8
+35 Adjustments $592,428 ($941,758) $1,654,236 $1,304,906 1.0
+36 Appropriation $8,576,172 $35,025,898 $63,456,576 $107,058,646 499.8
+37 Personal Services $4,889,128 $6,146,323 $37,396,473 $48,431,924
+38 Operating Expenses $3,687,044 $28,879,575 $26,060,103 $58,626,722
+39 Total $8,576,172 $35,025,898 $63,456,576 $107,058,646 499.8
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 31
+1 Section 18.
+2 (15) BOARD OF REGENTS
+3 (150) Board of Regents Central Office
+4 General Federal Other Total FTE
+5 Base $26,543,103 $6,053,166 $49,735,568 $82,331,837 66.5
+6 Maintenance and Repair $147,833 - - $147,833 -
+7 Bond/Lease Payment ($5,279) - - ($5,279) -
+8 Adjustment
+9 Appropriation $26,685,657 $6,053,166 $49,735,568 $82,474,391 66.5
+10 $147,833 in general funds for maintenance and repair at 1.25% of replacement values.
+11 ($5,279) in general funds for existing bond payment adjustments.
+12 (1516) Research Pool
+13 General Federal Other Total FTE
+14 Base $4,072,951 - - $4,072,951 -
+15 Appropriation $4,072,951 - - $4,072,951 -
+16 There are no changes in appropriations for budget unit Research Pool.
+17 (1517) South Dakota Scholarships
+18 General Federal Other Total FTE
+19 Base $6,572,724 - - $6,572,724 -
+20 Appropriation $6,572,724 - - $6,572,724 -
+21 There are no changes in appropriations for budget unit South Dakota Scholarships.
+22 (1520) University of South Dakota
+23 General Federal Other Total FTE
+24 Base $53,968,040 $13,553,651 $107,839,114 $175,360,805 1,074.9
+25 Utility Cost Adjustment ($226,541) - - ($226,541) -
+26 Sales and Services - - $2,450,000 $2,450,000 -
+27 Room and Board Utilization - - $350,000 $350,000 -
+28 Aquatics Facility - - $150,000 $150,000 -
+29 Appropriation $53,741,499 $13,553,651 $110,789,114 $178,084,264 1,074.9
+30 ($226,541) in general funds for utility cost adjustments.
+31 $2,450,000 in other fund expenditure authority for increased sales and services.
+32 $350,000 in other fund expenditure authority for existing room and board cost increases.
+33 $150,000 in other fund expenditure authority for the operations of a new University of South Dakota Wellness Center
+34 aquatic facility.
+35 (1522) University of South Dakota Law School
+36 General Federal Other Total FTE
+37 Base $2,697,558 $91,567 $3,904,151 $6,693,276 34.3
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 32
+1 Appropriation $2,697,558 $91,567 $3,904,151 $6,693,276 34.3
+2 There are no changes in appropriations for budget unit University of South Dakota Law School.
+3 (1525) University of South Dakota School of Medicine
+4 General Federal Other Total FTE
+5 Base $32,304,212 $13,404,570 $27,006,891 $72,715,673 356.1
+6 Appropriation $32,304,212 $13,404,570 $27,006,891 $72,715,673 356.1
+7 $52,433 in general funds and ($52,433) in general funds, totaling a change of $0, to realign the budget for physician
+8 contracts.
+9 (1530) South Dakota State University
+10 General Federal Other Total FTE
+11 Base $72,948,822 $30,298,342 $196,260,467 $299,507,631 1,580.7
+12 Utility Cost Adjustment $730,234 - - $730,234 -
+13 Room and Board Utilization - - $2,500,000 $2,500,000 7.0
+14 Student Services - - $3,500,000 $3,500,000 12.0
+15 First Day Access for Books - - $1,500,000 $1,500,000 -
+16 Appropriation $73,679,056 $30,298,342 $203,760,467 $307,737,865 1,599.7
+17 $730,234 in general funds for utility cost adjustments.
+18 $2,500,000 in other fund expenditure authority and 7.0 in FTE for existing room and board cost increases.
+19 $3,500,000 in other fund expenditure authority and 12.0 in FTE for increased student services.
+20 $1,500,000 in other fund expenditure authority for the increased use of the existing First Day Access for Books software.
+21 (1533) SDSU Extension
+22 General Federal Other Total FTE
+23 Base $11,032,235 $9,454,078 $3,038,621 $23,524,934 185.4
+24 Appropriation $11,032,235 $9,454,078 $3,038,621 $23,524,934 185.4
+25 There are no changes in appropriations for budget unit SDSU Extension.
+26 (1536) Agricultural Experiment Station
+27 General Federal Other Total FTE
+28 Base $15,897,987 $27,506,154 $20,545,254 $63,949,395 244.3
+29 Appropriation $15,897,987 $27,506,154 $20,545,254 $63,949,395 244.3
+30 There are no changes in appropriations for budget unit Agricultural Experiment Station.
+31 (1540) SD School of Mines and Technology
+32 General Federal Other Total FTE
+33 Base $25,436,291 $17,138,005 $44,837,336 $87,411,632 448.4
+34 Utility Cost Adjustment $169,091 - - $169,091 -
+35 Room and Board Utilization - - $250,000 $250,000 -
+36 Student Services - - $750,000 $750,000 -
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 33
+1 Appropriation $25,605,382 $17,138,005 $45,837,336 $88,580,723 448.4
+2 $169,091 in general funds for utility cost adjustments.
+3 $250,000 in other fund expenditure authority for existing room and board cost increases.
+4 $750,000 in other fund expenditure authority for increased student services.
+5 (1550) Northern State University
+6 General Federal Other Total FTE
+7 Base $17,571,400 $2,376,019 $27,082,910 $47,030,329 321.1
+8 Utility Cost Adjustment $15,560 - - $15,560 -
+9 Room and Board Utilization - - $300,000 $300,000 -
+10 Sponsored Programs Director - - $127,000 $127,000 -
+11 Appropriation $17,586,960 $2,376,019 $27,509,910 $47,472,889 321.1
+12 $15,560 in general funds for utility cost adjustments.
+13 $300,000 in other fund expenditure authority for existing room and board cost increases.
+14 $127,000 in other fund expenditure authority for a new Director of Sponsored Programs.
+15 (1551) NSU Center for Statewide High School E-Learning
+16 General Federal Other Total FTE
+17 Base $4,290,614 - - $4,290,614 40.9
+18 Appropriation $4,290,614 - - $4,290,614 40.9
+19 There are no changes in appropriations for budget unit NSU Center for Statewide High School E-Learning.
+20 (1560) Black Hills State University
+21 General Federal Other Total FTE
+22 Base $16,721,674 $5,578,792 $29,516,304 $51,816,770 336.5
+23 Utility Cost Adjustment $30,238 - - $30,238 -
+24 Room and Board Utilization - - $100,000 $100,000 -
+25 Student Services - - $50,000 $50,000 -
+26 Academic & Athletic Camps - - $275,000 $275,000 -
+27 Grant & Contract Inflation - - $100,000 $100,000 -
+28 Auxiliary System - - $575,000 $575,000 -
+29 Appropriation $16,751,912 $5,578,792 $30,616,304 $52,947,008 336.5
+30 $30,238 in general funds for utility cost adjustments.
+31 $100,000 in other fund expenditure authority for existing room and board cost increases.
+32 $50,000 in other fund expenditure authority for existing student services.
+33 $275,000 in other fund expenditure authority for increased expenses of existing academic and athletic camps.
+34 $100,000 in other fund expenditure authority for a new grant and contract inflation.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 34
+1 $575,000 in other fund expenditure authority for increased auxiliary systems costs.
+2 (1570) Dakota State University
+3 General Federal Other Total FTE
+4 Base $16,029,465 $5,217,130 $45,207,226 $66,453,821 344.8
+5 Utility Cost Adjustment $273,679 - - $273,679 -
+6 Appropriation $16,303,144 $5,217,130 $45,207,226 $66,727,500 344.8
+7 $273,679 in general funds for utility cost adjustments.
+8 (1580) SD Services for the Deaf
+9 General Federal Other Total FTE
+10 Base $3,127,199 - $468,673 $3,595,872 26.0
+11 Utility Cost Adjustment $4,176 - - $4,176 -
+12 Summer Outreach Salaries - - $25,000 $25,000 -
+13 Appropriation $3,131,375 - $493,673 $3,625,048 26.0
+14 $4,176 in general funds for utility cost adjustments.
+15 $25,000 in other fund expenditure authority for increased summer outreach programming staff wages.
+16 (1590) SD School for the Blind and Visually Impaired
+17 General Federal Other Total FTE
+18 Base $3,998,597 $93,908 $412,778 $4,505,283 45.6
+19 Utility Cost Adjustment $8,199 - - $8,199 -
+20 Appropriation $4,006,796 $93,908 $412,778 $4,513,482 45.6
+21 $8,199 in general funds for utility cost adjustments.
+22 (15) BOARD OF REGENTS TOTALS
+23 General Federal Other Total FTE
+24 Base $313,212,872 $130,765,382 $555,855,293 $999,833,547 5,105.5
+25 Adjustments $1,147,190 - $13,002,000 $14,149,190 19.0
+26 Appropriation $314,360,062 $130,765,382 $568,857,293 $1,013,982,737 5,124.5
+27 Personal Services $258,292,816 $57,433,285 $281,177,879 $596,903,980
+28 Operating Expenses $56,067,246 $73,332,097 $287,679,414 $417,078,757
+29 Total $314,360,062 $130,765,382 $568,857,293 $1,013,982,737 5,124.5
+30 Section 19.
+31 (16) DEPARTMENT OF THE MILITARY
+32 (1611) Adjutant General
+33 General Federal Other Total FTE
+34 Base $3,417,978 $10,306 $29,254 $3,457,538 5.3
+35 National Guard Tuition ($250,000) - - ($250,000) -
+36 Assistance
+37 Assistant Adjutant General $48,750 - - $48,750 -
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 35
+1 National Guard Museum - - $20,000 $20,000 -
+2 Maintenance
+3 Appropriation $3,216,728 $10,306 $49,254 $3,276,288 5.3
+4 ($250,000) in general funds for realigning the budget of the National Guard Tuition Assistance Program with lower
+5 utilization.
+6 $48,750 in general funds for a new assistant adjutant general position.
+7 $20,000 in other fund expenditure authority for the maintenance and repair of the National Guard Museum.
+8 (1621) Army Guard
+9 General Federal Other Total FTE
+10 Base $3,198,774 $18,162,031 - $21,360,805 63.1
+11 Utility Cost Adjustment $30,514 $100,431 - $130,945 -
+12 Maintenance and Repair $65,418 $74,379 - $139,797 -
+13 Appropriation $3,294,706 $18,336,841 - $21,631,547 63.1
+14 $30,514 in general funds and $100,431 in federal fund expenditure authority for adjustments in utility expenses.
+15 $65,418 in general funds and $74,379 in federal fund expenditure authority for maintenance and repair at 1.25% of
+16 replacement value.
+17 (1624) Air Guard
+18 General Federal Other Total FTE
+19 Base $646,580 $8,524,356 - $9,170,936 48.0
+20 Utility Cost Adjustment $14,159 $42,478 - $56,637 -
+21 Appropriation $660,739 $8,566,834 - $9,227,573 48.0
+22 $14,159 in general funds and $42,478 in federal fund expenditure authority for adjustments in utility expenses.
+23 (16) DEPARTMENT OF THE MILITARY TOTALS
+24 General Federal Other Total FTE
+25 Base $7,263,332 $26,696,693 $29,254 $33,989,279 116.4
+26 Adjustments ($91,159) $217,288 $20,000 $146,129 -
+27 Appropriation $7,172,173 $26,913,981 $49,254 $34,135,408 116.4
+28 Personal Services $1,545,220 $8,737,971 $0 $10,283,191
+29 Operating Expenses $5,626,953 $18,176,010 $49,254 $23,852,217
+30 Total $7,172,173 $26,913,981 $49,254 $34,135,408 116.4
+31 Section 20.
+32 (17) DEPARTMENT OF VETERANS' AFFAIRS
+33 (1711) Veterans' Benefits and Services
+34 General Federal Other Total FTE
+35 Base $2,396,767 $285,483 $61,080 $2,743,330 22.0
+36 Appropriation $2,396,767 $285,483 $61,080 $2,743,330 22.0
+37 There are no changes in appropriations for budget unit Veterans' Benefits and Services.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 36
+1 (1721) State Veterans' Home
+2 General Federal Other Total FTE
+3 Base $3,104,352 $3,188,035 $6,780,829 $13,073,216 118.2
+4 Federal Medical Assistance $51,681 ($51,681) - - -
+5 Percentage Change
+6 Utility Cost Adjustment - - $31,189 $31,189 -
+7 Appropriation $3,156,033 $3,136,354 $6,812,018 $13,104,405 118.2
+8 $51,681 in general funds and ($51,681) in federal fund expenditure authority for a change in the federal medical
+9 assistance percentage.
+10 $31,189 in other fund expenditure authority for adjustments in utility expenses.
+11 (1731) State Veterans' Cemetery
+12 General Federal Other Total FTE
+13 Base $176,721 - $359,394 $536,115 7.0
+14 State Veterans' Cemetery - - $29,295 $29,295 -
+15 Maintenance Costs
+16 Appropriation $176,721 - $388,689 $565,410 7.0
+17 $29,295 in other fund expenditure authority for utility and maintenance costs related to the expansion of the State
+18 Veterans’ Cemetery.
+19 (17) DEPARTMENT OF VETERANS' AFFAIRS TOTALS
+20 General Federal Other Total FTE
+21 Base $5,677,840 $3,473,518 $7,201,303 $16,352,661 147.2
+22 Adjustments $51,681 ($51,681) $60,484 $60,484 -
+23 Appropriation $5,729,521 $3,421,837 $7,261,787 $16,413,145 147.2
+24 Personal Services $4,997,247 $3,366,017 $3,364,859 $11,728,123
+25 Operating Expenses $732,274 $55,820 $3,896,928 $4,685,022
+26 Total $5,729,521 $3,421,837 $7,261,787 $16,413,145 147.2
+27 Section 21.
+28 (18) DEPARTMENT OF CORRECTIONS
+29 (1811) Administration
+30 General Federal Other Total FTE
+31 Base $6,513,390 $993,528 - $7,506,918 33.0
+32 Appropriation $6,513,390 $993,528 - $7,506,918 33.0
+33 There are no changes in appropriations for budget unit Administration.
+34 (1821) Mike Durfee State Prison
+35 General Federal Other Total FTE
+36 Base $32,135,358 $257,954 - $32,393,312 224.0
+37 Food Contract Inflation ($352,007) - - ($352,007) -
+38 Adult Corrections Population $620,275 - - $620,275 -
+39 Change
+40 Utility Cost Adjustment $17,256 - - $17,256 -
+41 Appropriation $32,420,882 $257,954 - $32,678,836 224.0
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 37
+1 ($352,007) in general funds for adjustments in the meal rates at the Mike Durfee State Prison, Rapid City Minimum
+2 Center, and Yankton Minimum Center.
+3 $620,275 in general funds for adjustments in food service expenses based on the projected FY27 average daily offender
+4 population at the Mike Durfee State Prison, Rapid City Minimum Center, and Yankton Minimum Center.
+5 $17,256 in general funds for adjustments in utility expenses at the Mike Durfee State Prison, Rapid City Minimum Center,
+6 and Yankton Minimum Center.
+7 (1822) State Penitentiary
+8 General Federal Other Total FTE
+9 Base $38,533,091 $94,702 $130,078 $38,757,871 317.0
+10 Food Contract Inflation $142,496 - - $142,496 -
+11 Adult Corrections Population ($72,957) - - ($72,957) -
+12 Change
+13 Correctional Officers Budget $763,924 - - $763,924 10.0
+14 Transfer
+15 Utility Cost Adjustment ($400,522) - - ($400,522) -
+16 Appropriation $38,966,032 $94,702 $130,078 $39,190,812 327.0
+17 $142,496 in general funds for adjustments in the meal rates at the State Penitentiary, Jameson Prison Annex, and Sioux
+18 Falls Minimum Center.
+19 ($72,957) in general funds for adjustments in food service expenses based on the projected FY27 average daily offender
+20 population at the State Penitentiary, Jameson Prison Annex, and Sioux Falls Minimum Center.
+21 $763,924 in general funds and 10.0 in FTE for the transfer of correctional officers from the Pierre Minimum Center to the
+22 State Penitentiary and the Jameson Prison Annex due to the decommissioning of the Pierre Minimum Center.
+23 ($400,522) in general funds for adjustments in utility expenses.
+24 (1823) Women's Prison
+25 General Federal Other Total FTE
+26 Base $11,079,074 $70,833 - $11,149,907 89.0
+27 Food Contract Inflation $26,163 - - $26,163 -
+28 Adult Corrections Population ($209,755) - - ($209,755) -
+29 Change
+30 Utility Cost Adjustment $15,937 - - $15,937 -
+31 Pierre Minimum Center ($1,229,633) - - ($1,229,633) (6.0)
+32 Decommissioning
+33 Correctional Officers Budget ($763,924) - - ($763,924) (10.0)
+34 Transfer
+35 Appropriation $8,917,862 $70,833 - $8,988,695 73.0
+36 $26,163 in general funds for adjustments in the meal rates.
+37 ($209,755) in general funds for adjustments in food service expenses based on the projected FY27 average daily offender
+38 population at the South Dakota Women's Prison and Pierre Minimum Center.
+39 $15,937 in general funds for adjustments in utility expenses.
+40 ($1,229,633) in general funds and (6.0) in FTE for the permanent closure of the Pierre Minimum Center.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 38
+1 ($763,924) in general funds and (10.0) in FTE for the transfer of correctional officers from the Pierre Minimum Center to
+2 the State Penitentiary and the Jameson Prison Annex due to the decommissioning of the Pierre Minimum Center.
+3 (1824) Pheasantland Industries
+4 General Federal Other Total FTE
+5 Base - - $5,174,060 $5,174,060 18.0
+6 Appropriation - - $5,174,060 $5,174,060 18.0
+7 There are no changes in appropriations for budget unit Pheasantland Industries.
+8 (1825) Rapid City Correctional Facility
+9 General Federal Other Total FTE
+10 Base - - - - -
+11 Administration $761,558 - - $761,558 7.0
+12 Clothing Services $227,664 - - $227,664 1.0
+13 Food Contract Inflation $26,911 - - $26,911 -
+14 Food Services $497,987 - - $497,987 -
+15 Adult Corrections Population $200,634 - - $200,634 -
+16 Change
+17 Prisoner Compensation $54,454 - - $54,454 -
+18 Education and Programs $986,366 - - $986,366 10.0
+19 Housing Unit Management $1,549,762 - - $1,549,762 16.0
+20 Security Operations $6,732,583 - - $6,732,583 80.0
+21 Physical Plant $1,066,008 - - $1,066,008 3.0
+22 Appropriation $12,103,927 - - $12,103,927 117.0
+23 $761,558 in general funds and 7.0 in FTE for the costs of Administration within the new Rapid City Correctional Facility.
+24 $227,664 in general funds and 1.0 in FTE for the costs of Clothing Services within the new Rapid City Correctional Facility.
+25 $26,911 in general funds for adjustments in the meal rates.
+26 $497,987 in general funds for the ongoing costs of Food Services within the new Rapid City Correctional Facility.
+27 $200,634 in general funds for adjustments in food service expenses based on the projected FY27 average daily offender
+28 population.
+29 $54,454 in general funds for the ongoing costs of Prisoner Compensation within the new Rapid City Correctional Facility.
+30 $986,366 in general funds and 10.0 in FTE for the ongoing costs of Education and Programs within the new Rapid City
+31 Correctional Facility.
+32 $1,549,762 in general funds and 16.0 in FTE for the costs of Housing Unit Management within the new Rapid City
+33 Correctional Facility.
+34 $6,732,583 in general funds and 80.0 in FTE for the costs of Security Operations within the new Rapid City Correctional
+35 Facility.
+36 $1,066,008 in general funds and 3.0 in FTE for the costs of the Physical Plant within the new Rapid City Correctional
+37 Facility.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 39
+1 (1826) Inmate Services
+2 General Federal Other Total FTE
+3 Base $45,547,512 $132,372 - $45,679,884 197.9
+4 Medical Contract Expansion and $1,138,840 - - $1,138,840 -
+5 Inflation
+6 Nursing Positions to Contract - - - - (20.0)
+7 Nursing Authority Budget
+8 Transfer
+9 Women's Prison Medical ($2,397,900) - - ($2,397,900) -
+10 Services Reduction
+11 Rapid City Correctional Facility - $4,952,724 - - $4,952,724 22.0
+12 Inmate Medical
+13 Appropriation $49,241,176 $132,372 - $49,373,548 199.9
+14 $1,138,840 in general funds for the expansion and inflation in the cost of medical services.
+15 $1,654,393 in general funds and a decrease of ($1,654,393) in general funds, totaling a change of $0, and (20.0) FTE
+16 for transferring nursing positions to contract nurses.
+17 ($2,397,900) in general funds for the reduction of medical services at the South Dakota Women's Prison due to the
+18 decommissioning of the Pierre Minimum Center.
+19 $4,952,724 in general funds and 22.0 in FTE for the costs of Inmate Services to support the medical care of offenders
+20 within the new Rapid City Correctional Facility.
+21 (1827) Parole Services
+22 General Federal Other Total FTE
+23 Base $9,092,886 - - $9,092,886 74.0
+24 Payments to County Jails for $275,000 - - $275,000 -
+25 Housing Parolees Increase
+26 Appropriation $9,367,886 - - $9,367,886 74.0
+27 $275,000 in general funds for an increase in payments to counties for housing parolees in jails.
+28 (1831) Juvenile Community Corrections
+29 General Federal Other Total FTE
+30 Base $14,729,309 $1,766,879 - $16,496,188 21.7
+31 Federal Medical Assistance $23,844 ($23,844) - - -
+32 Percentage Change
+33 Juvenile Corrections Population ($1,353,631) ($327,882) - ($1,681,513) -
+34 Change
+35 Appropriation $13,399,522 $1,415,153 - $14,814,675 21.7
+36 $23,844 in general funds and ($23,844) in federal fund expenditure authority for a change in the federal medical
+37 assistance percentage.
+38 ($1,353,631) in general funds and ($327,882) in federal fund expenditure authority for adjustments in projected juvenile
+39 placements.
+40 (18) DEPARTMENT OF CORRECTIONS TOTALS
+41 General Federal Other Total FTE
+42 Base $157,630,620 $3,316,268 $5,304,138 $166,251,026 974.6
+43 Adjustments $13,300,057 ($351,726) - $12,948,331 113.0
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 40
+1 Appropriation $170,930,677 $2,964,542 $5,304,138 $179,199,357 1,087.6
+2 Personal Services $99,972,950 $567,825 $1,692,734 $102,233,509
+3 Operating Expenses $70,957,727 $2,396,717 $3,611,404 $76,965,848
+4 Total $170,930,677 $2,964,542 $5,304,138 $179,199,357 1,087.6
+5 Section 22.
+6 (19) DEPARTMENT OF HUMAN SERVICES
+7 (1900) Administration, Secretary of Human Services
+8 General Federal Other Total FTE
+9 Base $1,892,536 $1,715,879 $3,537 $3,611,952 30.0
+10 Assistant Director to Internal $60,890 $60,890 - $121,780 1.0
+11 Controls Budget Transfer
+12 Appropriation $1,953,426 $1,776,769 $3,537 $3,733,732 31.0
+13 $60,890 in general funds, $60,890 in federal fund expenditure authority and 1.0 in FTE for transferring a vacant assistant
+14 director position to create a new internal controls position.
+15 (1910) Developmental Disabilities
+16 General Federal Other Total FTE
+17 Base $136,485,631 $154,874,521 $10,085,783 $301,445,935 36.5
+18 Federal Medical Assistance $2,298,900 ($2,476,993) $178,093 - -
+19 Percentage Change
+20 Medicaid and Other Program $10,773,708 $12,640,063 $1,639,839 $25,053,610 -
+21 Utilization
+22 Appropriation $149,558,239 $165,037,591 $11,903,715 $326,499,545 36.5
+23 $2,298,900 in general funds, ($2,476,993) in federal fund expenditure authority and $178,093 in other fund expenditure
+24 authority for a change in the federal medical assistance percentage.
+25 $10,773,708 in general funds, $12,640,063 in federal fund expenditure authority and $1,639,839 in other fund
+26 expenditure authority for increased Medicaid and other agency program utilization.
+27 (1911) South Dakota Developmental Center - Redfield
+28 General Federal Other Total FTE
+29 Base $13,216,546 $13,760,086 $857,224 $27,833,856 259.1
+30 Federal Medical Assistance $227,765 ($227,765) - - -
+31 Percentage Change
+32 Utility Cost Adjustment $8,184 $8,408 - $16,592 -
+33 Appropriation $13,452,495 $13,540,729 $857,224 $27,850,448 259.1
+34 $227,765 in general funds and ($227,765) in federal fund expenditure authority for a change in the federal medical
+35 assistance percentage.
+36 $8,184 in general funds and $8,408 in federal fund expenditure authority for adjustments in utility expenses.
+37 (1920) Long Term Services and Supports
+38 General Federal Other Total FTE
+39 Base $162,903,835 $198,595,072 $982,568 $362,481,475 101.0
+40 Homemaker Fees Fund Swap ($284,467) - $284,467 - -
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 41
+1 Federal Medical Assistance $2,613,881 ($2,613,881) - - -
+2 Percentage Change
+3 Medicaid and Other Program $5,113,439 $5,030,438 $115,749 $10,259,626 -
+4 Utilization
+5 Title III Meal Programs $476,186 $935,937 - $1,412,123 -
+6 Appropriation $170,822,874 $201,947,566 $1,382,784 $374,153,224 101.0
+7 ($284,467) in general funds and $284,467 in other fund expenditure authority for using collected homemaker fees.
+8 $2,613,881 in general funds and ($2,613,881) in federal fund expenditure authority for a change in the federal medical
+9 assistance percentage.
+10 $5,113,439 in general funds, $5,030,438 in federal fund expenditure authority and $115,749 in other fund expenditure
+11 authority for increased Medicaid and other agency program utilization.
+12 $476,186 in general funds and $935,937 in federal fund expenditure authority for the increased costs of Title III meal
+13 programs.
+14 (1950) Rehabilitation Services
+15 General Federal Other Total FTE
+16 Base $7,049,678 $22,603,709 $2,446,235 $32,099,622 102.1
+17 Disability Determination Service - $480,000 - $480,000 -
+18 Federal Medical Assistance $64,747 ($64,747) - - -
+19 Percentage Change
+20 Appropriation $7,114,425 $23,018,962 $2,446,235 $32,579,622 102.1
+21 $480,000 in federal fund expenditure authority for changes in the workload of the in-state Disability Determination
+22 Service.
+23 $64,747 in general funds and ($64,747) in federal fund expenditure authority for a change in the federal medical
+24 assistance percentage.
+25 (1951) Telecommunication Devices for the Deaf
+26 General Federal Other Total FTE
+27 Base - - $1,301,680 $1,301,680 -
+28 Appropriation - - $1,301,680 $1,301,680 -
+29 There are no changes in appropriations for budget unit Telecommunication Devices for the Deaf.
+30 (1970) Service to the Blind and Visually Impaired
+31 General Federal Other Total FTE
+32 Base $1,202,590 $3,211,994 $555,410 $4,969,994 29.2
+33 Assistant Director to Internal ($60,890) ($60,890) - ($121,780) (1.0)
+34 Controls Budget Transfer
+35 Appropriation $1,141,700 $3,151,104 $555,410 $4,848,214 28.2
+36 ($60,890) in general funds, ($60,890) in federal fund expenditure authority and (1.0) in FTE for transferring a vacant
+37 assistant director position to create a new internal controls position.
+38 (19) DEPARTMENT OF HUMAN SERVICES TOTALS
+39 General Federal Other Total FTE
+40 Base $322,750,816 $394,761,261 $16,232,437 $733,744,514 557.9
+41 Adjustments $21,292,343 $13,711,460 $2,218,148 $37,221,951 -
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 42
+1 Appropriation $344,043,159 $408,472,721 $18,450,585 $770,966,465 557.9
+2 Personal Services $19,275,588 $28,973,831 $302,873 $48,552,292
+3 Operating Expenses $324,767,571 $379,498,890 $18,147,712 $722,414,173
+4 Total $344,043,159 $408,472,721 $18,450,585 $770,966,465 557.9
+5 Section 23.
+6 (25) SOUTH DAKOTA RETIREMENT SYSTEM
+7 (2501) South Dakota Retirement System
+8 General Federal Other Total FTE
+9 Base - - $6,537,548 $6,537,548 35.0
+10 Appropriation - - $6,537,548 $6,537,548 35.0
+11 There are no changes in appropriations for budget unit South Dakota Retirement System.
+12 (25) SOUTH DAKOTA RETIREMENT SYSTEM TOTALS
+13 General Federal Other Total FTE
+14 Base - - $6,537,548 $6,537,548 35.0
+15 Adjustments - - - - -
+16 Appropriation - - $6,537,548 $6,537,548 35.0
+17 Personal Services $0 $0 $3,935,374 $3,935,374
+18 Operating Expenses $0 $0 $2,602,174 $2,602,174
+19 Total $0 $0 $6,537,548 $6,537,548 35.0
+20 Section 24.
+21 (26) PUBLIC UTILITIES COMMISSION
+22 (2610) Public Utilities Commission (PUC)
+23 General Federal Other Total FTE
+24 Base $763,394 $421,672 $4,212,461 $5,397,527 31.2
+25 Consumer Affairs $185,440 - ($185,440) - -
+26 Representatives Fund Swap
+27 Consumer Affairs Manager Fund $128,720 - ($128,720) - -
+28 Swap
+29 Commissioners Fund Swap $109,875 - ($109,875) - -
+30 Appropriation $1,187,429 $421,672 $3,788,426 $5,397,527 31.2
+31 $185,440 in general funds and ($185,440) in other fund expenditure authority for realigning the budget of consumer
+32 affairs representative positions.
+33 $128,720 in general funds and ($128,720) in other fund expenditure authority for realigning the budget of a consumer
+34 affairs manager position.
+35 $109,875 in general funds and ($109,875) in other fund expenditure authority for realigning the budgets of three
+36 commissioners.
+37 (26) PUBLIC UTILITIES COMMISSION TOTALS
+38 General Federal Other Total FTE
+39 Base $763,394 $421,672 $4,212,461 $5,397,527 31.2
+40 Adjustments $424,035 - ($424,035) - -
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 43
+1 Appropriation $1,187,429 $421,672 $3,788,426 $5,397,527 31.2
+2 Personal Services $1,018,720 $339,117 $2,844,325 $4,202,162
+3 Operating Expenses $168,709 $82,555 $944,101 $1,195,365
+4 Total $1,187,429 $421,672 $3,788,426 $5,397,527 31.2
+5 Section 25.
+6 (27) UNIFIED JUDICIAL SYSTEM
+7 (2701) State Bar Association - Informational
+8 General Federal Other Total FTE
+9 Base - - $640,253 $640,253 3.0
+10 Appropriation - - $640,253 $640,253 3.0
+11 There are no changes in appropriations for budget unit State Bar Association - Informational.
+12 (271) Unified Judicial System
+13 General Federal Other Total FTE
+14 Base $65,447,413 $346,249 $14,600,518 $80,394,180 608.7
+15 Court Services Secretary - 2nd $59,658 - - $59,658 1.0
+16 Circuit
+17 Treatment Court Utilization ($159,396) - - ($159,396) -
+18 Appropriation $65,347,675 $346,249 $14,600,518 $80,294,442 609.7
+19 $59,658 in general funds and 1.0 in FTE for a new court services secretary position in the 2nd Circuit.
+20 ($159,396) in general funds for decreased treatment costs of drug and DUI court participants.
+21 (272) Equal Access to Our Courts
+22 General Federal Other Total FTE
+23 Base $300,000 - $200,000 $500,000 -
+24 Appropriation $300,000 - $200,000 $500,000 -
+25 There are no changes in appropriations for budget unit Equal Access to Our Courts.
+26 (273) Indigent Legal Services
+27 General Federal Other Total FTE
+28 Base $1,454,402 - - $1,454,402 7.0
+29 Appropriation $1,454,402 - - $1,454,402 7.0
+30 There are no changes in appropriations for budget unit Indigent Legal Services.
+31 (27) UNIFIED JUDICIAL SYSTEM TOTALS
+32 General Federal Other Total FTE
+33 Base $67,201,815 $346,249 $15,440,771 $82,988,835 618.7
+34 Adjustments ($99,738) - - ($99,738) 1.0
+35 Appropriation $67,102,077 $346,249 $15,440,771 $82,889,097 619.7
+36 Personal Services $59,430,516 $75,952 $4,230,071 $63,736,539
+37 Operating Expenses $7,671,561 $270,297 $11,210,700 $19,152,558
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 44
+1 Total $67,102,077 $346,249 $15,440,771 $82,889,097 619.7
+2 Section 26.
+3 (28) LEGISLATIVE BRANCH
+4 (2810) Legislative Operations
+5 General Federal Other Total FTE
+6 Base $9,531,882 - - $9,531,882 38.6
+7 Appropriation $9,531,882 - - $9,531,882 38.6
+8 There are no changes in appropriations for budget unit Legislative Operations.
+9 (2815) Legislative Priority Fund
+10 General Federal Other Total FTE
+11 Base - - $755,066 $755,066 -
+12 Appropriation - - $755,066 $755,066 -
+13 There are no changes in appropriations for budget unit Legislative Priority Fund.
+14 (2880) Auditor General
+15 General Federal Other Total FTE
+16 Base $5,977,525 - - $5,977,525 43.0
+17 Appropriation $5,977,525 - - $5,977,525 43.0
+18 There are no changes in appropriations for budget unit Auditor General.
+19 (28) LEGISLATIVE BRANCH TOTALS
+20 General Federal Other Total FTE
+21 Base $15,509,407 - $755,066 $16,264,473 81.6
+22 Adjustments - - - - -
+23 Appropriation $15,509,407 - $755,066 $16,264,473 81.6
+24 Personal Services $5,428,122 $0 $0 $5,428,122
+25 Operating Expenses $549,403 $0 $0 $549,403
+26 Single Line Item Appropriation $9,531,882 $0 $755,066 $10,286,948
+27 Total $15,509,407 $0 $755,066 $16,264,473 81.6
+28 Section 27.
+29 (29) OFFICE OF THE ATTORNEY GENERAL
+30 (2900) Legal Services Program
+31 General Federal Other Total FTE
+32 Base $7,790,770 $1,028,903 $4,318,986 $13,138,659 77.0
+33 Medicaid Fraud, Abuse, and - $239,682 ($239,682) - -
+34 Neglect Services Fund Swap
+35 Consumer Protection Special - - $91,009 $91,009 1.0
+36 Projects Coordinator
+37 Appropriation $7,790,770 $1,268,585 $4,170,313 $13,229,668 78.0
+38 $239,682 in federal fund expenditure authority and ($239,682) in other fund expenditure authority for realigning the
+39 budget of the Medicaid Fraud, Abuse, and Neglect Services Division.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 45
+1 $91,009 in other fund expenditure authority and 1.0 in FTE for a new special projects coordinator position in the Consumer
+2 Protection Division.
+3 (2911) Criminal Investigation
+4 General Federal Other Total FTE
+5 Base $12,315,436 $4,675,983 $7,562,180 $24,553,599 121.5
+6 Cooperative Disability - $514,832 ($514,832) - -
+7 Investigations Fund Swap
+8 Appropriation $12,315,436 $5,190,815 $7,047,348 $24,553,599 121.5
+9 $514,832 in federal fund expenditure authority and ($514,832) in other fund expenditure authority for realigning the
+10 budget of the Cooperative Disability Investigations program.
+11 (2912) Law Enforcement Training
+12 General Federal Other Total FTE
+13 Base $317,806 - $3,031,262 $3,349,068 14.5
+14 Appropriation $317,806 - $3,031,262 $3,349,068 14.5
+15 There are no changes in appropriations for budget unit Law Enforcement Training.
+16 (2913) 911 Training
+17 General Federal Other Total FTE
+18 Base - - $279,141 $279,141 2.0
+19 Appropriation - - $279,141 $279,141 2.0
+20 There are no changes in appropriations for budget unit 911 Training.
+21 (2915) Insurance Fraud Unit - Informational
+22 General Federal Other Total FTE
+23 Base - - $347,848 $347,848 3.0
+24 Appropriation - - $347,848 $347,848 3.0
+25 There are no changes in appropriations for budget unit Insurance Fraud Unit - Informational.
+26 (29) OFFICE OF THE ATTORNEY GENERAL TOTALS
+27 General Federal Other Total FTE
+28 Base $20,424,012 $5,704,886 $15,539,417 $41,668,315 218.0
+29 Adjustments - $754,514 ($663,505) $91,009 1.0
+30 Appropriation $20,424,012 $6,459,400 $14,875,912 $41,759,324 219.0
+31 Personal Services $15,344,010 $2,282,638 $7,725,731 $25,352,379
+32 Operating Expenses $5,080,002 $4,176,762 $7,150,181 $16,406,945
+33 Total $20,424,012 $6,459,400 $14,875,912 $41,759,324 219.0
+34 Section 28.
+35 (30) SCHOOL AND PUBLIC LANDS
+36 (3001) Administration of School and Public Lands
+37 General Federal Other Total FTE
+38 Base $903,717 - $342,052 $1,245,769 7.0
+39 Appropriation $903,717 - $342,052 $1,245,769 7.0
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 46
+1 There are no changes in appropriations for budget unit Administration of School and Public Lands.
+2 (30) SCHOOL AND PUBLIC LANDS TOTALS
+3 General Federal Other Total FTE
+4 Base $903,717 - $342,052 $1,245,769 7.0
+5 Adjustments - - - - -
+6 Appropriation $903,717 - $342,052 $1,245,769 7.0
+7 Personal Services $711,101 $0 $65,837 $776,938
+8 Operating Expenses $192,616 $0 $276,215 $468,831
+9 Total $903,717 $0 $342,052 $1,245,769 7.0
+10 Section 29.
+11 (31) SECRETARY OF STATE
+12 (3101) Secretary of State
+13 General Federal Other Total FTE
+14 Base $1,596,365 $2,013,974 $1,118,294 $4,728,633 17.6
+15 Release of Help America Vote - $262,169 - $262,169 -
+16 Act Funding
+17 Appropriation $1,596,365 $2,276,143 $1,118,294 $4,990,802 17.6
+18 $262,169 in federal fund expenditure authority for the release of Help America Vote Act funding to counties.
+19 (31) SECRETARY OF STATE TOTALS
+20 General Federal Other Total FTE
+21 Base $1,596,365 $2,013,974 $1,118,294 $4,728,633 17.6
+22 Adjustments - $262,169 - $262,169 -
+23 Appropriation $1,596,365 $2,276,143 $1,118,294 $4,990,802 17.6
+24 Personal Services $1,013,267 $141,577 $553,884 $1,708,728
+25 Operating Expenses $583,098 $2,134,566 $564,410 $3,282,074
+26 Total $1,596,365 $2,276,143 $1,118,294 $4,990,802 17.6
+27 Section 30.
+28 (32) STATE TREASURER
+29 (3201) Treasury Management
+30 General Federal Other Total FTE
+31 Base $764,651 - - $764,651 5.1
+32 Appropriation $764,651 - - $764,651 5.1
+33 There are no changes in appropriations for budget unit Treasury Management.
+34 (3202) Unclaimed Property - Informational
+35 General Federal Other Total FTE
+36 Base - - $37,525,105 $37,525,105 -
+37 Unclaimed Property Payments - - $20,000,000 $20,000,000 -
+38 Verification and Fraud Detection - - $75,000 $75,000 -
+39 Services Budget Transfer and
+40 Increase
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 47
+1 Appropriation - - $57,600,105 $57,600,105 -
+2 $20,000,000 in other fund expenditure authority for payments of unclaimed property.
+3 $75,000 in other fund expenditure authority for realigning and increasing the budget for enterprise administration system
+4 verification and fraud detection services.
+5 (3203) Unclaimed Property Operations
+6 General Federal Other Total FTE
+7 Base $1,397,731 - - $1,397,731 5.9
+8 Database Management Fee $11,790 - - $11,790 -
+9 Full-Service Brokerage Contract $110,000 - - $110,000 -
+10 Verification and Fraud Detection ($33,025) - - ($33,025) -
+11 Services Budget Transfer
+12 Administrative Clerk $80,638 - - $80,638 1.0
+13 Appropriation $1,567,134 - - $1,567,134 6.9
+14 $11,790 in general funds for an existing enterprise administration system database management fee.
+15 $110,000 in general funds for a new full-service brokerage contract through the unclaimed property enterprise
+16 administration system.
+17 ($33,025) in general funds for realigning the budget for enterprise administration system verification and fraud detection
+18 services.
+19 $80,638 in general funds and 1.0 in FTE for a new administrative clerk position.
+20 (3210) Investment of State Funds
+21 General Federal Other Total FTE
+22 Base - - $13,047,025 $13,047,025 35.0
+23 Bank Custodian Contract - - $6,280 $6,280 -
+24 Inflation
+25 Office Rent Inflation - - $7,588 $7,588 -
+26 Employee Salaries and - - ($184,292) ($184,292) -
+27 Promotional Increases
+28 Investment and Research - - $68,746 $68,746 -
+29 Services Adjustments
+30 State Risk Pool Insurance - - $215 $215 -
+31 Premium Inflation
+32 Office Furniture - - ($1,020) ($1,020) -
+33 Artificial Intelligence Assistant - - $12,600 $12,600 -
+34 Subscriptions
+35 Employee Education Books - - $570 $570 -
+36 Computer Hardware Inflation - - $450 $450 -
+37 State Audit Services - - $2,244 $2,244 -
+38 SDLearn Services - - $1,370 $1,370 -
+39 Appropriation - - $12,961,776 $12,961,776 35.0
+40 $6,280 in other fund expenditure authority for the increased cost of a bank custodian contract.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 48
+1 $7,588 in other fund expenditure authority for the increased cost of office rent.
+2 ($184,292) in other fund expenditure authority for new employee salaries and promotions.
+3 $68,746 in other fund expenditure authority for adjustments to existing investment and research services.
+4 $215 in other fund expenditure authority for the increased cost of insurance premiums.
+5 ($1,020) in other fund expenditure authority for a decrease in the office furniture budget.
+6 $12,600 in other fund expenditure authority for new enterprise generative artificial intelligence assistant subscriptions.
+7 $570 in other fund expenditure authority for new Charted Financial Analyst education books for employees.
+8 $450 in other fund expenditure authority for the increased cost of computer hardware purchases.
+9 $2,244 in other fund expenditure authority for an increase in state audit services.
+10 $1,370 in other fund expenditure authority for adding SDLearn through the Bureau of Human Resources and
+11 Administration for employees.
+12 (3211) Performance Based Compensation
+13 General Federal Other Total FTE
+14 Base - - $17,256,902 $17,256,902 -
+15 Performance Based - - ($109,238) ($109,238) -
+16 Compensation
+17 Appropriation - - $17,147,664 $17,147,664 -
+18 ($109,238) in other fund expenditure authority for performance-based compensation.
+19 (32) STATE TREASURER TOTALS
+20 General Federal Other Total FTE
+21 Base $2,162,382 - $67,829,032 $69,991,414 46.0
+22 Adjustments $169,403 - $19,880,513 $20,049,916 1.0
+23 Appropriation $2,331,785 - $87,709,545 $90,041,330 47.0
+24 Personal Services $1,205,047 $0 $26,838,970 $28,044,017
+25 Operating Expenses $1,126,738 $0 $60,870,575 $61,997,313
+26 Total $2,331,785 $0 $87,709,545 $90,041,330 47.0
+27 Section 31.
+28 (33) STATE AUDITOR
+29 (3300) State Auditor
+30 General Federal Other Total FTE
+31 Base $1,937,695 - - $1,937,695 17.0
+32 Appropriation $1,937,695 - - $1,937,695 17.0
+33 There are no changes in appropriations for budget unit State Auditor.
+34 (33) STATE AUDITOR TOTALS
+35 General Federal Other Total FTE
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 49
+1 Base $1,937,695 - - $1,937,695 17.0
+2 Adjustments - - - - -
+3 Appropriation $1,937,695 - - $1,937,695 17.0
+4 Personal Services $1,715,555 $0 $0 $1,715,555
+5 Operating Expenses $222,140 $0 $0 $222,140
+6 Total $1,937,695 $0 $0 $1,937,695 17.0
+7 Section 32.
+8 STATE
+9 General Federal Other Total FTE
+10 Base $2,462,985,115 $3,124,833,995 $1,735,823,858 $7,323,642,968 14,095.3
+11 Adjustments $50,730,110 $16,998,233 $50,682,225 $118,410,568 135.0
+12 Appropriation $2,513,715,225 $3,141,832,228 $1,786,506,083 $7,442,053,536 14,230.3
+13 Personal Services $614,613,296 $252,310,306 $633,903,257 $1,500,826,859
+14 Operating Expenses $1,889,570,047 $2,889,521,922 $1,151,847,760 $5,930,939,729
+15 Single Line Item Appropriation $9,531,882 $0 $755,066 $10,286,948
+16 Total $2,513,715,225 $3,141,832,228 $1,786,506,083 $7,442,053,536 14,230.3
+17 Section 33. The state treasurer shall transfer to the state general fund moneys from the following
+18 funds for the purposes herein indicated:
+19 From the state highway fund:
+20 Radio Communications Operations $4,855,686
+21 Governor's Office Operations $118,958
+22 From the game, fish and parks fund:
+23 Radio Communications Operations $84,768
+24 From the game, fish and parks administrative revolving fund:
+25 Governor's Office Operations $20,029
+26 From the motor vehicle fund:
+27 Radio Communications Operations $759,434
+28 Section 34. The state treasurer shall transfer to the state general fund $2,000,000 from the veterans
+29 home operating fund created by § 33A-4-24.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 50
+1 Section 35. The state treasurer shall transfer to the state general fund moneys from the dakota
+2 cement trust fund, the amount identified by notice of the state investment officer pursuant to S.D.
+3 Const., Art. XIII, § 21, for the Department of Education - state aid to education.
+4 Section 36. The state treasurer shall transfer to the state general fund moneys from the health care
+5 trust fund, the amount identified by notice of the state investment officer pursuant to § 4-5-29.1,
+6 for the Department of Social Services - medical services.
+7 Section 37. The state treasurer shall transfer to the state general fund moneys from the education
+8 enhancement trust fund, the amount identified by notice of the state investment officer pursuant to
+9 § 4-5-29.2, for the Department of Education - state aid to education and the Board of Regents -
+10 postsecondary scholarship grant programs.
+11 Section 38. All members of state boards, councils, commissions, and advisory bodies listed in this
+12 section, or created by law during the One Hundred First and One Hundred Second Legislative
+13 Sessions, are entitled to reimbursement for allowable expenses as approved by the Board of Finance
+14 under the provisions of chapter 3-9. The salary or per diem compensation for members of state
+15 boards, councils, commissions, and advisory bodies for their work in actual performance of their
+16 duties or responsibilities is as follows:
+17
+18 PER DIEM PAYABLE
+19
+20 FISCAL YEARS 2027 & 2028
+21
+22 BOARDS, COMMITTEES, COUNCILS, AND COMMISSIONS
+23
+24 EXECUTIVE MANAGEMENT
+25 Capitol Complex Restoration and Beautification Commission $ 0
+26 Civil Service Commission $166
+27 Economic Advisors, Council of $ 0
+28 Economic Development, Board of $166
+29 Economic Development Finance Authority $ 0
+30 Educational Enhancement Funding Corporation $ 0
+31 Education Telecommunications, Board of Directors for $166
+32 Housing Development Authority $166
+33 Internal Control, Board of $ 0
+34 Records Retention, State Board of $ 0
+35 Research and Commercialization Council $ 0
+36 Science and Technology Authority, Board of $166
+37 SD Building Authority $166
+38 SD Ellsworth Authority $ 0
+39 SD Health and Educational Facilities Authority $ 0
+40 Public Safety Communications Council $ 0
+41
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 51
+1 REVENUE
+2 Gaming, Commission on $166
+3 SD Lottery Commission $166
+4
+5 AGRICULTURE AND NATURAL RESOURCES
+6 American Dairy Association of SD $166
+7 Animal Industry Board $166
+8 Brand Board $166
+9 Corn Utilization Council $166
+10 Oilseeds Council $166
+11 SD Pulse Crops Council $166
+12 Soybean Research and Promotion Council $166
+13 State Conservation Commission $166
+14 State Fair Commission $166
+15 Veterinary Medical Examiners, Board of $166
+16 Weed and Pest Control Commission $166
+17 Wheat Commission $166
+18 Nutrient Research and Education Council $ 0
+19 Seed Certification Board $ 0
+20 Emergency Response Commission $ 0
+21 Minerals and Environment, Board of $166
+22 Operator Certification Board $ 0
+23 Small Business Clean Air Compliance Advisory Panel $ 0
+24 Water and Natural Resources, Board of $166
+25 Water Management Board $166
+26
+27 TOURISM
+28 Arts Council $166
+29 Tourism, Board of $166
+30
+31 GAME, FISH, AND PARKS
+32 Boundary Waters Commission - SD - MN $ 0
+33 Game, Fish, and Parks Commission $166
+34 Governor's Commission on Ft. Sisseton $ 0
+35 SD Recreation Trail Advisory Board $ 0
+36 SD Snowmobile Advisory Council $ 0
+37
+38 TRIBAL RELATIONS
+39 Indian Education Advisory Council $ 0
+40 SD Geographic Names, Board of $ 0
+41
+42 SOCIAL SERVICES
+43 Addiction and Prevention Professionals, Board of $166
+44 Behavioral Health Advisory Council $ 0
+45 Child Support Commission $ 0
+46 Counselors and Marriage and Family Therapists Examiners, Board of $166
+47 Indian Child Welfare Advisory Council $ 0
+48 Medicaid Pharmaceutical and Therapeutics Committee $166
+49 Medical Advisory Committee $ 0
+50 Psychologists Examiners, Board of $166
+51 Social Services, Board of $ 0
+52 Social Workers Examiners, Board of $166
+53
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 52
+1 HEALTH
+2 Certified Professional Midwives, Board of $166
+3 Chiropractic Examiners, Board of $166
+4 Dentistry, Board of $166
+5 Funeral Services, State Board of $166
+6 Healthcare Associated Infection/Antimicrobial Stewardship Advisory
+7 Committee $ 0
+8 Health Link Advisory Committee $ 0
+9 Hearing Aid Dispensers, Board of $166
+10 HIV Prevention Planning Workgroup $ 0
+11 Massage Therapy, Board of $166
+12 Medical and Osteopathic Examiners, Board of $166
+13 Nursing, Board of $166
+14 Nursing Home Administrators, Board of $166
+15 Optometry Examiners, Board of $166
+16 Pharmacy, Board of $166
+17 Physical Therapy, Board of $166
+18 Preventive Health and Human Services Block Grant Advisory
+19 Committee $ 0
+20 Podiatry Examiners, Board of $166
+21 Prescription Opioid Abuse Advisory Committee $ 0
+22 Ryan White Care Council $ 0
+23 Speech Language Pathology, Board of $166
+24 Tobacco Prevention and Control State Advisory Committee $ 0
+25
+26 LABOR AND REGULATION
+27 Abstractors Board of Examiners $166
+28 Accountancy, SD Board of $166
+29 Appraiser Certification Program Advisory Council $166
+30 Banking Commission, State $166
+31 Barber Examiners, Board of $166
+32 Cosmetology Commission $166
+33 Electrical Commission, State $166
+34 Governor's Task Force on Trust Administration Review and Reform $ 0
+35 Human Rights, Commission on $166
+36 Plumbing Commission $166
+37 Public Deposit Protection Commission $ 0
+38 Real Estate Commission $166
+39 Reemployment Assistance Advisory Council $166
+40 SD Athletic Commission $166
+41 SD Workforce Development Council $166
+42 State Workers' Compensation Advisory Council $ 0
+43 Technical Professions, Board of $166
+44
+45 TRANSPORTATION
+46 Aeronautics Commission $166
+47 Railroad Board, SD $166
+48 Transportation Commission, State $166
+49
+50 EDUCATION
+51 Advisory Panel for Children with Disabilities $ 0
+52 America 250th South Dakota Commission $166
+53 Education Standards, State Board of $166
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 53
+1 Extraordinary Cost Oversight Board $ 0
+2 Historical Society Trustees, Board of $166
+3 Practitioners, Committee of $ 0
+4 Professional Administrators Practices and Standards Commission $166
+5 Professional Practices and Standards Commission $166
+6 Richard Hagen-Minerva Harvey Memorial Scholarship Board $ 0
+7 School Finance Accountability Board $166
+8 SD Interagency Coordinating Council $ 0
+9 Teacher Compensation Review Board $166
+10 Title III Coordinators Advisory Panel $ 0
+11 Technical Education, Board of $166
+12 Virtual High School Advisory $ 0
+13
+14 PUBLIC SAFETY
+15 Crime Victims Compensation Board $ 0
+16 Fire Marshal's Advisory Board $ 0
+17 One Call Notification Board $ 0
+18 SD Homeland Security Senior Advisory Committee $ 0
+19 SD 9-1-1 Coordination Board $ 0
+20
+21 REGENTS
+22 Regents, Board of $166
+23
+24 CORRECTIONS
+25 Corrections Commission $ 0
+26 Council of Juvenile Services $ 0
+27 Interstate Adult Supervision, State Council for $ 0
+28 Interstate Commission for Juveniles, Council for the $ 0
+29 Pardons and Paroles, Board of $200
+30 The expense reimbursement for each member of the Board of Pardons and Paroles is equal
+31 to the daily rate set in § 24-13-5.
+32
+33 HUMAN SERVICES
+34 Aging, Advisory Council on $166
+35 Blind Vendors Committee $ 0
+36 Family Support Council $ 0
+37 Council on Developmental Disabilities $166
+38 Services to the Blind and Visually Impaired, Board of $166
+39 Statewide Independent Living Council $ 0
+40 Vocational Rehabilitation, Board of $166
+41
+42 SD RETIREMENT SYSTEM
+43 SD Retirement System Board of Trustees $166
+44
+45 UNIFIED JUDICIAL SYSTEM
+46 Court Appointed Special Advocate Commission $ 0
+47 Equal Access to Our Courts, Commission on $ 0
+48 Indigent Legal Services Task Force $ 0
+49 Judicial Qualifications Commission $166
+50 Juvenile Justice Oversight Committee $ 0
+51
+52 LEGISLATIVE
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.720.9 54
+1 The salary or per diem compensation for members of the Legislature is equal to the daily rate
+2 set by subdivision 2-4-2(2).
+3
+4 ATTORNEY GENERAL
+5 Government Accountability Board
+6 The salary or per diem compensation for members of the Government Accountability Board
+7 is set by § 3-24-1.
+8 Law Enforcement Officers Standards Commission $ 0
+9 Open Meeting Commission $166
+10
+11 SECRETARY OF STATE
+12 Elections, State Board of $166
+13 Finance, Board of $ 0
+14 Help America Vote Act Board $ 0
+15
+16 STATE TREASURER
+17 Investment Council $166
+18 Public Deposit Protection Commission $ 0
+Underscores indicate new language.
+Overstrikes indicate deleted language.

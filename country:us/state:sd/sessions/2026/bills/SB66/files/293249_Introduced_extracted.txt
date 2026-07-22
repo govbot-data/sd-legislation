@@ -1,0 +1,471 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.321.14 101st Legislative Session 66
+2026 South Dakota Legislature
+Senate Bill 66
+Introduced by: Senator Carley
+1 An Act to prohibit the use of automatic tabulating equipment and electronic ballot
+2 marking systems.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 12-1:
+5 The State Board of Elections may not authorize the use of any automatic tabulating
+6 equipment or electronic ballot marking system.
+7 The governing body of a political subdivision having supervision of an election may
+8 not adopt, implement, or use any automatic tabulating or electronic ballot marking system
+9 in an election.
+10 Section 2. That § 12-16-2 be AMENDED:
+11 12-16-2. All official ballots shall must be printed on good quality bond paper, in
+12 black ink, and in the English language. The names of candidates for each office shall must
+13 be printed in large type under the designation of the party for which the nomination is
+14 made, so that all the names of candidates for each party are in separate columns, the
+15 names of candidates for each office are directly opposite each other, and the names of all
+16 independent candidates occupy a separate column under the heading, independent
+17 candidates. In precincts using automatic tabulating systems, the ballot information,
+18 whether placed on the ballot or on the marking device, shall, as far as practicable, be in
+19 the order or arrangement provided for paper ballots except that such information may be
+20 in vertical or horizontal rows, or on a number of separate pages. No An individual race or
+21 ballot question may not be divided between pages. One ballot card may be used for
+22 recording a voter's vote on all races and measures.
+23 Section 3. That § 12-18-1 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.321.14 2 66
+1 12-18-1. The superintendent of the election precinct is responsible for having the
+2 polling place ready to accommodate the voters in the precinct by the time the polls open.
+3 The booths, electronic ballot marking system, and supplies which that enable the voter to
+4 complete the voter's ballot shall must be provided by the person in charge of the election.
+5 If a voter chooses to use a sip and puff device or an A/B switch device with the electronic
+6 ballot marking system, the voter shall provide such device. All voting at the polling place
+7 shall must be in private voting booths or compartments and, except as provided in § 12-
+8 18-25, shall must be screened from observation.
+9 Section 4. That § 12-19-43 be AMENDED:
+10 12-19-43. The county auditor shall direct the board to meet on election day prior
+11 to the closing of the polls for the sole purpose of reviewing the absentee voters' affidavits
+12 appearing on the sealed ballot envelopes, if in the auditor's judgment this procedure shall
+13 be is necessary due to the number of absentee ballots received. The absentee ballots shall
+14 must be opened, stamped, and placed in the ballot box or processed by an automatic
+15 tabulating machine, but under no circumstances shall the ballots but may not be manually
+16 counted nor any vote totals printed or displayed by any tabulating machine prior to the
+17 closing of the polls. If ballots are processed by an automatic tabulating machine prior to
+18 the closing of the polls, the resolution board shall be present and notification of such
+19 processing shall be provided to each county party chairperson at least ten days before the
+20 election.
+21 Section 5. That § 12-20-1 be AMENDED:
+22 12-20-1. As soon as the polls are closed, the precinct superintendent and precinct
+23 deputies shall must audit the ballot count, as prescribed in §§ 12-20-2 and 12-20-3. The
+24 precinct superintendent and precinct deputies shall then immediately deliver the ballot
+25 boxes, registration book, pollbook, and other election supplies, including voided and
+26 unused ballots, to the counting board, if appointed, and sign a certificate of transmittal
+27 and receipt, as prescribed by the State Board of Elections.
+28 The Upon receipt of the ballot boxes, registration book, pollbook, and other election
+29 supplies, the members of the precinct election board or the counting board, if appointed,
+30 shall then must immediately proceed to count by hand, publicly, and in the presence of
+31 all persons desiring to attend the count, the votes received at the polls, and continue
+32 without leaving the site of the count until the count is completed. A person charged with
+33 implementing this section may not delay the counting of ballots, other than to authorize
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.321.14 3 66
+1 short recesses for the health and wellbeing of those employed to implement this section.
+2 In counting the votes, the members of the precinct election board or counting board shall
+3 use the tally sheets provided.
+4 Section 6. That § 12-20-13 be AMENDED:
+5 12-20-13. Except as provided in § 12-20-17, the county auditor shall tabulate
+6 election returns as rapidly as received and make the result available for the information
+7 of the public, but such returns are not. Any results made available pursuant to this section
+8 may not be considered the official returns.
+9 The county auditor shall enter the information into the central election reporting
+10 system, by using any computer located in a county office which that is properly configured
+11 and linked to the central state computer, immediately following the tabulation counting of
+12 election returns from each precinct.
+13 Section 7. That § 12-20-13.1 be AMENDED:
+14 12-20-13.1. The person in charge of the election shall decide if the provisional
+15 ballots are to be counted by hand or by automated tabulating equipment. If a decision is
+16 made to count the ballots by hand, a provisional ballot counting board shall be appointed
+17 as provided in § 12-15-1. If the provisional ballots are to be counted by automated
+18 tabulating equipment, a resolution board and tabulation machine operators shall be
+19 appointed as provided in chapter 12-17B appoint a provisional ballot counting board as
+20 provided in § 12-15-1.
+21 Section 8. That § 12-20-13.2 be AMENDED:
+22 12-20-13.2. The provisional ballot counting board or resolution board and
+23 tabulation machine operators shall convene one hour prior to the convening of the
+24 canvassing board. The provisional ballots, which Any provisional ballot that the person in
+25 charge of the election has determined are not to be invalid according to § 12-20-5.1, shall
+26 must be counted.
+27 Upon completion of the count, the provisional ballot counting board or resolution
+28 board shall must complete a certification of the provisional ballot count and give the
+29 certification to the canvassing board. The certification form shall be prescribed by the
+30 State Board of Elections shall prescribe the form of the certification.
+31 Section 9. That § 12-21-24 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.321.14 4 66
+1 12-21-24. The county auditor shall provide the pollbooks, automatic tabulating
+2 system election night print outs, sealed ballot boxes, any provisional ballots which that
+3 were determined countable pursuant to § 12-20-13.2, any uncounted provisional ballots,
+4 and any unopened absentee ballot envelopes to the recount board. The recount board is
+5 authorized to make a determination whether any provisional ballots or absentee ballots
+6 which that were determined not to be countable, shall be are counted, and those votes
+7 shall must be added to the recount tally.
+8 Section 10. That § 61-1-36 be AMENDED:
+9 61-1-36. For the purposes of §§ 61-1-13 and 61-1-15 the term, employment,
+10 does not apply to service performed:
+11 (1) In the employ of:
+12 (a) A church or convention or association of churches, or
+13 (b) An organization which that is operated primarily for religious purposes and
+14 which is operated, supervised, controlled, or principally supported by a
+15 church or convention or association of churches; or
+16 (2) By a duly ordained, commissioned, or licensed minister of a church in the exercise
+17 of duties required by the church or by a member of a religious order in the exercise
+18 of duties required by the order; or
+19 (3) In the employ of a school which that is not an institution of higher education prior
+20 to January 1, 1978; or in the employ of a governmental entity referred to in § 61-
+21 1-13 after December 31, 1977, if the service is performed by an individual in the
+22 exercise of duties:
+23 (a) As an elected official;
+24 (b) As a member of a legislative body, or a member of the judiciary, of a state
+25 or political subdivision;
+26 (c) As a member of the state national guard or air national guard;
+27 (d) As an employee serving on a temporary basis in case of fire, storm, snow,
+28 earthquake, flood, or similar emergency;
+29 (e) In a position which that, under or pursuant to the laws of this state, is
+30 designated as a major nontenured policymaking or advisory position, or a
+31 policymaking position the performance of the duties of which ordinarily does
+32 not require more than eight hours per week; or
+33 (f) As a precinct election official or automatic tabulating system worker, if the
+34 amount of remuneration received by the individual during the calendar year
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.321.14 5 66
+1 for services as a precinct election official or automatic tabulating system
+2 worker is less than one thousand dollars; or
+3 (4) In a facility conducted for the purpose of carrying out a program of rehabilitation
+4 for any individual whose earning capacity is impaired by age or physical or mental
+5 deficiency or injury, or providing remunerative work for any individual who because
+6 of impaired physical or mental capacity cannot be readily absorbed in the
+7 competitive labor market, by an individual receiving such the rehabilitation or
+8 remunerative work; or
+9 (5) As part of an unemployment work-relief or work-training program assisted or
+10 financed in whole or in part by any federal agency or an agency of a state or
+11 political subdivision, by an individual receiving such the work relief or work
+12 training; or
+13 (6) By an inmate of a custodial or penal institution.
+14 Section 11. That § 12-17B-1 be REPEALED.
+15 Terms used in this chapter mean:
+16 (1) "Automatic tabulating equipment," the apparatus necessary to automatically
+17 examine and count votes as designated on ballots or entered directly into a
+18 computer by means of a touch screen or other data entry device and data
+19 processing machines which can be used for counting these votes and tabulating
+20 results;
+21 (2) "Ballot," paper ballots containing the names of candidates and statements of
+22 measures to be voted on;
+23 (3) "Counting location," any location selected by the person in charge of the election
+24 for the counting of votes cast in an election. A counting location shall be within the
+25 territorial jurisdiction of such person unless there is no suitable tabulating
+26 equipment available within the jurisdiction. However, in any event, all counting
+27 locations shall be within this state;
+28 (4) "Electronic ballot marking system," any electronic device which marks votes on a
+29 ballot;
+30 (5) "Optical scan," a procedure in which votes are tabulated by means of examining
+31 marks made in voting response locations on the ballots with an optical mark reader
+32 (OMR);
+33 (6) "Resolution board," a board at an automatic tabulating location comprised of a
+34 representative from each political party having a candidate on the ballot and whose
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.321.14 6 66
+1 candidate on the county-wide ballot at the last general election received at least
+2 fifteen percent of the votes. The county auditor may request additional board
+3 members balanced evenly by party. If the resolution board consists of more than
+4 one member from each party, the party shall designate which member of the party
+5 shall serve as co-leader of the resolution board. The co-leaders shall ensure that
+6 each board member is conducting resolution board duties uniformly and in
+7 accordance with applicable statutes and administrative rules. The board shall
+8 determine the disposition of those ballots which cannot be properly counted by the
+9 tabulating equipment and observe the activities at the counting location on behalf
+10 of the board member's respective party affiliation. In strictly nonpartisan elections,
+11 the resolution board shall be comprised of two persons who are not employees of
+12 the jurisdiction conducting the election and shall be appointed by the person in
+13 charge of the election.
+14 Section 12. That § 12-17B-2 be REPEALED.
+15 Any automatic tabulating or electronic ballot marking system used in an election
+16 shall enable the voter to cast a vote for all offices and on all measures on which the voter
+17 is entitled to vote. No automatic tabulating, electronic ballot marking, or election voting
+18 equipment system may be connected to the internet. No ballot marking device may save
+19 or tabulate votes marked on any system. Each system shall fulfill the requirements for
+20 election assistance commission standards certification and be approved by the State Board
+21 of Elections prior to distribution and use in this state. No system may be approved unless
+22 the system fulfills the requirements as established by the State Board of Elections. Any
+23 changes or modifications to an approved system shall be approved by the State Board of
+24 Elections prior to distribution and use.
+25 Section 13. That § 12-17B-3 be REPEALED.
+26 Any governing body having supervision of elections within any political subdivision
+27 may adopt, experiment with, or abandon any automatic tabulating or electronic ballot
+28 marking system approved for use by the State Board of Elections. Any governing body
+29 may use the system in all or some of the precincts within its jurisdiction or in combination
+30 with any other type of voting system approved for use by the State Board of Elections.
+31 Section 14. That § 12-17B-4 be REPEALED.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.321.14 7 66
+1 The governing body of a political subdivision may contract with any county for the
+2 use of an automatic tabulating or electronic ballot marking system for elections within the
+3 political subdivision.
+4 Section 15. That § 12-17B-5 be REPEALED.
+5 Not more than ten days prior to an election, the person in charge of the election
+6 shall conduct a test of the automatic tabulating equipment to ascertain that the equipment
+7 will correctly count the votes cast for all offices and on all measures. The test must be
+8 open to the public. The person in charge of the election shall notify the county chair of
+9 each political party with a candidate on the ballot, any independent candidate or candidate
+10 without party affiliation on the ballot, and the ballot question committees for or against
+11 an initiated or referred measure or initiated constitutional amendment, of the testing of
+12 the automatic tabulating equipment, one week before the test is conducted. The person
+13 in charge of the election shall post notice of the time and place of the test in the same
+14 manner as a public meeting agenda, pursuant to § 1-25-1.1. The person in charge of the
+15 election shall post the notice of the time and place of the test to the secretary of state's
+16 website.
+17 If an errorless count by an automatic tabulating machine is achieved by the test,
+18 the person in charge of the election shall certify the machine. The State Board of Elections
+19 shall promulgate rules, pursuant to chapter 1-26, prescribing the certification of properly
+20 functioning automatic tabulating equipment under this section.
+21 If an error is detected, the cause of the error shall be determined and corrected.
+22 Once the error is corrected, the person in charge of the election shall conduct a new test
+23 of the automatic tabulating equipment. The person in charge of the election may not
+24 approve the automatic tabulating equipment until an errorless count is made.
+25 Any additional testing required to achieve an errorless count must be open to the
+26 public. The person in charge of the election shall post notice of the time and place of an
+27 additional test in the same manner as a public meeting agenda, pursuant to § 1-25-1.1.
+28 The person in charge of the election shall notify the county chair of each political party
+29 with a candidate on the ballot, any independent candidate or candidate without party
+30 affiliation on the ballot, and the ballot question committees for or against an initiated or
+31 referred measure or initiated constitutional amendment of the testing of the automatic
+32 tabulating equipment twenty-four hours prior to the test. The person in charge of the
+33 election shall post the notice of the time and place of the additional test to the secretary
+34 of state's website.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.321.14 8 66
+1 The secretary of state shall provide each county auditor with the contact
+2 information for any independent candidate, candidate without party affiliation appearing
+3 on the ballot, and the ballot question committees for or against an initiated or referred
+4 measure or initiated constitutional amendment in the auditor's county.
+5 Section 16. That § 12-17B-5.1 be REPEALED.
+6 The person in charge of the election shall test the automatic tabulating equipment
+7 by processing a predetermined number of ballots on which are recorded a predetermined
+8 number of valid votes for each candidate and measure. The test of the automatic
+9 tabulating equipment must also include at least one ballot for each office that has votes
+10 exceeding the number allowed by law in order to test the ability of the automatic tabulating
+11 equipment to reject invalid votes. During the test, a different number of valid votes must
+12 be assigned to each candidate for an office and for and against each measure. A ballot
+13 used to test the automatic tabulating equipment must be clearly marked as a test ballot.
+14 After each test, the testing materials and the predetermined number of ballots used during
+15 the test must be sealed and retained in the same manner as election materials after an
+16 election.
+17 Section 17. That § 12-17B-5.2 be REPEALED.
+18 After the conclusion of the testing of the automatic tabulating equipment, no
+19 software or firmware updates may be made to the automatic tabulating equipment until
+20 after the certification of the election results. Each automatic tabulating device must be
+21 sealed with a unique numbered seal. The person in charge of the election shall verify
+22 immediately prior to the official counting of the ballots that the seal has not been tampered
+23 with since the testing period and certification process pursuant to § 12-17B-5. The State
+24 Board of Elections shall promulgate rules, pursuant to chapter 1-26, prescribing the
+25 method of sealing automatic tabulating equipment pursuant to this section.
+26 Section 18. That § 12-17B-6 be REPEALED.
+27 The person in charge of the election shall provide a sufficient number of voting
+28 equipment and supplies to accommodate the voters and avoid unreasonable waiting times
+29 for casting ballots.
+30 Section 19. That § 12-17B-6.1 be REPEALED.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.321.14 9 66
+1 If a candidate for federal office appears on the ballot at a polling place, such polling
+2 place is required to have an electronic ballot marking system present.
+3 Section 20. That § 12-17B-7 be REPEALED.
+4 Before entering the voting booth, any voter may request instruction in the proper
+5 procedure for marking the ballot to ensure that the tabulating equipment is able to read
+6 the vote cast. No instructions may be given to the voter while in the voting booth.
+7 However, any voter using an electronic ballot marking system may request instruction in
+8 the proper operation of the system at any time. No precinct official or person assisting a
+9 voter may in any manner request, suggest, or seek to persuade or induce any voter to
+10 cast a vote for any particular ticket, candidate, or measure to be voted on. All instructions
+11 shall be given in such a manner that it may be observed by other persons in the polling
+12 place.
+13 Section 21. That § 12-17B-9 be REPEALED.
+14 Upon completion of the voting and after sealing the ballot box, two of the members
+15 of the precinct election board, of different major political parties, shall, by the most direct
+16 route, transport the box to the central counting location designated by the person in
+17 charge of the election or the ballots may be transported to the counting location by a
+18 sheriff's deputy and two deputy county auditors, one of each major political party, or by
+19 two deputy county auditors, one of each major political party.
+20 Section 22. That § 12-17B-10 be REPEALED.
+21 All proceedings at the counting location shall be under the direction of the person
+22 in charge of the election and shall conform to the requirements of the voting system. The
+23 proceedings shall be open to the public. No person, who is not employed or authorized for
+24 the purpose, may touch any ballot, ballot box, or equipment used in the return of the
+25 ballots to the counting location or the tabulation process.
+26 Section 23. That § 12-17B-11 be REPEALED.
+27 Except for any specially trained technicians representing the equipment vendor and
+28 required for the operation of the automatic tabulating equipment, there shall be equal
+29 representation from each political party having a candidate on the ballot and whose
+30 candidate on the county-wide ballot at the last general election received at least fifteen
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.321.14 10 66
+1 percent of the votes amongst those employed or authorized to receive, process, or
+2 tabulate the ballots. The proposed list of employees shall be submitted to each county
+3 party chairperson at least thirty days prior to the election. Each person shall, prior to
+4 discharging any duties, take and subscribe to an oath as prescribed by the State Board of
+5 Elections.
+6 Section 24. That § 12-17B-12 be REPEALED.
+7 The test required by § 12-17B-5 shall be repeated immediately before the start of
+8 the official count of the ballots.
+9 Section 25. That § 12-17B-13 be REPEALED.
+10 The procedure for tabulating the votes by the automatic tabulating equipment shall
+11 be under the direction of the person in charge of the election, and shall conform to the
+12 specifications and requirements of the automatic tabulating equipment. The results
+13 printed by the automatic tabulating equipment shall constitute the immediate unofficial
+14 returns. These returns shall be open to the public. The final returns printed by the
+15 automatic tabulating equipment shall be presented to the canvassing board for review and
+16 certification as the official returns.
+17 Section 26. That § 12-17B-13.1 be REPEALED.
+18 If automatic tabulating equipment is located at a polling place for processing ballots
+19 while the polls are open, the equipment may not be operated in a manner which returns
+20 an over-voted or partially under-voted ballot to the voter. The equipment shall be operated
+21 in a manner which returns any ballot that appears to the tabulating equipment to be blank
+22 or has any possible mark which the tabulating equipment cannot determine. If the ballot
+23 is returned to the voter, the voter may choose to remark the ballot, obtain a new ballot,
+24 or resubmit the ballot.
+25 Any central count automatic tabulating equipment shall contain the capability to
+26 out-stack ballots and shall be operated in a manner to out-stack any ballot which appears
+27 to the tabulating equipment to be blank or has any possible mark which the tabulating
+28 equipment cannot determine. If the ballot contains any such mark, the resolution board
+29 shall examine the mark and make a determination of any individual vote according to the
+30 rules promulgated pursuant to chapter 1-26 by the state board of elections. The resolution
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.321.14 11 66
+1 board shall make a duplicate ballot as prescribed in § 12-17B-14 which shall be counted
+2 by the automatic tabulating equipment.
+3 Section 27. That § 12-17B-14 be REPEALED.
+4 The resolution board shall determine the disposition of those ballots which cannot
+5 be properly counted by the tabulating equipment. A true duplicate copy shall be made of
+6 any ballot in question and substituted for the rejected ballot. All duplicate ballots shall be
+7 clearly labeled "duplicate," shall bear a serial number which shall be registered on the
+8 rejected ballot, and shall be counted in lieu of the rejected ballot. The resolution board
+9 may observe the activities at the counting location on behalf of their respective political
+10 party.
+11 Section 28. That § 12-17B-15 be REPEALED.
+12 After the tabulating procedure is completed, the ballots shall be placed in boxes
+13 and resealed. Any program board which may be used in the automatic tabulating
+14 equipment shall be removed and stored similarly to the ballots.
+15 Section 29. That § 12-17B-16 be REPEALED.
+16 Automatic tabulating equipment must be tested prior to a recount or election
+17 contest as provided in §§ 12-17B-5 to 12-17B-5.2, inclusive, and then the official ballots
+18 must be recounted. The recount board shall certify the new returns printed by the
+19 automatic tabulating equipment as the official returns for the election. The person in
+20 charge of the election shall sign and seal the new returns printed by the automatic
+21 tabulating equipment and make the new returns public.
+22 Section 30. That § 12-17B-17 be REPEALED.
+23 The State Board of Elections may promulgate rules pursuant to chapter 1-26
+24 concerning:
+25 (1) The criteria and procedure for approving voting systems pursuant to this chapter;
+26 (2) Notices and forms;
+27 (3) Test procedures; and
+28 (4) The arrangement and conduct of voting, absentee voting, tabulating, preparing
+29 returns, and recounts.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.321.14 12 66
+1 Section 31. That § 12-17B-18 be REPEALED.
+2 Within fifteen days following the completion of the state canvassing of a primary
+3 or general election, the auditor of each county shall conduct a post-election audit of the
+4 ballots cast in the election following the procedures listed in this section and §§ 12-17B-
+5 19 to 12-17B-25, inclusive. The county auditor shall appoint a county auditing board of
+6 sufficient size to promptly complete the audit.
+7 The members of the county auditing board may not all be members of the same
+8 political party. A member of the county auditing board must be a registered voter in the
+9 county in which the audit takes place. An individual may not serve on the county auditing
+10 board if the individual is a candidate for the office that is on the ballot being audited.
+11 The State Board of Elections shall promulgate rules, pursuant to chapter 1-26,
+12 prescribing the oath that each member of a county auditing board must take prior to
+13 discharging any duties.
+14 Section 32. That § 12-17B-19 be REPEALED.
+15 The office of the secretary of state shall reimburse each county for the cost of any
+16 post-election audit required by §§ 12-17B-18 to 12-17B-25, inclusive. The State Board of
+17 Elections shall promulgate rules, pursuant to chapter 1-26, administering the
+18 reimbursement process and defining reimbursable expenses and reimbursement rates for
+19 post-election audits.
+20 Section 33. That § 12-17B-20 be REPEALED.
+21 The post-election audit must be conducted in five percent of the precincts in the
+22 county by manually counting all votes cast in two contests and comparing the results of
+23 the manual count to the results for those precincts at the county canvass. The county
+24 auditor shall select the precincts for the audit at random without the use of a computer in
+25 public during the meeting of the county canvassing board. If the combined total of all
+26 ballots cast in the precincts selected does not exceed one hundred ballots, then additional
+27 precincts must be randomly selected until the total of all ballots exceeds one hundred
+28 ballots. For the purposes of this section, the term precinct includes vote centers, but does
+29 not include any precinct designated as an absentee precinct.
+30 The county auditor shall select the contests for the audit at random without the
+31 use of a computer in public during the meeting of the county canvassing board. One
+32 contest randomly selected for the audit must be a statewide contest. If there are no
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.321.14 13 66
+1 statewide contests on the ballot, the auditor randomly shall select another contest on the
+2 ballot. If there is only one contest on the ballot, that contest must be audited.
+3 Section 34. That § 12-17B-21 be REPEALED.
+4 A post-election audit conducted pursuant to §§ 12-17B-18 to 12-17B-25, inclusive,
+5 must be open to the public. Members of the public shall keep a reasonable distance so as
+6 to not interfere with the audit process. The county auditor shall post notice of the time
+7 and place of the audit in the same manner as a public meeting agenda pursuant to § 1-
+8 25-1.1 and provide the notice to the county chair of each political party that has a
+9 candidate on the ballot. The person in charge of the election shall post the notice of the
+10 time and place of the audit to the secretary of state's website.
+11 Section 35. That § 12-17B-22 be REPEALED.
+12 The county auditor shall send the results of the post-election audit to the secretary
+13 of state and present the results of the audit to the county commission at its next meeting.
+14 The results of the audit shall be included in the minutes of the county commission meeting.
+15 The secretary of state shall publish the results of the post-election audit on the
+16 secretary of state's website.
+17 Section 36. That § 12-17B-23 be REPEALED.
+18 If the results of the post-election audit show a discrepancy in the results greater
+19 than the margin by which any contest for elected office on the ballot in the county was
+20 decided, the auditor shall notify the candidates for that office. Any candidate who receives
+21 a notification from the county auditor shall have an additional seven days from the date
+22 from when the auditor sends the notification to file a verified petition requesting a recount
+23 of the official returns pursuant to §§ 12-21-10 or 12-21-11. The petition may be filed
+24 regardless of the margin by which the contest was decided.
+25 Section 37. That § 12-17B-24 be REPEALED.
+26 If a recount of any contest is conducted in a county, the county auditor is not
+27 required to conduct a post-election audit pursuant to § 12-17B-18.
+28 Section 38. That § 12-17B-25 be REPEALED.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.321.14 14 66
+1 The county auditor shall reseal and retain the ballots upon the completion of a
+2 post-election audit pursuant to § 12-20-31.
+3 Section 39. That § 12-19-52 be REPEALED.
+4 In those counties which have adopted an electronic voting system, counting shall
+5 be as prescribed in chapter 12-17B.
+6 Section 40. This Act is effective beginning December 1, 2026.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

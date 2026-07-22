@@ -1,0 +1,114 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.390.12 101st Legislative Session 63
+2026 South Dakota Legislature
+Senate Bill 63
+Introduced by: The Chair of the Committee on Commerce and Energy at the request of the Department of Labor and
+Regulation
+1 An Act to establish the state office of apprenticeship within the Department of Labor
+2 and Regulation.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to a NEW CHAPTER in title 60:
+5 Terms used in this chapter mean:
+6 (1) "Apprentice," a worker at least sixteen years of age, except where a higher
+7 minimum age standard is otherwise fixed by law, who is employed to learn an
+8 apprenticeable occupation under the standards of a registered apprenticeship
+9 program approved by the department;
+10 (2) "Apprenticeable occupation," a job specified by an industry that involves the
+11 progressive attainment of skills, competencies, and knowledge; complies with 29
+12 C.F.R. § 29.4 (January 1, 2026); and is:
+13 (a) Clearly identified and commonly recognized throughout the relevant
+14 industry or occupation;
+15 (b) Customarily learned or enhanced in a practical way through a structured,
+16 systematic program of on-the-job, supervised learning and related
+17 instruction to supplement the learning; and
+18 (c) Offered through a time-based, competency-based, or hybrid model that the
+19 department has determined meets the requirements of this Act and 29
+20 C.F.R. §§ 29.1 to 29.14, inclusive (January 1, 2026);
+21 (3) "Apprenticeship agreement," a written agreement between an apprentice and
+22 either the apprentice's sponsor or an apprenticeship committee acting as agent for
+23 the program sponsor, which:
+24 (a) Complies with 29 C.F.R. § 29.7 (January 1, 2026); and
+25 (b) Contains the terms and conditions of the employment and training of the
+26 apprentice;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.390.12 2 63
+1 (4) "Apprenticeship committee," the persons designated by the sponsor to administer
+2 the program. The committee may be:
+3 (a) A joint committee composed of an equal number of representatives of the
+4 employer, and employees represented by a bona fide collective bargaining
+5 agent; or
+6 (b) A non-joint committee that includes employer representatives, and may
+7 include employees, but does not have a bona fide collective bargaining
+8 agent participating;
+9 (5) "Apprenticeship program," a plan containing all terms and conditions for the
+10 qualification, recruitment, selection, employment, and training of apprentices, as
+11 provided for in 29 C.F.R. §§ 29.1 to 29.14, inclusive (January 1, 2026);
+12 (6) "Department," the Department of Labor and Regulation;
+13 (7) "Registered apprenticeship program," an apprenticeship program that is registered
+14 by the department pursuant to this Act;
+15 (8) "Registration agency," the United States Department of Labor Office of
+16 Apprenticeship or a recognized state apprenticeship agency responsible for
+17 registering apprenticeship programs and apprentices, providing technical
+18 assistance, conducting reviews for compliance with 29 C.F.R. §§ 29.1 to 29.14,
+19 inclusive (January 1, 2026), and quality assurance assessments;
+20 (9) "Sponsor," any person, association, committee, or organization operating an
+21 apprenticeship program and in whose name the program is registered or approved
+22 by the department; and
+23 (10) "State apprenticeship agency," an agency of a state government that has
+24 responsibility and accountability for registered apprenticeship programs with the
+25 state.
+26 Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 60:
+27 The state office of apprenticeship is established and maintained within the
+28 department, as provided for in 29 C.F.R. §§ 29.1 to 29.14, inclusive (January 1, 2026).
+29 The office shall:
+30 (1) Serve as the sole state apprenticeship agency in the state;
+31 (2) Engage in outreach and education to promote registered apprenticeship programs
+32 as a workforce development tool;
+33 (3) Establish standards for registered apprenticeship programs in the state; and
+34 (4) Resolve disputes between parties to an apprenticeship agreement.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.390.12 3 63
+1 The office is administered by the secretary of the department.
+2 Section 3. That a NEW SECTION be added to a NEW CHAPTER in title 60:
+3 The secretary of the department shall promulgate rules, in accordance with chapter
+4 1-26, relating to the administration of this Act in the following areas:
+5 (1) Program and performance standards for registering apprenticeship programs, as
+6 provided for in 29 C.F.R. §§ 29.1 to 29.14, inclusive (January 1, 2026);
+7 (2) Standards for an apprenticeship program eligible for registration, as provided for
+8 in 29 C.F.R. § 29.5 (January 1, 2026);
+9 (3) Contents of an apprenticeship agreement, as provided for in 29 C.F.R. § 29.7
+10 (January 1, 2026);
+11 (4) Procedures and requirements for the registration of a program and an apprentice,
+12 as provided for in 29 C.F.R. § 29.5 (January 1, 2026);
+13 (5) Procedures and methods for monitoring compliance of apprenticeship programs,
+14 as provided for in 29 C.F.R. §§ 29.1 to 29.14, inclusive (January 1, 2026);
+15 (6) The provision of technical assistance to a program, as provided for in 29 C.F.R.
+16 § 29.13 (January 1, 2026);
+17 (7) Complaint procedures, as provided for in 29 C.F.R. § 29.12 (January 1, 2026);
+18 (8) Procedures and requirements for the cancellation, deregistration, or reinstatement
+19 of a registered apprenticeship program, as provided for in 29 C.F.R. §§ 29.8 and
+20 29.9, (January 1, 2026);
+21 (9) Procedures and requirements for the temporary suspension, cancellation, or
+22 deregistration of an apprenticeship agreement, as provided for in 29 C.F.R. § 29.7
+23 (January 1, 2026); and
+24 (10) The process for according reciprocal approval for federal purposes to an apprentice,
+25 apprenticeship program, and standards that are registered in other states by the
+26 United States Department of Labor, or a registration agency, if reciprocity is
+27 requested by a sponsor, as provided for in 29 C.F.R. § 29.13 (January 1, 2026).
+28 Section 4. This Act is effective immediately upon the date the United States Department of
+29 Labor Office of Apprenticeship formally recognizes the state apprenticeship agency
+30 established by this Act. The department shall inform the code counsel of the formal recognition
+31 in writing.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

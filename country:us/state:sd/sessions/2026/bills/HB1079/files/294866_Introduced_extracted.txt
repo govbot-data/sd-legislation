@@ -1,0 +1,39 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.95.27 101st Legislative Session 1079
+2026 South Dakota Legislature
+House Bill 1079
+Introduced by: Representative Sjaarda
+1 An Act to revise the conditions for denial or restriction of a motor vehicle or
+2 motorcycle operator license or permit if an individual has a medical condition
+3 that can be controlled under the care of a physician.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That § 32-12-5.1 be AMENDED:
+6 32-12-5.1. The Department of Public Safety may deny the issuance of a motor
+7 vehicle operator's license, motorcycle operator's license, restricted minor's permit,
+8 motorcycle restricted minor's permit, instruction permit, or motorcycle instruction permit
+9 to any individual who has experienced convulsions, seizures, or blackouts, until the
+10 individual has experienced a period of twelve months without any such episode. However,
+11 upon only if the applicant has been diagnosed, by a licensed physician, as having a chronic
+12 medical condition that could interfere with the operation of a motor vehicle. Any person
+13 with a physical condition that would detract from the ability to safely operate a motor
+14 vehicle must show, through examination by a personal physician, that the person has the
+15 ability to do so. Upon receipt of a statement signed by the applicant that the applicant's
+16 condition is adequately controlled by medication, the applicant is continuing to take
+17 medication, and the applicant is under the care of a physician, the Department of Public
+18 Safety may issue a temporary permit to the applicant. This temporary permit is subject
+19 to the provisions of § 32-12-36 and is reviewable by the department every six months, or
+20 until the applicant has gone a period of twelve months without any episode.
+21 If the department has reasonable grounds to believe that an applicant's condition
+22 may affect the safe operation of a motor vehicle or motorcycle, the department may
+23 require the applicant to submit to the department a medical examination or physician's
+24 certification attesting to the applicant's fitness to operate a motor vehicle in order to
+25 receive the temporary permit.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

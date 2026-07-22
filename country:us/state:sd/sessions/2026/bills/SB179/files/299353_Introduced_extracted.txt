@@ -1,0 +1,89 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.716.9 101st Legislative Session 179
+2026 South Dakota Legislature
+Senate Bill 179
+Introduced by: Senator Hohn
+1 An Act to permit a court to commit a juvenile adjudicated delinquent for certain
+2 weapons offenses to the Department of Corrections.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 26-8C-7 be AMENDED:
+5 26-8C-7. If a child has been adjudicated as a delinquent child, the court shall must
+6 enter a decree of disposition according to the least restrictive alternative available in
+7 keeping with the best interests interest of the child. The decree shall must contain one or
+8 more of the following:
+9 (1) The court may require the child to pay restitution, as defined in subdivision 23A-
+10 28-2(4) § 23A-28-2, and under conditions set by the court, if payment can be
+11 enforced without serious hardship or injustice to the child;
+12 (2) The court may impose a fine not to exceed one thousand dollars;
+13 (3) The court may place the child on probation under the supervision of a court services
+14 officer or another designated individual pursuant to § 26-8C-14;
+15 (4) The court may require a the child, as a condition of probation, to participate in a
+16 supervised community service program, if the child is not deprived of the schooling
+17 that is appropriate for the child's age, needs, and specific rehabilitative goals. The
+18 supervised community service program shall must be of a constructive nature
+19 designed to promote rehabilitation, appropriate to the age level and physical ability
+20 of the child, and shall must be combined with counseling by the court services
+21 officer or other guidance personnel. The supervised community service program
+22 assignment shall must be made for a period of time consistent with the child's best
+23 interests, but for not more than ninety days;
+24 (5) The court may place the child at the Human Services Center for examination and
+25 treatment;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.716.9 2 179
+1 (6) The court may place the child in a detention facility for not more than ninety days,
+2 which may be in addition to any period of temporary custody;
+3 (7) The court may place the child in an alternative educational program;
+4 (8) The court may order the suspension or revocation of the child's right to apply for
+5 a driving privilege, suspend or revoke an existing driving privilege, or restrict the
+6 privilege in the manner the court sees fit, including requiring that financial
+7 responsibility be proved and maintained;
+8 (9) The court may assess or charge costs and fees permitted by §§ 16-2-41, 23-3-52,
+9 23A-27-26, 23A-28B-42, and 23A-27-27 against the child, parent, guardian,
+10 custodian, or other party responsible for the child; or
+11 (10) The court may only commit a child to the Department of Corrections, but only if
+12 the judge finds that:
+13 (a) No no viable alternative exists; and
+14 (b) The, the Department of Corrections is the least restrictive alternative;, and one of
+15 the following:
+16 (i)(a) The child is currently adjudicated delinquent for an:
+17 (i) An offense eligible for transfer proceedings pursuant to § 26-11-
+18 3.1;the child is currently adjudicated delinquent for a
+19 (ii) A crime of violence pursuant to subdivision 22-1-2(9), sex offense;
+20 (iii) A sex crime pursuant to § 22-24B-1, felony;
+21 (iv) A felony sexual registry offense pursuant to chapter 22-24B, or
+22 burglary;
+23 (v) Burglary in the second degree pursuant to § 22-32-3; or the
+24 (vi) A weapons offense pursuant to § 22-14-5, 22-14-7, 22-14-20, or
+25 23-7-44, or subdivision 22-30A-17(2);
+26 (b) The court finds from evidence presented at the dispositional hearing or from
+27 the pre-dispositional report that the youth child presents a significant risk
+28 of physical harm to another person;
+29 (ii)(c) The child has been previously adjudicated delinquent for separate
+30 delinquent acts, arising out of separate and distinct criminal episodes, three
+31 or more times within the preceding twelve-month period; or
+32 (iii)(d) The court finds from evidence presented at the dispositional hearing or from
+33 the pre-dispositional report that the child is at high risk for re-offense based
+34 on a validated risk assessment, and the child has either had a previous
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.716.9 3 179
+1 unsuccessful discharge from probation for a felony offense or is on
+2 supervised probation for a felony offense; and
+3 (A)(i) The child has been adjudicated for intentional damage to property
+4 and the property damage exceeds five thousand dollars; or
+5 (B)(ii) The child has been adjudicated for a drug distribution offense that is
+6 punishable at least as a Class 4 felony.
+7 Any The court shall make any finding made pursuant to this section shall be made
+8 in the written decree.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

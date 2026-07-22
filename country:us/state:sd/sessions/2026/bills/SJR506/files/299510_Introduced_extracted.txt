@@ -1,0 +1,52 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.320.23 101st Legislative Session SJR506
+2026 South Dakota Legislature
+Senate Joint Resolution 506
+Introduced by: Senator Carley
+1 A JOINT RESOLUTION proposing and submitting to the voters at the next general
+2 election an amendment to the Constitution of the State of South Dakota,
+3 resetting, then limiting property taxes to a flat rate, until adjusted when sold.
+4 BE IT RESOLVED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That at the next general election held in the state, the following amendment to
+6 Article XI of the Constitution of the State of South Dakota, as set forth in section 2 of this
+7 Joint Resolution, which is hereby agreed to, be submitted to the electors of the state for
+8 approval.
+9 Section 2. That Article XI, § 2 of the Constitution of the State of South Dakota, be
+10 AMENDED:
+11 § 2. To the end that the burden of taxation may be equitable upon all property,
+12 and in order that no property which is made subject to taxation shall escape, the
+13 Legislature is empowered to divide all property, including moneys and credits as well as
+14 physical property, into classes and to determine what class or classes of property shall be
+15 are subject to taxation and what property, if any, shall not be is not subject to taxation.
+16 Taxes shall Except as otherwise required in this section, taxes must be uniform on all
+17 property of the same class, and shall must be levied and collected for public purposes
+18 only. Taxes may be imposed upon any and all property, including privileges, franchises,
+19 and licenses to do business in the state. Gross earnings and net incomes may be
+20 considered in taxing any and all property, and the valuation of property for taxation
+21 purposes shall may never exceed the actual value thereof. The Legislature is empowered
+22 to impose taxes upon incomes and occupations, and taxes. Taxes upon incomes may be
+23 graduated and progressive, and reasonable exemptions may be provided.
+24 For taxes payable in 2028, the maximum amount of all ad valorem taxes on real
+25 property is the lesser of the tax due on the property in 2027, or the greater of the
+26 applicable percent of the most recent sales price of the property or the taxes due in 2020.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.320.23 2 SJR506
+1 For each year thereafter, the maximum amount of all ad valorem taxes on real
+2 property may not exceed the greater of the taxes due in the previous year or the applicable
+3 percent of the most recent sales price of the property, if ownership of the property changes
+4 in a year.
+5 For purposes of this section, "applicable percent" means one percent if it is owned
+6 by a person who resided in this state for at least half of the year preceding the year in
+7 which the taxes are due, or two percent if it is owned by a person who does not reside in
+8 this state for at least half of the year preceding the year in which the taxes are due.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

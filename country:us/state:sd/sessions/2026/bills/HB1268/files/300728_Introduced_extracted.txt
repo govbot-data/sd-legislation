@@ -1,0 +1,150 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.227.17 101st Legislative Session 1268
+2026 South Dakota Legislature
+House Bill 1268
+Introduced by: Representative Reisch
+1 An Act to repeal capital punishment.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 22-4-1 be AMENDED:
+4 22-4-1. Unless specific provision is made by law, any person who attempts to
+5 commit a crime and, in the attempt, does any act toward the commission of the crime,
+6 but fails or is prevented or intercepted in the perpetration of that crime, is punishable for
+7 the attempt at a maximum sentence of one-half of the penalty prescribed for the
+8 underlying crime. Unless specific provision is made by law, any person who attempts to
+9 commit a Class A, Class B, or Class C felony is guilty of a Class 2 felony.
+10 Section 2. That § 22-4A-1 be AMENDED:
+11 22-4A-1. Any person who, with the intent to promote or facilitate the commission
+12 of a crime, commands, hires, requests, or solicits another person to engage in specific
+13 conduct which that would constitute the commission of such the offense or an attempt to
+14 commit such the offense, is guilty of criminal solicitation.
+15 Criminal solicitation is a:
+16 (1) Class 1 felony if the offense solicited is a Class A, B or C felony;
+17 (2) Class 2 felony if the offense solicited is a Class 1 felony;
+18 (3) Class 3 felony if the offense solicited is a Class 2 felony;
+19 (4) Class 4 felony if the offense solicited is a Class 3 felony;
+20 (5) Class 5 felony if the offense solicited is a Class 4 felony;
+21 (6) Class 6 felony if the offense solicited is a Class 5 felony; or
+22 (7) Class 1 misdemeanor if the offense solicited is a Class 6 felony.
+23 Section 3. That § 22-6-1 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.227.17 2 1268
+1 22-6-1. Except as otherwise provided by law, felonies are divided into the following
+2 nine classes, which are distinguished from each other by the following maximum penalties
+3 which that are authorized upon conviction:
+4 (1) Class A felony: death or life imprisonment in a state correctional facility. A lesser
+5 sentence than death or life imprisonment may not be given for a Class A felony. In
+6 addition, a fine of fifty thousand dollars may be imposed;
+7 (2) Class B felony: life imprisonment in a state correctional facility. A lesser sentence
+8 may not be given for a Class B felony. In addition, a fine of fifty thousand dollars
+9 may be imposed;
+10 (3)(2) Class C felony: life imprisonment in a state correctional facility. In addition, a fine
+11 of fifty thousand dollars may be imposed;
+12 (4)(3) Class 1 felony: fifty years imprisonment in a state correctional facility. In addition,
+13 a fine of fifty thousand dollars may be imposed;
+14 (5)(4) Class 2 felony: twenty-five years imprisonment in a state correctional facility. In
+15 addition, a fine of fifty thousand dollars may be imposed;
+16 (6)(5) Class 3 felony: fifteen years imprisonment in a state correctional facility. In
+17 addition, a fine of thirty thousand dollars may be imposed;
+18 (7)(6) Class 4 felony: ten years imprisonment in a state correctional facility. In addition,
+19 a fine of twenty thousand dollars may be imposed;
+20 (8)(7) Class 5 felony: five years imprisonment in a state correctional facility. In addition,
+21 a fine of ten thousand dollars may be imposed; and
+22 (9)(8) Class 6 felony: two years imprisonment in a state correctional facility or a fine of
+23 four thousand dollars, or both.
+24 If the defendant is under the age of eighteen years at the time of the offense and
+25 found guilty of a Class A, B, or C felony, the maximum sentence may be a term of years
+26 in a state correctional facility, and a fine of fifty thousand dollars may be imposed.
+27 The court, in imposing sentence on a defendant who has been found guilty of a
+28 felony, shall order in addition to the sentence that is imposed pursuant to the provisions
+29 of this section, that the defendant make restitution to any victim in accordance with the
+30 provisions of chapter 23A-28.
+31 Nothing in this section limits increased sentences for habitual criminals under
+32 §§ 22-7-7, 22-7-8, and 22-7-8.1.
+33 Section 4. That § 22-16-12 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.227.17 3 1268
+1 22-16-12. Murder in the first degree is a Class A felony. Murder in the and second
+2 degree is a Class B felony.
+3 Section 5. That § 23A-10A-15 be AMENDED:
+4 23A-10A-15. If the most serious charge against the defendant is a Class A, B, or
+5 C felony, the order shall must be for a term of years the court determines is reasonable
+6 or until the charges have been dismissed by the prosecution. The order may not exceed
+7 the maximum penalty allowable for the most serious charge facing the defendant. Upon
+8 expiration of the order of detention, the criminal charges against the defendant shall must
+9 be dismissed. If the prosecutor believes there is probable cause to believe that the
+10 defendant is a danger to self or to others at the time of dismissal, the prosecutor may file
+11 a petition in accordance with chapter 27A-10 or 27A-11A or title 27B, for further
+12 restoration to competency.
+13 Every twelve months thereafter, the director of the approved facility shall must
+14 notify the court if the defendant is still in a restoration to competency program under the
+15 direction of an approved facility or in the approved facility pursuant to this chapter, and
+16 the circuit court shall must hold a hearing to review any order of detention to determine
+17 if the defendant has become competent to proceed.
+18 Section 6. That § 23A-20-20 be AMENDED:
+19 23A-20-20. If an offense charged is a Class A, Class B, Class C, or Class 1 felony,
+20 the prosecution and the defense each have twenty peremptory challenges. In all other
+21 felony cases, the prosecution and the defense each have ten peremptory challenges. In
+22 misdemeanor cases, the prosecution and the defense each have three peremptory
+23 challenges.
+24 Section 7. That § 23A-27-1 be AMENDED:
+25 23A-27-1. Sentences shall A sentence must be imposed without unreasonable
+26 delay, but not within forty-eight hours after determination of guilt. A defendant may waive
+27 the forty-eight hour delay. Before imposing a sentence, a court may order a hearing in
+28 mitigation or aggravation of punishment. If the defendant is a juvenile convicted as an
+29 adult of a Class A or Class B felony, prior to imposing a sentence, the court shall must
+30 conduct a presentence hearing. At such the hearing, the court shall allow the defense
+31 counsel an opportunity to speak on behalf of the defendant and shall address the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.227.17 4 1268
+1 defendant personally and to ask him if he the defendant wishes to make a statement in
+2 his the defendant's own behalf and to present any information in mitigation of punishment.
+3 The prosecuting attorney shall have an equivalent opportunity to speak to the court. The
+4 circumstances must be presented by the testimony of witnesses examined in open court,
+5 except that a witness' deposition of a witness may be taken by a magistrate in accordance
+6 with chapter 23A-12. In imposing a sentence, the court shall enter an order of restitution
+7 in accordance with chapter 23A-28.
+8 Section 8. That § 23A-27A-14 be AMENDED:
+9 23A-27A-14. In the event the death penalty for a Class A felony is held to be
+10 unconstitutional by the South Dakota Supreme Court or the United States Supreme Court,
+11 the court having jurisdiction over a person previously sentenced to death for a Class A
+12 felony shall have such the person brought before the court, and the court shall sentence
+13 such the person to life imprisonment.
+14 Section 9. That § 23A-42-1 be AMENDED:
+15 23A-42-1. There is no limitation on the time within which a prosecution for Class
+16 A, a Class B, or Class C felony must be commenced.
+17 Section 10. That § 26-11-3.1 be AMENDED:
+18 26-11-3.1. Any delinquent child sixteen years of age or older against whom Class
+19 A, a Class B, Class C, Class 1, or Class 2 felony charges have charge has been filed shall
+20 must be tried in circuit court as an adult. However, the The child may request a transfer
+21 hearing which shall be, conducted pursuant to § 26-11-4, to determine if it is in the best
+22 interest of the public that the child be tried in circuit court as an adult. In such a the
+23 transfer hearing, there is a rebuttable presumption that it is in the best interest of the
+24 public that any child, sixteen years of age or older, who is charged with a Class A, Class
+25 B, Class C, Class 1, or Class 2 felony, shall must be tried as an adult.
+26 Section 11. Notwithstanding chapter 23A-27A, a defendant who has been charged with a
+27 crime carrying an authorized punishment of death but who has not yet been convicted and
+28 sentenced to death prior to July 1, 2026, may not be sentenced to death.
+29 Section 12. Nothing in this Act alters, mitigates, or suspends the execution of any death
+30 sentence initially imposed prior to July 1, 2026, regardless of any appellate litigation resulting
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.227.17 5 1268
+1 from the death sentence. Nothing in this Act gives rise to any cause of action to alter, mitigate,
+2 or suspend the execution of any death sentence initially imposed prior to July 1, 2026,
+3 regardless of any appellate litigation resulting from the death sentence.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

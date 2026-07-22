@@ -1,0 +1,68 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.799.13 101st Legislative Session 161
+2026 South Dakota Legislature
+Senate Bill 161
+Introduced by: Senator Pischke
+1 An Act to repeal an exemption for certain health care facilities.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 10-1-47 be AMENDED:
+4 10-1-47. The terms "United States Internal Revenue Code" and "Internal Revenue
+5 Code" mean the United States Internal Revenue Code as amended and in effect on January
+6 1, 2025. This section applies to §§ 10-4-9.1, 10-4-9.2, 10-4-9.3, 10-4-9.4, 10-4-39, 10-
+7 6-157, and 10-43-10.1, and subdivisions 10-6A-1(7), 10-6B-1(5), 10-18A-1(6), 10-43-
+8 10.3(6), and 10-45A-1(5).
+9 Section 2. That § 10-4-11 be AMENDED:
+10 10-4-11. If any property owned by any society or institution described in §§ 10-
+11 4-9 to 10-4-9.3 10-4-9.2, inclusive, shall consist consists of hotel or residence property,
+12 or any other class of retail business and such the property is used or owned primarily for
+13 the purposes of revenue, and not for the primary object of such charitable, benevolent,
+14 or religious society, it shall must be taxed as other property of the same class is taxed.
+15 Section 3. That § 10-4-12 be AMENDED:
+16 10-4-12. If property owned by any health care organization or charitable,
+17 benevolent, or religious society described in § 10-4-9.4 and §§ 10-4-9 to 10-4-9.3 10-4-
+18 9.4, inclusive, other than agricultural land, is used partly by such health care organization
+19 or the charitable, benevolent, or religious society for health care, charitable, benevolent,
+20 or religious purposes, and the remaining part is occupied, rented, or used for other than
+21 health care, charitable, benevolent, or religious purposes, the portion of property that is
+22 so occupied, rented, or used for other purposes, shall must be taxed as other property of
+23 the same class is taxed.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.799.13 2 161
+1 For the purpose of determining the value of the taxable portion of the property,
+2 the appraised value of the entire property shall be is multiplied by the percentage of the
+3 entire property used for other than health care, charitable, benevolent, or religious
+4 purposes. The resulting value shall be is multiplied by the percentage of time the property
+5 is used for other than health care, charitable, benevolent, or religious purposes. The
+6 resulting value shall be is the assessed value for taxation purposes.
+7 Section 4. That § 10-4-9.3 be REPEALED.
+8 Property owned by any corporation, organization, or society and used primarily for
+9 human health care and health care related purposes is exempt from taxation. Such
+10 corporation, organization, or society shall be nonprofit and recognized as an exempt
+11 organization under section 501(c)(3) of the United States Internal Revenue Code, as
+12 defined by § 10-1-47, and none of its assets may be available to any private interest. The
+13 property shall be a health care facility licensed pursuant to chapter 34-12, orphanage,
+14 mental health center or community support provider regulated under chapter 27A-5, or
+15 camp. The facility shall admit all persons for treatment consistent with the facility's ability
+16 to provide health care services required by the patient until the facility is filled to its
+17 ordinary capacity and conform to all applicable regulations of and permit inspections by
+18 the state as otherwise provided by law.
+19 Section 5. That § 10-4-35 be REPEALED.
+20 For the purposes of § 10-4-9.3, a "wellness center" is a health care facility if it links
+21 on- and off-site medical consultants with physical activity staff and programs of health
+22 and fitness facilities, can and does provide fitness testing and prescription exercise tailored
+23 to specific individual needs and capabilities, and the property is used for rehabilitation
+24 services or prescriptive exercise. For the purposes of § 10-4-12, the taxable percentage
+25 of a wellness center shall be determined by computing the percentage of the total
+26 membership that do not use the facility for physician prescribed rehabilitation or
+27 prescriptive exercise.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,129 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.459.12 101st Legislative Session 44
+2026 South Dakota Legislature
+Senate Bill 44
+ENROLLED
+AN ACT
+ENTITLED An Act to establish investigative subpoena authority to gather business
+records in certain investigations.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+Section 1. That a NEW SECTION be added to chapter 1-11:
+Terms used in this Act mean:
+(1) "Investigative subpoena," a written demand issued by the attorney general or the
+attorney general's designee, after judicial approval, requiring the production of
+business records relevant to an official criminal investigation;
+(2) "Provider," any:
+(a) Electronic communication service that provides users with the ability to
+send or receive wire or electronic communications;
+(b) Electronic service provider that offers users the ability to send or receive
+wire or electronic communications, or to process or store data by means of
+an electronic communication system;
+(c) Internet service provider engaged in the business of providing computer
+access or internet connectivity to the public or to subscribers;
+(d) Remote computing service that provides computer storage or processing
+services to the public, by means of an electronic communications system;
+or
+(e) Telecommunications carrier that provides telecommunications services; and
+(3) "Reasonable cause," a belief based on specific and articulable facts that the
+business records sought are relevant and material to an active criminal
+investigation.
+Section 2. That a NEW SECTION be added to chapter 1-11:
+
+26.459.12 2 44
+In any criminal investigation conducted by the Division of Criminal Investigation
+involving a state offense related to internet crimes against children or human trafficking,
+the attorney general or the attorney general's designee may apply to a magistrate judge
+or circuit judge of Hughes County for judicial approval to issue an investigative subpoena.
+The attorney general or the attorney general's designee shall submit to the judge a written
+application demonstrating reasonable cause to believe the business records of a provider
+are material to an active criminal investigation.
+Section 3. That a NEW SECTION be added to chapter 1-11:
+Any magistrate judge or circuit court judge of Hughes County has statewide
+authority to review, approve, and issue an investigative subpoena, regardless of:
+(1) The county or judicial circuit in which the criminal investigation originates;
+(2) The location of the business records sought or the provider to be subpoenaed; or
+(3) The location where the investigative subpoena will be served or enforced.
+Section 4. That a NEW SECTION be added to chapter 1-11:
+A magistrate judge or circuit court judge may approve an investigative subpoena
+upon finding that the application submitted pursuant to section 2 of this Act establishes
+reasonable cause to believe the business records of a provider are material to an active
+criminal investigation. Judicial approval may be provided by written order or by signature
+on the investigative subpoena.
+An investigative subpoena approved pursuant to this section is enforceable
+anywhere in this state and has the same force and effect as any subpoena issued under
+the laws of this state.
+Section 5. That a NEW SECTION be added to chapter 1-11:
+Upon judicial approval, the attorney general or the attorney general's designee
+may issue and serve the investigative subpoena compelling the production of any of the
+following business records:
+(1) Subscriber information;
+(2) Account holder name;
+(3) Billing and service address;
+(4) Account status;
+(5) Telephone number;
+SB44 ENROLLED
+
+26.459.12 3 44
+(6) Device information and device identifiers;
+(7) Email address;
+(8) Internet username;
+(9) Internet protocol address and any temporarily assigned address;
+(10) Method of access to the internet; and
+(11) Automatic number identification records, if access is by modem.
+Section 6. That a NEW SECTION be added to chapter 1-11:
+A provider served with an investigative subpoena shall produce the business
+records required by the subpoena. The provider may not provide notice to the account
+holder, customer, or subscriber whose records are sought if such a prohibition is contained
+within the investigative subpoena.
+Section 7. That a NEW SECTION be added to chapter 1-11:
+If a provider refuses to comply with an investigative subpoena, the attorney
+general or the attorney general's designee may apply to a court of competent jurisdiction
+for an order compelling compliance.
+Section 8. That a NEW SECTION be added to chapter 1-11:
+Any business record obtained pursuant to an investigative subpoena must be used
+solely for official law enforcement purposes and may not be disclosed except as necessary
+to carry out a criminal investigation or a prosecution, or as otherwise required by law.
+In examining business records obtained pursuant to an investigative subpoena, the
+attorney general or the attorney general's designee shall take all reasonable steps to
+safeguard the privacy rights of an individual and avoid unnecessary disclosure of personal
+information concerning any identified person.
+Section 9. That a NEW SECTION be added to chapter 1-11:
+No cause of action lies in any court against a provider, or any agent, employee, or
+officer of the provider, for providing assistance, information, or facilities in accordance
+with the terms of an investigative subpoena.
+SB44 ENROLLED
+
+26.459.12 4 44
+An Act to establish investigative subpoena authority to gather business records in certain
+investigations.
+Received at this Executive Office
+I certify that the attached Act originated in this _____ day of _____________,
+the:
+2026 at ____________M.
+Senate as Bill No. 44
+By
+Secretary of the Senate for the Governor
+The attached Act is hereby
+approved this ________ day of
+President of the Senate ______________, A.D., 2026
+Attest:
+Governor
+Secretary of the Senate
+STATE OF SOUTH DAKOTA,
+ss.
+Office of the Secretary of State
+Speaker of the House
+Filed ____________, 2026
+Attest: at _________ o'clock __M.
+Chief Clerk of the House Secretary of State
+Senate Bill No. 44 By
+File No. ____ Asst. Secretary of State
+Chapter No. ______
+SB44 ENROLLED

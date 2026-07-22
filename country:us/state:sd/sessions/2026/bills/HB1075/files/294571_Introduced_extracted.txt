@@ -1,0 +1,23 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.149.20 101st Legislative Session 1075
+2026 South Dakota Legislature
+House Bill 1075
+Introduced by: Representative Novstrup
+1 An Act to require notification of property owners prior to the establishment of a tax
+2 increment financing district.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 11-9:
+5 At least ten days prior to the adoption of a resolution to establish a district, the
+6 governing body shall provide written notice to each owner of property located within the
+7 boundaries of the district, as described in the resolution required by § 11-9-5.
+8 The notice must state that the owner's property is located within the proposed
+9 district, and the date on which the district is to be established.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

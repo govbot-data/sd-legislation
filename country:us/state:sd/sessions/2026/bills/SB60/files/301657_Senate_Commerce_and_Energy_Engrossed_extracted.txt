@@ -1,0 +1,135 @@
+Title: 
+Official Title: 
+Source: versions - Senate Commerce and Energy Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.549.16 101st Legislative Session 60
+2026 South Dakota Legislature
+Senate Bill 60
+SENATE COMMERCE AND ENERGY ENGROSSED
+Introduced by: Senator Crabtree
+1 An Act to restrict ownership of real property interests by certain prohibited entities
+2 and to provide for enforcement.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to a NEW CHAPTER in title 43:
+5 Terms used in this chapter mean:
+6 (1) "Military installation," any federally or state owned, leased, or operated base,
+7 building, camp, post, reservation, or other facility to which active duty or reserve
+8 members of the armed forces or civilian employees are assigned pursuant to orders
+9 issued by the United States Department of Defense or the South Dakota National
+10 Guard;
+11 (2) "Prohibited entity," any entity as defined in § 43-2A-1; and
+12 (3) "Real property interest," any direct or indirect legal or equitable stake in real
+13 property as evidenced by a contract for deed, deed, easement, lease, option,
+14 purchase agreement, trust, or other instrument.
+15 Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 43:
+16 After the expiration of any applicable divestment period provided in section 3 of
+17 this Act, a prohibited entity may not, during any time in which there exists a military
+18 installation in this state:
+19 (1) Hold or obtain any real property interest located, in whole or in part, in this state;
+20 or
+21 (2) Directly or indirectly control, finance, or hold a legal or equitable interest in any
+22 entity that holds a real property interest in this state.
+23 Section 3. That a NEW SECTION be added to a NEW CHAPTER in title 43:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.549.16 2 60
+1 During any time in which there exists a military installation in this state, a
+2 prohibited entity that acquires a real property interest in this state:
+3 (1) Through descent or devise, must dispose of the interest within three years of
+4 acquiring the interest; or
+5 (2) By any means other than descent or devise, must dispose of the interest within
+6 two years of the date the interest was initially acquired in violation of this chapter.
+7 Section 4. That a NEW SECTION be added to a NEW CHAPTER in title 43:
+8 The attorney general shall investigate any alleged violation of this chapter.
+9 Upon commencing an enforcement action pursuant to section 5 of this Act, the
+10 attorney general may, in addition to any authority granted under §§ 15-6-28.2 to 15-6-
+11 28.4, inclusive, subpoena from any prohibited entity, any:
+12 (1) Contract, purchase agreement, or other transaction document related to a real
+13 property interest in this state;
+14 (2) Deed or title to the interest;
+15 (3) Documentation concerning the financing or ownership of the interest;
+16 (4) Documentation identifying any party to a transaction related to the interest; and
+17 (5) Any other documentation or information necessary to investigate or substantiate
+18 an alleged violation of this chapter.
+19 Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 43:
+20 The attorney general shall enforce the provisions of this chapter. Any real property
+21 interest owned in violation of this chapter must be forfeited to the state or terminated, as
+22 applicable.
+23 Upon substantiation of an allegation that a prohibited entity holds an interest in
+24 this state in violation of this chapter, the attorney general may commence an action, in
+25 the circuit court for the county in which the real property is located, for forfeiture or
+26 termination of the interest.
+27 The court may not order forfeiture or termination of the interest unless the action
+28 is brought within three years after evidence of the violation is referred to the attorney
+29 general.
+30 If the court finds that the interest is held in violation of this chapter, the court
+31 must:
+32 (1) Enter a judgment declaring the prohibited entity's interest void as of the date of
+33 the judgment; and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.549.16 3 60
+1 (2) Order that the interest be forfeited or terminated, as applicable;
+2 If the court orders forfeiture of the interest, the court must enter a judgment
+3 directing the attorney general to sell the property and specifying that the sale is for the
+4 benefit of the person that held the interest immediately before entry of the judgment,
+5 subject to the distribution of proceeds pursuant to section 6 of this Act.
+6 Upon commencing an action pursuant to this section, the attorney general shall
+7 cause a notice of lis pendens to be recorded with the register of deeds for the county in
+8 which the interest is located.
+9 Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 43:
+10 Proceeds from the sale of a real property interest ordered pursuant to section 5 of
+11 this Act must be distributed in the following order:
+12 (1) Payment of the costs of the sale, including all approved fees and expenses, and
+13 any taxes and assessments due;
+14 (2) Payment, in an amount approved by the court, to the attorney general for
+15 reimbursement of investigation and litigation costs and expenses;
+16 (3) Payment to bona fide lienholders, in order of priority, except for any lien remaining
+17 against the real property under the terms of the sale; and
+18 (4) Payment of any remaining proceeds to the person that held the interest
+19 immediately before entry of judgment.
+20 Section 7. That a NEW SECTION be added to a NEW CHAPTER in title 43:
+21 Except as expressly provided in this chapter, a person that is not a prohibited entity
+22 does not have any duty to determine or inquire whether another person is a prohibited
+23 entity or is otherwise subject to this chapter.
+24 A person that is not a prohibited entity may not be held liable under this chapter
+25 for failing to determine or inquire whether another person is a prohibited entity.
+26 Section 8. That a NEW SECTION be added to a NEW CHAPTER in title 43:
+27 Nothing in this chapter:
+28 (1) Creates a cause of action against the state or limits the discretion of the attorney
+29 general to decline to bring an action under this chapter; or
+30 (2) Limits any penalty or remedy set forth in chapter 43-2A regarding the ownership
+31 or leasing of agricultural land.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.549.16 4 60
+1 Section 9. That a NEW SECTION be added to a NEW CHAPTER in title 43:
+2 This chapter does not apply to:
+3 (1) Any real property interest held by an entity that has received clearance, approval,
+4 or a determination of no unresolved national security concerns from the Committee
+5 on Foreign Investment in the United States, including any entity operating in
+6 compliance with a mitigation or national security agreement under section 721 of
+7 the Defense Production Act of 1950, 50 U.S.C. § 4565 (January 1, 2026);
+8 (2) The exchange, expansion, purchase, relocation, or sale of a real property interest
+9 approved by the governing body of a county, municipality, or other political
+10 subdivision of this state;
+11 (3) Any real property interest held by a prohibited entity solely for the purpose of
+12 securing indebtedness, if the prohibited entity does not take possession of, or
+13 obtain voting or managerial control over, the real property interest;
+14 (4) Stock ownership in a publicly traded entity by a foreign person, as defined in § 43-
+15 2A-1, if the foreign person does not control or operate the publicly traded entity,
+16 provided that de minimis stock ownership is not considered control or operation for
+17 purposes of this section;
+18 (5) Any real property interest held by an individual who is a lawful permanent resident
+19 or citizen of the United States, including a dual citizen; or
+20 (6) Any real property interest held by an individual with lawful status, as defined in
+21 § 32-12-1.1.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

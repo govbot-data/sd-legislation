@@ -1,0 +1,29 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.401.11 101st Legislative Session 1002
+2026 South Dakota Legislature
+House Bill 1002
+Introduced by: The Chair of the Committee on Agriculture and Natural Resources at the request of the Department
+of Public Safety
+1 An Act to revise the daily meal allowance for wildland fire employees and fire
+2 suppression forces in certain circumstances.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 3-9:
+5 Notwithstanding §§ 3-9-2 to 3-9-2.2, inclusive, the Department of Public Safety
+6 shall establish a maximum daily meal allowance for wildland fire employees and fire
+7 suppression forces authorized by §§ 34-35-20, 41-20A-8, 41-20A-10, and 41-20A-12,
+8 while performing duties on any uncontrolled fire within the Black Hills Forest Fire Protection
+9 District, or outside the District if the Governor has declared an emergency pursuant to
+10 § 34-48A-5 or 41-20A-8. The amount may not exceed the current United States General
+11 Services Administration per diem rate for South Dakota. The department shall publish the
+12 maximum daily meal allowance to be effective as of October first each year. The daily
+13 meal allowance applies only to meals that are ordered and distributed in a manner
+14 approved by the department.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

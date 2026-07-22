@@ -1,0 +1,38 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.34.21 101st Legislative Session 3
+2026 South Dakota Legislature
+Senate Bill 3
+Introduced by: Senator Rohl
+1 An Act to limit the types of residential improvements for which counties,
+2 municipalities, and townships may require a permit.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 11-10:
+5 Notwithstanding any authority granted to a county, municipality, or township to
+6 prescribe building codes or standards or to issue building permits, a county, municipality,
+7 or township may not require a building permit for:
+8 (1) The repair or substantially similar replacement of any of the following existing
+9 exterior parts of an owner-occupied residential structure:
+10 (a) Door;
+11 (b) Downspout;
+12 (c) Fencing panel or post;
+13 (d) Gutter;
+14 (e) Roof flashing, shingles, shakes, or tiles;
+15 (f) Siding; and
+16 (g) Window; or
+17 (2) Any interior alteration, improvement, or renovation of an owner-occupied
+18 residential structure, which does not affect the structure's:
+19 (a) Air conditioning, electric, heating, plumbing, or ventilation system in a
+20 manner requiring any load-bearing modification;
+21 (b) Foundation;
+22 (c) Load-bearing walls;
+23 (d) Roof frame; or
+24 (e) Support beams.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,102 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.1000.19 101st Legislative Session 239
+2026 South Dakota Legislature
+Senate Bill 239
+Introduced by: Senator Schoenfish
+1 An Act to modify provisions relating to the reinvestment payment program, and
+2 relating to the purchasing of goods and services used by projects approved
+3 for the reinvestment payment program.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That § 1-16G-61 be AMENDED:
+6 1-16G-61. Any person that has timely filed the application described in § 1-16G-
+7 58 and is holding a permit issued by GOED pursuant to § 1-16G-60, and has completed
+8 the project, shall file an affidavit for reinvestment payment with GOED.
+9 The affidavit for reinvestment payment shall must contain the following
+10 information:
+11 (1) The project owner's name and contact information;
+12 (2) The general description of the project;
+13 (3) The date of completion of the project;
+14 (4) The final project costs;
+15 (5) The amount of South Dakota sales tax, use tax, and contractors excise tax paid for
+16 the construction of the project;
+17 (6) The location of the project;
+18 (7) The legal description of the project location;
+19 (8) A list of the contractors and subcontractors that performed work on the project;
+20 (9) If the reinvestment payment was assigned or transferred, the name and address
+21 of the person to whom the reinvestment payment has been assigned or
+22 transferred; and
+23 (10) Any other information that GOED may require.
+24 The affidavit for reinvestment payment shall must be on a form prescribed by the
+25 commissioner. The affidavit for reinvestment payment shall must be signed by the project
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.1000.19 2 239
+1 owner and signed under oath before a notary public. No affidavit for reinvestment payment
+2 may include more than one project.
+3 Upon approval by GOED of an affidavit submitted under this section by a data
+4 center, the gross receipts from any purchase made for the data center are exempt from
+5 the provisions of chapters 10-45 and 10-46, and from the tax imposed by those chapters.
+6 Section 2. That § 1-16G-62 be AMENDED:
+7 1-16G-62. The affidavit for reinvestment payment as required by § 1-16G-61 shall
+8 must be filed no later than six months after the completion of the project on or before
+9 June thirtieth of each year. If the affidavit for reinvestment payment is not timely filed,
+10 the person is ineligible for any future reinvestment payment provided by §§ 1-16G-56 to
+11 1-16G-68, inclusive. If the person filing the affidavit for reinvestment payment knowingly
+12 makes any material false statement or report in the affidavit for reinvestment payment,
+13 the person is ineligible for any future reinvestment payment provided by §§ 1-16G-56 to
+14 1-16G-68, inclusive.
+15 No project costs that occur after three years from the construction date are eligible
+16 to be included in the final project cost determination for any reinvestment payment
+17 provided by §§ 1-16G-56 to 1-16G-68, inclusive, unless an extension is granted at the
+18 sole discretion of the board, which extension may not extend beyond four years from the
+19 construction date.
+20 Section 3. That § 1-16G-64 be AMENDED:
+21 1-16G-64. There is hereby created the reinvestment payment fund for the
+22 purpose of making reinvestment payments pursuant to the provisions of §§ 1-16G-56 to
+23 1-16G-68, inclusive, and new frontiers payments pursuant to the provisions of §§ 1-16G-
+24 73 to 1-16G-84, inclusive.
+25 If the board approves a reinvestment payment pursuant to the provisions of §§ 1-
+26 16G-56 to 1-16G-68, inclusive, the Department of Revenue shall deposit into the fund a
+27 portion or all of the sales and use taxes paid by the project owner up to a maximum
+28 amount of the reinvestment payment approved by the board.
+29 If the board approves a new frontiers payment pursuant to the provisions of §§ 1-
+30 16G-73 to 1-16G-84, inclusive, the Department of Revenue shall must deposit into the
+31 fund a portion or all of the sales and use taxes paid by the program owner up to a
+32 maximum amount of the new frontiers payment approved by the board.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.1000.19 3 239
+1 The funds in the reinvestment project fund are continuously appropriated to GOED
+2 to make reinvestment payments pursuant to §§ 1-16G-56 to 1-16G-68, inclusive, and
+3 new frontiers payments pursuant to §§ 1-16G-73 to 1-16G-84, inclusive. If any money
+4 deposited in the fund and set aside for a specific reinvestment payment or new frontiers
+5 payment is in excess of the final reinvestment or new frontiers payment, as applicable, or
+6 the specific project or program becomes ineligible for the reinvestment or new frontiers
+7 payment, as applicable, such the money shall must be deposited into the general fund.
+8 Interest earned on money in the fund shall must be deposited into the general fund.
+9 Section 4. That a NEW SECTION be added to chapter 10-45:
+10 There are exempted from the provisions of this chapter, and the tax imposed by
+11 it, the gross receipts from a project approved for the reinvestment payment program
+12 under chapter 1-16G.
+13 Section 5. That a NEW SECTION be added to chapter 10-46:
+14 There are exempted from the provisions of this chapter, and the tax imposed by
+15 it, the gross receipts from a project approved for the reinvestment payment program
+16 under chapter 1-16G.
+17 Section 6. That § 1-16G-63 be REPEALED.
+18 After the timely receipt of a completed affidavit for reinvestment payment, within
+19 ninety days GOED shall make payment from the reinvestment fund to the project owner
+20 based upon the amount and terms approved by the board as a reinvestment payment. If
+21 GOED requests additional documents or information from the project owner, the ninety
+22 day period begins to run from the date of receipt of the additional documents or
+23 information. GOED shall tender the reinvestment payment by electronic funds transfer.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,96 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.38.10 101st Legislative Session 5
+2026 South Dakota Legislature
+Senate Bill 5
+Introduced by: Senator Rohl
+1 An Act to require the disclosure of whether a ballot question was proposed by
+2 initiative or by the Legislature.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 12-13-9 be AMENDED:
+5 12-13-9. The attorney general shall deliver a statement for each amendment to
+6 the South Dakota Constitution proposed by the Legislature and referred law from an odd
+7 year to the secretary of state before the third Tuesday in May, in the year of the election.
+8 The attorney general shall deliver a statement for each referred law from an even year to
+9 the secretary of state before the second Tuesday in July, in the year of the election. The
+10 attorney general's statement must be written by the attorney general and must consist
+11 of:
+12 (1) AThe title, which is a concise statement of the subject of the proposed amendment
+13 to the constitution or referred law;
+14 (2) A disclosure indicating that the amendment was proposed by the Legislature or the
+15 law was referred after enactment by the Legislature;
+16 (3) An objective, clear, and simple explanation that:
+17 (a) Educates the voters on the purpose and effect of the proposed amendment
+18 to the constitution or referred law; and
+19 (b) Describes the legal consequences of the proposed amendment to the
+20 constitution or referred law, including any likely exposure of the state to
+21 liability if the proposed amendment to the constitution or referred law is
+22 adopted; and
+23 (3)(4) A recitation:
+24 (a) For a proposed amendment to the constitution, stating "Vote 'Yes' to adopt
+25 the amendment" and "Vote 'No' to leave the Constitution as it is"; or
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.38.10 2 5
+1 (b) For a referred law, stating "Vote 'Yes' to allow the Act of the Legislature to
+2 become law" and "Vote 'No' to reject the Act of the Legislature.
+3 The explanation may not exceed two hundred words in length.
+4 On the printed ballots, the title of the proposed amendment to the constitution or
+5 referred law must be followed by the disclosure, the attorney general's explanation, the
+6 most recent fiscal note prepared pursuant to § 2-9-32 or 2-9-30.2, and the recitation. The
+7 title, disclosure, explanation, fiscal note, and recitation must be printed on the ballot in
+8 the order provided by this section.
+9 Section 2. That § 12-13-25.1 be AMENDED:
+10 12-13-25.1. Following receipt of the written comments of the director of the
+11 Legislative Research Council, the sponsors shall submit a copy of the proposed initiated
+12 measure or initiated amendment to the South Dakota Constitution in final form to the
+13 attorney general, the secretary of state, and the director of the Legislative Research
+14 Council.
+15 The attorney general shall prepare a draft statement that consists of:
+16 (1) The title, which is a concise statement of the subject of the proposed initiated
+17 measure or initiated amendment to the constitution;
+18 (2) A disclosure indicating that the measure or amendment to the constitution was
+19 proposed by a citizen-initiated petition; and
+20 (3) An objective, clear, and simple explanation that:
+21 (a) Educates the voters on the purpose and effect of the initiated proposed
+22 measure or amendment to the constitution; and
+23 (b) Describes the legal consequences of the proposed initiated measure or
+24 initiated amendment to the constitution, including any likely exposure of
+25 the state to liability as the result of the proposed initiated measure or
+26 initiated amendment to the constitution.
+27 The explanation may not exceed two hundred words in length.
+28 The attorney general shall file the draft statement with the secretary of state, post
+29 the draft statement on the attorney general's website, and release a press release
+30 announcing a draft statement has been posted for comment within sixty days of receipt
+31 of the proposed initiated measure or initiated amendment to the constitution. The attorney
+32 general shall accept comments for ten days from the date the draft statement was filed.
+33 The attorney general shall review all comments submitted and revise the statement in
+34 response to the comments as deemed necessary.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.38.10 3 5
+1 Once the comment period has expired and any revisions have been completed, the
+2 attorney general shall file the final statement with the secretary of state and shall provide
+3 a copy to the sponsors within twenty days of the filing of the draft statement.
+4 If the signatures on a petition for a proposed initiated measure or initiated
+5 amendment to the constitution are filed pursuant to § 2-1-1.1 or 2-1-1.2, the attorney
+6 general must deliver a recitation to the secretary of state before the third Tuesday in May.
+7 The recitation for an initiated amendment to the constitution must state "Vote 'Yes' to
+8 adopt the amendment" and "Vote 'No' to leave the Constitution as it is". The recitation for
+9 an initiated measure must state "Vote 'Yes' to adopt the initiated measure" and "Vote 'No'
+10 to leave South Dakota law as it is".
+11 On the printed ballots, the title of the proposed initiated measure or initiated
+12 amendment to the constitution must be followed by the disclosure, the attorney general's
+13 explanation, the most recent fiscal note prepared pursuant to § 2-9-30 or 2-9-30.2, and
+14 the recitation. The title, disclosure, explanation, fiscal note, and recitation must be printed
+15 on the ballot in the order provided by this section.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

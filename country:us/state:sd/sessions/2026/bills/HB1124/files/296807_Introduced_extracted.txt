@@ -1,0 +1,30 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.806.9 101st Legislative Session 1124
+2026 South Dakota Legislature
+House Bill 1124
+Introduced by: Representative Schaefbauer
+1 An Act to establish the crime of trespass upon a place of worship, provide a penalty
+2 therefor, and declare an emergency.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 22-35:
+5 No person may enter or remain on the premises of any place of worship, or within
+6 one thousand feet of any place of worship, with the intent to disrupt worship services at
+7 the place of worship, menace or harass congregants or employees of the place of worship,
+8 or for the purpose of political intimidation of or the incitement of fear of violence in those
+9 attending the place of worship. A violation of this section is a Class 5 felony.
+10 For purposes of this section, "place of worship" means a structure where people
+11 regularly assemble for worship, ceremonies, rituals, and education relating to a particular
+12 form or religious belief, and which a reasonable person would conclude is a place of
+13 worship by reason of design, signs, or architectural or other features.
+14 Section 2. Whereas, this Act is necessary for the immediate preservation of the public peace,
+15 health, or safety, an emergency is hereby declared to exist, and this Act shall be in full force
+16 and effect from and after its passage and approval.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

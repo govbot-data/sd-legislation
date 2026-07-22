@@ -1,0 +1,21 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.881.15 101st Legislative Session 1206
+2026 South Dakota Legislature
+House Bill 1206
+Introduced by: Representative Novstrup
+1 An Act to clarify the use of public funds for the purpose of alternative instruction.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to chapter 13-13:
+4 Any parent, guardian, or other person having control of a child who has a
+5 notification of alternative instruction on file with the Department of Education or the school
+6 district where the child is a resident, may not apply for or receive state public funds, as
+7 defined by § 4-4-2, for the purpose of funding the child's education.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

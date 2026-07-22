@@ -1,0 +1,419 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.648.16 101st Legislative Session 1199
+2026 South Dakota Legislature
+House Bill 1199
+Introduced by: Representative Rehfeldt
+1 An Act to address preauthorization requirements for certain health care services
+2 and utilization review requirements for certain health benefit plans.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 58-17H-1 be AMENDED:
+5 58-17H-1. Terms used in this chapter mean:
+6 (1) "Adverse determination," any of the following:
+7 (a) A determination by a health carrier, or the carrier's designee utilization
+8 review organization, that, based upon the information provided, a request
+9 by a covered person for a benefit under the health carrier's health benefit
+10 plan, upon application of any utilization review technique, does not meet
+11 the health carrier's requirements for medical necessity, appropriateness,
+12 health care setting, level of care, or effectiveness, or is determined to be
+13 experimental or investigational, and the requested benefit is, therefore,
+14 denied, reduced, or terminated, or payment is not provided or made, in
+15 whole or in part, for the benefit;
+16 (b) The denial, reduction, termination, or failure to provide or make payment
+17 in whole or in part, for a benefit, based on a determination by a health
+18 carrier, or the carrier's designee utilization review organization, of a covered
+19 person's eligibility to participate in the health carrier's health benefit plan;
+20 (c) Any prospective review or retrospective review determination that denies,
+21 reduces, terminates, or fails to provide or make payment, in whole or in
+22 part, for a benefit; or
+23 (d) A rescission of coverage determination;
+24 (2) "Ambulatory review," utilization review of health care services performed or
+25 provided in an outpatient setting;
+26 (3) "Authorized representative," a one of the following:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.648.16 2 1199
+1 (a) A person to whom a covered person has given express written consent to
+2 represent the covered person for purposes of this chapter, a;
+3 (b) A person authorized by law to provide substituted consent for a covered
+4 person, a;
+5 (c) A family member of the covered person or the covered person's treating
+6 health care professional, if the covered person is unable to provide consent,
+7 or a;
+8 (d) A health care professional, if the covered person's health benefit plan
+9 requires that a request for a benefit under the plan be initiated by the health
+10 care professional.; and
+11 (e) For any an urgent care request, the term includes a health care professional
+12 with knowledge of the covered person's medical condition;
+13 (4) "Case management," a coordinated set of activities conducted for individual patient
+14 management of serious, complicated, protracted, or other health conditions;
+15 (5) "Certification," a determination by a health carrier or the carrier's designee
+16 utilization review organization that a request for a benefit under the health carrier's
+17 health benefit plan has been reviewed and, based on the information provided,
+18 satisfies the health carrier's requirements for medical necessity, appropriateness,
+19 health care setting, level of care, and effectiveness;
+20 (6) "Clinical practice guidelines," a systematically developed statement to assist
+21 decision making by health care professionals and patient decisions about
+22 appropriate health care for specific clinical circumstances and conditions;
+23 (7) "Clinical peer," a physician or other health care professional who holds a
+24 nonrestricted license in a state of the United States and in the same or similar
+25 specialty as typically manages the medical condition, procedure, or treatment
+26 under review;
+27 (8) "Clinical review criteria," the written screening procedures, decision abstracts,
+28 clinical protocols, and practice guidelines used by the health carrier to determine
+29 the medical necessity and appropriateness of health care services;
+30 (9) "Concurrent review," utilization review conducted during a patient's hospital stay
+31 or course of treatment in a facility or other inpatient or outpatient health care
+32 setting;
+33 (10) "Covered benefits" or "benefits," those health care services to which a covered
+34 person is entitled under the terms of a health benefit plan;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.648.16 3 1199
+1 (11) "Covered person," a policyholder, subscriber, enrollee, or other individual
+2 participating in a health benefit plan;
+3 (12) "Director," the director of the Division of Insurance;
+4 (13) "Discharge planning," the formal process for determining, prior to discharge from
+5 a facility, the coordination and management of the care that a patient receives
+6 following discharge from a facility;
+7 (14) "Emergency medical condition," a medical condition manifesting itself manifested
+8 by acute symptoms of sufficient severity, including severe pain, such that a prudent
+9 layperson, who possesses an average knowledge of health and medicine, could
+10 reasonably expect that the absence of immediate medical attention, would result
+11 in serious impairment to bodily functions or serious dysfunction of a bodily organ
+12 or part, or would place the person's health or, with respect to a pregnant woman,
+13 the health of the woman or her unborn child, in serious jeopardy;
+14 (15) "Emergency services," with respect to an emergency medical condition:
+15 (a) A medical screening examination that is within the capability of the
+16 emergency department of a hospital, including and ancillary services
+17 routinely available to the emergency department to evaluate such the
+18 emergency condition; and
+19 (b) Such further Further medical examination and treatment, to the extent they
+20 are that is within the capability of the staff and facilities at a hospital to
+21 stabilize a patient;
+22 (16) "Facility," an institution providing health care services, or a health care setting,
+23 including hospitals and other licensed inpatient centers, ambulatory surgical or
+24 treatment centers, skilled nursing centers, residential treatment centers,
+25 diagnostic, laboratory, and imaging centers, and rehabilitation, and other
+26 therapeutic health settings;:
+27 (a) Ambulatory surgical or treatment centers;
+28 (b) Diagnostic, laboratory, and imaging centers;
+29 (c) Hospitals and other licensed inpatient centers;
+30 (d) Rehabilitation and other therapeutic health settings;
+31 (e) Residential treatment centers; and
+32 (f) Skilled nursing centers;
+33 (17) "Health care professional," a physician or other health care practitioner licensed,
+34 accredited, or certified to perform specified health services consistent with state
+35 law;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.648.16 4 1199
+1 (18) "Health care provider" or "provider," a health care professional or a facility;
+2 (19) "Health care services," services for the diagnosis, prevention, treatment, cure, or
+3 relief of a health condition, illness, injury, or disease;
+4 (20) "Health carrier," an entity subject to the insurance laws and regulations of this
+5 state, or subject to the jurisdiction of the director, that contracts or offers to
+6 contract, or enters into an agreement to provide, deliver, arrange for, pay for, or
+7 reimburse any of the costs of health care services, including: a sickness and
+8 accident insurance company, a health maintenance organization, a nonprofit
+9 hospital and health service corporation, or any other entity providing a plan of
+10 health insurance, health benefits, or health services;
+11 (a) A health maintenance organization;
+12 (b) A nonprofit hospital and health service corporation;
+13 (c) A sickness and accident insurance company; and
+14 (d) Any other entity providing a plan of health insurance, health benefits, or
+15 health services;
+16 (21) "Managed care contractor," a person who establishes, operates, or maintains a
+17 network of participating providers; or contracts with an insurance company, a
+18 hospital or medical service plan, an employer, an employee organization, or any
+19 other entity providing coverage for health care services to operate a managed care
+20 plan or health carrier;
+21 (22) "Managed care entity," a licensed insurance company, hospital or medical service
+22 plan, health maintenance organization, or an employer or employee organization,
+23 that operates a managed care plan or a managed care contractor. The term does
+24 not include a licensed insurance company unless it the company contracts with
+25 other entities to provide a network of participating providers;
+26 (23) "Managed care plan," a plan operated by a managed care entity that provides for
+27 the financing or delivery of health care services, or both, to persons enrolled in the
+28 plan through any of the following:
+29 (a) Arrangements with selected providers to furnish health care services;
+30 (b) Explicit standards for the selection of participating providers; or
+31 (c) Financial incentives for persons enrolled in the plan to use the participating
+32 providers and procedures provided for by the plan;
+33 (24) "Network," the group of participating providers providing services to a health
+34 carrier;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.648.16 5 1199
+1 (25) "Participating provider," a provider who, under a contract with the a health carrier
+2 or with its the health carrier's contractor or subcontractor, has agreed to provide
+3 health care services to covered persons with an expectation of receiving payment,
+4 other than coinsurance, copayments, or deductibles, directly or indirectly, from the
+5 health carrier;
+6 (26) "Pharmaceutical sample," a unit of a prescription drug that is not intended to be
+7 sold and is intended to promote the sale of the drug;
+8 (27) "Preauthorization," a determination by a health carrier that the health care services
+9 proposed to be provided to a patient are medically necessary and appropriate;
+10 (28) "Prospective review," a utilization review conducted prior to an admission, or the
+11 provision of a health care service or a course of treatment in accordance with a
+12 health carrier's requirement that the health care service or course of treatment, in
+13 whole or in part, be approved prior to its provision;
+14 (28)(29) "Rescission," a cancellation or discontinuance of coverage under a health
+15 benefit plan that has a retroactive effect. The term does not include a cancellation
+16 or discontinuance of coverage under a health benefit plan if:
+17 (a) The cancellation or discontinuance of coverage has only a prospective
+18 effect; or
+19 (b) The cancellation or discontinuance of coverage is effective retroactively to
+20 the extent it is attributable to a failure to timely pay required premiums or
+21 contributions towards the cost of coverage;
+22 (29)(30) "Retrospective review," any a review of a request for a benefit that is not a
+23 prospective review request, which and does not include the review of a claim that
+24 is limited to veracity of documentation, or accuracy of coding, or adjudication for
+25 payment the:
+26 (a) Accuracy of coding;
+27 (b) Adjudication for payment; or
+28 (c) Veracity of documentation;
+29 (30)(31) "Second opinion," an opportunity or requirement to obtain a clinical evaluation
+30 by a provider other than the one originally making a recommendation for a
+31 proposed health care service to assess the medical necessity and appropriateness
+32 of the initial proposed health care service;
+33 (31)(32) "Secretary," the secretary of the Department of Health;
+34 (32)(33) "Stabilized," with respect to an emergency medical condition, that no material
+35 deterioration of the condition is likely, with reasonable medical probability, to result
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.648.16 6 1199
+1 from, or occur during, the transfer of the individual from a facility or, with respect
+2 to a pregnant woman, the woman has delivered, including the placenta;
+3 (33) "Utilization review," a set of formal techniques used by a managed care plan or
+4 utilization review organization to monitor and evaluate the medical necessity,
+5 appropriateness, and efficiency of health care services and procedures including
+6 techniques such as ambulatory review, prospective review, second opinion,
+7 certification, concurrent review, case management, discharge planning, and
+8 retrospective review;
+9 (34) "Step therapy override exception," a step therapy protocol should be overridden in
+10 favor of coverage of the prescription drug selected by a health care professional
+11 within the applicable time frames in § 58-17H-55 and in compliance with chapter
+12 58-17H. This determination is based on a review of the covered person's or health
+13 care professional's request for an override, along with supporting rationale and
+14 documentation;
+15 (35) "Step therapy protocol," a protocol or program that establishes a specific sequence
+16 in which prescription drugs, either self-administered or administered by a health
+17 care provider, are covered under a pharmacy or medical benefit by a health carrier,
+18 a health benefit plan, or a utilization review organization for a specified medical
+19 condition and medically appropriate for a health carrier, a health benefit plan, or
+20 utilization review organization, including self-administered drugs and drugs
+21 administered by a health care professional; and;
+22 (36) "Utilization review," a set of formal techniques used by a managed care plan or
+23 utilization review organization to monitor and evaluate the medical necessity,
+24 appropriateness, and efficiency of health care services and procedures, which
+25 includes techniques such as ambulatory review, prospective review, second
+26 opinion, certification, concurrent review, case management, discharge planning,
+27 and retrospective review; and
+28 (37) "Utilization review organization," an entity that conducts utilization review other
+29 than a health carrier performing utilization review for its own health benefit plans.
+30 Section 2. That a NEW SECTION be added to chapter 58-17H:
+31 Before an adverse determination is issued, by a utilization review organization that
+32 questions the medical necessity, appropriateness, or experimental or investigational
+33 nature of a health care service, the organization shall provide to the health care
+34 professional who ordered, requested, provided, or is to provide the service, a reasonable
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.648.16 7 1199
+1 opportunity to discuss the covered person's treatment plan and the clinical basis for the
+2 organization's determination with a health care professional employed by the organization.
+3 If the service was ordered, requested, provided, or is to be provided by a physician, the
+4 opportunity to discuss the treatment plan and the clinical basis must be with another
+5 physician who is licensed to practice medicine in this state and has the same or a similar
+6 specialty.
+7 This section applies only to a utilization review requested on or after July 1, 2026.
+8 Section 3. That a NEW SECTION be added to chapter 58-17H:
+9 A preauthorization process used by a health benefit plan, pursuant to sections 3 to
+10 17, inclusive, of this Act, is subject to the same limitations and requirements provided by
+11 this title for a preauthorization used by an insurer.
+12 Section 4. That a NEW SECTION be added to chapter 58-17H:
+13 Sections 3 to 17, inclusive, of this Act, apply only to:
+14 (1) A health benefit plan offered by a health carrier;
+15 (2) A person who contracts with a health carrier to issue preauthorizations; and
+16 (3) A preferred provider benefit plan or an exclusive benefit plan offered by a health
+17 carrier licensed pursuant to chapter 58-6.
+18 Sections 2 to 17, inclusive, of this Act do not apply to the state medicaid program,
+19 as provided for in chapter 28-6.
+20 Section 5. That a NEW SECTION be added to chapter 58-17H:
+21 Except as otherwise provided, once every twelve months, a health carrier shall
+22 evaluate whether a health care provider qualifies for an exemption from preauthorization.
+23 A health carrier that uses a preauthorization process for a health care service may
+24 not require a health care provider to obtain preauthorization for a particular health care
+25 service if, in the most recent twelve-month evaluation period, the health carrier approved
+26 or would have approved at least ninety percent of the preauthorization requests submitted
+27 by the health care provider for the particular health care service.
+28 If compliance with a health benefit plan subject to this chapter is an additional
+29 coverage requirement, the compliance may not be considered in determining whether the
+30 preauthorization exemption is met.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.648.16 8 1199
+1 A health carrier may continue an exemption under this section without evaluating
+2 whether the health care provider qualifies for the exemption for a particular evaluation
+3 period.
+4 A health care provider is not required to request an exemption under this section
+5 to qualify for the exemption.
+6 Section 6. That a NEW SECTION be added to chapter 58-17H:
+7 An exemption from preauthorization requirements given to a health care provider
+8 under section 5 of this Act remains in effect until:
+9 (1) The thirtieth day after the date the health carrier notifies the health care provider
+10 of the determination to withdraw the exemption under section 7 of this Act, if the
+11 health care provider does not appeal the determination; or
+12 (2) The fifth day after the date the independent review organization affirms the health
+13 carrier's determination to withdraw the exemption, if the health care provider
+14 appeals the determination.
+15 If a health carrier does not finalize an exemption withdrawal determination as
+16 provided for in this section, the health care provider is considered to have met the criteria
+17 of section 5 of this Act to continue to qualify for the exemption.
+18 Section 7. That a NEW SECTION be added to chapter 58-17H:
+19 A health carrier may only withdraw an exemption from the preauthorization
+20 requirement under section 5 of this Act if the health carrier:
+21 (1) Makes a determination, on the basis of a historical review of a random sample
+22 consisting of no fewer than five nor more than twenty claims submitted by the
+23 health care provider during the most recent evaluation period described in section
+24 5 of this Act, that less than ninety percent of the claims for the particular health
+25 care service met the medical necessity criteria that would have been used by the
+26 health carrier when conducting preauthorization review for the particular health
+27 care service during the relevant evaluation period; and
+28 (2) Notifies the health care provider at least thirty days before the proposed exemption
+29 withdrawal is to take effect and provides notice containing:
+30 (a) The sample information used to make the determination under subdivision
+31 (1) of this section; and
+32 (b) A plain language explanation of how the health care provider may appeal
+33 and seek an independent review of the determination.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.648.16 9 1199
+1 A determination under subdivision (1) must be made by an individual licensed to
+2 practice medicine in this state. If the determination under subdivision (1) pertains to
+3 claims submitted by a physician, the determination must be made by an individual who is
+4 licensed to practice medicine in this state and has the same or a similar specialty as that
+5 of the physician.
+6 A health carrier may only rescind an exemption from the preauthorization
+7 requirement under section 5 of this Act during January or July of each year.
+8 Section 8. That a NEW SECTION be added to chapter 58-17H:
+9 A health carrier may deny an exemption from the preauthorization requirement
+10 under section 5 of this Act only if:
+11 (1) The health care provider does not have the exemption at the time of the relevant
+12 preauthorization request evaluation period; and
+13 (2) The health carrier provides the health care provider with statistics and data for the
+14 relevant preauthorization request evaluation period and detailed information
+15 sufficient to demonstrate that the health care provider does not meet the criteria
+16 for an exemption from the preauthorization requirement for the particular health
+17 care service under section 5 of this Act.
+18 Section 9. That a NEW SECTION be added to chapter 58-17H:
+19 A health care provider may request a review of an adverse exemption
+20 determination by an independent review organization. A health carrier may not require a
+21 health care provider to engage in an internal appeal process before requesting a review
+22 by an independent review organization.
+23 A health carrier must pay:
+24 (1) For any appeal or independent review of an adverse exemption determination
+25 regarding a preauthorization exemption requested under this section; and
+26 (2) The recordholder's customary costs for any copies of medical records or other
+27 documents requested from a health care provider during an exemption withdrawal
+28 review under this section.
+29 An independent review organization must complete an expedited review of an
+30 adverse exemption determination regarding a preauthorization exemption no later than
+31 thirty days after the date on which a health care provider files the request for a review
+32 under this section.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.648.16 10 1199
+1 A health care provider may request that the independent review organization
+2 consider another random sample of at least five and no more than twenty claims submitted
+3 to the health carrier by the health care provider during the relevant evaluation period, for
+4 the relevant health care service, as part of the review. The independent review
+5 organization must base the determination on the medical necessity of the claims reviewed
+6 by the health carrier under section 7 of this Act and reviewed as provided for in this
+7 section.
+8 Section 10. That a NEW SECTION be added to chapter 58-17H:
+9 A health carrier is bound by an appeal or independent review determination that
+10 does not affirm the determination made by the health carrier to withdraw a
+11 preauthorization exemption.
+12 A health carrier may not deny a health care service solely on the basis of a denial
+13 or carrier withdrawal of an exemption, even if the health carrier's determination to
+14 withdraw the preauthorization exemption is affirmed by an independent review
+15 organization.
+16 If a determination of a preauthorization exemption made by the health carrier is
+17 overturned on review by an independent review organization, the health carrier:
+18 (1) May not attempt to withdraw the exemption before the end of the next evaluation
+19 period that occurs; and
+20 (2) May withdraw the exemption only after the health carrier complies with sections 7
+21 and 9 of this Act.
+22 Section 11. That a NEW SECTION be added to chapter 58-17H:
+23 After a final determination or review affirming the exemption withdrawal or denial
+24 of an exemption for a specific health care service under section 5 of this Act, a health care
+25 provider is eligible for consideration of an exemption for the same health care service after
+26 the twelve-month evaluation period following the period that formed the basis of the
+27 carrier withdrawal or denial of an exemption.
+28 Section 12. That a NEW SECTION be added to chapter 58-17H:
+29 A health carrier may not deny or reduce payment to a health care provider for a
+30 health care service that the health care provider has qualified for an exemption from the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.648.16 11 1199
+1 preauthorization requirement under section 5 of this Act, based on medical necessity or
+2 appropriateness of care, unless the health care provider:
+3 (1) Knowingly and materially misrepresented the health care service in a request for
+4 payment submitted to the health carrier with the specific intent to deceive and
+5 obtain an unlawful payment from the health carrier; or
+6 (2) Failed to substantially perform the health care service.
+7 Section 13. That a NEW SECTION be added to chapter 58-17H:
+8 A health carrier may not conduct a historical review of a health care service subject
+9 to an exemption except:
+10 (1) To determine if the health care provider qualifies for an exemption; or
+11 (2) If the health carrier has a reasonable cause to suspect a basis for denial exists
+12 under section 12 of this Act.
+13 Section 14. That a NEW SECTION be added to chapter 58-17H:
+14 No later than five days after qualifying for an exemption from the preauthorization
+15 requirements under section 5 of this Act, a health carrier must provide to the health care
+16 provider notice that:
+17 (1) States the health care provider qualifies for an exemption from the
+18 preauthorization requirements under section 5 of this Act;
+19 (2) Lists the health care services and health benefit plans to which the exemption
+20 applies; and
+21 (3) States the duration of the exemption.
+22 Section 15. That a NEW SECTION be added to chapter 58-17H:
+23 If a health care provider submits a preauthorization request regarding a health
+24 care service for which the health care provider qualifies for an exemption from the
+25 preauthorization requirements under section 5 of this Act, the health carrier must provide
+26 a notice to the health care provider that:
+27 (1) Contains the information set forth in section 5 of this Act;
+28 (2) Details the impediments to coverage, if any; and
+29 (3) Sets forth the payment requirements of the health carrier.
+30 Section 16. That a NEW SECTION be added to chapter 58-17H:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.648.16 12 1199
+1 Nothing in sections 3 to 17, inclusive, of this Act may be construed to:
+2 (1) Authorize the provision of a health care service that is outside the scope of the
+3 health care provider's licensure; or
+4 (2) Require a health carrier to pay for a health care service that falls outside the scope
+5 of licensure and is performed in violation of the law.
+6 Section 17. That a NEW SECTION be added to chapter 58-17H:
+7 Sections 3 to 17, inclusive, of this Act apply to requests for the preauthorization of
+8 health care services and requests for utilization reviews made on or after July 1, 2026.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

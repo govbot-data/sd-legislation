@@ -1,0 +1,208 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.555.19 101st Legislative Session 65
+2026 South Dakota Legislature
+Senate Bill 65
+Introduced by: The Chair of the Committee on Retirement Laws at the request of the South Dakota Retirement
+System
+1 An Act to revise certain required minimum distribution provisions of the South
+2 Dakota Retirement System.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 3-13-60 be AMENDED:
+5 3-13-60. If a participant dies died on or before December 31, 2021, and before
+6 required distribution of the participant's benefits has begun commenced, the participant's
+7 interest shall must be distributed as follows:
+8 (1) If the participant has a surviving spouse, the surviving spouse shall must receive
+9 benefits over the life of the surviving spouse beginning as soon as administratively
+10 possible and effective the month after the participant's death; or
+11 (2) If the participant has no surviving spouse, the participant's remaining interest shall
+12 must be distributed in a lump sum payment to the designated beneficiary within
+13 five years from the date of the participant's death.
+14 Section 2. That § 3-13-62 be AMENDED:
+15 3-13-62. Notwithstanding any contrary provisions, effective for any participant
+16 death after December 31, 2021, the following distribution provisions shall take effect are
+17 effective for any participant death after December 31, 2021, subject to any regulations or
+18 other guidance issued under the Setting Every Community Up for Retirement
+19 Enhancement (SECURE) Act of 2019, Pub. L. No. 116-94, Div. O, 133 Stat. 2534 (2019)
+20 or Pub. L. No. 117-328, Div. T, 136 Stat. 4459 (2022):
+21 (1) If the participant dies before the distribution of his or her the participant's entire
+22 account (, regardless of whether any distributions had begun commenced before
+23 the participant's death), and the participant has a designated beneficiary:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.555.19 2 65
+1 (a) The entire account shall must be distributed to the designated beneficiary
+2 by December thirty-first of the calendar year containing the tenth
+3 anniversary of the participant's death;
+4 (b) Notwithstanding subsection (a), if the designated beneficiary is an eligible
+5 designated beneficiary, the eligible designated beneficiary may elect for the
+6 participant's account to be distributed by:
+7 (i) December thirty-first of the calendar year containing the tenth
+8 anniversary of the participant's death,; or
+9 (ii) Beginning no later than December thirty-first of the calendar year
+10 immediately following the calendar year in which the participant
+11 died, over the life of the eligible designated beneficiary or over a
+12 period not exceeding the life expectancy of the eligible designated
+13 beneficiary. If the eligible designated beneficiary is the surviving
+14 spouse, payment under this subsection (b)(ii) paragraph is not
+15 required until the later of December thirty-first of the calendar year
+16 immediately following the calendar year in which the participant died
+17 or December thirty-first of the calendar year in which the participant
+18 would have attained age seventy and one-half (age seventy-two
+19 with respect to a participant who would have attained age seventy
+20 and one-half after December 31, 2019). If the eligible designated
+21 beneficiary does not elect a method of distribution, the participant's
+22 account shall be distributed in accordance with this subsection
+23 (b)(ii); the applicable age, as provided in § 3-13-58. The surviving
+24 spouse is deemed to have elected treatment in accordance with
+25 section 401(a)(9)(B)(iv) of the Internal Revenue Code and any
+26 applicable guidance, unless the spouse elects otherwise. If the
+27 eligible designated beneficiary does not elect a method of
+28 distribution, the participant's account must be distributed in
+29 accordance with paragraph (ii) of this subsection; or
+30 (c) Upon either the death of an eligible designated beneficiary before
+31 distribution of the participant's entire account or the attainment of the age
+32 of majority for an eligible designated beneficiary who is a minor child under
+33 subsection (4)(b), subsection (1)(b) no longer applies and the remainder of
+34 the entire account shall must be distributed to the designated beneficiary
+35 by December thirty-first of the calendar year containing the tenth
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.555.19 3 65
+1 anniversary of the participant's death eligible designated beneficiary's death
+2 or December thirty-first of the calendar year containing the tenth
+3 anniversary of the date the minor child reached the age of majority,
+4 respectively;
+5 (2) If the participant dies before distributions of his or her distribution of the account
+6 begins and the participant has no designated beneficiary, the participant's account
+7 under the plan shall must be distributed by December thirty-first of the calendar
+8 year containing the fifth anniversary of the participant's death. If the participant
+9 dies after distribution of the account begins and the participant has no designated
+10 beneficiary, any remaining portion of the account shall must continue to be
+11 distributed at least as rapidly as under the method of distribution in effect at the
+12 time of the participant's death;
+13 (3) Any distribution required under the incidental death benefit requirements of
+14 Internal Revenue Code section 401(a) shall must be treated as distributions
+15 required under this section; and
+16 (4) For purposes of this section, the term, "eligible designated beneficiary," means a
+17 designated beneficiary who, as of the date of the death of the participant, is:
+18 (a) The surviving spouse of the participant;
+19 (b) A child of the participant, who has not reached the age of majority.
+20 However, provided that the child ceases to be an eligible designated
+21 beneficiary as of the date the child reaches the age of majority;
+22 (c) Disabled within the meaning of Internal Revenue Code section 72(m)(7);
+23 (d) Chronically ill within the meaning of Internal Revenue Code section
+24 7702B(c)(2) (, except that the requirements of subparagraph (A)(i) thereof
+25 may only be treated as met if there is a certification that, as of such the
+26 date of certification, the period of inability described in such the
+27 subparagraph with respect to the individual is an indefinite one which is and
+28 reasonably expected to be lengthy in nature); or
+29 (e) Any other person individual who is not more than ten years younger than
+30 the participant.
+31 Section 3. That § 3-13A-23.3 be AMENDED:
+32 3-13A-23.3. If a participant dies died on or before December 31, 2021, and before
+33 required distribution of the participant's benefits has begun, the participant’s commenced,
+34 the participant's interest shall must be distributed as follows:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.555.19 4 65
+1 (1) If the participant has a surviving spouse, the surviving spouse shall must receive
+2 benefits over the life of the surviving spouse beginning as soon as administratively
+3 possible and effective the month after the participant's death; or
+4 (2) If the participant has no surviving spouse, the participant's remaining interest shall
+5 must be distributed in a lump sum payment to the designated beneficiary within
+6 five years from the date of the participant's death.
+7 Section 4. That § 3-13A-23.5 be AMENDED:
+8 3-13A-23.5. Notwithstanding any contrary provisions, effective for any participant
+9 death after December 31, 2021, the following distribution provisions shall take effect are
+10 effective for any participant death after December 31, 2021, subject to any regulations or
+11 other guidance issued under the Setting Every Community Up for Retirement
+12 Enhancement (SECURE) Act of 2019, Pub. L. No. 116-94, Div. O, 133 Stat. 2534 (2019)
+13 or Pub. L. No. 117-328, Div. T, 136 Stat. 4459 (2022):
+14 (1) If the participant dies before the distribution of his or her the participant's entire
+15 account (, regardless of whether any distributions had begun commenced before
+16 the participant's death), and the participant has a designated beneficiary:
+17 (a) The entire account shall must be distributed to the designated beneficiary
+18 by December thirty-first of the calendar year containing the tenth
+19 anniversary of the participant's death;
+20 (b) Notwithstanding subsection (a), if the designated beneficiary is an eligible
+21 designated beneficiary, the eligible designated beneficiary may elect for the
+22 participant's account to be distributed by:
+23 (i) December thirty-first of the calendar year containing the tenth
+24 anniversary of the participant's death,; or
+25 (ii) Beginning no later than December thirty-first of the calendar year
+26 immediately following the calendar year in which the participant
+27 died, over the life of the eligible designated beneficiary or over a
+28 period not exceeding the life expectancy of the eligible designated
+29 beneficiary. If the eligible designated beneficiary is the surviving
+30 spouse, payment under this subsection (b)(ii) paragraph is not
+31 required until the later of December thirty-first of the calendar year
+32 immediately following the calendar year in which the participant died
+33 or December thirty-first of the calendar year in which the participant
+34 would have attained age seventy and one-half (age seventy-two
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.555.19 5 65
+1 with respect to a participant who would have attained age seventy
+2 and one-half after December 31, 2019). If the eligible designated
+3 beneficiary does not elect a method of distribution, the participant's
+4 account shall be distributed in accordance with this subsection
+5 (b)(ii); the applicable age, as provided in § 3-13A-23.1. The
+6 surviving spouse is deemed to have elected treatment in accordance
+7 with section 401(a)(9)(B)(iv) of the Internal Revenue Code and any
+8 applicable guidance, unless the spouse elects otherwise. If the
+9 eligible designated beneficiary does not elect a method of
+10 distribution, the participant's account must be distributed in
+11 accordance with paragraph (ii) of this subsection; or
+12 (c) Upon either the death of an eligible designated beneficiary before
+13 distribution of the participant's entire account or the attainment of the age
+14 of majority for an eligible designated beneficiary who is a minor child under
+15 subsection (4)(b), subsection (1)(b) no longer applies and the remainder of
+16 the entire account shall must be distributed to the designated beneficiary
+17 by December thirty-first of the calendar year containing the tenth
+18 anniversary of the participant's death eligible designated beneficiary's death
+19 or December thirty-first of the calendar year containing the tenth
+20 anniversary of the date the minor child reached the age of majority,
+21 respectively;
+22 (2) If the participant dies before distributions of his or her distribution of the account
+23 begins and the participant has no designated beneficiary, the participant's account
+24 under the plan shall must be distributed by December thirty-first of the calendar
+25 year containing the fifth anniversary of the participant's death. If the participant
+26 dies after distribution of the account begins and the participant has no designated
+27 beneficiary, any remaining portion of the account shall must continue to be
+28 distributed at least as rapidly as under the method of distribution in effect at the
+29 time of the participant's death;
+30 (3) Any distribution required under the incidental death benefit requirements of
+31 Internal Revenue Code section 401(a) shall must be treated as distributions
+32 required under this section; and
+33 (4) For purposes of this section, the term, "eligible designated beneficiary," means a
+34 designated beneficiary who, as of the date of the death of the participant, is:
+35 (a) The surviving spouse of the participant;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.555.19 6 65
+1 (b) A child of the participant, who has not reached the age of majority.
+2 However, provided that the child ceases to be an eligible designated
+3 beneficiary as of the date the child reaches the age of majority;
+4 (c) Disabled within the meaning of Internal Revenue Code section 72(m)(7);
+5 (d) Chronically ill within the meaning of Internal Revenue Code section
+6 7702B(c)(2) (, except that the requirements of subparagraph (A)(i) thereof
+7 may only be treated as met if there is a certification that, as of such the
+8 date of the certification, the period of inability described in such the
+9 subparagraph with respect to the individual is an indefinite one which is and
+10 reasonably expected to be lengthy in nature); or
+11 (e) Any other person individual who is not more than ten years younger than
+12 the participant.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

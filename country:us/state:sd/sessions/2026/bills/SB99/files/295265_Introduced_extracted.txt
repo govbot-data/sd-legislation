@@ -1,0 +1,512 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.283.25 101st Legislative Session 99
+2026 South Dakota Legislature
+Senate Bill 99
+Introduced by: Senator Mehlhaff
+1 An Act to create the property tax local effort replacement fund, to reduce certain
+2 property taxes, and to increase the rates for certain gross receipts taxes and
+3 use taxes.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That § 10-12-42 be AMENDED:
+6 10-12-42. For taxes payable in 2026 2027, and each year thereafter, the
+7 maximum levy for the general fund of a school district is as follows:
+8 (1) The maximum tax levy is five dollars and tw
+9 enty-one and one-tenth cents per thousand dollars of taxable valuation, subject to
+10 the limitations on agricultural property as provided in subdivision (2) of this section and
+11 owner-occupied property as provided in subdivision (3) of this section;
+12 (2) The maximum tax levy on agricultural property for the school district is one
+13 dollar and twelve and five-tenths cents per thousand dollars of taxable valuation. If the
+14 district's levies are less than the maximum levies as stated in this section, the levies must
+15 maintain the same proportion to each other as represented in the mathematical
+16 relationship at the maximum levies; and
+17 (3) The maximum tax levy for an owner-occupied single-family dwelling pursuant
+18 to § 10-13-40 for the school district is two dollars and fifty-one and eight-tenths cents per
+19 thousand dollars of taxable valuation. If the district's levies are less than the maximum
+20 levies as stated in this section, the levies must maintain the same proportion to each other
+21 as represented in the mathematical relationship at the maximum levies zero dollars and
+22 zero cents per thousand dollars of taxable valuation.
+23 All levies in this section must be imposed on valuations where the median level of
+24 assessment represents eighty-five percent of market value as determined by the
+25 Department of Revenue. These valuations must be used for all school funding purposes.
+26 If the district has imposed an excess levy pursuant to § 10-12-43, the levies must
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.283.25 2 99
+1 maintain the same proportion to each other as represented in the mathematical
+2 relationship at the maximum levies in this section. The school district may elect to tax at
+3 less than the maximum amounts set forth in this section imposed pursuant to this section
+4 for taxes payable in 2026.
+5 Section 2. That § 10-45-2 be AMENDED:
+6 10-45-2. There is hereby imposed a tax upon the privilege of engaging in business
+7 as a retailer, a tax of four and two-tenths at the rate of six and two-tenths percent upon
+8 the gross receipts of all sales of tangible personal property consisting of goods, wares, or
+9 merchandise, except as otherwise provided in this chapter, sold at retail in the state to
+10 consumers or users.
+11 Section 3. That § 10-45-5 be AMENDED:
+12 10-45-5. There is imposed a tax, at the rate of four and two-tenths percent set
+13 forth in § 10-45-2, upon the gross receipts of any person from engaging or continuing in
+14 any of the following businesses or services in this state: abstracters
+15 (1) Abstracters;
+16 (2) accountantsAccountants;
+17 (3) ancillaryAncillary services;
+18 (4) architectsArchitects;
+19 (5) barbersBarbers;
+20 (6) beautyBeauty shops;
+21 (7) billBill collection services;
+22 (8) blacksmithBlacksmith shops;
+23 (9) carCar washing;
+24 (10) dryDry cleaning;
+25 (11) dyeingDyeing;
+26 (12) exterminatorsExterminators;
+27 (13) garageGarage and service stations;
+28 (14) garmentGarment alteration;
+29 (15) cleaningCleaning and pressing;
+30 (16) janitorialJanitorial services and supplies;
+31 (17) specialtySpecialty cleaners;
+32 (18) laundryLaundry;
+33 (19) linenLinen and towel supply;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.283.25 3 99
+1 (20) membershipMembership or entrance fees for the use of a facility or for the
+2 right to purchase tangible personal property, any product transferred electronically, or
+3 services;
+4 (21) photographyPhotography;
+5 (22) photoPhoto developing and enlarging;
+6 (23) tireTire recapping;
+7 (24) weldingWelding and all repair services, except repair services for farm
+8 machinery, attachment units, and irrigation equipment used exclusively for agricultural
+9 purposes;
+10 (25) cableCable television; and
+11 (26) rentalsRentals of tangible personal property, except leases of tangible
+12 personal property between one telephone company and another telephone company,
+13 motor vehicles as defined pursuant to § 32-5-1 leased under a single contract for more
+14 than twenty-eight days, and mobile homes. However, the
+15 The specific enumeration of businesses and professions made in this section does
+16 not, in any way, limit the scope and effect of the provisions of § 10-45-4.
+17 Section 4. That § 10-45-5.3 be AMENDED:
+18 10-45-5.3. There is imposed, at the rate of four and two-tenths percent set forth
+19 in § 10-45-2, an excise tax on the gross receipts of any person engaging in oil and gas
+20 field services (, group no. 138), as enumerated in the Standard Industrial Classification
+21 Manual, 1987, as prepared by the Statistical Policy Division of the Office of Management
+22 and Budget, Office of the President.
+23 Section 5. That § 10-45-6 be AMENDED:
+24 10-45-6. There is hereby imposed a tax of four and two-tenths percent, at the
+25 rate set forth in § 10-45-2, upon the gross receipts from sales, furnishing, or service of
+26 gas, electricity, and water, including the gross receipts from such the sales by any
+27 municipal corporation furnishing gas, and electricity, to the public in its proprietary
+28 capacity, except as otherwise provided in this chapter, when sold at retail in the State of
+29 South Dakota this state to consumers or users.
+30 Section 6. That § 10-45-6.1 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.283.25 4 99
+1 10-45-6.1. Except as provided in § 10-45-6.2, there is hereby imposed a tax of
+2 four and two-tenths percent, at the rate set forth in § 10-45-2, upon the gross receipts
+3 from providing any intrastate, interstate, or international telecommunications service that
+4 originates or terminates in this state and that is billed or charged to a service address in
+5 this state, or that both originates and terminates in this state. However, the tax imposed
+6 by this section does not apply to:
+7 (1) Any eight hundred or eight hundred-type service, unless the service both originates
+8 and terminates in this state;
+9 (2) Any sale of a telecommunication service to a provider of telecommunication
+10 services, including access service, for use in providing any telecommunication
+11 service; or
+12 (3) Any sale of interstate telecommunication service provided to a call center that has
+13 been certified by the secretary of revenue to meet the criterion established in § 10-
+14 45-6.3 and the call center has provided to the telecommunications service provider
+15 an exemption certificate issued by the secretary indicating that it meets the
+16 criterion.
+17 If a call center uses an exemption certificate to purchase services not meeting the
+18 criterion established in § 10-45-6.3, the call center is liable for the applicable tax, penalty,
+19 and interest.
+20 Section 7. That § 10-45-6.2 be AMENDED:
+21 10-45-6.2. There is hereby imposed a tax of four and two-tenths percent, at the
+22 rate set forth in § 10-45-2, upon the gross receipts of mobile telecommunications services,
+23 as defined in 4 U.S.C. § 124(7) as of (January 1, 2002), that originate and terminate in
+24 the same state and are billed to a customer with a place of primary use in this state or
+25 are deemed to have originated or been received in this state and to be billed or charged
+26 to a service address in this state if the customer's place of primary use is located in this
+27 state regardless of where the service actually originates or terminates. Notwithstanding
+28 any other provision of this chapter and for purposes of the tax imposed by this section,
+29 the tax imposed upon mobile telecommunication services must be administered in
+30 accordance with 4 U.S.C. §§ 116- to 126, as in effect on, inclusive, (July 28, 2000).
+31 Section 8. That § 10-45-8 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.283.25 5 99
+1 10-45-8. Except as otherwise provided in this chapter, there is imposed a tax of
+2 four and two-tenths percent, at the rate set forth in § 10-45-2, upon the gross receipts
+3 from all sales of tickets or admissions to:
+4 (1) Places of amusement;
+5 (2) Athletic contests; or
+6 (3) Events.
+7 Section 9. That § 10-45-71 be AMENDED:
+8 10-45-71. There is imposed a tax of four and two-tenths percent on, at the rate
+9 set forth in § 10-45-2, upon the gross receipts from the transportation of passengers. The
+10 tax imposed by this section applies to any transportation of passengers if the passenger
+11 boards and exits the mode of transportation within this state.
+12 Section 10. That § 10-46-2.1 be AMENDED:
+13 10-46-2.1. For the privilege of using services in South Dakota this state, except
+14 those types of services exempted by § 10-46-17.3, there is imposed on the person using
+15 the service an excise tax equal to four and two-tenths, at the rate of six and two-tenths
+16 percent of the value of the services at the time they are rendered. However, this This tax
+17 may not be imposed on any service:
+18 (1) Service rendered by a related corporation, as defined in subdivision 10-43-1(11),
+19 for use by a financial institution, as defined in subdivision 10-43-1(4); or on any
+20 service § 10-43-1; or
+21 (2) Service rendered by a financial institution, as defined in subdivision 10-43-1(4)
+22 § 10-43-1, for use by a related corporation as defined in subdivision 10-43-1(11).
+23 For the purposes of this section, the term, "related corporation," includes a means
+24 a corporation associated with another as its parent or subsidiary, or in a brother-sister
+25 relationship. The term includes a corporation, which together with the financial institution,
+26 is part of a controlled group of corporations, as defined in 26 U.S.C. § 1563 as in effect
+27 on (January 1, 1989), except that the eighty percent ownership requirements set forth in
+28 26 U.S.C. § 563(a)(2)(A) § 1563(a) for a brother-sister controlled group are reduced to
+29 fifty-one percent.
+30 For the purpose of this chapter, services rendered by an employee for the use of
+31 the employer are not taxable.
+32 Section 11. That § 10-46-2.2 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.283.25 6 99
+1 10-46-2.2. An excise tax is imposed upon the privilege of the use of rented
+2 tangible personal property and any product transferred electronically in this state, at the
+3 rate of four and two-tenths percent of set forth in § 10-46-2.1, on the rental payments
+4 upon the property.
+5 Section 12. That § 10-46-48 be AMENDED:
+6 10-46-48. All revenue arising under the operation of Except as otherwise
+7 provided, revenue collected pursuant to this chapter shall immediately must be turned
+8 over to the state treasurer and by him credited to deposited in the general fund.
+9 The treasurer shall deposit in the local effort replacement fund, established in
+10 section 25 of this Act, thirty-two and three-tenths percent of the taxes collected by the
+11 secretary of the Department of Revenue pursuant to this chapter.
+12 Section 13. That § 10-46-58 be AMENDED:
+13 10-46-58. There is imposed a tax of four and two-tenths percent on, at the rate
+14 set forth in § 10-46-2.1, upon the privilege of the use of any transportation of passengers.
+15 The tax imposed by this section applies to any transportation of passengers if the
+16 passenger boards and exits the mode of transportation within this state.
+17 Section 14. That § 10-46-69 be AMENDED:
+18 10-46-69. There is hereby imposed a tax of four and two-tenths percent, at the
+19 rate set forth in § 10-46-2.1, upon the privilege of the use of mobile telecommunications
+20 services, as defined in 4 U.S.C. § 124(7) as of (January 1, 2002), that originate and
+21 terminate in the same state and are billed to a customer with a place of primary use in
+22 this state. Notwithstanding any other provision of this chapter and for purposes of the tax
+23 imposed by this section, the tax imposed upon mobile telecommunication services must
+24 be administered in accordance with 4 U.S.C. §§ 116-126, as in effect on (July 28, 2000).
+25 Section 15. That § 10-46-69.1 be AMENDED:
+26 10-46-69.1. Except as provided in § 10-46-69, there is hereby imposed a tax of
+27 four and two-tenths percent, at the rate set forth in § 10-46-2.1, upon the privilege of the
+28 use of any intrastate, interstate, or international telecommunications service that
+29 originates or terminates in this state and that is billed or charged to a service address in
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.283.25 7 99
+1 this state, or that both originates and terminates in this state. However, the The tax
+2 imposed by this section does not apply to:
+3 (1) Any eight hundred or eight hundred type service unless the service both originates
+4 and terminates in this state;
+5 (2) Any sale of a telecommunication service to a provider of telecommunication
+6 services, including access service, for use in providing any telecommunication
+7 service; or
+8 (3) Any sale of interstate telecommunication service provided to a call center that has
+9 been certified by the secretary of revenue to meet the criterion established in § 10-
+10 45-6.3 and the call center has provided to the telecommunications service provider
+11 an exemption certificate issued by the secretary indicating that it meets the
+12 criterion.
+13 If a call center uses an exemption certificate to purchase services not meeting the
+14 criterion established in § 10-45-6.3, the call center is liable for the applicable tax, penalty,
+15 and interest.
+16 Section 16. That § 10-46-69.2 be AMENDED:
+17 10-46-69.2. There is hereby imposed a tax of four and two-tenths percent, at the
+18 rate set forth in § 10-46-2.1, upon the privilege of the use of any ancillary services.
+19 Section 17. That § 10-46E-1 be AMENDED:
+20 10-46E-1. There is hereby imposed an excise tax of four and two-tenths percent,
+21 at the rate of six and two-tenths percent, on the gross receipts from the sale, resale, or
+22 lease of farm machinery, attachment units, and irrigation equipment used exclusively for
+23 agricultural purposes. However, if If any trade-in or exchange of used farm machinery,
+24 attachment units, and irrigation equipment is involved in the transaction, the excise tax
+25 is only due and may only be collected on the cash difference.
+26 Section 18. That § 10-46E-9 be AMENDED:
+27 10-46E-9. The Except as otherwise provided, revenue from the tax imposed by
+28 this chapter shall must be deposited in the general fund.
+29 The treasurer shall deposit in the local effort replacement fund, established in
+30 section 25 of this Act, thirty-two and three-tenths percent of the taxes collected by the
+31 secretary of the Department of Revenue pursuant to this chapter.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.283.25 8 99
+1 Section 19. That § 10-58-1 be AMENDED:
+2 10-58-1. There is imposed upon owners and operators a special amusement
+3 excise tax of four and two-tenths six and two-tenths percent of the gross receipts from
+4 the sale or the operation of any mechanical or electronic amusement device. The tax
+5 imposed by this section is in lieu of the tax imposed pursuant to chapter 10-45.
+6 Section 20. That § 10-58-5 be AMENDED:
+7 10-58-5. The Except as otherwise provided, the tax generated by this chapter
+8 must be deposited in the general fund.
+9 The treasurer shall deposit in the local effort replacement fund, established in
+10 section 25 of this Act, thirty-two and three-tenths percent of the taxes collected by the
+11 secretary of the Department of Revenue pursuant to this chapter.
+12 Section 21. That § 13-13-72 be AMENDED:
+13 13-13-72. It is the policy of the Legislature that the appropriation for state aid to
+14 education increase on an annual basis increases annually by the percentage increase in
+15 local need on an aggregate statewide basis so that the relative proportion of local need
+16 paid by local effort and state aid shall remain constant. For school fiscal years 2017 to
+17 2022, inclusive, the proportion of local need paid by local effort and state aid shall be
+18 adjusted annually to maintain the proportion between state aid and local property taxes
+19 and to reflect adjustments in local effort due to the implementation of the other revenue
+20 base amount as defined in § 13-13-10.1.
+21 Section 22. That § 13-13-72.1 be AMENDED:
+22 13-13-72.1. Any adjustments in the levies specified in § 10-12-42 made pursuant
+23 to §§ 13-13-71 and § 13-13-72 shall must be based on maintaining the relationship
+24 between statewide local effort as a percentage of statewide local need in the fiscal year
+25 succeeding the fiscal year in which the adjustment is made. For school fiscal years 2017
+26 to 2022, inclusive, the proportion of local need paid by local effort and state aid shall be
+27 adjusted annually to reflect adjustments in local effort due to the implementation of the
+28 other revenue base amount as defined in § 13-13-10.1. However, if If the levies specified
+29 in § 10-12-42 are not adjusted to maintain this relationship, the target teacher salary as
+30 defined in § 13-13-10.1 shall must be reduced to maintain the relationship between
+31 statewide local effort as a percentage of statewide local need.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.283.25 9 99
+1 Section 23. That § 13-13-78 be AMENDED:
+2 13-13-78. Terms used in § 13-13-79 mean:
+3 (1) "Sparse school district," a school district that meets each of the following criteria:
+4 (a) Has a fall enrollment per square mile of 0.50 or less;
+5 (b) Has a fall enrollment of five hundred or less;
+6 (c) Has an area of four hundred square miles or more;
+7 (d) Has at least fifteen miles between its secondary attendance center or
+8 centers and that of an adjoining district; and
+9 (e) Operates a secondary attendance center; and
+10 (f) Levies ad valorem taxes at the maximum rates allowed pursuant to § 10-
+11 12-42 or more;
+12 (2) "Sparsity fall enrollment," for sparse school districts with a fall enrollment as
+13 defined in § 13-13-10.1 of less than eighty-three or greater than two hundred
+14 thirty-two, and is calculated as follows:
+15 (a) Divide the fall enrollment as defined in § 13-13-10.1 by the area of the
+16 school district in square miles;
+17 (b) Multiply the quotient obtained in subsection (a) times negative 0.125;
+18 (c) Add 0.0625 to the product obtained in subsection (b); and
+19 (d) Multiply the sum obtained in subsection (c) times the fall enrollment;
+20 (3) "Sparsity adjusted fall enrollment," for sparse school districts with a fall enrollment
+21 as defined in § 13-13-10.1 of at least eighty-three, but no more than two hundred
+22 thirty-two, subtract the fall enrollment from two hundred thirty-two.
+23 Section 24. That § 13-13-92 be AMENDED:
+24 13-13-92. The state general fund savings obtained through the state aid to
+25 education formula from the difference between the school general fund levy for agriculture
+26 property for taxes payable in 2018 pursuant to §§ 13-13-71, 13-13-72, and 13-13-72.1,
+27 and the agriculture property levy adopted by legislative action for taxes payable in 2018,
+28 are in place until July 1, 2040.
+29 Section 25. That a NEW SECTION be added to chapter 13-13:
+30 There is created in the state treasury the local effort replacement fund. The
+31 treasurer shall deposit in the fund thirty-two and three-tenths percent of the taxes
+32 collected pursuant to:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.283.25 10 99
+1 (1) Chapter 10-45;
+2 (2) Chapter 10-46;
+3 (3) Chapter 10-46E;
+4 (4) Chapter 10-58; and
+5 (5) § 32-5B-20.
+6 The Department of Education shall administer the fund. The purpose of the fund is
+7 to supplement property tax local effort for school district general funds and special
+8 education funds with state revenue. Interest on moneys credited to the fund must remain
+9 in the fund. Expenditures from the fund must be budgeted through the general
+10 appropriation bill.
+11 Section 26. That § 13-37-16 be AMENDED:
+12 13-37-16. For taxes payable in 2026 2027, and each year thereafter, the school
+13 board shall may levy no more than one dollar and forty-six and two-tenths zero dollars
+14 and zero cents per thousand dollars of taxable valuation, as a special levy in addition to
+15 all other levies authorized by law for the amount so determined to be necessary, and the
+16 levy must be spread against all of the taxable property of the district. The proceeds derived
+17 from the levy constitute a school district special education fund of the district for the
+18 payment of costs for the special education of all children in need of special education or
+19 special education and related services who reside within the district pursuant to the
+20 provisions of §§ 13-37-8.4 to 13-37-8.10, inclusive. The levy in this section is based on
+21 valuations where the median level of assessment represents eighty-five percent of market
+22 value as determined by the Department of Revenue. The total amount of taxes that would
+23 be generated at the levy pursuant to this section is considered local effort. Money in the
+24 special education fund may be expended for the purchase or lease of any assistive
+25 technology that is directly related to special education and specified in a student's
+26 individualized education plan. This section does not apply to real property improvements.
+27 Section 27. That § 13-37-35.1 be AMENDED:
+28 13-37-35.1. Terms used in chapter 13-37 mean:
+29 (1) "Level one disability," a mild disability;
+30 (2) "Level two disability," cognitive disability or emotional disorder;
+31 (3) "Level three disability," hearing impairment, deafness, visual impairment, deaf-
+32 blindness, orthopedic impairment, or traumatic brain injury;
+33 (4) "Level four disability," autism;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.283.25 11 99
+1 (5) "Level five disability," multiple disabilities;
+2 (5A) "Level six disability," prolonged assistance;
+3 (6) "Index factor," is the annual percentage change in the consumer price index for
+4 urban wage earners and clerical workers as computed by the Bureau of Labor
+5 Statistics of the United States Department of Labor for the year before the year
+6 immediately preceding the year of adjustment, or three percent, whichever is less;
+7 (7) "Local effort," must be an amount calculated for taxes payable in 2026 2027 and
+8 thereafter using a the maximum special education levy of one dollar and twenty-
+9 six and two-tenths cents per one thousand dollars of valuation set forth in § 13-
+10 37-16;
+11 (8) "Allocation for a student with a level one disability," for the school fiscal year
+12 beginning July 1, 2025, is $7,650.45. For each school year thereafter, the allocation
+13 for a student with a level one disability must be the previous fiscal year's allocation
+14 for the child increased by the index factor;
+15 (9) "Allocation for a student with a level two disability," for the school fiscal year
+16 beginning July 1, 2025, is $16,759.91. For each school year thereafter, the
+17 allocation for a student with a level two disability must be the previous fiscal year's
+18 allocation for the child increased by the index factor;
+19 (10) "Allocation for a student with a level three disability," for the school fiscal year
+20 beginning July 1, 2025, is $23,139.68. For each school year thereafter, the
+21 allocation for a student with a level three disability must be the previous fiscal
+22 year's allocation for the child increased by the index factor;
+23 (11) "Allocation for a student with a level four disability," for the school fiscal year
+24 beginning July 1, 2025, is $18,053.89. For each school year thereafter, the
+25 allocation for a student with a level four disability must be the previous fiscal year's
+26 allocation for the child increased by the index factor;
+27 (12) "Allocation for a student with a level five disability," for the school fiscal year
+28 beginning July 1, 2025, is $37,039.28. For each school year thereafter, the
+29 allocation for a student with a level five disability must be the previous fiscal year's
+30 allocation for the child increased by the index factor;
+31 (12A) "Allocation for a student with a level six disability," for the school fiscal year
+32 beginning July 1, 2025, is $11,838.15. For each school year thereafter, the
+33 allocation for a student with a level six disability must be the previous fiscal year's
+34 allocation for the child increased by the index factor;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.283.25 12 99
+1 (13) "Child count," is the number of students in need of special education or special
+2 education and related services according to criteria set forth in rules promulgated
+3 pursuant to §§ 13-37-1.1 and 13-37-46 submitted to the Department of Education;
+4 (14) "Fall enrollment," the number of kindergarten-through-twelfth-grade students
+5 enrolled in all schools operated by the school district on the last Friday of
+6 September of the previous school year minus the number of students for whom
+7 the district receives tuition, except any nonresident student who is in the care and
+8 custody of a state agency and is attending a public school and any student for
+9 whom tuition is being paid pursuant to § 13-28-42.1, plus the number of students
+10 for whom the district pays tuition;
+11 (15) "Nonpublic school," a sectarian organization or entity accredited by the secretary of
+12 education for the purpose of instructing children of compulsory school age. This
+13 definition excludes any school that receives a majority of its revenues from public
+14 funds;
+15 (16) "Nonpublic fall enrollment," the number of children under age eighteen, who are
+16 approved for alternative instruction pursuant to § 13-27-3 on the last Friday of
+17 September of the previous school year plus:
+18 (a) For nonpublic schools located within the boundaries of a public school
+19 district with a fall enrollment of six hundred or more on the last Friday of
+20 September of the previous school year, the number of kindergarten-
+21 through-twelfth-grade students enrolled on the last Friday of September of
+22 the previous regular school year in all nonpublic schools located within the
+23 boundaries of the public school district;
+24 (b) For nonpublic schools located within the boundaries of a public school
+25 district with a fall enrollment of less than six hundred on the last Friday of
+26 September of the previous school year, the number of resident
+27 kindergarten-through-twelfth-grade students enrolled on the last Friday of
+28 September of the previous school year in all nonpublic schools located
+29 within this state;
+30 (17) "Special education fall enrollment," fall enrollment plus nonpublic fall enrollment;
+31 (18) "Local need," an amount to be determined as follows:
+32 (a) Multiply the special education fall enrollment by 0.1062 and multiply the
+33 result by the allocation for a student with a level one disability;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.283.25 13 99
+1 (b) Multiply the number of students having a level two disability as reported on
+2 the child count for the previous school fiscal year by the allocation for a
+3 student with a level two disability;
+4 (c) Multiply the number of students having a level three disability as reported
+5 on the child count for the previous school fiscal year by the allocation for a
+6 student with a level three disability;
+7 (d) Multiply the number of students having a level four disability as reported on
+8 the child count for the previous school fiscal year by the allocation for a
+9 student with a level four disability;
+10 (e) Multiply the number of students having a level five disability as reported on
+11 the child count for the previous school fiscal year by the allocation for a
+12 student with a level five disability;
+13 (f) Multiply the number of students having a level six disability as reported on
+14 the child count for the previous school fiscal year by the allocation for a
+15 student with a level six disability;
+16 (g) When calculating local need at the statewide level, include the amount set
+17 aside for extraordinary expenses defined in § 13-37-40;
+18 (h) When calculating local need at the statewide level, include the amount set
+19 aside for the South Dakota School for the Blind and Visually Impaired; and
+20 (i) Sum the results of subdivisions (18)(a) to (h), inclusive; and
+21 (19) "Effort factor," the school district's special education tax levy in dollars per thousand
+22 divided by $1.262. The maximum effort factor is 1.0 zero and zero-tenths.
+23 Section 28. That § 32-5B-20 be AMENDED:
+24 32-5B-20. There is hereby imposed a tax of four and two-tenths, at the rate of
+25 six and two-tenths percent, upon the gross receipts of any person renting a rental vehicle
+26 as defined in § 32-5B-19. This tax applies to all vehicles registered in accordance with
+27 § 32-5-6, 32-5-8.1, or 32-5-9. Any rental vehicle not licensed in accordance with § 32-5-
+28 6, 32-5-8.1, or 32-5-9 is subject to the motor vehicle excise tax in § 32-5B-1.
+29 The tax imposed by this section is in addition to any tax levied pursuant to chapter
+30 10-45 or 10-46 upon the rental of a rental vehicle. The provisions of chapter 10-45 apply
+31 to the administration and enforcement of the tax imposed by this section. The tax imposed
+32 by this section is in lieu of the tax levied by § 32-5B-1 on the sales of such motor vehicles.
+33 A violation of this section is a Class 1 misdemeanor.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.283.25 14 99
+1 Section 29. That § 32-5B-25 be AMENDED:
+2 32-5B-25. All Except as otherwise provided, all excise taxes collected on the
+3 purchase of an off-road vehicle as provided by § 32-5B-1 shall must be deposited in the
+4 state general fund.
+5 The treasurer shall deposit in the local effort replacement fund, established in
+6 section 25 of this Act, thirty-two and three-tenths percent of the taxes collected by the
+7 secretary of the Department of Revenue pursuant to § 32-5B-20.
+8 Section 30. That § 13-13-71 be REPEALED.
+9 If local effort increases on a statewide aggregate basis by a greater percentage
+10 than local need on a statewide aggregate basis from any one year to the next, for the
+11 following year each of the levies specified in subdivision 13-13-10.1(13) shall be reduced
+12 proportionally so that the percentage increase in local effort on a statewide aggregate
+13 basis equals the percentage increase in need on a statewide aggregate basis.
+14 Section 31. That § 13-37-16.2 be REPEALED.
+15 If local effort increases on a statewide aggregate basis by a greater percentage
+16 than local need on a statewide aggregate basis from any one year to the next, for the
+17 following year, the levy specified in subdivision 13-37-35.1(7) shall be reduced
+18 proportionally so that the percentage increase in local effort on a statewide aggregate
+19 basis equals the percentage increase in need on a statewide aggregate basis.
+20 Section 32. That § 13-37-16.3 be REPEALED.
+21 Any adjustments in the levy specified in subdivision 13-37-35.1(7) made pursuant
+22 to § 13-37-16.2 shall be based on maintaining the relationship between statewide local
+23 effort as a percentage of statewide local need in the fiscal year succeeding the fiscal year
+24 in which the adjustment is made. However, for fiscal year 2014, and each year thereafter,
+25 if the levy specified in subdivision 13-37-35.1(7) is not adjusted to maintain this
+26 relationship, the funding allocation for each disability level as defined in § 13-37-35.1 shall
+27 be reduced proportionally to maintain the relationship between statewide local effort as a
+28 percentage of statewide local need.
+29 Section 33. That 2023 Session Laws, chapter 32, § 19 be REPEALED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.283.25 15 99
+1 Section 34. The amendments to the Code sections in sections 1 to 17, inclusive,
+2 of this Act are repealed on June 30, 2027, and those Code sections will revert in word and
+3 substance to that which existed immediately prior to the effective date of this Act.
+4 Section 35. Sections 2 to 20, inclusive, and sections 25, 28, and 29 of this Act are effective
+5 beginning July 1, 2027.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

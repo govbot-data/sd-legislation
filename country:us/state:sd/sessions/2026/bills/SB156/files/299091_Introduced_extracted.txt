@@ -1,0 +1,19 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.262.11 101st Legislative Session 156
+2026 South Dakota Legislature
+Senate Bill 156
+Introduced by: Senator Howard
+1 An Act to modify the crime of cruelty to an animal and increase the penalty therefor.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to chapter 40-1:
+4 An individual who commits the offense provided for in § 40-1-2.4 in an especially
+5 depraved, heinous, sadistic, or wicked manner is guilty of a Class 4 felony.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

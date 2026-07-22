@@ -1,0 +1,27 @@
+Title: 
+Official Title: 
+Source: versions - House Health and Human Services Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.323.13 101st Legislative Session 90
+2026 South Dakota Legislature
+Senate Bill 90
+HOUSE HEALTH AND HUMAN SERVICES ENGROSSED
+Introduced by: Senator Nelson
+1 An Act to expand the information required to be sent to the prescription drug
+2 monitoring program for each registry identification card holder.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 34-20G-88.1 be AMENDED:
+5 34-20G-88.1. TheFor each cardholder and nonresident cardholder, the
+6 department shall submit the name and date of birth of a qualifying patient who receives
+7 a registry identification card to the prescription drug monitoring program, authorized
+8 pursuant to chapter 34-20E, the cardholder's:
+9 (1) Name;
+10 (2) Physical address, except that if the applicant is homeless, no address is required;
+11 (3) Date of birth; and
+12 (4) Registry identification card number.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

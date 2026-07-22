@@ -1,0 +1,31 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.106.15 101st Legislative Session 1086
+2026 South Dakota Legislature
+House Bill 1086
+Introduced by: Representative Mulder
+1 An Act to make an appropriation for providing a grant to a nonprofit that delivers
+2 programming to support offenders and correctional staff.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. There is appropriated $2,700,000 from the general fund, to the Department of
+5 Corrections, for the provision of a grant to a nonprofit corporation that delivers programming
+6 to support offenders and correctional staff.
+7 Section 2. To be awarded the grant, the nonprofit corporation must currently offer trauma-
+8 informed programming that includes leadership development and personal and professional
+9 skills training at state correctional facilities; have delivered this programming at a state
+10 correctional facility within six months before the effective date of this Act; and plan to serve
+11 both offenders and correctional staff at the South Dakota State Penitentiary, Mike Durfee
+12 State Prison, and South Dakota Women's Prison as verified by the Department of Corrections.
+13 Section 3. The secretary of the Department of Corrections shall approve vouchers and the
+14 state auditor shall draw warrants to pay expenditures authorized in this Act.
+15 Section 4. Any amounts appropriated in this Act not lawfully expended or obligated by June
+16 30, 2031, shall revert in accordance with the procedures prescribed in chapter 4-8.
+17 Section 5. This Act is effective beginning June 29, 2026.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

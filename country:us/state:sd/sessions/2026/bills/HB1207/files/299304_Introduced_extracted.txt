@@ -1,0 +1,53 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.939.10 101st Legislative Session 1207
+2026 South Dakota Legislature
+House Bill 1207
+Introduced by: Representative Manhart
+1 An Act to amend the period of time before which ballots and other election materials
+2 may be destroyed following an election.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 9-13:
+5 The returns from a municipal election must be certified by the precinct election
+6 board in each polling place, and the ballots, properly sealed in ballot boxes, together with
+7 the pollbooks, must be placed in the custody of the municipal finance officer.
+8 The finance officer may destroy voted ballots, pollbooks, and all other election
+9 material relating to a municipal election twenty-two months after the election at which the
+10 ballots were voted.
+11 Section 2. That § 12-20-31 be AMENDED:
+12 12-20-31. The officer in charge of an election may destroy voted ballots and
+13 pollbooks from a nonfederal election sixty days following the election at which such ballots
+14 were voted. However, they may not be destroyed if any recount or contest of such election
+15 is pending. The officerThe person in charge of an election may destroy voted ballots,
+16 pollbooks, and all other election material relating to an election twenty-two months after
+17 the election at which the ballots were voted.
+18 The person in charge of an election may destroy voted ballots, pollbooks and all
+19 other election material relating to a federal election twenty-two months after the election
+20 at which the ballots were voted.
+21 For the purpose purposes of this section, a federal election is any election to
+22 nominate or elect persons to the United States Congress or other national elected position,
+23 including national issues or questions. If a ballot is used for a federal election and a state
+24 or local election, the ballots and all other election material shall be maintained for
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.939.10 2 1207
+1 twenty-two months. All federal election material may be removed from the ballot box if it
+2 is maintained in such a manner as to guarantee the safety and integrity of such material.
+3 Section 3. That § 13-7-17 be AMENDED:
+4 13-7-17. The returns from a school district election shall must be certified by the
+5 precinct election board in each polling place, and the ballots, properly sealed in ballot
+6 boxes, together with the pollbooks, shall must be placed in the custody of the school
+7 district's business manager, who shall keep such boxes inviolate for at least sixty days
+8 after the canvass of the returns.
+9 The business manager may destroy voted ballots, pollbooks, and all other election
+10 material relating to a school district election twenty-two months after the election at which
+11 the ballots were voted.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

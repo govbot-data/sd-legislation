@@ -1,0 +1,56 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.247.9 101st Legislative Session 1025
+2026 South Dakota Legislature
+House Bill 1025
+Introduced by: Representative Emery
+1 An Act to authorize the issuance of no-trespass orders by private security officers,
+2 require the establishment of buffer zones per written no-trespass orders, and
+3 afford municipalities greater authority to regulate trespass.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That § 22-35-6 be AMENDED:
+6 22-35-6. Any person individual who, knowing that he or she the individual is not
+7 privileged to do so, enters or remains in any place premises where notice against trespass
+8 is given, is guilty of a Class 2 misdemeanor.
+9 Notice may be given by:
+10 (1) Actual communication to the person individual who subsequently commits the
+11 trespass;
+12 (2) Posting in a manner reasonably likely to come to the attention of trespassers; or
+13 (3) Fencing or other enclosure which that a reasonable person would recognize as
+14 being designed to exclude trespassers;
+15 is guilty of a Class 2 misdemeanor.
+16 However, if such trespasserIf the individual defies an order to leave and not return,
+17 personally communicated to him or her the individual by the owner or lessee of the
+18 premises or in writing by any other authorized person as provided in section 2 of this Act,
+19 the trespasser is guilty of criminal trespass, which is a Class 1 misdemeanor.
+20 Only a law enforcement officer as defined in § 23-3-27 or 23-3-27.1, or 18 U.S.C.
+21 § 1515 (September 13, 1994), may arrest an individual for a violation of this section.
+22 Section 2. That a NEW SECTION be added to chapter 22-35:
+23 A written order excluding an individual from a premises pursuant to § 22-35-6
+24 must include a directive that the individual remain fifty feet or more from the property
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.247.9 2 1025
+1 boundary, unless the individual is transiting a public right-of-way. The written order may
+2 be issued by:
+3 (1) A law enforcement officer as defined in § 23-3-27 or 23-3-27.1, or 18 U.S.C.
+4 § 1515 (September 13, 1994); or
+5 (2) A uniformed private security officer acting in conformance with any applicable
+6 standards promulgated by the governing body of the political subdivision with
+7 jurisdiction over the premises.
+8 The employer of the law enforcement officer or uniformed private security officer
+9 shall maintain a copy of the written order for at least one year after the date of its
+10 issuance.
+11 Section 3. That a NEW SECTION be added to chapter 22-35:
+12 A municipality may enact and enforce ordinances regarding trespass that impose
+13 stricter standards, excepting penalties, than those set forth in this chapter. A municipal
+14 trespass ordinance is deemed supplemental to, not inconsistent with, this chapter.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

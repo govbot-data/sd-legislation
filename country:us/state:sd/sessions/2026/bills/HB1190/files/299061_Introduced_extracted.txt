@@ -1,0 +1,40 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.746.13 101st Legislative Session 1190
+2026 South Dakota Legislature
+House Bill 1190
+Introduced by: Representative Emery
+1 An Act to establish the South Dakota-tribal consultation commission.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to chapter 1-54:
+4 There is established the South Dakota-tribal consultation commission to foster
+5 continuing cooperation and collaboration between the state and the nine federally
+6 recognized Indian tribes, in a way that recognizes and respects tribal sovereignty and self-
+7 governance, and allows representatives of the tribes to provide input on state affairs.
+8 The commission shall consist of:
+9 (1) The Governor or a cabinet-level designee;
+10 (2) The secretary of the Department of Tribal Relations, or the secretary's designee;
+11 (3) One representative from each federally recognized Indian tribe, appointed by the
+12 governing body of the tribe;
+13 (4) One member of the House of Representatives, appointed by the speaker of the
+14 House of Representatives; and
+15 (5) One member of the Senate; appointed by the president pro tempore of the Senate.
+16 Any vacancy on the commission must be filled in the same manner as the original
+17 appointment. At its initial meeting, the commission shall elect a chair and vice chair from
+18 among its members. The Department of Tribal Relations shall provide administrative
+19 support to the commission.
+20 The commission shall meet at least once every three months. At each meeting, the
+21 Governor or the Governor's designee shall provide a report detailing any initiative that the
+22 state has undertaken since the previous meeting or any relevant update on an initiative
+23 that had been previously reported to the commission, and receive feedback from the
+24 commission on any impact the initiative might have on the tribes.
+25 The commission shall submit an annual report of its findings and recommendations
+26 to the Governor on or before December first of each year.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,23 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.600.9 101st Legislative Session 1037
+2026 South Dakota Legislature
+House Bill 1037
+Introduced by: Representative Ismay
+1 An Act to exempt active-duty members of the armed forces of the United States and
+2 veterans from paying a resident fishing license fee.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 41-6:
+5 A resident of this state who is an active-duty member of the armed of forces of the
+6 United States or a veteran who was discharged from active service in the armed forces of
+7 the United States under conditions other than dishonorable is exempt from paying any
+8 resident fishing license fee required by the Game, Fish and Parks Commission, pursuant
+9 to § 41-6-10.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

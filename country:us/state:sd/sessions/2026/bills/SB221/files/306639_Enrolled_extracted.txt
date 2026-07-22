@@ -1,0 +1,365 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.979.18 101st Legislative Session 221
+2026 South Dakota Legislature
+Senate Bill 221
+ENROLLED
+AN ACT
+ENTITLED An Act to regulate the retail sale of nicotine products, and to provide a
+penalty therefor.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+Section 1. That § 10-1-28.2 be AMENDED:
+10-1-28.2. All lists of taxpayers, licensees, or applicants compiled by the
+Department of Revenue are confidential, except licensees which were licensed under the
+provisions of chapter 10-47B, 32-6B, 32-6C, 32-7A, or 32-7B, or sections 2 to 18,
+inclusive, of this Act. It is a Class 2 misdemeanor to disclose any such list except to the
+extent necessary to carry out the official duties of the department.
+Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+Terms used in this chapter mean:
+(1) "Alternative nicotine product," a noncombustible product containing nicotine from
+any source or a nicotine analog that is intended for human consumption, whether
+chewed, absorbed, dissolved, ingested, inhaled, or consumed by any other means.
+The term does not include any vapor product or any product regulated as a drug,
+food, or device by the United States Food and Drug Administration under the Food,
+Drug and Cosmetic Act, 21 U.S.C chapter 9 subchapter V (January 1, 2026);
+(2) "Department," the Department of Revenue;
+(3) "Licensee," a person licensed under the provisions of this chapter;
+(4) "Nicotine analog," a substance that:
+(a) Has a chemical structure substantially similar to the chemical structure of
+nicotine;
+(b) Has, or is represented to have, an effect on the central nervous system
+similar to the chemical nicotine; and
+
+26.979.18 2 221
+(c) Is manufactured, formulated, sold, distributed, or marketed with the intent
+to avoid the provisions of this chapter;
+(5) "Nicotine product," an alternative nicotine product, tobacco product, or vapor
+product;
+(6) "Retailer," a person engaged in the business of selling a nicotine product to an
+individual for any purpose other than resale;
+(7) "Secretary," the secretary of the department;
+(8) "Tobacco product," cigarettes, cigars, snuff, chewing tobacco, and any other
+products made up or composed of tobacco in whole or in part;
+(9) "Vapor product," a noncombustible product containing nicotine or a nicotine analog
+that employs a heating element, power source, electronic circuit, or other
+electronic, chemical, or mechanical means, regardless of shape or size, which can
+be used to produce vapor or aerosol from nicotine or a nicotine analog in a solution.
+The term includes, but is not limited to, any electronic cigarette, electronic cigar,
+electronic cigarillo, electronic pipe, or similar product or device, and a consumable
+nicotine or nicotine analog solution suitable for use in a vapor product, and any
+component or part, whether sold with the product or separately. The term does
+not include any product approved by the United States Food and Drug
+Administration for sale as a tobacco cessation product and marketed and sold solely
+for that purpose;
+(10) "Vending machine," a device that dispenses nicotine products to an individual for
+any purpose other than resale. The term does not include a self-service display;
+and
+(11) "Vending machine retailer," a person engaged in the business of selling a nicotine
+product from vending machines.
+Section 3. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+Any communication by, or on behalf of, the manufacturer, distributor, or retailer
+of a nicotine product, which indicates that the product contains a nicotine analog,
+constitutes presumptive evidence that the product contains a nicotine analog.
+Section 4. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+A retailer shall secure a license under this chapter to sell a nicotine product in this
+state. A separate application and a separate license are required for each place of business
+SB221 ENROLLED
+
+26.979.18 3 221
+of a retailer where a nicotine product is sold at retail. Each vending machine that sells a
+nicotine product pursuant to section 8 of this Act requires a separate license.
+An application for a license required under this section must be made to the
+department, on forms prescribed by the secretary. The application must contain:
+(1) The contact information and date of birth of the applicant;
+(2) The physical address and mailing address of the place of business of the retailer;
+(3) All past and current violations of state or federal law by the applicant relating to
+the sale, possession, or transportation of a nicotine product; and
+(4) Any information required by the department pursuant to rules promulgated under
+this chapter.
+For retailers where at least fifty percent of the annual gross income in a year for
+the place of business is estimated to be generated from the sales of nicotine products, the
+application must be accompanied by a fee of three hundred dollars.
+For retailers where less than fifty percent of the annual gross income in a year for
+the place of business is estimated to be generated from the sales of nicotine products, the
+application must be accompanied by a fee of two hundred dollars.
+A vending machine retailer that places a vending machine in a licensed
+establishment pursuant to section 8 of this Act, shall pay a fee of one hundred dollars for
+each vending machine.
+Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+A license issued under section 4 of this Act is valid through December thirty-first
+following the issuance of the license, unless the license is revoked sooner by the secretary
+pursuant to this chapter. A license is valid if a pending application to renew a license is in
+the possession of the department and if the pending application is not subject to denial
+pursuant to section 7 of this Act.
+A license issued under section 4 of this Act may be transferred.
+The transferee shall make an application in the same manner as provided in section
+4, and the application must be acted upon in the same manner as an original application.
+No transfer of any license to another person may be granted until all taxes incurred
+by the transferor as a result of the operation of the licensed premises, including municipal
+and state sales and use taxes, state reemployment assistance or unemployment insurance
+tax, or any other state tax, are paid or are not delinquent. No transfer of any license to
+another person may be granted until all property taxes which are the liability of the
+licensee levied on the licensed premises are paid or are not delinquent.
+SB221 ENROLLED
+
+26.979.18 4 221
+Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+A licensee may apply to the department for a renewal of the license within:
+(1) Sixty days prior to the expiration of the license; or
+(2) Three days after the expiration of the license.
+For retailers where at least fifty percent of the annual gross income in a year for
+the place of business is generated from the sales of nicotine products, the renewal
+application must be accompanied by a fee of three hundred dollars.
+For retailers where less than fifty percent of the annual gross income in a year for
+the place of business is generated from the sales of nicotine products, the renewal
+application must be accompanied by a fee of two hundred dollars.
+A vending machine retailer that places a vending machine in a licensed
+establishment pursuant to section 8 of this Act, shall pay a fee of one hundred dollars for
+each vending machine.
+Section 7. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+The department shall deny an application made under section 4 or 6 of this Act if
+the applicant:
+(1) Provides any false information;
+(2) Is under the age of twenty-one years;
+(3) Is not current on the remittance of all applicable state and local taxes; or
+(4) Has been convicted of, or pled guilty to, a felony related to a financial crime, a
+crime related to the sale or distribution of a nicotine product or alcohol, or a crime
+related to a controlled substance, in this or any other jurisdiction, unless at least
+three years have passed since satisfactory completion of the sentence or probation
+imposed by the court in each felony conviction.
+Section 8. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+A vending machine retailer may place a vending machine within an establishment
+licensed pursuant to chapter 35-4, or within a licensed gaming establishment as defined
+in § 42-7B-4, if the vending machine is placed in an area of the establishment in which
+access is denied to persons under the age of twenty-one years.
+A vending machine must be equipped with an age-verification system. Age
+verification is required to purchase a nicotine product from the vending machine.
+SB221 ENROLLED
+
+26.979.18 5 221
+For purposes of this Act, the vending machine retailer is responsible for compliance
+with all provisions of this Act. The establishment in which the vending machine is placed
+is not a retailer or vending machine retailer, unless nicotine products are otherwise sold
+at the establishment without the use of a vending machine.
+Section 9. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+A licensee may not:
+(1) Ship, or cause to be shipped, a nicotine product to an individual to be consumed
+by the individual, except as otherwise provided in chapter 10-50C or under
+provisions of House Bill 1220, as enacted by the One Hundred First Legislature;
+(2) Sell, or offer to sell, a nicotine product to a person under the age of twenty-one
+years;
+(3) Sell, or offer to sell, a nicotine product in a vending machine, except as provided
+in section 8 of this Act;
+(4) Sell a nicotine product by phone, voice transmission, mail, internet, electronic-
+application-based service, curbside pick-up, or by any third-party means, except
+as otherwise provided in chapter 10-50C or under provisions of House Bill 1220,
+as enacted by the One Hundred First Legislature;
+(5) Provide free samples of nicotine products to an individual;
+(6) Purchase a nicotine product from a person that is not a licensed distributor or
+licensed wholesaler under chapter 10-50 or under the provisions of House Bill 1220,
+as enacted by the One Hundred First Legislature; or
+(7) Sell or cause to be sold a nicotine product where the product, container, or
+packaging includes a video game or mobile game capable of interfacing with an
+external gaming system or mobile application, or has a gaming functionality.
+A licensee is responsible for, and may be subject to enforcement action for, any
+violation of this chapter committed by the licensee's employee, agency, agent, or clerk,
+while acting within the scope of employment or agency.
+For purposes of this section, a sale of a nicotine product from a vending machine
+does not constitute a sale described under subdivision (4) of this section.
+Section 10. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+A licensee shall keep complete records of all nicotine products held in the licensee's
+inventory and all nicotine products sold by the licensee, in a manner set forth in rules
+promulgated by the secretary pursuant to chapter 1-26.
+SB221 ENROLLED
+
+26.979.18 6 221
+The records must include information detailing the name, source, origin,
+manufacturer, and address of the person supplying, and a copy of the purchase invoice,
+of the nicotine products in the licensee's inventory.
+The licensee shall preserve the records for three years.
+If the records are not stored at the licensee's place of business, the licensee must,
+upon request of the secretary, make the records available, in electronic form, within five
+business days.
+If the secretary determines that a licensee committed an unintentional error in the
+record-keeping requirements of this section, the error does not constitute a violation for
+purposes of sections 12 and 13 of this Act.
+Nicotine products sold from, or contained in, a vending machine are inventory of
+the licensed retailer, and are not the inventory of the establishment within which the
+vending machine is placed. The requirements of this section apply only to the retailer, and
+may be maintained at the retailer’s principal location.
+The establishment within which the vending machine is placed is not subject to the
+requirements of this section, but must allow access to the vending machine for purposes
+of compliance with this chapter.
+Section 11. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+The secretary may, during normal business hours, inspect the records and
+premises of any licensee, and may conduct an investigation to determine whether the
+licensee has violated any provision of this chapter or rule promulgated thereunder. The
+secretary shall conduct an inspection or investigation under this section, in accordance
+with rules promulgated by the secretary pursuant to chapter 1-26.
+An establishment within which a vending machine is placed is not subject to the
+provisions of this section solely for the purpose of determining whether the retailer has
+violated any provisions of this chapter or any rule promulgated thereunder.
+Section 12. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+If the secretary receives information of a violation by any licensee of any provision
+of this chapter, the secretary must investigate the alleged violation. If there is substantial
+evidence to support that a violation of any provision of this chapter has occurred, the
+secretary must proceed in accordance with the provisions of this chapter.
+SB221 ENROLLED
+
+26.979.18 7 221
+If a licensee has been determined by the department to have violated any provision
+of this chapter, the secretary must conduct an inspection of the licensee within six months
+of the determination.
+Section 13. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+If a licensee is determined to have violated a provision of sections 8 to 10, inclusive,
+of this Act or a provision of chapter 34-46, the secretary must assess a penalty according
+to the following schedule:
+(1) For a first violation, a fine of five hundred dollars;
+(2) For a second violation within a thirty-six-month period, a fine of one thousand
+dollars;
+(3) For a third violation within a thirty-six-month period, a fine of two thousand dollars,
+and the secretary shall suspend the license for thirty days;
+(4) For a fourth violation within a thirty-six-month period, a fine of five thousand five
+hundred dollars, and the secretary shall revoke the license.
+Except as otherwise provided in this section, the secretary may, in accordance with
+chapter 1-26, revoke or suspend a license issued under this chapter for failure of the
+licensee to comply with a provision of this chapter or rules promulgated thereunder, or if
+the licensee is convicted of a felony.
+A fine assessed under this section is due within thirty days of the department
+providing notice of the fine to the licensee.
+Section 14. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+If the license of a retailer is revoked pursuant to section 13 of this Act, the retailer
+must:
+(1) Destroy all nicotine products possessed by the retailer, at the time of the
+revocation, in accordance with all state and federal requirements related to
+hazardous materials; or
+(2) Return all nicotine products to the licensed distributor or licensed wholesaler under
+chapter 10-50 or under the provisions of House Bill 1220, as enacted by the One
+Hundred First Legislature, from which the nicotine products were purchased by the
+licensee.
+The retailer shall submit verification of the destruction or return to the department,
+in a manner provided in rules promulgated by the secretary.
+SB221 ENROLLED
+
+26.979.18 8 221
+A retailer who fails to comply with this section within sixty days from the revocation
+of the license is subject to a fine of five thousand dollars, imposed by the department.
+Section 15. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+If a licensee is determined to have violated any provision of this chapter, the
+licensee may appeal an action or decision of the secretary, in the same manner as provided
+in chapter 1-26.
+Section 16. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+The department shall promulgate rules, in accordance with chapter 1-26, to:
+(1) Establish a procedure for an initial and a renewal license application under this
+chapter, and the information required in the application;
+(2) Provide for the manner in which nicotine products must be destroyed or returned
+and the manner in which verification of the destruction or return must be
+submitted;
+(3) Provide the process for assessing and collecting fines under this chapter;
+(4) Establish standards for the keeping of records, as required in section 10 of this Act;
+and
+(5) Establish a process for the inspection of records and premises, as authorized in
+section 11 of this Act.
+Section 17. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+A retailer who sells a nicotine product in this state, without a license issued
+pursuant to this chapter, is subject to a fine of five hundred dollars, per day, imposed by
+the department, except as provided in section 5 of this Act.
+Section 18. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+There is created a nicotine enforcement fund. The department shall administer the
+fund. The purpose of the fund is to defray expenses associated with the enforcement of
+this chapter.
+Moneys collected under this chapter must be forwarded to the state treasurer to
+be deposited into the fund. Interest on moneys credited to the fund must remain in the
+fund.
+SB221 ENROLLED
+
+26.979.18 9 221
+Expenditures from the fund must be budgeted through the general appropriation
+bill.
+Section 19. That § 34-46-2 be AMENDED:
+34-46-2. The following actions are unlawful:
+(1) To knowingly sell or distribute a nicotine product, as defined in section 2 of this
+Act, to a person under the age of twenty-one;
+(2) To purchase or attempt to purchase, to receive or attempt to receive, to possess,
+or to consume a nicotine product, as defined in section 2 of this Act, if a person is
+under the age of twenty-one;
+(3) To purchase a nicotine product, as defined in section 2 of this Act, on behalf of, or
+to give a nicotine product to, any person under the age of twenty-one;
+(4) To sell nicotine products, as defined in section 2 of this Act, other than in an
+unopened package originating with the manufacturer and depicting the warning
+labels required by federal law;
+(5) To sell nicotine products, as defined in section 2 of this Act, through a vending
+machine, except as otherwise provided in section 8 of this Act;
+(6) To sell nicotine products, as defined in section 2 of this Act, through a self-service
+display; or
+(7) To distribute samples of nicotine products, as defined in section 2 of this Act, in or
+on a public street, sidewalk, or park that is within five hundred feet of a playground,
+school, or other facility when the facility is being used primarily by persons under
+the age of twenty-one.
+Section 20. That § 34-46-2.2 be AMENDED:
+34-46-2.2. Except as otherwise provided in this section, a merchant shall
+conspicuously post a notice, on the merchant's premises, stating in text at least one inch
+in height, that no person under the age of twenty-one may be sold nicotine products, as
+defined in section 2 of this Act.
+For purposes of this section, the notice may be displayed electronically on a
+vending machine.
+Adjacent to the sign, the licensee shall display a valid license issued under this
+chapter. A vending machine constitutes the point of sale for nicotine products sold from
+the vending machine.
+SB221 ENROLLED
+
+26.979.18 10 221
+Section 21. That § 34-46-3 be AMENDED:
+34-46-3. Each county state's attorney or a local law enforcement officer
+designated by the state's attorney shall annually conduct unannounced, random
+inspections at various locations where nicotine products, as defined in section 2 of this
+Act, are sold or distributed to ensure compliance with this chapter. Persons under the age
+of twenty-one may be enlisted to test compliance with this chapter. Such persons may be
+used to test compliance with this chapter only if the testing is conducted under the
+supervision of the county state's attorney or a local law enforcement officer designated by
+the state's attorney and written parental consent has been provided. Any other use of
+persons under the age of twenty-one to test compliance with this chapter is unlawful and
+the persons responsible for such use are subject to the penalties prescribed in § 34-46-5.
+Any evidence of a violation of this chapter or sections 2 to 18, inclusive, of this Act,
+must be submitted to the secretary of the Department of Revenue.
+Section 22. That § 34-46-21 be AMENDED:
+34-46-21. No person may sell a nicotine product, as defined in section 2 of this
+Act, other than in an unopened package originating with the manufacturer and depicting
+the warning labels required by federal law.
+A person who violates this section is subject to a fine of two hundred fifty dollars,
+imposed by the Department of Revenue. Each violation is subject to a fine.
+Section 23. This Act is effective beginning January 1, 2027.
+SB221 ENROLLED
+
+26.979.18 11 221
+An Act to regulate the retail sale of nicotine products, and to provide a penalty therefor.
+Received at this Executive Office
+I certify that the attached Act originated in this _____ day of _____________,
+the:
+2026 at ____________M.
+Senate as Bill No. 221
+By
+Secretary of the Senate for the Governor
+The attached Act is hereby
+approved this ________ day of
+President of the Senate ______________, A.D., 2026
+Attest:
+Governor
+Secretary of the Senate
+STATE OF SOUTH DAKOTA,
+ss.
+Office of the Secretary of State
+Speaker of the House
+Filed ____________, 2026
+Attest: at _________ o'clock __M.
+Chief Clerk of the House Secretary of State
+Senate Bill No. 221 By
+File No. ____ Asst. Secretary of State
+Chapter No. ______
+SB221 ENROLLED

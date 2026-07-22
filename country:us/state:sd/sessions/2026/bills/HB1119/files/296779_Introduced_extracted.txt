@@ -1,0 +1,48 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.413.9 101st Legislative Session 1119
+2026 South Dakota Legislature
+House Bill 1119
+Introduced by: Representative Walburg
+1 An Act to modify provisions regarding directors serving on a farm mutual insurer’s
+2 board.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 58-35-8 be AMENDED:
+5 58-35-8. The articles of incorporation required by § 58-35-7 shall must state:
+6 (1) The name of the corporation, which shall must include the words "farm mutual"
+7 and, if a county mutual insurer, the name of the county of its principal place of
+8 business;
+9 (2) If a county mutual insurer, the name of the counties in which the corporation
+10 intends to do business and the address of its principal business office;
+11 (3) If a state mutual insurer, the location of its principal business office, which must
+12 be located in this state;
+13 (4) The purposes for which the corporation is formed;
+14 (5) If Whetherit the corporation will transact business on a cash premium plan or an
+15 assessment plan;
+16 (6) The duration of its the corporation's existence, which may be perpetual;
+17 (7) The number of its the corporation's directors, which shall be not may not be less
+18 than five nor more than eleven; fifteen, and the names and addresses of the
+19 persons constituting the initial board of directors who shall serve until the first
+20 annual meeting of the members, and until their successors are elected and
+21 qualified; and
+22 (8) The names, residences, and addresses of the incorporators and the value of their
+23 property desired to be insured.
+24 Section 2. That § 58-35-26 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.413.9 2 1119
+1 58-35-26. No individual shall may serve as a director of a farm mutual insurer
+2 unless the individual is a member of the insurer or a member of one or more of the
+3 insurer’s affiliates.
+4 For the purposes of this section, “affiliate” means any entity that directly, or
+5 indirectly through one or more intermediaries, controls, is controlled by, or is under
+6 common control with, the insurer at issue.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

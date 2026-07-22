@@ -1,0 +1,32 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.209.9 101st Legislative Session 1152
+2026 South Dakota Legislature
+House Bill 1152
+Introduced by: Representative Greenfield
+1 An Act to require that the secretary of the Department of Education apply to the
+2 United States Department of Education for the authority to develop and
+3 implement an innovative assessment system.
+4 Section 1. The secretary of the South Dakota Department of Education shall apply to the
+5 United States Department of Education, pursuant to 20 U.S.C. § 6364 (January 1, 2026), for
+6 the authority to establish an innovative assessment system.
+7 Section 2. Upon receipt of a notice indicating that the secretary's application has been
+8 approved by the United States Department of Education, the secretary shall, in consultation
+9 with school administrators, teachers, parents, and other education experts, develop and
+10 implement an assessment model that:
+11 (1) Meets the requirements for an innovative assessment system established in 20
+12 U.S.C. § 6364 (January 1, 2026);
+13 (2) Corresponds with the requirements for an academic achievement assessment
+14 established in § 13-3-55;
+15 (3) Accurately measures student growth in reading and mathematics;
+16 (4) Aligns with evidence-based literacy practices founded upon the science of reading;
+17 and
+18 (5) Reinforces the mastery of foundational mathematics skills.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

@@ -1,0 +1,35 @@
+Title: 
+Official Title: 
+Source: versions - House Local Government Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.34.23 101st Legislative Session 3
+2026 South Dakota Legislature
+Senate Bill 3
+HOUSE LOCAL GOVERNMENT ENGROSSED
+Introduced by: Senator Rohl
+1 An Act to limit the types of residential improvements for which counties,
+2 municipalities, and townships may require a permit.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 11-10:
+5 Notwithstanding any authority granted to a county, municipality, or township to
+6 prescribe building codes or standards or to issue building permits, a county, municipality,
+7 or township may not require a building permit for the repair or substantially similar
+8 replacement of any of the following existing exterior parts of an owner-occupied residential
+9 structure:
+10 (1) Door, if the dimensions remain the same;
+11 (2) Downspout;
+12 (3) Fencing panel or post;
+13 (4) Gutter;
+14 (5) Siding, if nonstructural; and
+15 (6) Window, if the dimensions remain the same.
+16 Nothing in this section relieves a homeowner from compliance with any other
+17 applicable building code or ordinance.
+18 A county, municipality, or township may require building permits for repairs
+19 pursuant to this section or substantially similar replacements for exterior parts of any
+20 designated historical property as authorized under chapter 1-19B.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

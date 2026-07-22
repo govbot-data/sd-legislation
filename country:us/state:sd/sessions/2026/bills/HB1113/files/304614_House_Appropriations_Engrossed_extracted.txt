@@ -1,0 +1,52 @@
+Title: 
+Official Title: 
+Source: versions - House Appropriations Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.672.18 101st Legislative Session 1113
+2026 South Dakota Legislature
+House Bill 1113
+HOUSE APPROPRIATIONS ENGROSSED
+Introduced by: Representative Weisgram
+1 An Act to establish a manufactured housing downpayment assistance program.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 11-15-6 be AMENDED:
+4 11-15-6. The authority shall promulgate rules, pursuant to chapter 1-26,
+5 specifying the criteria and process for the application, approval, and disbursement of:
+6 (1) Loans and grants provided in accordance with §§ 11-15-1 to 11-15-5, inclusive,
+7 and § 11-15-7; and
+8 (2) Loans provided in accordance with § 11-15-8; and
+9 (3) Loans provided in accordance with section 2 of this Act.
+10 Section 2. That a NEW SECTION be added to chapter 11-15:
+11 The authority shall administer a manufactured housing downpayment assistance
+12 program, as a revolving loan fund, to assist eligible applicants with purchasing
+13 manufactured housing. Up to five million dollars from the South Dakota housing
+14 infrastructure fund may be loaned, on a revolving basis, for the purpose of this section.
+15 The authority may provide a loan for downpayment assistance, not exceeding ten
+16 thousand dollars, to each eligible applicant. An applicant is eligible for a loan under this
+17 section if:
+18 (1) The applicant has a household income not exceeding one hundred twenty percent
+19 of the state area median income; and
+20 (2) The applicant uses the loan to make a downpayment on the purchase of a
+21 manufactured home, as defined in § 34-34A-1.1, which:
+22 (a) Is located in this state;
+23 (b) Complies with all applicable provisions of the Manufactured Home
+24 Construction and Safety Standards, 24 C.F.R. Part 3280 (January 1, 2026);
+25 and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.672.18 2 1113
+1 (c) Complies with all applicable zoning requirements for a single-family
+2 residence, as provided in state and local law.
+3 Any loan provided under this section must be secured by a second lien on the
+4 home, at an interest rate of zero percent, which is due upon the sale of the home or
+5 satisfaction of the first lien securing the home.
+6 All moneys received by the authority in repayment of a loan issued pursuant to this
+7 section must be deposited in the South Dakota housing infrastructure fund and used for
+8 making new loans pursuant to this section.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

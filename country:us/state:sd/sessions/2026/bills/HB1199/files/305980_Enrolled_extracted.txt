@@ -1,0 +1,107 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.648.18 101st Legislative Session 1199
+2026 South Dakota Legislature
+House Bill 1199
+ENROLLED
+AN ACT
+ENTITLED An Act to address prior authorization and reporting requirements by
+utilization review organizations and health carriers.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+Section 1. That a NEW SECTION be added to chapter 58-17H:
+A utilization review organization or health carrier shall conduct an annual review
+and submit the findings in a report to the Division of Insurance, at the time and in the
+manner directed by the division.
+The report must contain the following information for the previous calendar year,
+aggregated for all health care services or items:
+(1) The number and percentage of urgent prior authorization requests that the
+utilization review organization or health carrier approved;
+(2) The number and percentage of urgent prior authorization requests that the
+utilization review organization or health carrier denied;
+(3) The number and percentage of nonurgent prior authorization requests that the
+utilization review organization or health carrier approved;
+(4) The number and percentage of nonurgent prior authorization requests that the
+utilization review organization or health carrier denied;
+(5) The average and median time that elapsed between the submission of a prior
+authorization request and a determination by the utilization review organization or
+health carrier; and
+(6) The average and median time that elapsed between the submission of an urgent
+prior authorization request and a determination by the utilization review
+organization or health carrier.
+The division shall publish the report required by this section, on the division's
+website, within sixty days after receiving the report.
+Section 2. That a NEW SECTION be added to chapter 58-17H:
+
+26.648.18 2 1199
+A utilization review organization or health carrier shall annually review each health
+care service for which a health benefit plan requires prior authorization and shall eliminate
+the prior authorization requirement for any health care service if prior authorization
+requests are routinely approved with such frequency as to demonstrate that the prior
+authorization requirement does not promote health care quality or reduce health care
+spending, to a degree that justifies the plan's administrative costs associated with the
+prior authorization requirement.
+Section 3. That a NEW SECTION be added to chapter 58-17H:
+A utilization review organization or health carrier shall submit an annual report to
+the Division of Insurance, at the time and in the manner requested by the division,
+regarding the review required in accordance with section 2 of this Act. The report must
+set forth:
+(1) The number of prior authorizations evaluated in accordance with the review;
+(2) The number of prior authorizations eliminated as a result of the review, and the
+reason for the elimination;
+(3) The list of prior authorizations that had at least eighty percent of all requests
+approved, during the preceding calendar year, for a specific health care service
+covered by the health benefit plan, but for which the prior authorization
+requirement was retained due to medical or scientific evidence that justified
+continuation of the requirement; and
+(4) The number of prior authorization requests that were submitted in the preceding
+calendar year for each eliminated prior authorization and the number of health care
+providers that had submitted a request for each eliminated prior authorization
+requirement.
+With respect to each health care service for which prior authorization was
+eliminated under section 2 of this Act, the report must provide data regarding any increase
+or decrease of ten percent or more, in the average number of claims submitted per health
+care provider, for that service, compared to the calendar year preceding the elimination.
+The division shall publish the report required by this section on the division's
+website within sixty days after receiving the report.
+Section 4. That a NEW SECTION be added to chapter 58-17H:
+HB1199 ENROLLED
+
+26.648.18 3 1199
+For purposes of sections 1 to 3 of this Act, inclusive, “health care services” do not
+include dental services, pharmaceutical services, or the provision of prescription drug
+products or supplies.
+HB1199 ENROLLED
+
+26.648.18 4 1199
+An Act to address prior authorization and reporting requirements by utilization review
+organizations and health carriers.
+Received at this Executive Office
+I certify that the attached Act originated in this _____ day of _____________,
+the:
+2026 at ____________M.
+House as Bill No. 1199
+By
+Chief Clerk of the House for the Governor
+The attached Act is hereby
+approved this ________ day of
+Speaker of the House ______________, A.D., 2026
+Attest:
+Governor
+Chief Clerk of the House
+STATE OF SOUTH DAKOTA,
+ss.
+Office of the Secretary of State
+President of the Senate
+Filed ____________, 2026
+Attest: at _________ o'clock __M.
+Secretary of the Senate Secretary of State
+House Bill No. 1199 By
+File No. ____ Asst. Secretary of State
+Chapter No. ______
+HB1199 ENROLLED

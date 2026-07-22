@@ -1,0 +1,103 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.46.12 101st Legislative Session 1321
+2026 South Dakota Legislature
+House Bill 1321
+Introduced by: Representative Randolph
+1 An Act to require that county treasurers calculate excise tax using the amount
+2 shown on a bill of sale for a used vehicle sold, leased, or transferred by a
+3 person other than a licensed motor vehicle dealer.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That § 32-5B-4 be AMENDED:
+6 32-5B-4. For the purposes of this chapter, the "purchase price" is means:
+7 (1) For a new motor vehicle sale or lease, the total consideration, whether received in
+8 money or otherwise. However, when, provided that if a motor vehicle is taken in
+9 trade as a credit or part payment on a the new motor vehicle, the credit or trade-
+10 in value allowed by the seller shall be is deducted from the total consideration for
+11 the new motor vehicle to establish the purchase price;
+12 (2) For a used motor vehicle sold or leased by a licensed motor vehicle dealer, the
+13 total consideration for the used motor vehicle, whether received in money or
+14 otherwise. However, when, provided that if a motor vehicle is taken in trade by the
+15 dealer as a credit or part payment on a the used motor vehicle, the credit or trade-
+16 in value allowed by the dealer shall be is deducted from the total consideration so
+17 that the net consideration is established;
+18 (3) For a used motor vehicle sold, leased, or transferred by any person other than a
+19 licensed motor vehicle dealer, the total consideration received in money or
+20 otherwise. However, when a motor vehicle is taken in trade as a credit or part
+21 payment on a used motor vehicle, the credit or trade-in value shall be deducted
+22 from the total consideration so that the net consideration is established. The
+23 purchaser and seller of the motor vehicle shall submit to the county treasurer a bill
+24 of sale, approved and supplied by the secretary. If a bill of sale is not submitted,
+25 the excise tax will be assessed on the retail value as stated in a nationally
+26 recognized dealers' guide as approved by the secretary of revenue. If the excise
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.46.12 2 1321
+1 tax is assessed on the retail value, the value of the motor vehicle taken in as credit
+2 on trade-in shall be the retail value as stated in the nationally recognized dealers'
+3 guide amount shown on the bill of sale, as set forth in section 2 of this Act;
+4 (4) For a new or used motor vehicle, as described in subdivision (1) or (2) of this
+5 section, which is acquired by gift or other transfer for no or nominal consideration,:
+6 (a) If a new motor vehicle, the manufacturers' suggested dealer list price for
+7 new motor vehicles and for; or
+8 (b) If a used motor vehicles vehicle, the retail value, as stated in a nationally
+9 recognized dealers' guide approved and furnished by the secretary of
+10 revenue;
+11 (5) For a motor vehicle manufactured by a person who registers it under the laws of
+12 this state, the amount expended for materials, labor, and other properly allocable
+13 costs of manufacture or, in the absence of actual expenditures for the manufacture
+14 of a part or all of the motor vehicle, the reasonable value of the completed motor
+15 vehicle;
+16 (6) For a rebuilt motor vehicle, upon its initial registration and titling, the total
+17 consideration for the salvage vehicle, whether received in money or otherwise, and
+18 the total consideration for any assemblies, subassemblies, parts, or component
+19 parts used;
+20 (7) For either a new or used motor vehicle or a used vehicle, as defined by described
+21 in § 32-5B-21, which is a closed lease, the total consideration, whether received in
+22 money or otherwise. Total consideration is all lease payments including cash,
+23 rebates, the net trade-in, extended warranties, administrative fees, acquisition
+24 fees, or any other fees assessed on the purchase of the vehicle. Total consideration,
+25 but does not include title fees, registration fees, motor vehicle excise tax paid
+26 pursuant to §§ 32-5B-1, 32-5B-1.1, and 32-5B-21 to 32-5B-24, inclusive, federal
+27 excise taxes attributable to the sale of the motor vehicle to the owner or to the
+28 lease of the motor vehicle by the owner, insurance, and refundable deposits; or
+29 (8) For either a new or used motor vehicle or a used vehicle, as defined by described
+30 in § 32-5B-21, which is leased, and the terms of the lease are either not certain at
+31 the time the lease contract is executed or the lease is open ended, the purchase
+32 price shall be is the total consideration, whether received in money or otherwise.
+33 Total consideration includes is the purchase price of the motor vehicle, plus cash,
+34 rebates, the net trade-in, extended warranties, administrative fees, acquisition
+35 fees, or any other fees assessed on the purchase of the vehicle. Total consideration,
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.46.12 3 1321
+1 but does not include title fees, registration fees, motor vehicle excise tax paid
+2 pursuant to §§ 32-5B-1, 32-5B-1.1, and 32-5B-21 to 32-5B-24, inclusive, federal
+3 excise taxes attributable to the sale of the motor vehicle to the owner or to the
+4 lease of the motor vehicle by the owner, insurance, and refundable deposits.
+5 Section 2. That a NEW SECTION be added to chapter 32-5B:
+6 At the time an owner sells, leases, or transfers a used vehicle as described in
+7 subdivision 32-5B-4(3), the owner must provide to the purchaser a bill of sale, in a form
+8 approved by the secretary, which states the total consideration received, in money or
+9 otherwise. The purchaser shall submit the bill of sale to the county treasurer within forty-
+10 five days after the date of the sale, lease, or transfer.
+11 The excise tax imposed pursuant to § 32-5B-1 is assessed on:
+12 (1) The amount shown on the bill of sale, provided that if a motor vehicle is taken in
+13 trade as a credit or part payment on the used vehicle, the credit or trade-in value
+14 is deducted from the total consideration; or
+15 (2) If a bill of sale is not submitted, or if the used vehicle is transferred without
+16 consideration and is not exempt pursuant to § 6 32-5B-2, the retail value, as stated
+17 in a nationally recognized dealers' guide approved by the secretary of revenue,
+18 provided that if a motor vehicle is taken in trade as a credit or part payment on
+19 the used vehicle, the retail value of the motor vehicle taken in trade is deducted
+20 from the total consideration.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

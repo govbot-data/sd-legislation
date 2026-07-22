@@ -1,0 +1,82 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.773.15 101st Legislative Session 1296
+2026 South Dakota Legislature
+House Bill 1296
+Introduced by: Representative Roby
+1 An Act to permit a court to require that a defendant participate in global position
+2 monitoring as a condition of release for certain offenses.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 23A-43:
+5 If a defendant is charged with an offense that constitutes domestic abuse, as
+6 defined in § 25-10-1, the committing magistrate or court must, either in lieu of or in
+7 addition to any other method or condition of release described in this chapter, require the
+8 defendant to do the following as a condition of release:
+9 (1) Wear a global positioning system device that:
+10 (a) Actively monitors and reports the defendant's real-time location twenty-
+11 four hours a day; and
+12 (b) Immediately alerts law enforcement if the device enters a location that the
+13 defendant has been ordered to refrain from going to or near as a condition
+14 of release, or pursuant to a protection order or temporary protection order
+15 issued under chapter 25-10;
+16 (2) Pay all costs associated with operating the global positioning system device; and
+17 (3) If an alleged victim of the offense consents after receiving the information
+18 described in section 3 of this Act, pay all costs associated with providing the victim
+19 with a cellular device application or an electronic receptor device that:
+20 (a) Is capable of receiving global positioning system information from the global
+21 positioning system device worn by the defendant;
+22 (b) Notifies the victim if the defendant is at or near a location that the defendant
+23 has been ordered to refrain from going to or near as a condition of release,
+24 or pursuant to a protection order or temporary protection order issued
+25 under chapter 25-10; and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.773.15 2 1296
+1 (c) Notifies the victim if the defendant is within a prescribed proximity of the
+2 victim's cellular device or electronic receptor device.
+3 Section 2. That a NEW SECTION be added to chapter 23A-43:
+4 Before imposing the use of a global positioning system device pursuant to section
+5 1 of this Act, the committing magistrate or court shall afford any alleged victim an
+6 opportunity to provide a list of areas from which the victim would like the defendant
+7 excluded. The committing magistrate or court shall consider a victim's request in
+8 determining the locations the defendant is ordered to refrain from going to or near as a
+9 condition of release.
+10 Section 3. That a NEW SECTION be added to chapter 23A-43:
+11 Before imposing the use of a global positioning system device pursuant to section
+12 1 of this Act, the committing magistrate or court must provide any alleged victim
+13 information regarding:
+14 (1) The victim's right to participate or refuse to participate in global positioning system
+15 monitoring pursuant to subdivision (3) of section 1 of this Act and the procedure
+16 for requesting that the court terminate the victim's participation;
+17 (2) The manner in which the global positioning system monitoring technology
+18 functions, the risks and limitations of the technology, and the extent to which the
+19 technology tracks and records the victim's location and movements;
+20 (3) Any sanctions that the committing magistrate or court may impose on the
+21 defendant for violating a condition of release;
+22 (4) The procedure that the victim is to follow, and support services available to assist
+23 the victim, if the defendant violates a condition of release or if the global positioning
+24 system monitoring technology fails;
+25 (5) Community services available to assist the victim in obtaining shelter, counseling,
+26 education, child care, legal representation, and other assistance available to
+27 address the consequences of domestic abuse;
+28 (6) An appropriate individual employed by a local law enforcement agency whom the
+29 victim may call to request immediate assistance, if the defendant is at or near a
+30 location that the defendant has been ordered to refrain from going to or near as a
+31 condition of release, or pursuant to a protection order or temporary protection
+32 order issued under chapter 25-10; and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.773.15 3 1296
+1 (7) The fact that the victim's communications with the magistrate concerning global
+2 positioning system monitoring and any restrictions to be imposed on the
+3 defendant's movements are not confidential.
+Underscores indicate new language.
+Overstrikes indicate deleted language.

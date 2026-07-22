@@ -1,0 +1,135 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26.549.15 101st Legislative Session 60
+2026 South Dakota Legislature
+Senate Bill 60
+Introduced by: Senator Crabtree
+1 An Act to restrict ownership of certain real property near military installations by
+2 certain prohibited entities and to provide for enforcement.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to a NEW CHAPTER in title 43:
+5 Terms used in this chapter mean:
+6 (1) "Military installation," any federally or state owned, leased, or operated base,
+7 building, camp, post, reservation, or other facility to which active duty or reserve
+8 members of the armed forces or civilian employees are assigned pursuant to orders
+9 issued by the United States Department of Defense or the South Dakota National
+10 Guard;
+11 (2) "Real property interest," any direct or indirect legal or equitable stake in real
+12 property as evidenced by a contract for deed, deed, easement, last will and
+13 testament, lease, option, purchase agreement, trust, or other instrument; and
+14 (3) "Restricted zone," an area within a ten-mile radius, measured in a straight line,
+15 from any point on the boundary of a military installation.
+16 Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 43:
+17 After the expiration of any applicable divestment period provided in section 3 of
+18 this Act, a prohibited entity, as defined in § 43-2A-1, may not:
+19 (1) Hold or obtain any real property interest located, in whole or in part, within a
+20 restricted zone; or
+21 (2) Directly or indirectly control, finance, or hold a legal or equitable interest in any
+22 entity that holds a real property interest in a restricted zone.
+23 Section 3. That a NEW SECTION be added to a NEW CHAPTER in title 43:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.549.15 2 60
+1 A prohibited entity, as defined in § 43-2A-1, which acquires a real property interest
+2 in a restricted zone:
+3 (1) Through descent or devise, must dispose of the interest within three years of
+4 acquiring the interest; or
+5 (2) By any means other than descent or devise, must dispose of the interest within
+6 two years of the date the interest was initially acquired in violation of this chapter.
+7 Section 4. That a NEW SECTION be added to a NEW CHAPTER in title 43:
+8 For any transfer of a real property interest in a restricted zone, a transferee shall
+9 execute an affidavit, under penalty of perjury, declaring that, as of the date of the transfer,
+10 the transferee's acquisition of the interest does not violate this chapter. The affidavit must
+11 be recorded in the office of the register of deeds of the county in which the interest is
+12 located.
+13 The transferee's failure to execute an affidavit under this section does not:
+14 (1) Affect the marketability or insurability of the title to the interest; or
+15 (2) Subject a closing agent, real estate broker or salesperson, or title insurance
+16 company to civil or criminal liability, unless the person has actual knowledge that
+17 the transaction is in violation of this chapter.
+18 The electronic recording commission shall, by rule promulgated pursuant to
+19 chapter 1-26, establish a standard form for the affidavit required by this section.
+20 Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 43:
+21 The attorney general shall investigate any alleged violation of this chapter.
+22 Upon commencing an enforcement action pursuant to section 6 of this Act, the
+23 attorney general may, in addition to any authority granted under §§ 15-6-28.2 to 15-6-
+24 28.4, inclusive, subpoena from any foreign entity, foreign government, foreign person,
+25 prohibited entity, or resident, as those terms are defined in § 43-2A-1, any:
+26 (1) Contract, purchase agreement, or other transaction document related to a real
+27 property interest in a restricted zone;
+28 (2) Deed or title to the interest;
+29 (3) Documentation concerning the financing or ownership of the interest;
+30 (4) Documentation identifying any party to a transaction related to the interest; and
+31 (5) Any other documentation or information necessary to investigate or substantiate
+32 an alleged violation of this chapter.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.549.15 3 60
+1 Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 43:
+2 The attorney general shall enforce the provisions of this chapter. Any real property
+3 interest owned in violation of this chapter must be forfeited to the state or terminated, as
+4 applicable.
+5 Upon substantiation of an allegation that a prohibited entity holds an interest in a
+6 restricted zone in violation of this chapter, the attorney general shall commence an action,
+7 in the circuit court for the county in which the real property is located, for forfeiture or
+8 termination of the interest.
+9 The court may not order forfeiture or termination of the interest unless the action
+10 is brought within three years after evidence of the violation is referred to the attorney
+11 general.
+12 If the court finds that the interest is held in violation of this chapter, the court
+13 must:
+14 (1) Enter a judgment declaring the prohibited entity's interest void as of the date of
+15 the judgment; and
+16 (2) Order that the interest be forfeited or terminated, as applicable;
+17 If the court orders forfeiture of the interest, the court must enter a judgment
+18 directing the attorney general to sell the property and specifying that the sale is for the
+19 benefit of the person that held the interest immediately before entry of the judgment,
+20 subject to the distribution of proceeds pursuant to section 7 of this Act.
+21 Upon commencing an action pursuant to this section, the attorney general shall
+22 cause a notice of lis pendens to be recorded with the register of deeds for the county in
+23 which the interest is located.
+24 Section 7. That a NEW SECTION be added to a NEW CHAPTER in title 43:
+25 Proceeds from the sale of a real property interest ordered pursuant to section 6 of
+26 this Act must be distributed in the following order:
+27 (1) Payment of the costs of the sale, including all approved fees and expenses, and
+28 any taxes and assessments due;
+29 (2) Payment, in an amount approved by the court, to the attorney general for
+30 reimbursement of investigation and litigation costs and expenses;
+31 (3) Payment to bona fide lienholders, in order of priority, except for any lien remaining
+32 against the real property under the terms of the sale; and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+26.549.15 4 60
+1 (4) Payment of any remaining proceeds to the person that held the interest
+2 immediately before entry of judgment.
+3 Nothing in this section creates a cause of action against the state or limits the
+4 discretion of the attorney general to decline to bring an action under this chapter.
+5 Section 8. That a NEW SECTION be added to a NEW CHAPTER in title 43:
+6 Except as expressly provided in this chapter, a person that is not a prohibited entity
+7 does not have any duty to determine or inquire whether another person is a prohibited
+8 entity or is otherwise subject to this chapter.
+9 A person that is not a prohibited entity may not be held liable under this chapter
+10 for failing to determine or inquire whether another person is a prohibited entity.
+11 Section 9. That a NEW SECTION be added to a NEW CHAPTER in title 43:
+12 The attorney general shall promulgate rules, pursuant to chapter 1-26, to identify
+13 restricted zones and provide maps or other public notice of the restricted zones.
+14 Section 10. That a NEW SECTION be added to a NEW CHAPTER in title 43:
+15 This chapter does not apply to:
+16 (1) Any real property interest held by a publicly traded company in the United States,
+17 which was acquired before July 1, 2026;
+18 (2) The exchange of a real property interest approved by the governing body of a
+19 county, municipality, or other political subdivision of this state; or
+20 (3) Any real property interest held by a prohibited entity solely for the purpose of
+21 securing indebtedness, if the prohibited entity does not take possession of, or
+22 obtain voting or managerial control over, the real property interest.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
